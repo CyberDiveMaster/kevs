@@ -1,0 +1,153 @@
+:root {
+  color-scheme: light dark;
+}
+
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  margin: 0;
+  padding: 0 1rem 1rem;
+}
+
+header {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  padding: 1rem 0 0.5rem;
+}
+
+header h1 {
+  font-size: 1.25rem;
+  margin: 0;
+}
+
+#status {
+  font-size: 0.85rem;
+  opacity: 0.7;
+}
+
+.toolbar {
+  margin-bottom: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+#filter-count {
+  font-size: 0.85rem;
+  opacity: 0.8;
+  margin-right: auto;
+}
+
+#export-csv {
+  padding: 0.4rem 0.8rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+#export-status {
+  font-size: 0.85rem;
+}
+
+#export-status.error {
+  color: #c0392b;
+}
+
+#kev-table {
+  height: 75vh;
+}
+
+.na-cell {
+  opacity: 0.5;
+}
+
+.catalog-link {
+  text-decoration: none;
+}
+
+.cvss-version-hint {
+  opacity: 0.5;
+  font-size: 0.8em;
+}
+
+.range-filter {
+  display: flex;
+  gap: 0.15rem;
+  align-items: center;
+}
+
+.range-filter input[type="text"] {
+  width: 100%;
+  min-width: 0;
+  font-size: 0.75rem;
+  padding: 0.1rem 0.25rem;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.range-clear {
+  flex: 0 0 auto;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.9rem;
+  line-height: 1;
+  padding: 0 0.2rem;
+  opacity: 0.6;
+}
+
+.range-clear:hover {
+  opacity: 1;
+}
+
+.multiselect-filter {
+  position: relative;
+  display: block;
+  width: 100%;
+}
+
+.multiselect-trigger {
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 0.75rem;
+  padding: 0.15rem 0.3rem;
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.multiselect-panel {
+  /* fixed (not absolute) + position set in JS from the trigger's
+     getBoundingClientRect() -- Tabulator's header row chain
+     (.tabulator / .tabulator-header / .tabulator-header-contents /
+     .tabulator-col) all set overflow:hidden, which would clip an
+     absolutely-positioned dropdown no matter which ancestor it's
+     positioned relative to. Fixed positioning escapes that clipping. */
+  position: fixed;
+  z-index: 20;
+  background: Canvas;
+  color: CanvasText;
+  border: 1px solid #888;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  padding: 0.3rem;
+  min-width: 140px;
+  max-height: 220px;
+  overflow-y: auto;
+}
+
+.multiselect-option {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.8rem;
+  font-weight: normal;
+  padding: 0.15rem 0.2rem;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.multiselect-option:hover {
+  background: rgba(128, 128, 128, 0.15);
+}

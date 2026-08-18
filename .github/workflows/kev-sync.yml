@@ -1,0 +1,61 @@
+name: Update KEV data
+
+on:
+  schedule:
+    # Every 3 hours -- comfortably ahead of CISA's own twice-daily
+    # (05:00 / 15:00 US Central) update cadence, and frequent enough to
+    # capture VulnCheck/KEVIntel's early-warning listings same-day.
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: kevs-update
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    # cve.org lookups for CVEs new to the cache are rate-limited (5/30s
+    # unauthenticated, 50/30s with a CVE Services API key) and capped per
+    # run via CVE_METADATA_MAX_PER_RUN -- a large initial backfill spreads
+    # across several scheduled runs rather than running in one. This is a
+    # safety net, not the expected steady-state duration.
+    timeout-minutes: 240
+    steps:
+      - name: Checkout kevs
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build KEV dataset
+        env:
+          VULNCHECK_API_KEY: ${{ secrets.VULNCHECK_API_KEY }}
+          KEVINTEL_API_KEY: ${{ secrets.KEVINTEL_API_KEY }}
+          # Optional -- unset until a CVE Services (CNA-sponsored) account
+          # exists. Leaving these empty just keeps cve.org lookups on the
+          # slower unauthenticated rate limit.
+          CVE_API_KEY: ${{ secrets.CVE_API_KEY }}
+          CVE_API_ORG: ${{ secrets.CVE_API_ORG }}
+          CVE_API_USER: ${{ secrets.CVE_API_USER }}
+        run: python scripts/build.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/kevs.json docs/data/meta.json data/cve_metadata_cache.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update KEV data"
+            git push
+          fi
