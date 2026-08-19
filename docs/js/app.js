@@ -30,12 +30,17 @@ function fullValueTooltip(e, cell) {
   return cell.getValue() || "";
 }
 
+// Date Published (cve.org) comes as a full ISO timestamp
+// ("2021-12-10T00:00:00.000Z"); Active Since is already date-only, built
+// from each catalog's own date-added field. Slicing both to the first 10
+// chars keeps the two date columns visually consistent -- a no-op for
+// values that are already just a date.
 function dateFormatter(cell) {
   const v = cell.getValue();
   if (v === null || v === undefined || v === "") {
     return '<span class="na-cell">-</span>';
   }
-  return escapeHtml(v);
+  return escapeHtml(String(v).slice(0, 10));
 }
 
 function withVersionHint(cell, formattedValue) {
