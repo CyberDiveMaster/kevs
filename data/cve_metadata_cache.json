@@ -31498,5 +31498,4576 @@
   "date_published": "2025-04-24T16:50:27.706Z",
   "product": "SAP NetWeaver (Visual Composer development server)",
   "vendor": "SAP_SE"
+ },
+ "CVE-2025-31918": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-23T12:44:01.823Z",
+  "product": "Simple Business Directory Pro",
+  "vendor": "quantumcloud"
+ },
+ "CVE-2025-32102": {
+  "cvss_score": 5,
+  "cvss_version": "3.1",
+  "date_published": "2025-04-15T00:00:00.000Z",
+  "product": "CrushFTP",
+  "vendor": "CrushFTP"
+ },
+ "CVE-2025-32257": {
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-04-04T15:59:30.490Z",
+  "product": "1 Click WordPress Migration",
+  "vendor": "1clickmigration"
+ },
+ "CVE-2025-32355": {
+  "cvss_score": 7.9,
+  "cvss_version": "4.0",
+  "date_published": "2026-02-17T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-32429": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-24T22:22:35.102Z",
+  "product": "xwiki-platform",
+  "vendor": "xwiki"
+ },
+ "CVE-2025-32432": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-04-25T15:04:06.272Z",
+  "product": "cms",
+  "vendor": "craftcms"
+ },
+ "CVE-2025-32433": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-04-16T21:34:37.457Z",
+  "product": "otp",
+  "vendor": "erlang"
+ },
+ "CVE-2025-32463": {
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-30T00:00:00.000Z",
+  "product": "Sudo",
+  "vendor": "Sudo project"
+ },
+ "CVE-2025-3248": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-04-07T14:22:38.980Z",
+  "product": "langflow",
+  "vendor": "langflow-ai"
+ },
+ "CVE-2025-32701": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-13T16:58:50.227Z",
+  "product": "Windows 10 Version 1507; Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 22H2; Windows 11 version 22H3; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows Server 2008 R2 Service Pack 1; Windows Server 2008 R2 Service Pack 1 (Server Core installation); Windows Server 2008 Service Pack 2; Windows Server 2008 Service Pack 2 (Server Core installation); Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2025-32706": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-13T16:58:51.645Z",
+  "product": "Windows 10 Version 1507; Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 22H2; Windows 11 version 22H3; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows Server 2008 R2 Service Pack 1; Windows Server 2008 R2 Service Pack 1 (Server Core installation); Windows Server 2008 Service Pack 2; Windows Server 2008 Service Pack 2 (Server Core installation); Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2025-32709": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-13T16:58:53.790Z",
+  "product": "Windows 10 Version 1507; Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 22H2; Windows 11 version 22H3; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows Server 2008 R2 Service Pack 1; Windows Server 2008 R2 Service Pack 1 (Server Core installation); Windows Server 2008 Service Pack 2; Windows Server 2008 Service Pack 2 (Server Core installation); Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2025-32756": {
+  "cvss_score": 9.6,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-13T14:46:44.208Z",
+  "product": "FortiNDR; FortiCamera; FortiRecorder; FortiVoice; FortiMail",
+  "vendor": "Fortinet"
+ },
+ "CVE-2025-32778": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-04-15T20:19:58.458Z",
+  "product": "web-check",
+  "vendor": "Lissy93"
+ },
+ "CVE-2025-3278": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-04-19T02:22:33.746Z",
+  "product": "UrbanGo Membership",
+  "vendor": "Edge-Themes"
+ },
+ "CVE-2025-32813": {
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-22T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-32814": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-22T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-32815": {
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-22T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-32818": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-04-23T19:24:53.043Z",
+  "product": "SonicOS",
+  "vendor": "SonicWall"
+ },
+ "CVE-2025-32819": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-07T17:18:23.274Z",
+  "product": "SMA100",
+  "vendor": "SonicWall"
+ },
+ "CVE-2025-32969": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-04-23T15:33:03.732Z",
+  "product": "xwiki-platform",
+  "vendor": "xwiki"
+ },
+ "CVE-2025-32970": {
+  "cvss_score": 6.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-04-30T14:54:52.008Z",
+  "product": "xwiki-platform",
+  "vendor": "xwiki"
+ },
+ "CVE-2025-32975": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-24T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-33053": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-10T17:02:31.840Z",
+  "product": "Windows 10 Version 1507; Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 22H2; Windows 11 version 22H3; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows Server 2008 R2 Service Pack 1; Windows Server 2008 R2 Service Pack 1 (Server Core installation); Windows Server 2008 Service Pack 2; Windows Server 2008 Service Pack 2 (Server Core installation); Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2025-33073": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-10T17:02:35.874Z",
+  "product": "Windows 10 Version 1507; Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 22H2; Windows 11 version 22H3; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows Server 2008 R2 Service Pack 1; Windows Server 2008 R2 Service Pack 1 (Server Core installation); Windows Server 2008 Service Pack 2; Windows Server 2008 Service Pack 2 (Server Core installation); Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2025-34021": {
+  "cvss_score": 7.8,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-20T18:37:00.916Z",
+  "product": "Targa IP OCR-ANPR Camera",
+  "vendor": "Selea"
+ },
+ "CVE-2025-34022": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-20T18:37:23.460Z",
+  "product": "Targa IP OCR-ANPR Camera",
+  "vendor": "Selea"
+ },
+ "CVE-2025-34023": {
+  "cvss_score": 8.5,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-20T18:37:45.496Z",
+  "product": "Karel IP Phone IP1211",
+  "vendor": "Karel"
+ },
+ "CVE-2025-34024": {
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-20T18:38:02.885Z",
+  "product": "Edimax EW-7438RPn Mini",
+  "vendor": "Edimax"
+ },
+ "CVE-2025-34026": {
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2025-05-21T22:04:58.832Z",
+  "product": "Concerto",
+  "vendor": "Versa"
+ },
+ "CVE-2025-34027": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2025-05-21T21:58:31.698Z",
+  "product": "Concerto",
+  "vendor": "Versa"
+ },
+ "CVE-2025-34028": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-04-22T16:32:23.446Z",
+  "product": "Command Center Innovation Release",
+  "vendor": "Commvault"
+ },
+ "CVE-2025-34029": {
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-20T18:38:15.689Z",
+  "product": "Edimax EW-7438RPn Mini",
+  "vendor": "Edimax"
+ },
+ "CVE-2025-34030": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-20T18:40:04.545Z",
+  "product": "sar2html",
+  "vendor": "sar2html"
+ },
+ "CVE-2025-34031": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-24T00:58:57.345Z",
+  "product": "Jmol Plugin",
+  "vendor": "Moodle"
+ },
+ "CVE-2025-34032": {
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-24T00:59:26.844Z",
+  "product": "Jmol Plugin",
+  "vendor": "Moodle"
+ },
+ "CVE-2025-34033": {
+  "cvss_score": 7.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-24T00:59:49.874Z",
+  "product": "Blue Angel Software Suite",
+  "vendor": "5VTechnologies"
+ },
+ "CVE-2025-34034": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-24T00:59:58.229Z",
+  "product": "Blue Angel Software Suite",
+  "vendor": "5VTechnologies"
+ },
+ "CVE-2025-34035": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-24T01:00:23.862Z",
+  "product": "EnShare IoT Gigabit Cloud Service",
+  "vendor": "EnGenius"
+ },
+ "CVE-2025-34036": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-24T01:00:52.579Z",
+  "product": "CCTV-DVR",
+  "vendor": "Shenzhen TVT"
+ },
+ "CVE-2025-34037": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-24T01:03:27.693Z",
+  "product": "E4200; E3200; E3000; E2500 v1/v2; E2100L v1; E2000; E1550; E1500 v1; E1200 v1; E1000 v1; E900 v1",
+  "vendor": "Linksys"
+ },
+ "CVE-2025-34038": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-24T01:06:35.820Z",
+  "product": "E-cology",
+  "vendor": "Weaver"
+ },
+ "CVE-2025-34039": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-24T01:07:05.619Z",
+  "product": "UFIDA NC",
+  "vendor": "Yonyou Co., Ltd."
+ },
+ "CVE-2025-34040": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-24T01:12:22.769Z",
+  "product": "Zhiyuan OA Web Application System",
+  "vendor": "Seeyon (Beijing Zhiyuan Internet Software Co., Ltd.)"
+ },
+ "CVE-2025-34041": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-24T01:39:59.289Z",
+  "product": "Endpoint Detection and Response Platform",
+  "vendor": "Sangfor Technologies Co., Ltd."
+ },
+ "CVE-2025-34042": {
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-26T15:51:13.423Z",
+  "product": "N100 IP Camera",
+  "vendor": "Beward"
+ },
+ "CVE-2025-34043": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-26T15:51:22.357Z",
+  "product": "Network Video Recorder (NVR)",
+  "vendor": "Vacron"
+ },
+ "CVE-2025-34044": {
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-26T15:51:30.957Z",
+  "product": "WIFISKY 7-layer flow control router",
+  "vendor": "Shenzhen Lingkong Technology"
+ },
+ "CVE-2025-34045": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-26T15:51:37.884Z",
+  "product": "WeiPHP",
+  "vendor": "Shenzhen Yuanmengyun Technology Co., Ltd."
+ },
+ "CVE-2025-34046": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-26T15:51:45.664Z",
+  "product": "E-Office",
+  "vendor": "Shanghai Fanwei Network Technology"
+ },
+ "CVE-2025-34047": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-26T16:10:37.548Z",
+  "product": "Leadsec SSL VPN",
+  "vendor": "Beijing NetGuard Nebula Information Technology Co., Ltd."
+ },
+ "CVE-2025-34048": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-26T15:52:04.200Z",
+  "product": "DSL-2730U; DSL-2750U; DSL-2750E",
+  "vendor": "D-Link"
+ },
+ "CVE-2025-34049": {
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-26T15:52:12.197Z",
+  "product": "ONT1GEW GPON",
+  "vendor": "OptiLink"
+ },
+ "CVE-2025-34051": {
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-01T14:44:22.913Z",
+  "product": "DVR devices",
+  "vendor": "AVTECH"
+ },
+ "CVE-2025-34054": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-01T14:46:00.832Z",
+  "product": "IP camera, DVR, and NVR Devices",
+  "vendor": "AVTECH"
+ },
+ "CVE-2025-34057": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-02T13:43:52.935Z",
+  "product": "NBR Router",
+  "vendor": "Ruijie"
+ },
+ "CVE-2025-34058": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-01T14:48:40.033Z",
+  "product": "Streaming Media Management Server",
+  "vendor": "Hangzhou Hikvision System Technology"
+ },
+ "CVE-2025-34059": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-01T14:48:51.722Z",
+  "product": "Smart Cloud Gateway Registration Management Platform",
+  "vendor": "Zhejiang Dahua Technology Co., Ltd."
+ },
+ "CVE-2025-34067": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-02T13:44:21.664Z",
+  "product": "Integrated Security Management Platform",
+  "vendor": "Hikvision"
+ },
+ "CVE-2025-34068": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-15T13:09:12.311Z",
+  "product": "WLAN AP WEA453e",
+  "vendor": "Samsung Electronics"
+ },
+ "CVE-2025-34117": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-16T21:02:57.281Z",
+  "product": "Router firmware",
+  "vendor": "Netcore Technology; Netis"
+ },
+ "CVE-2025-34129": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-16T21:26:32.446Z",
+  "product": "DVR Firmware",
+  "vendor": "Merit LILIN"
+ },
+ "CVE-2025-34130": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-16T21:26:42.449Z",
+  "product": "DVR Firmware",
+  "vendor": "Merit LILIN"
+ },
+ "CVE-2025-34132": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-16T21:26:51.852Z",
+  "product": "DVR Firmware",
+  "vendor": "Merit LILIN"
+ },
+ "CVE-2025-34141": {
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-22T12:35:57.509Z",
+  "product": "Reliance CG (legacy)",
+  "vendor": "ETQ"
+ },
+ "CVE-2025-34143": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-22T12:31:35.570Z",
+  "product": "Reliance CG (legacy)",
+  "vendor": "ETQ"
+ },
+ "CVE-2025-3415": {
+  "cvss_score": 4.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-17T10:13:14.717Z",
+  "product": "Grafana",
+  "vendor": "Grafana"
+ },
+ "CVE-2025-34152": {
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-07T16:44:59.919Z",
+  "product": "M300 Wi-Fi Repeater",
+  "vendor": "Shenzhen Aitemi E Commerce Co. Ltd."
+ },
+ "CVE-2025-34160": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-27T21:22:12.666Z",
+  "product": "AnyShare",
+  "vendor": "Shanghai Aishu Information Technology Co., Ltd."
+ },
+ "CVE-2025-34162": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-27T21:22:34.090Z",
+  "product": "Bian Que Feijiu Intelligent Emergency and Quality Control System",
+  "vendor": "Feijiu Medical Technology Co., Ltd."
+ },
+ "CVE-2025-34163": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-27T21:24:43.998Z",
+  "product": "Dongsheng Logistics Software",
+  "vendor": "Qingdao Dongsheng Weiye Software Co., Ltd."
+ },
+ "CVE-2025-34291": {
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2025-12-05T22:27:26.438Z",
+  "product": "Langflow",
+  "vendor": "Langflow"
+ },
+ "CVE-2025-34299": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-11-07T13:51:33.738Z",
+  "product": "Monsta FTP",
+  "vendor": "Monsta Limited of New Zealand"
+ },
+ "CVE-2025-34300": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-16T12:57:27.400Z",
+  "product": "Lighthouse Studio",
+  "vendor": "Sawtooth Software"
+ },
+ "CVE-2025-34469": {
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2025-12-31T21:36:19.022Z",
+  "product": "Cowrie",
+  "vendor": "Cowrie"
+ },
+ "CVE-2025-34509": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-17T18:20:57.441Z",
+  "product": "Experience Manager; Experience Platform",
+  "vendor": "Sitecore"
+ },
+ "CVE-2025-34510": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-17T18:46:04.239Z",
+  "product": "Experience Manager; Experience Platform; Experience Commerce",
+  "vendor": "Sitecore"
+ },
+ "CVE-2025-34511": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-17T19:05:10.466Z",
+  "product": "Powershell Extension",
+  "vendor": "Sitecore"
+ },
+ "CVE-2025-3515": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-17T09:21:39.083Z",
+  "product": "Drag and Drop Multiple File Upload for Contact Form 7",
+  "vendor": "glenwpcoder"
+ },
+ "CVE-2025-35939": {
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2025-05-07T22:41:29.728Z",
+  "product": "CMS",
+  "vendor": "Craft"
+ },
+ "CVE-2025-3605": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-09T06:42:34.761Z",
+  "product": "Login, Registration and Lost Password Blocks",
+  "vendor": "arkenon"
+ },
+ "CVE-2025-36604": {
+  "cvss_score": 7.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-04T14:00:05.295Z",
+  "product": "Unity",
+  "vendor": "Dell"
+ },
+ "CVE-2025-37164": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-16T16:30:34.524Z",
+  "product": "HPE OneView",
+  "vendor": "Hewlett Packard Enterprise (HPE)"
+ },
+ "CVE-2025-37899": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-20T15:21:34.782Z",
+  "product": "Linux",
+  "vendor": "Linux"
+ },
+ "CVE-2025-38352": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-22T08:04:25.277Z",
+  "product": "Linux",
+  "vendor": "Linux"
+ },
+ "CVE-2025-3928": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-04-25T15:56:28.112Z",
+  "product": "Web Server",
+  "vendor": "Commvault"
+ },
+ "CVE-2025-3929": {
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-04-29T11:36:33.507Z",
+  "product": "Email Server",
+  "vendor": "MDaemon"
+ },
+ "CVE-2025-3935": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-04-25T18:27:44.244Z",
+  "product": "ScreenConnect",
+  "vendor": "ConnectWise"
+ },
+ "CVE-2025-39475": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-09T15:54:15.232Z",
+  "product": "Arlo",
+  "vendor": "Frenify"
+ },
+ "CVE-2025-3987": {
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-04-27T21:31:06.521Z",
+  "product": "N150RT",
+  "vendor": "TOTOLINK"
+ },
+ "CVE-2025-4008": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-05-21T15:31:23.118Z",
+  "product": "MeteoBridge",
+  "vendor": "Smartbedded"
+ },
+ "CVE-2025-4009": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-05-28T07:00:32.896Z",
+  "product": "3080ipx-10G; MViP-II; cVIP; 7890IXG; CC Access Server; 5782XPS-APP-4E",
+  "vendor": "Evertz"
+ },
+ "CVE-2025-40536": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-28T07:30:09.503Z",
+  "product": "Web Help Desk",
+  "vendor": "SolarWinds"
+ },
+ "CVE-2025-40551": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-28T07:33:09.603Z",
+  "product": "Web Help Desk",
+  "vendor": "SolarWinds"
+ },
+ "CVE-2025-40554": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-28T07:36:50.177Z",
+  "product": "Web Help Desk",
+  "vendor": "SolarWinds"
+ },
+ "CVE-2025-40600": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-29T21:11:59.174Z",
+  "product": "SonicOS",
+  "vendor": "SonicWall"
+ },
+ "CVE-2025-40601": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-11-20T12:26:54.465Z",
+  "product": "SonicOS",
+  "vendor": "SonicWall"
+ },
+ "CVE-2025-40602": {
+  "cvss_score": 6.6,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-18T10:58:41.668Z",
+  "product": "SMA1000",
+  "vendor": "SonicWall"
+ },
+ "CVE-2025-4078": {
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-04-29T20:08:01.910Z",
+  "product": "SecGate 3600",
+  "vendor": "Wangshen"
+ },
+ "CVE-2025-4123": {
+  "cvss_score": 7.6,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-22T07:44:09.491Z",
+  "product": "Grafana",
+  "vendor": "Grafana"
+ },
+ "CVE-2025-41244": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-29T16:09:51.871Z",
+  "product": "VCF operations; VMware tools; VMware Aria Operations; VMware Cloud Foundation; VMware Telco Cloud Platform; VMware Telco Cloud Infrastructure",
+  "vendor": "VMware"
+ },
+ "CVE-2025-4131": {
+  "cvss_score": 6.4,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-02T01:43:34.850Z",
+  "product": "GmapsMania",
+  "vendor": "garubi"
+ },
+ "CVE-2025-41646": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-06T14:42:31.249Z",
+  "product": "Revolution Pi webstatus",
+  "vendor": "Kunbus"
+ },
+ "CVE-2025-4210": {
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2025-05-02T15:31:04.394Z",
+  "product": "Casdoor",
+  "vendor": "n/a"
+ },
+ "CVE-2025-42599": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.0",
+  "date_published": "2025-04-18T03:52:48.607Z",
+  "product": "Active! mail 6",
+  "vendor": "QUALITIA CO., LTD."
+ },
+ "CVE-2025-4270": {
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2025-05-05T07:31:07.013Z",
+  "product": "A720R",
+  "vendor": "TOTOLINK"
+ },
+ "CVE-2025-4281": {
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-05-05T16:00:09.603Z",
+  "product": "Sixun Shanghui Group Business Management System",
+  "vendor": "Shenzhen Sixun Software"
+ },
+ "CVE-2025-4283": {
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2025-05-05T18:31:04.418Z",
+  "product": "Stock Management System",
+  "vendor": "SourceCodester; oretnom23"
+ },
+ "CVE-2025-42957": {
+  "cvss_score": 9.9,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-12T02:09:53.111Z",
+  "product": "SAP S/4HANA (Private Cloud or On-Premise)",
+  "vendor": "SAP_SE"
+ },
+ "CVE-2025-42999": {
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-13T00:17:43.710Z",
+  "product": "SAP NetWeaver (Visual Composer development server)",
+  "vendor": "SAP_SE"
+ },
+ "CVE-2025-43200": {
+  "cvss_score": 4.2,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-16T21:36:25.578Z",
+  "product": "iOS and iPadOS; iPadOS; macOS; visionOS; watchOS",
+  "vendor": "Apple"
+ },
+ "CVE-2025-4322": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-20T05:30:48.147Z",
+  "product": "Motors - Car Dealer, Rental & Listing WordPress theme",
+  "vendor": "StylemixThemes"
+ },
+ "CVE-2025-43300": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-21T00:27:21.442Z",
+  "product": "iOS and iPadOS; iPadOS; macOS",
+  "vendor": "Apple"
+ },
+ "CVE-2025-43482": {
+  "cvss_score": 5.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-12T20:56:49.675Z",
+  "product": "macOS",
+  "vendor": "Apple"
+ },
+ "CVE-2025-43510": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-12T20:56:38.131Z",
+  "product": "iOS and iPadOS; macOS; tvOS; visionOS; watchOS",
+  "vendor": "Apple"
+ },
+ "CVE-2025-43512": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-12T20:56:51.767Z",
+  "product": "iOS and iPadOS; macOS",
+  "vendor": "Apple"
+ },
+ "CVE-2025-43517": {
+  "cvss_score": 3.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-12T20:56:19.259Z",
+  "product": "macOS",
+  "vendor": "Apple"
+ },
+ "CVE-2025-43520": {
+  "cvss_score": 5.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-12T20:56:25.542Z",
+  "product": "iOS and iPadOS; macOS; tvOS; visionOS; watchOS",
+  "vendor": "Apple"
+ },
+ "CVE-2025-43529": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-17T20:46:55.691Z",
+  "product": "Safari; iOS and iPadOS; macOS; tvOS; visionOS; watchOS",
+  "vendor": "Apple"
+ },
+ "CVE-2025-43532": {
+  "cvss_score": 2.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-12T20:56:45.545Z",
+  "product": "iOS and iPadOS; macOS; tvOS; visionOS; watchOS",
+  "vendor": "Apple"
+ },
+ "CVE-2025-43542": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-12T20:56:57.008Z",
+  "product": "iOS and iPadOS; macOS; visionOS",
+  "vendor": "Apple"
+ },
+ "CVE-2025-4396": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-13T03:21:29.625Z",
+  "product": "Relevanssi Premium; Relevanssi \u2013 A Better Search",
+  "vendor": "Relevanssi; comesio"
+ },
+ "CVE-2025-44136": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-29T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-44137": {
+  "cvss_score": 8.2,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-29T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-44177": {
+  "cvss_score": 8.2,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-09T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-4427": {
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-13T15:45:35.145Z",
+  "product": "Endpoint Manager Mobile",
+  "vendor": "Ivanti"
+ },
+ "CVE-2025-4428": {
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-13T15:46:55.176Z",
+  "product": "Endpoint Manager Mobile",
+  "vendor": "Ivanti"
+ },
+ "CVE-2025-44846": {
+  "cvss_score": 6.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-01T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-4581": {
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-09T04:14:22.942Z",
+  "product": "Portal; DXP",
+  "vendor": "Liferay"
+ },
+ "CVE-2025-45985": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-13T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-45988": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-13T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-4606": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-09T03:22:04.150Z",
+  "product": "Sala - Startup & SaaS WordPress Theme",
+  "vendor": "uxper"
+ },
+ "CVE-2025-46289": {
+  "cvss_score": 5.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-12T20:56:34.997Z",
+  "product": "macOS",
+  "vendor": "Apple"
+ },
+ "CVE-2025-4632": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-13T05:19:19.254Z",
+  "product": "MagicINFO 9 Server",
+  "vendor": "Samsung Electronics"
+ },
+ "CVE-2025-46554": {
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-04-30T18:27:53.677Z",
+  "product": "xwiki-platform",
+  "vendor": "xwiki"
+ },
+ "CVE-2025-4664": {
+  "cvss_score": 4.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-14T17:41:06.667Z",
+  "product": "Chrome",
+  "vendor": "Google"
+ },
+ "CVE-2025-47165": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-10T17:02:37.548Z",
+  "product": "Microsoft 365 Apps for Enterprise; Microsoft Excel 2016; Microsoft Office 2019; Microsoft Office LTSC 2021; Microsoft Office LTSC 2024; Microsoft Office LTSC for Mac 2021; Microsoft Office LTSC for Mac 2024; Office Online Server",
+  "vendor": "Microsoft"
+ },
+ "CVE-2025-47170": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-10T17:02:40.432Z",
+  "product": "Microsoft 365 Apps for Enterprise; Microsoft Office LTSC 2024; Microsoft Office LTSC for Mac 2024",
+  "vendor": "Microsoft"
+ },
+ "CVE-2025-47176": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-10T17:02:43.887Z",
+  "product": "Microsoft 365 Apps for Enterprise; Microsoft Office LTSC 2024",
+  "vendor": "Microsoft"
+ },
+ "CVE-2025-47188": {
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-07T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-47204": {
+  "cvss_score": 6.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-13T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-47445": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-14T11:37:49.467Z",
+  "product": "Eventin",
+  "vendor": "Arraytics"
+ },
+ "CVE-2025-47539": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-23T12:43:31.396Z",
+  "product": "Eventin",
+  "vendor": "Arraytics"
+ },
+ "CVE-2025-47558": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-23T12:43:30.469Z",
+  "product": "MapSVG",
+  "vendor": "RomanCode"
+ },
+ "CVE-2025-47601": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-07T04:37:52.987Z",
+  "product": "MaxiBlocks",
+  "vendor": "Christiaan Pieterse"
+ },
+ "CVE-2025-47696": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-31T03:48:03.893Z",
+  "product": "Blog Designer PRO",
+  "vendor": "solwin"
+ },
+ "CVE-2025-47729": {
+  "cvss_score": 1.9,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-08T00:00:00.000Z",
+  "product": "archiving backend",
+  "vendor": "TeleMessage"
+ },
+ "CVE-2025-47730": {
+  "cvss_score": 4.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-08T00:00:00.000Z",
+  "product": "archiving backend",
+  "vendor": "TeleMessage"
+ },
+ "CVE-2025-47812": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-10T00:00:00.000Z",
+  "product": "Wing FTP Server",
+  "vendor": "wftpserver"
+ },
+ "CVE-2025-47813": {
+  "cvss_score": 4.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-10T00:00:00.000Z",
+  "product": "Wing FTP Server",
+  "vendor": "wftpserver"
+ },
+ "CVE-2025-47827": {
+  "cvss_score": 4.6,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-05T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-47916": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-16T00:00:00.000Z",
+  "product": "Invision Power Board",
+  "vendor": "invisioncommunity"
+ },
+ "CVE-2025-48281": {
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-09T15:53:53.912Z",
+  "product": "MyStyle Custom Product Designer",
+  "vendor": "mystyleplatform"
+ },
+ "CVE-2025-48384": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-08T18:23:48.710Z",
+  "product": "git",
+  "vendor": "git"
+ },
+ "CVE-2025-48543": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-04T18:34:22.655Z",
+  "product": "Android",
+  "vendor": "Google"
+ },
+ "CVE-2025-48572": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-08T16:57:07.461Z",
+  "product": "Android",
+  "vendor": "Google"
+ },
+ "CVE-2025-48595": {
+  "cvss_score": 8.4,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-01T21:14:49.921Z",
+  "product": "Android",
+  "vendor": "Google"
+ },
+ "CVE-2025-48633": {
+  "cvss_score": 5.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-08T16:57:49.260Z",
+  "product": "Android",
+  "vendor": "Google"
+ },
+ "CVE-2025-48700": {
+  "cvss_score": 6.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-23T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-48703": {
+  "cvss_score": 9,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-19T00:00:00.000Z",
+  "product": "CentOS Web Panel",
+  "vendor": "centos-webpanel"
+ },
+ "CVE-2025-48827": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-27T00:00:00.000Z",
+  "product": "vBulletin",
+  "vendor": "vBulletin"
+ },
+ "CVE-2025-48828": {
+  "cvss_score": 9,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-27T00:00:00.000Z",
+  "product": "vBulletin",
+  "vendor": "vBulletin"
+ },
+ "CVE-2025-48925": {
+  "cvss_score": 4.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-28T00:00:00.000Z",
+  "product": "service",
+  "vendor": "TeleMessage"
+ },
+ "CVE-2025-48926": {
+  "cvss_score": 4.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-28T00:00:00.000Z",
+  "product": "service",
+  "vendor": "TeleMessage"
+ },
+ "CVE-2025-48927": {
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-28T00:00:00.000Z",
+  "product": "service",
+  "vendor": "TeleMessage"
+ },
+ "CVE-2025-48928": {
+  "cvss_score": 4,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-28T00:00:00.000Z",
+  "product": "service",
+  "vendor": "TeleMessage"
+ },
+ "CVE-2025-48929": {
+  "cvss_score": 4,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-28T00:00:00.000Z",
+  "product": "service",
+  "vendor": "TeleMessage"
+ },
+ "CVE-2025-48930": {
+  "cvss_score": 2.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-28T00:00:00.000Z",
+  "product": "service",
+  "vendor": "TeleMessage"
+ },
+ "CVE-2025-49113": {
+  "cvss_score": 9.9,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-02T00:00:00.000Z",
+  "product": "Webmail",
+  "vendor": "Roundcube"
+ },
+ "CVE-2025-49132": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-20T16:56:41.403Z",
+  "product": "panel",
+  "vendor": "pterodactyl"
+ },
+ "CVE-2025-49493": {
+  "cvss_score": 5.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-30T00:00:00.000Z",
+  "product": "CloudTest",
+  "vendor": "Akamai"
+ },
+ "CVE-2025-49533": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-08T21:32:12.973Z",
+  "product": "Adobe Experience Manager (MS)",
+  "vendor": "Adobe"
+ },
+ "CVE-2025-49596": {
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-13T20:11:40.453Z",
+  "product": "inspector",
+  "vendor": "modelcontextprotocol"
+ },
+ "CVE-2025-49619": {
+  "cvss_score": 8.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-07T00:00:00.000Z",
+  "product": "Skyvern",
+  "vendor": "Skyvern"
+ },
+ "CVE-2025-49704": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-08T16:58:05.908Z",
+  "product": "Microsoft SharePoint Enterprise Server 2016; Microsoft SharePoint Server 2019",
+  "vendor": "Microsoft"
+ },
+ "CVE-2025-49706": {
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-08T16:58:07.343Z",
+  "product": "Microsoft SharePoint Enterprise Server 2016; Microsoft SharePoint Server 2019; Microsoft SharePoint Server Subscription Edition",
+  "vendor": "Microsoft"
+ },
+ "CVE-2025-49844": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-03T19:27:23.609Z",
+  "product": "redis",
+  "vendor": "redis"
+ },
+ "CVE-2025-49867": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-04T11:17:59.003Z",
+  "product": "RealHomes",
+  "vendor": "InspiryThemes"
+ },
+ "CVE-2025-50031": {
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-14T10:34:05.698Z",
+  "product": "DB Backup",
+  "vendor": "syedamirhussain91"
+ },
+ "CVE-2025-5086": {
+  "cvss_score": 9,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-02T17:42:42.620Z",
+  "product": "DELMIA Apriso",
+  "vendor": "Dassault Syst\u00e8mes"
+ },
+ "CVE-2025-51482": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-22T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-51591": {
+  "cvss_score": 3.7,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-11T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-51683": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-01T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-52089": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-11T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-52207": {
+  "cvss_score": 9.9,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-27T00:00:00.000Z",
+  "product": "MikoPBX",
+  "vendor": "MIKO"
+ },
+ "CVE-2025-52472": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-10-06T14:53:46.654Z",
+  "product": "xwiki-platform",
+  "vendor": "xwiki"
+ },
+ "CVE-2025-52488": {
+  "cvss_score": 8.6,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-21T02:51:25.252Z",
+  "product": "Dnn.Platform",
+  "vendor": "dnnsoftware"
+ },
+ "CVE-2025-52572": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-24T20:10:18.861Z",
+  "product": "Hikka",
+  "vendor": "hikariatama"
+ },
+ "CVE-2025-52665": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-30T23:30:28.329Z",
+  "product": "UniFi Access Application",
+  "vendor": "Ubiquiti Inc"
+ },
+ "CVE-2025-52691": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-29T02:15:58.200Z",
+  "product": "SmarterMail",
+  "vendor": "SmarterTools"
+ },
+ "CVE-2025-5287": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-28T08:22:17.666Z",
+  "product": "Likes and Dislikes Plugin",
+  "vendor": "erumfaham"
+ },
+ "CVE-2025-52907": {
+  "cvss_score": 7.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-09-24T18:12:36.634Z",
+  "product": "X6000R",
+  "vendor": "TOTOLINK"
+ },
+ "CVE-2025-52970": {
+  "cvss_score": 7.7,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-12T18:59:25.817Z",
+  "product": "FortiWeb",
+  "vendor": "Fortinet"
+ },
+ "CVE-2025-53072": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-21T20:03:07.687Z",
+  "product": "Oracle Marketing",
+  "vendor": "Oracle Corporation"
+ },
+ "CVE-2025-53118": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-25T16:06:03.962Z",
+  "product": "Unified PAM",
+  "vendor": "Securden"
+ },
+ "CVE-2025-53324": {
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-11-06T15:54:05.737Z",
+  "product": "Gutenify",
+  "vendor": "CodeYatri"
+ },
+ "CVE-2025-53364": {
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-10T15:18:24.855Z",
+  "product": "parse-server",
+  "vendor": "parse-community"
+ },
+ "CVE-2025-5339": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-02T03:47:26.086Z",
+  "product": "Ads Pro Plugin - Multi-Purpose WordPress Advertising Manager",
+  "vendor": "scripteo"
+ },
+ "CVE-2025-53521": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-10-15T13:55:52.694Z",
+  "product": "BIG-IP",
+  "vendor": "F5"
+ },
+ "CVE-2025-53558": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-31T05:44:25.120Z",
+  "product": "ZXHN-F660T; ZXHN-F660A",
+  "vendor": "ZTE Japan. K.K."
+ },
+ "CVE-2025-53690": {
+  "cvss_score": 9,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-03T20:04:48.223Z",
+  "product": "Experience Manager (XM); Experience Platform (XP)",
+  "vendor": "Sitecore"
+ },
+ "CVE-2025-53770": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-20T01:06:33.607Z",
+  "product": "Microsoft SharePoint Enterprise Server 2016; Microsoft SharePoint Server 2019; Microsoft SharePoint Server Subscription Edition",
+  "vendor": "Microsoft"
+ },
+ "CVE-2025-53771": {
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-20T22:16:52.203Z",
+  "product": "Microsoft SharePoint Enterprise Server 2016; Microsoft SharePoint Server 2019; Microsoft SharePoint Server Subscription Edition",
+  "vendor": "Microsoft"
+ },
+ "CVE-2025-53772": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-12T17:09:50.503Z",
+  "product": "Web Deploy 4.0",
+  "vendor": "Microsoft"
+ },
+ "CVE-2025-53833": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-14T22:56:38.957Z",
+  "product": "larecipe",
+  "vendor": "saleem-hadad"
+ },
+ "CVE-2025-5394": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-15T03:43:23.137Z",
+  "product": "Alone \u2013 Charity Multipurpose Non-profit WordPress Theme",
+  "vendor": "Bearsthemes"
+ },
+ "CVE-2025-5397": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-31T06:42:54.832Z",
+  "product": "Noo JobMonster",
+  "vendor": "Unknown"
+ },
+ "CVE-2025-54068": {
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-17T18:16:56.099Z",
+  "product": "livewire",
+  "vendor": "livewire"
+ },
+ "CVE-2025-54123": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-10T18:41:46.370Z",
+  "product": "hoverfly",
+  "vendor": "SpectoLabs"
+ },
+ "CVE-2025-54125": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-05T23:30:38.963Z",
+  "product": "xwiki-platform",
+  "vendor": "xwiki"
+ },
+ "CVE-2025-5419": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-02T23:36:53.221Z",
+  "product": "Chrome",
+  "vendor": "Google"
+ },
+ "CVE-2025-54236": {
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-09T13:20:17.939Z",
+  "product": "Adobe Commerce",
+  "vendor": "Adobe"
+ },
+ "CVE-2025-54249": {
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-09T16:36:26.875Z",
+  "product": "Adobe Experience Manager",
+  "vendor": "Adobe"
+ },
+ "CVE-2025-54251": {
+  "cvss_score": 4.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-09T16:36:28.452Z",
+  "product": "Adobe Experience Manager",
+  "vendor": "Adobe"
+ },
+ "CVE-2025-54253": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-05T16:53:40.742Z",
+  "product": "Adobe Experience Manager",
+  "vendor": "Adobe"
+ },
+ "CVE-2025-54254": {
+  "cvss_score": 8.6,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-05T16:53:39.954Z",
+  "product": "Adobe Experience Manager",
+  "vendor": "Adobe"
+ },
+ "CVE-2025-54309": {
+  "cvss_score": 9,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-18T00:00:00.000Z",
+  "product": "CrushFTP",
+  "vendor": "CrushFTP"
+ },
+ "CVE-2025-54313": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-19T00:00:00.000Z",
+  "product": "eslint-config-prettier",
+  "vendor": "prettier"
+ },
+ "CVE-2025-54701": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-14T10:34:56.302Z",
+  "product": "Unicamp",
+  "vendor": "ThemeMove"
+ },
+ "CVE-2025-54726": {
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-20T08:02:51.388Z",
+  "product": "JS Archive List",
+  "vendor": "Miguel Useche"
+ },
+ "CVE-2025-54782": {
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-01T23:36:58.421Z",
+  "product": "nest",
+  "vendor": "nestjs"
+ },
+ "CVE-2025-54948": {
+  "cvss_score": 9.4,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-05T13:00:19.905Z",
+  "product": "Trend Micro Apex One",
+  "vendor": "Trend Micro, Inc."
+ },
+ "CVE-2025-54987": {
+  "cvss_score": 9.4,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-05T13:00:38.698Z",
+  "product": "Trend Micro Apex One",
+  "vendor": "Trend Micro, Inc."
+ },
+ "CVE-2025-5504": {
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-03T14:31:10.451Z",
+  "product": "X2000R",
+  "vendor": "TOTOLINK"
+ },
+ "CVE-2025-55161": {
+  "cvss_score": 8.6,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-11T22:28:30.152Z",
+  "product": "Stirling-PDF",
+  "vendor": "Stirling-Tools"
+ },
+ "CVE-2025-55177": {
+  "cvss_score": 5.4,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-29T15:50:28.578Z",
+  "product": "WhatsApp Desktop for Mac; WhatsApp Business for iOS; WhatsApp for iOS",
+  "vendor": "Facebook"
+ },
+ "CVE-2025-55182": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-03T15:40:56.894Z",
+  "product": "react-server-dom-webpack; react-server-dom-turbopack; react-server-dom-parcel",
+  "vendor": "Meta"
+ },
+ "CVE-2025-55184": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-11T20:05:01.328Z",
+  "product": "react-server-dom-webpack; react-server-dom-turbopack; react-server-dom-parcel",
+  "vendor": "Meta"
+ },
+ "CVE-2025-55190": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-04T22:37:52.811Z",
+  "product": "argo-cd",
+  "vendor": "argoproj"
+ },
+ "CVE-2025-55303": {
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-19T18:08:00.244Z",
+  "product": "astro",
+  "vendor": "withastro"
+ },
+ "CVE-2025-55346": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-14T09:49:52.293Z",
+  "product": null,
+  "vendor": null
+ },
+ "CVE-2025-55523": {
+  "cvss_score": 3.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-21T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-55583": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-28T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-5571": {
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-04T05:31:53.898Z",
+  "product": "DCS-932L",
+  "vendor": "D-Link"
+ },
+ "CVE-2025-55747": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-09-03T20:12:12.978Z",
+  "product": "xwiki-platform",
+  "vendor": "xwiki"
+ },
+ "CVE-2025-55748": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-09-03T20:19:45.501Z",
+  "product": "xwiki-platform",
+  "vendor": "xwiki"
+ },
+ "CVE-2025-55749": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-12-01T20:09:46.410Z",
+  "product": "xwiki-platform",
+  "vendor": "xwiki"
+ },
+ "CVE-2025-5605": {
+  "cvss_score": 4.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-24T10:09:59.591Z",
+  "product": "WSO2 Identity Server; WSO2 Enterprise Integrator; WSO2 Universal Gateway; WSO2 Traffic Manager; WSO2 API Manager; WSO2 API Control Plane; WSO2 Identity Server as Key Manager; WSO2 Open Banking AM; WSO2 Open Banking IAM; org.wso2.carbon:org.wso2.carbon.ui",
+  "vendor": "WSO2"
+ },
+ "CVE-2025-56132": {
+  "cvss_score": 7.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-30T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-56520": {
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-30T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-57296": {
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-19T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-5777": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-17T12:29:34.506Z",
+  "product": "ADC; Gateway",
+  "vendor": "NetScaler"
+ },
+ "CVE-2025-57788": {
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-20T00:00:00.000Z",
+  "product": "CommCell",
+  "vendor": "Commvault"
+ },
+ "CVE-2025-57819": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-28T16:45:18.749Z",
+  "product": "endpoint",
+  "vendor": "FreePBX"
+ },
+ "CVE-2025-58034": {
+  "cvss_score": 6.7,
+  "cvss_version": "3.1",
+  "date_published": "2025-11-18T17:01:13.513Z",
+  "product": "FortiWeb",
+  "vendor": "Fortinet"
+ },
+ "CVE-2025-58179": {
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-04T23:36:44.393Z",
+  "product": "astro",
+  "vendor": "withastro"
+ },
+ "CVE-2025-5821": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-23T06:43:35.611Z",
+  "product": "Case Theme User",
+  "vendor": "Case-Themes"
+ },
+ "CVE-2025-58360": {
+  "cvss_score": 8.2,
+  "cvss_version": "3.1",
+  "date_published": "2025-11-25T20:17:35.254Z",
+  "product": "geoserver",
+  "vendor": "geoserver"
+ },
+ "CVE-2025-58443": {
+  "cvss_score": 9.9,
+  "cvss_version": "4.0",
+  "date_published": "2025-09-06T20:04:25.442Z",
+  "product": "fogproject",
+  "vendor": "FOGProject"
+ },
+ "CVE-2025-59230": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-14T17:01:43.397Z",
+  "product": "Windows 10 Version 1507; Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 22H2; Windows 11 version 22H3; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows Server 2008 R2 Service Pack 1; Windows Server 2008 R2 Service Pack 1 (Server Core installation); Windows Server 2008 Service Pack 2; Windows Server 2008 Service Pack 2 (Server Core installation); Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2025-59287": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-14T17:01:47.629Z",
+  "product": "Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2025-59374": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-12-17T04:27:06.885Z",
+  "product": "live update",
+  "vendor": "ASUS"
+ },
+ "CVE-2025-5947": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-01T03:24:46.283Z",
+  "product": "Service Finder Bookings",
+  "vendor": "aonetheme"
+ },
+ "CVE-2025-59474": {
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-17T13:17:47.174Z",
+  "product": "Jenkins",
+  "vendor": "Jenkins Project"
+ },
+ "CVE-2025-59528": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-22T19:54:58.196Z",
+  "product": "Flowise",
+  "vendor": "FlowiseAI"
+ },
+ "CVE-2025-59689": {
+  "cvss_score": 6.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-19T00:00:00.000Z",
+  "product": "Email Security Gateway",
+  "vendor": "Libraesva"
+ },
+ "CVE-2025-59716": {
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-11-05T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-59718": {
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-09T17:20:11.783Z",
+  "product": "FortiSwitchManager; FortiOS; FortiProxy",
+  "vendor": "Fortinet"
+ },
+ "CVE-2025-59719": {
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-09T17:20:11.763Z",
+  "product": "FortiWeb",
+  "vendor": "Fortinet"
+ },
+ "CVE-2025-60021": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-16T08:39:23.318Z",
+  "product": "Apache bRPC",
+  "vendor": "Apache Software Foundation"
+ },
+ "CVE-2025-6019": {
+  "cvss_score": 7,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-19T11:55:57.380Z",
+  "product": "Red Hat Enterprise Linux 10; Red Hat Enterprise Linux 7 Extended Lifecycle Support; Red Hat Enterprise Linux 8; Red Hat Enterprise Linux 8.2 Advanced Update Support; Red Hat Enterprise Linux 8.4 Advanced Mission Critical Update Support; Red Hat Enterprise Linux 8.6 Advanced Mission Critical Update Support; Red Hat Enterprise Linux 8.6 Telecommunications Update Service; Red Hat Enterprise Linux 8.6 Update Services for SAP Solutions; Red Hat Enterprise Linux 8.8 Update Services for SAP Solutions; Red Hat Enterprise Linux 9; Red Hat Enterprise Linux 9.0 Update Services for SAP Solutions; Red Hat Enterprise Linux 9.2 Update Services for SAP Solutions; Red Hat Enterprise Linux 9.4 Extended Update Support",
+  "vendor": "Red Hat"
+ },
+ "CVE-2025-60710": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-11-11T17:59:25.479Z",
+  "product": "Windows 11 Version 24H2; Windows 11 Version 25H2; Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2025-61155": {
+  "cvss_score": 5.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-28T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-61666": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-10-02T21:15:47.047Z",
+  "product": "traccar",
+  "vendor": "traccar"
+ },
+ "CVE-2025-6174": {
+  "cvss_score": 6.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-23T06:00:09.900Z",
+  "product": "Qwizcards | online quizzes and flashcards",
+  "vendor": "Unknown"
+ },
+ "CVE-2025-61757": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-21T20:03:11.303Z",
+  "product": "Identity Manager",
+  "vendor": "Oracle Corporation"
+ },
+ "CVE-2025-61882": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-05T03:17:01.644Z",
+  "product": "Oracle Concurrent Processing",
+  "vendor": "Oracle Corporation"
+ },
+ "CVE-2025-61884": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-12T02:34:51.603Z",
+  "product": "Oracle Configurator",
+  "vendor": "Oracle Corporation"
+ },
+ "CVE-2025-61932": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-10-20T07:25:39.916Z",
+  "product": "Lanscope Endpoint Manager (On-Premises) (Client program (MR) and Detection agent (DA))",
+  "vendor": "MOTEX Inc."
+ },
+ "CVE-2025-6204": {
+  "cvss_score": 8,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-04T09:14:08.343Z",
+  "product": "DELMIA Apriso",
+  "vendor": "Dassault Syst\u00e8mes"
+ },
+ "CVE-2025-6205": {
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-04T09:14:42.308Z",
+  "product": "DELMIA Apriso",
+  "vendor": "Dassault Syst\u00e8mes"
+ },
+ "CVE-2025-6218": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.0",
+  "date_published": "2025-06-21T00:09:02.884Z",
+  "product": "WinRAR",
+  "vendor": "RARLAB"
+ },
+ "CVE-2025-62215": {
+  "cvss_score": 7,
+  "cvss_version": "3.1",
+  "date_published": "2025-11-11T17:59:48.205Z",
+  "product": "Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 22H3; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2025-62221": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-09T17:56:10.169Z",
+  "product": "Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 22H3; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2025-62481": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-21T20:03:18.956Z",
+  "product": "Oracle Marketing",
+  "vendor": "Oracle Corporation"
+ },
+ "CVE-2025-62593": {
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2025-11-26T22:28:28.577Z",
+  "product": "ray",
+  "vendor": "ray-project"
+ },
+ "CVE-2025-62631": {
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-09T17:18:47.955Z",
+  "product": "FortiOS",
+  "vendor": "Fortinet"
+ },
+ "CVE-2025-6264": {
+  "cvss_score": 5.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-20T02:01:33.993Z",
+  "product": "Velociraptor",
+  "vendor": "Rapid7"
+ },
+ "CVE-2025-63387": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-18T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-6388": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-03T08:23:49.620Z",
+  "product": "Spirit Framework",
+  "vendor": "Theme-Spirit"
+ },
+ "CVE-2025-6389": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-11-25T02:26:49.836Z",
+  "product": "Sneeit Framework",
+  "vendor": "Sneeit"
+ },
+ "CVE-2025-6403": {
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-21T10:00:13.244Z",
+  "product": "School Fees Payment System",
+  "vendor": "code-projects"
+ },
+ "CVE-2025-64095": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-28T21:46:11.267Z",
+  "product": "Dnn.Platform",
+  "vendor": "dnnsoftware"
+ },
+ "CVE-2025-64155": {
+  "cvss_score": 9.4,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-13T16:32:28.665Z",
+  "product": "FortiSIEM",
+  "vendor": "Fortinet"
+ },
+ "CVE-2025-64328": {
+  "cvss_score": 8.6,
+  "cvss_version": "4.0",
+  "date_published": "2025-11-07T03:32:20.670Z",
+  "product": "filestore",
+  "vendor": "FreePBX"
+ },
+ "CVE-2025-64375": {
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-18T07:22:16.373Z",
+  "product": "WP Social Ninja",
+  "vendor": "Mahmudul Hasan Arif"
+ },
+ "CVE-2025-64377": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-18T07:22:16.752Z",
+  "product": "ListingPro",
+  "vendor": "CridioStudio"
+ },
+ "CVE-2025-6440": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-24T07:23:28.109Z",
+  "product": "WooCommerce Designer Pro",
+  "vendor": "JMA Plugins"
+ },
+ "CVE-2025-64446": {
+  "cvss_score": 9.4,
+  "cvss_version": "3.1",
+  "date_published": "2025-11-14T15:50:52.778Z",
+  "product": "FortiWeb",
+  "vendor": "Fortinet"
+ },
+ "CVE-2025-64764": {
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-11-19T16:41:03.767Z",
+  "product": "astro",
+  "vendor": "withastro"
+ },
+ "CVE-2025-6485": {
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-22T17:00:16.977Z",
+  "product": "A3002R",
+  "vendor": "TOTOLINK"
+ },
+ "CVE-2025-6495": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-29T04:23:44.765Z",
+  "product": "Bricks",
+  "vendor": "Bricks Builder"
+ },
+ "CVE-2025-6543": {
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-25T12:49:57.896Z",
+  "product": "ADC; Gateway",
+  "vendor": "NetScaler"
+ },
+ "CVE-2025-6554": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-30T21:14:14.799Z",
+  "product": "Chrome",
+  "vendor": "Google"
+ },
+ "CVE-2025-6558": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-15T18:12:36.848Z",
+  "product": "Chrome",
+  "vendor": "Google"
+ },
+ "CVE-2025-66376": {
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-05T00:00:00.000Z",
+  "product": "Collaboration",
+  "vendor": "Zimbra"
+ },
+ "CVE-2025-66644": {
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-05T00:00:00.000Z",
+  "product": "ArrayOS AG",
+  "vendor": "Array Networks"
+ },
+ "CVE-2025-66744": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-09T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-67038": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-11T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-6715": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-13T06:00:02.587Z",
+  "product": "LatePoint",
+  "vendor": "Unknown"
+ },
+ "CVE-2025-67303": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-05T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-67945": {
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-22T16:51:54.311Z",
+  "product": "MailerLite \u2013 WooCommerce integration",
+  "vendor": "MailerLite"
+ },
+ "CVE-2025-67953": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-22T16:51:55.517Z",
+  "product": "Booking Activities",
+  "vendor": "Booking Activities Team"
+ },
+ "CVE-2025-68043": {
+  "cvss_score": 7.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-20T15:46:36.994Z",
+  "product": "LottieFiles",
+  "vendor": "LottieFiles"
+ },
+ "CVE-2025-68461": {
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-18T05:00:54.423Z",
+  "product": "Webmail",
+  "vendor": "Roundcube"
+ },
+ "CVE-2025-68493": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-11T13:05:36.894Z",
+  "product": "Apache Struts",
+  "vendor": "Apache Software Foundation"
+ },
+ "CVE-2025-6851": {
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-11T08:22:22.979Z",
+  "product": "Broken Link Notifier",
+  "vendor": "apos37"
+ },
+ "CVE-2025-68613": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-19T22:23:47.777Z",
+  "product": "n8n",
+  "vendor": "n8n-io"
+ },
+ "CVE-2025-68645": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-22T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-68686": {
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-10T15:39:12.777Z",
+  "product": "FortiOS",
+  "vendor": "Fortinet"
+ },
+ "CVE-2025-68947": {
+  "cvss_score": 5.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-01-13T21:19:55.561Z",
+  "product": "NSecKrnl",
+  "vendor": "NSecsoft"
+ },
+ "CVE-2025-69200": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-29T15:24:51.844Z",
+  "product": "phpMyFAQ",
+  "vendor": "thorsten"
+ },
+ "CVE-2025-69985": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-24T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-70795": {
+  "cvss_score": 5.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-17T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2025-7081": {
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-06T13:32:04.709Z",
+  "product": "F9K1122",
+  "vendor": "Belkin"
+ },
+ "CVE-2025-7083": {
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-06T15:32:05.292Z",
+  "product": "F9K1122",
+  "vendor": "Belkin"
+ },
+ "CVE-2025-70974": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-09T06:43:23.584Z",
+  "product": "Fastjson",
+  "vendor": "Alibaba"
+ },
+ "CVE-2025-71243": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-02-19T14:58:15.425Z",
+  "product": "Saisies pour formulaire",
+  "vendor": "SPIP"
+ },
+ "CVE-2025-71257": {
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2026-03-19T13:43:37.695Z",
+  "product": "FootPrints",
+  "vendor": "BMC Software, Inc."
+ },
+ "CVE-2025-71284": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-04-30T16:08:17.336Z",
+  "product": "Synway SMG Gateway Management Software",
+  "vendor": "Synway Information Engineering Co., Ltd."
+ },
+ "CVE-2025-71324": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-25T21:41:02.849Z",
+  "product": "Flowise",
+  "vendor": "Flowise"
+ },
+ "CVE-2025-71334": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-25T21:41:05.552Z",
+  "product": "Flowise",
+  "vendor": "Flowise"
+ },
+ "CVE-2025-7340": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-15T04:23:42.345Z",
+  "product": "HT Contact Form \u2013 Drag & Drop Form Builder for WordPress",
+  "vendor": "htplugins"
+ },
+ "CVE-2025-7407": {
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-10T13:32:05.867Z",
+  "product": "D6400",
+  "vendor": "Netgear"
+ },
+ "CVE-2025-7414": {
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-10T20:32:07.344Z",
+  "product": "O3V2",
+  "vendor": "Tenda"
+ },
+ "CVE-2025-7417": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-10T22:02:07.293Z",
+  "product": "O3V2",
+  "vendor": "Tenda"
+ },
+ "CVE-2025-7441": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-16T03:38:51.342Z",
+  "product": "StoryChief",
+  "vendor": "storychief"
+ },
+ "CVE-2025-7443": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-01T04:24:29.246Z",
+  "product": "BerqWP \u2013 Automated All-In-One Page Speed Optimization for Core Web Vitals, Cache, CDN, Images, CSS, and JavaScript",
+  "vendor": "berqwp"
+ },
+ "CVE-2025-7451": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-14T02:35:39.554Z",
+  "product": "iSherlock-maillog-4.5; iSherlock-smtp-4.5; iSherlock-maillog-5.5; iSherlock-smtp-5.5",
+  "vendor": "Hgiga"
+ },
+ "CVE-2025-7544": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-13T21:32:07.187Z",
+  "product": "AC1206",
+  "vendor": "Tenda"
+ },
+ "CVE-2025-7673": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-16T07:11:02.974Z",
+  "product": "VMG8825-T50K firmware",
+  "vendor": "Zyxel"
+ },
+ "CVE-2025-7771": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-06T09:35:00.684Z",
+  "product": "ThrottleStop",
+  "vendor": "TechPowerUp"
+ },
+ "CVE-2025-7775": {
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-26T12:56:53.794Z",
+  "product": "ADC; Gateway",
+  "vendor": "NetScaler"
+ },
+ "CVE-2025-7852": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-24T04:24:12.852Z",
+  "product": "WPBookit",
+  "vendor": "iqonicdesign"
+ },
+ "CVE-2025-8085": {
+  "cvss_score": 8.6,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-08T06:00:04.914Z",
+  "product": "Ditty",
+  "vendor": "Unknown"
+ },
+ "CVE-2025-8088": {
+  "cvss_score": 8.4,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-08T11:11:41.842Z",
+  "product": "WinRAR",
+  "vendor": "win.rar GmbH"
+ },
+ "CVE-2025-8110": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-12-10T13:23:46.777Z",
+  "product": "Gogs",
+  "vendor": "Gogs"
+ },
+ "CVE-2025-8266": {
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-28T08:32:15.139Z",
+  "product": "ChanCMS",
+  "vendor": "yanyutao0402"
+ },
+ "CVE-2025-8311": {
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2025-09-04T14:12:42.176Z",
+  "product": "dotCMS Cloud Services (dCS)",
+  "vendor": "dotCMS"
+ },
+ "CVE-2025-8489": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-31T06:42:55.486Z",
+  "product": "King Addons for Elementor \u2013 4,000+ ready Elementor sections, 650+ templates, 70+ FREE widgets for Elementor",
+  "vendor": "kingaddons"
+ },
+ "CVE-2025-8829": {
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-11T04:02:05.689Z",
+  "product": "RE6250; RE6300; RE6350; RE6500; RE7000; RE9000",
+  "vendor": "Linksys"
+ },
+ "CVE-2025-8868": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-29T11:29:50.463Z",
+  "product": "Chef Automate",
+  "vendor": "Progress Software"
+ },
+ "CVE-2025-8875": {
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-14T14:56:11.884Z",
+  "product": "N-central",
+  "vendor": "N-able"
+ },
+ "CVE-2025-8876": {
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-14T14:53:55.176Z",
+  "product": "N-central",
+  "vendor": "N-able"
+ },
+ "CVE-2025-8937": {
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-14T04:32:11.130Z",
+  "product": "N350R",
+  "vendor": "TOTOLINK"
+ },
+ "CVE-2025-8943": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-14T09:54:22.531Z",
+  "product": null,
+  "vendor": null
+ },
+ "CVE-2025-9242": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-09-17T07:29:23.738Z",
+  "product": "Fireware OS",
+  "vendor": "WatchGuard"
+ },
+ "CVE-2025-9316": {
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2025-11-12T15:27:25.206Z",
+  "product": "N-central",
+  "vendor": "N-able"
+ },
+ "CVE-2025-9377": {
+  "cvss_score": 8.6,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-29T17:30:33.700Z",
+  "product": "Archer C7(EU) V2; TL-WR841N/ND(MS) V9",
+  "vendor": "TP-Link Systems Inc."
+ },
+ "CVE-2025-9491": {
+  "cvss_score": 4.6,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-26T16:25:15.179Z",
+  "product": "Windows",
+  "vendor": "Microsoft"
+ },
+ "CVE-2025-9501": {
+  "cvss_score": 9,
+  "cvss_version": "3.1",
+  "date_published": "2025-11-17T06:00:02.110Z",
+  "product": "W3 Total Cache",
+  "vendor": "Unknown"
+ },
+ "CVE-2025-9528": {
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-27T13:02:08.736Z",
+  "product": "E1700",
+  "vendor": "Linksys"
+ },
+ "CVE-2025-9807": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-12T01:46:00.820Z",
+  "product": "The Events Calendar",
+  "vendor": "stellarwp"
+ },
+ "CVE-2025-9985": {
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-26T04:25:17.076Z",
+  "product": "Featured Image from URL (FIFU)",
+  "vendor": "marceljm"
+ },
+ "CVE-2026-0257": {
+  "cvss_score": 7.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-13T18:15:10.172Z",
+  "product": "Cloud NGFW; PAN-OS; Prisma Access",
+  "vendor": "Palo Alto Networks"
+ },
+ "CVE-2026-0300": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-06T18:57:39.876Z",
+  "product": "Cloud NGFW; PAN-OS; Prisma Access",
+  "vendor": "Palo Alto Networks"
+ },
+ "CVE-2026-0625": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-01-05T21:14:48.992Z",
+  "product": "DSL-2640B; DSL-2740R; DSL-2780B; DSL-526B; DSL-2640T; DSL-500; DSL-500G; DSL-502G; DIR-905L; DIR-600; DIR-608; DIR-610; DIR-611; DIR-615; DNS-320; DNS-325; DNS-345",
+  "vendor": "D-Link"
+ },
+ "CVE-2026-0740": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-07T04:25:58.604Z",
+  "product": "Ninja Forms - File Uploads",
+  "vendor": "SaturdayDrive"
+ },
+ "CVE-2026-0769": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.0",
+  "date_published": "2026-01-23T03:28:47.572Z",
+  "product": "Langflow",
+  "vendor": "Langflow"
+ },
+ "CVE-2026-0770": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.0",
+  "date_published": "2026-01-23T03:28:52.286Z",
+  "product": "Langflow",
+  "vendor": "Langflow"
+ },
+ "CVE-2026-0920": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-22T06:47:19.614Z",
+  "product": "LA-Studio Element Kit for Elementor",
+  "vendor": "choijun"
+ },
+ "CVE-2026-0953": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-10T05:26:28.745Z",
+  "product": "Tutor LMS Pro",
+  "vendor": "themeum"
+ },
+ "CVE-2026-10520": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-09T14:10:21.581Z",
+  "product": "Sentry",
+  "vendor": "ivanti"
+ },
+ "CVE-2026-10735": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-24T06:00:02.024Z",
+  "product": "smart-post-show-pro; Real Testimonials Pro; Product Slider for WooCommerce Pro",
+  "vendor": "Unknown"
+ },
+ "CVE-2026-10795": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-11T05:34:20.360Z",
+  "product": "UpdraftPlus: WP Backup & Migration Plugin",
+  "vendor": "davidanderson"
+ },
+ "CVE-2026-1125": {
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2026-01-18T16:02:08.755Z",
+  "product": "DIR-823X",
+  "vendor": "D-Link"
+ },
+ "CVE-2026-11645": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-08T23:27:31.298Z",
+  "product": "Chrome",
+  "vendor": "Google"
+ },
+ "CVE-2026-1207": {
+  "cvss_score": 5.4,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-03T14:35:33.721Z",
+  "product": "Django",
+  "vendor": "djangoproject"
+ },
+ "CVE-2026-12569": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-18T00:11:35.241Z",
+  "product": "Windchill PDMLink; FlexPLM",
+  "vendor": "PTC"
+ },
+ "CVE-2026-1277": {
+  "cvss_score": 4.7,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-18T04:35:45.102Z",
+  "product": "URL Shortify \u2013 Simple and Easy URL Shortener",
+  "vendor": "kaizencoders"
+ },
+ "CVE-2026-1281": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-29T21:31:17.041Z",
+  "product": "Endpoint Manager Mobile",
+  "vendor": "Ivanti"
+ },
+ "CVE-2026-1340": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-29T21:33:11.768Z",
+  "product": "Endpoint Manager Mobile",
+  "vendor": "Ivanti"
+ },
+ "CVE-2026-1357": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-11T05:30:11.054Z",
+  "product": "WPvivid \u2014 Backup, Migration & Staging",
+  "vendor": "wpvividplugins"
+ },
+ "CVE-2026-13731": {
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-01T03:43:34.273Z",
+  "product": "WPBot \u2013 AI ChatBot for Live Support, Lead Generation, AI Services",
+  "vendor": "quantumcloud"
+ },
+ "CVE-2026-1405": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-19T04:36:09.197Z",
+  "product": "Slider Future",
+  "vendor": "franchidesign"
+ },
+ "CVE-2026-14894": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-10T02:30:40.490Z",
+  "product": "Super Forms \u2013 Drag & Drop Form Builder",
+  "vendor": "WebRehab"
+ },
+ "CVE-2026-1492": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-03T04:33:20.922Z",
+  "product": "User Registration & Membership \u2013 Free & Paid Memberships, Subscriptions, Content Restriction, User Profile, Custom User Registration & Login Builder",
+  "vendor": "wpeverest"
+ },
+ "CVE-2026-15409": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-14T19:39:34.808Z",
+  "product": "SMA1000",
+  "vendor": "SonicWall"
+ },
+ "CVE-2026-15410": {
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-14T19:43:03.226Z",
+  "product": "SMA1000",
+  "vendor": "SonicWall"
+ },
+ "CVE-2026-15459": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-06T04:26:51.990Z",
+  "product": "WPMU DEV Dashboard",
+  "vendor": "wpmudev"
+ },
+ "CVE-2026-1557": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-26T01:24:14.199Z",
+  "product": "WP Responsive Images",
+  "vendor": "stuartbates"
+ },
+ "CVE-2026-1581": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-19T16:24:55.855Z",
+  "product": "wpForo Forum",
+  "vendor": "tomdever"
+ },
+ "CVE-2026-15826": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-15T06:38:09.559Z",
+  "product": "User Profile Builder \u2013 Beautiful User Registration Forms, User Profiles & User Role Editor",
+  "vendor": "cozmoslabs"
+ },
+ "CVE-2026-1603": {
+  "cvss_score": 8.6,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-10T15:09:35.459Z",
+  "product": "Endpoint Manager",
+  "vendor": "Ivanti"
+ },
+ "CVE-2026-16144": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-01T07:49:50.355Z",
+  "product": "Kali Forms \u2014 Contact Form & Drag-and-Drop Builder",
+  "vendor": "wpchill"
+ },
+ "CVE-2026-1623": {
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-01-29T20:32:08.374Z",
+  "product": "A7000R",
+  "vendor": "Totolink"
+ },
+ "CVE-2026-16232": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-07-22T13:53:09.830Z",
+  "product": "Quantum Security Management; Multi-Domain Security Management",
+  "vendor": "checkpoint"
+ },
+ "CVE-2026-16723": {
+  "cvss_score": 9,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-23T08:26:24.453Z",
+  "product": "Fastjson",
+  "vendor": "Alibaba"
+ },
+ "CVE-2026-16812": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2026-07-27T16:11:00.968Z",
+  "product": "VeloCloud Orchestrator On-Prem",
+  "vendor": "Arista Networks"
+ },
+ "CVE-2026-1731": {
+  "cvss_score": 9.9,
+  "cvss_version": "4.0",
+  "date_published": "2026-02-06T21:49:20.844Z",
+  "product": "Remote Support(RS) & Privileged Remote Access(PRA)",
+  "vendor": "BeyondTrust"
+ },
+ "CVE-2026-18109": {
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-14T02:25:46.296Z",
+  "product": "W3 Total Cache",
+  "vendor": "boldgrid"
+ },
+ "CVE-2026-18556": {
+  "cvss_score": 8.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-08-01T19:59:30.913Z",
+  "product": "N-central",
+  "vendor": "N-able"
+ },
+ "CVE-2026-18577": {
+  "cvss_score": 8.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-08-02T22:06:18.296Z",
+  "product": "N-central",
+  "vendor": "N-able"
+ },
+ "CVE-2026-1890": {
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-26T06:00:09.659Z",
+  "product": "LeadConnector",
+  "vendor": "Unknown"
+ },
+ "CVE-2026-1937": {
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-18T06:42:41.042Z",
+  "product": "YayMail \u2013 WooCommerce Email Customizer",
+  "vendor": "yaycommerce"
+ },
+ "CVE-2026-19598": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-15T17:25:26.723Z",
+  "product": "Pods \u2013 Custom Content Types and Fields",
+  "vendor": "sc0ttkclark"
+ },
+ "CVE-2026-1969": {
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-23T06:00:04.026Z",
+  "product": "trx_addons",
+  "vendor": "Unknown"
+ },
+ "CVE-2026-1994": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-19T06:49:43.503Z",
+  "product": "s2Member \u2013 Excellent for All Kinds of Memberships, Content Restriction Paywalls & Member Access Subscriptions",
+  "vendor": "clavaque"
+ },
+ "CVE-2026-20029": {
+  "cvss_score": 4.9,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-07T16:23:43.372Z",
+  "product": "Cisco Identity Services Engine Software",
+  "vendor": "Cisco"
+ },
+ "CVE-2026-20045": {
+  "cvss_score": 8.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-21T16:26:20.312Z",
+  "product": "Cisco Unified Communications Manager; Cisco Unified Communications Manager IM and Presence Service; Cisco Unity Connection",
+  "vendor": "Cisco"
+ },
+ "CVE-2026-20122": {
+  "cvss_score": 5.4,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-25T16:14:21.256Z",
+  "product": "Cisco Catalyst SD-WAN Manager",
+  "vendor": "Cisco"
+ },
+ "CVE-2026-20127": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-25T16:14:20.137Z",
+  "product": "Cisco Catalyst SD-WAN Manager",
+  "vendor": "Cisco"
+ },
+ "CVE-2026-20128": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-25T16:14:12.353Z",
+  "product": "Cisco Catalyst SD-WAN Manager",
+  "vendor": "Cisco"
+ },
+ "CVE-2026-20131": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-04T17:17:56.008Z",
+  "product": "Cisco Secure Firewall Management Center (FMC)",
+  "vendor": "Cisco"
+ },
+ "CVE-2026-20133": {
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-25T16:13:56.017Z",
+  "product": "Cisco Catalyst SD-WAN Manager",
+  "vendor": "Cisco"
+ },
+ "CVE-2026-20182": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-14T16:08:25.566Z",
+  "product": "Cisco Catalyst SD-WAN Controller; Cisco Catalyst SD-WAN Manager",
+  "vendor": "Cisco"
+ },
+ "CVE-2026-20230": {
+  "cvss_score": 8.6,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-03T16:09:45.961Z",
+  "product": "Cisco Unified Communications Manager",
+  "vendor": "Cisco"
+ },
+ "CVE-2026-20245": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-04T22:33:00.748Z",
+  "product": "Cisco Catalyst SD-WAN Controller; Cisco Catalyst SD-WAN Manager",
+  "vendor": "Cisco"
+ },
+ "CVE-2026-2025": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-04T06:00:08.044Z",
+  "product": "Mail Mint",
+  "vendor": "Unknown"
+ },
+ "CVE-2026-20253": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-10T17:16:21.242Z",
+  "product": "Splunk Enterprise",
+  "vendor": "Splunk"
+ },
+ "CVE-2026-20262": {
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-15T16:21:09.696Z",
+  "product": "Cisco Catalyst SD-WAN Manager",
+  "vendor": "Cisco"
+ },
+ "CVE-2026-20316": {
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-29T16:22:08.888Z",
+  "product": "Cisco Secure Firewall Management Center (FMC)",
+  "vendor": "Cisco"
+ },
+ "CVE-2026-20349": {
+  "cvss_score": 8.6,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-11T17:06:03.091Z",
+  "product": "Cisco Secure Firewall Adaptive Security Appliance (ASA) Software; Cisco Secure Firewall Threat Defense (FTD) Software",
+  "vendor": "Cisco"
+ },
+ "CVE-2026-20700": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-11T22:58:54.448Z",
+  "product": "iOS and iPadOS; macOS; tvOS; visionOS; watchOS",
+  "vendor": "Apple"
+ },
+ "CVE-2026-20805": {
+  "cvss_score": 5.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-13T17:56:08.339Z",
+  "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 23H2; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-20896": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-03T20:19:29.588Z",
+  "product": "Gitea Open Source Git Server",
+  "vendor": "Gitea"
+ },
+ "CVE-2026-20931": {
+  "cvss_score": 8,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-13T17:57:03.440Z",
+  "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 23H2; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows Server 2008 R2 Service Pack 1; Windows Server 2008 R2 Service Pack 1 (Server Core installation); Windows Server 2008 Service Pack 2; Windows Server 2008 Service Pack 2 (Server Core installation); Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-20963": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-13T17:56:49.798Z",
+  "product": "Microsoft SharePoint Enterprise Server 2016; Microsoft SharePoint Server 2019; Microsoft SharePoint Server Subscription Edition",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-21262": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-10T17:04:32.361Z",
+  "product": "Microsoft SQL Server 2016 Service Pack 3 (GDR); Microsoft SQL Server 2016 Service Pack 3 Azure Connect Feature Pack; Microsoft SQL Server 2017 (CU 31); Microsoft SQL Server 2017 (GDR); Microsoft SQL Server 2019 (CU 32); Microsoft SQL Server 2019 (GDR); Microsoft SQL Server 2022 (GDR); Microsoft SQL Server 2022 for x64-based Systems (CU 23); Microsoft SQL Server 2025 (CU 2); Microsoft SQL Server 2025 for x64-based Systems (GDR)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-21385": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-02T16:53:59.406Z",
+  "product": "Snapdragon",
+  "vendor": "Qualcomm, Inc."
+ },
+ "CVE-2026-21445": {
+  "cvss_score": 8.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-01-02T19:11:24.451Z",
+  "product": "langflow",
+  "vendor": "langflow-ai"
+ },
+ "CVE-2026-21509": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-26T17:06:35.512Z",
+  "product": "Microsoft 365 Apps for Enterprise; Microsoft Office 2016; Microsoft Office 2019; Microsoft Office LTSC 2021; Microsoft Office LTSC 2024",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-21510": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-10T17:51:32.210Z",
+  "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 22H3; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows 11 Version 26H1; Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-21513": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-10T17:51:26.733Z",
+  "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 22H3; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows 11 Version 26H1; Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-21514": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-10T17:51:34.153Z",
+  "product": "Microsoft 365 Apps for Enterprise; Microsoft Office LTSC 2021; Microsoft Office LTSC 2024; Microsoft Office LTSC for Mac 2021; Microsoft Office LTSC for Mac 2024",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-21519": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-10T17:51:13.956Z",
+  "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 22H3; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows 11 Version 26H1; Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-21525": {
+  "cvss_score": 6.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-10T17:51:34.755Z",
+  "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 22H3; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows 11 Version 26H1; Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-21533": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-10T17:51:26.211Z",
+  "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 22H3; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows 11 Version 26H1; Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-21643": {
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-06T08:24:43.877Z",
+  "product": "FortiClientEMS",
+  "vendor": "Fortinet"
+ },
+ "CVE-2026-21858": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-07T23:57:52.079Z",
+  "product": "n8n",
+  "vendor": "n8n-io"
+ },
+ "CVE-2026-21859": {
+  "cvss_score": 5.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-07T23:24:07.869Z",
+  "product": "mailpit",
+  "vendor": "axllent"
+ },
+ "CVE-2026-21891": {
+  "cvss_score": 9.4,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-08T14:00:14.578Z",
+  "product": "ZimaOS",
+  "vendor": "IceWhaleTech"
+ },
+ "CVE-2026-21902": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-02-25T16:59:10.672Z",
+  "product": "Junos OS Evolved",
+  "vendor": "Juniper Networks"
+ },
+ "CVE-2026-21962": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-20T21:56:32.665Z",
+  "product": "Oracle HTTP Server, Oracle Weblogic Server Proxy Plug-in",
+  "vendor": "Oracle Corporation"
+ },
+ "CVE-2026-22679": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-04-07T12:51:22.789Z",
+  "product": "E-cology",
+  "vendor": "Weaver Network Co., Ltd."
+ },
+ "CVE-2026-22719": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-25T19:18:59.269Z",
+  "product": "VMware Aria Operations; VMware Cloud Foundation Operations; Telco Cloud Platform; Telco Cloud Infrastructure",
+  "vendor": "VMware"
+ },
+ "CVE-2026-22769": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-17T19:19:34.178Z",
+  "product": "RecoverPoint for Virtual Machines",
+  "vendor": "Dell"
+ },
+ "CVE-2026-23541": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-19T08:26:48.368Z",
+  "product": "Mail Mint",
+  "vendor": "WPFunnels"
+ },
+ "CVE-2026-23550": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-14T08:44:25.503Z",
+  "product": "Modular DS",
+  "vendor": "Modular DS"
+ },
+ "CVE-2026-23744": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-16T20:10:37.458Z",
+  "product": "inspector",
+  "vendor": "MCPJam"
+ },
+ "CVE-2026-23760": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-01-22T14:35:17.235Z",
+  "product": "SmarterMail",
+  "vendor": "SmarterTools"
+ },
+ "CVE-2026-23800": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-16T20:40:13.232Z",
+  "product": "Modular DS",
+  "vendor": null
+ },
+ "CVE-2026-24061": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-21T06:42:17.134Z",
+  "product": "Inetutils",
+  "vendor": "GNU"
+ },
+ "CVE-2026-2441": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-13T18:27:48.355Z",
+  "product": "Chrome",
+  "vendor": "Google"
+ },
+ "CVE-2026-24423": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-01-23T16:53:34.951Z",
+  "product": "SmarterMail",
+  "vendor": "SmarterTools"
+ },
+ "CVE-2026-24477": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-01-26T23:22:27.793Z",
+  "product": "anything-llm",
+  "vendor": "Mintplex-Labs"
+ },
+ "CVE-2026-24858": {
+  "cvss_score": 9.4,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-27T19:18:23.591Z",
+  "product": "FortiWeb; FortiNAC-F; FortiOS; FortiAnalyzer; FortiProxy; FortiManager",
+  "vendor": "Fortinet"
+ },
+ "CVE-2026-25089": {
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-09T14:27:47.492Z",
+  "product": "FortiSandbox; FortiSandbox Cloud; FortiSandbox PaaS",
+  "vendor": "Fortinet"
+ },
+ "CVE-2026-25108": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-02-13T03:39:03.795Z",
+  "product": "FileZen",
+  "vendor": "Soliton Systems K.K."
+ },
+ "CVE-2026-25187": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-10T17:04:58.796Z",
+  "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 22H3; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-25253": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-01T22:34:17.590Z",
+  "product": "OpenClaw",
+  "vendor": "OpenClaw"
+ },
+ "CVE-2026-25306": {
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-25T16:14:39.348Z",
+  "product": "XStore Core",
+  "vendor": "8theme"
+ },
+ "CVE-2026-25455": {
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-25T16:14:50.367Z",
+  "product": "Product Slider for WooCommerce",
+  "vendor": "PickPlugins"
+ },
+ "CVE-2026-25815": {
+  "cvss_score": 3.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-05T21:14:09.241Z",
+  "product": "FortiOS",
+  "vendor": "Fortinet"
+ },
+ "CVE-2026-25895": {
+  "cvss_score": 9.5,
+  "cvss_version": "4.0",
+  "date_published": "2026-02-09T22:29:48.203Z",
+  "product": "FUXA",
+  "vendor": "frangoteam"
+ },
+ "CVE-2026-25939": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-02-09T22:21:03.611Z",
+  "product": "FUXA",
+  "vendor": "frangoteam"
+ },
+ "CVE-2026-26127": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-10T17:05:10.752Z",
+  "product": ".NET 10.0; .NET 9.0; Microsoft.Bcl.Memory",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-26190": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-13T18:44:33.465Z",
+  "product": "milvus",
+  "vendor": "milvus-io"
+ },
+ "CVE-2026-2652": {
+  "cvss_score": 8.6,
+  "cvss_version": "3.0",
+  "date_published": "2026-05-15T02:13:19.541Z",
+  "product": "mlflow/mlflow",
+  "vendor": "mlflow"
+ },
+ "CVE-2026-26980": {
+  "cvss_score": 9.4,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-20T01:00:51.633Z",
+  "product": "Ghost",
+  "vendor": "TryGhost"
+ },
+ "CVE-2026-2699": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-02T13:04:00.485Z",
+  "product": "ShareFile Storage Zones Controller",
+  "vendor": "Progress"
+ },
+ "CVE-2026-27174": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-02-18T21:10:36.113Z",
+  "product": "MajorDoMo",
+  "vendor": "sergejey"
+ },
+ "CVE-2026-27175": {
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-02-18T21:10:36.987Z",
+  "product": "MajorDoMo",
+  "vendor": "sergejey"
+ },
+ "CVE-2026-27540": {
+  "cvss_score": 9,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-19T05:24:45.836Z",
+  "product": "Woocommerce Wholesale Lead Capture",
+  "vendor": "Rymera Web Co Pty Ltd."
+ },
+ "CVE-2026-27541": {
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-05T05:54:03.112Z",
+  "product": "Wholesale Suite",
+  "vendor": "Josh Kohlbach"
+ },
+ "CVE-2026-27542": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-19T05:22:49.717Z",
+  "product": "Woocommerce Wholesale Lead Capture",
+  "vendor": "Rymera Web Co Pty Ltd."
+ },
+ "CVE-2026-27760": {
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-04-28T13:43:24.366Z",
+  "product": "OpenCATS",
+  "vendor": "opencats"
+ },
+ "CVE-2026-27944": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-05T16:28:13.988Z",
+  "product": "nginx-ui",
+  "vendor": "0xJacky"
+ },
+ "CVE-2026-27971": {
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-03-03T22:55:38.064Z",
+  "product": "qwik",
+  "vendor": "QwikDev"
+ },
+ "CVE-2026-28139": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-06T14:27:09.843Z",
+  "product": "Ajax Search Lite",
+  "vendor": "wpdreams"
+ },
+ "CVE-2026-28318": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-04T14:05:58.218Z",
+  "product": "Serv-U",
+  "vendor": "SolarWinds"
+ },
+ "CVE-2026-28409": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-27T21:50:21.849Z",
+  "product": "WeGIA",
+  "vendor": "LabRedesCefetRJ"
+ },
+ "CVE-2026-28414": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-27T21:43:28.453Z",
+  "product": "gradio",
+  "vendor": "gradio-app"
+ },
+ "CVE-2026-28496": {
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-23T14:20:50.361Z",
+  "product": "FOSSBilling",
+  "vendor": "FOSSBilling"
+ },
+ "CVE-2026-28515": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-02-27T22:11:37.303Z",
+  "product": "openDCIM",
+  "vendor": "openDCIM"
+ },
+ "CVE-2026-28517": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-02-27T22:12:08.889Z",
+  "product": "openDCIM",
+  "vendor": "openDCIM"
+ },
+ "CVE-2026-29014": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-04-01T12:22:42.420Z",
+  "product": "MetInfo CMS",
+  "vendor": "MetInfo CMS"
+ },
+ "CVE-2026-29059": {
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2026-03-06T07:11:28.527Z",
+  "product": "windmill",
+  "vendor": "windmill-labs"
+ },
+ "CVE-2026-2931": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-26T03:37:28.098Z",
+  "product": "Booking for Appointments and Events Calendar \u2013 Amelia",
+  "vendor": "ameliabooking"
+ },
+ "CVE-2026-3018": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-10T08:28:20.635Z",
+  "product": "Newsletters",
+  "vendor": "contrid"
+ },
+ "CVE-2026-3055": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-03-23T20:21:27.107Z",
+  "product": "ADC; Gateway",
+  "vendor": "NetScaler"
+ },
+ "CVE-2026-31431": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-22T08:15:10.123Z",
+  "product": "Linux",
+  "vendor": "Linux"
+ },
+ "CVE-2026-31816": {
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-09T20:55:52.765Z",
+  "product": "budibase",
+  "vendor": "Budibase"
+ },
+ "CVE-2026-31843": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2026-04-16T13:02:55.701Z",
+  "product": "pay-uz",
+  "vendor": "goodoneuz"
+ },
+ "CVE-2026-32201": {
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-14T16:58:36.981Z",
+  "product": "Microsoft SharePoint Enterprise Server 2016; Microsoft SharePoint Server 2019; Microsoft SharePoint Server Subscription Edition",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-32202": {
+  "cvss_score": 4.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-14T16:57:36.996Z",
+  "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 23H2; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-32499": {
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-25T16:15:00.491Z",
+  "product": "ChatBot",
+  "vendor": "QuantumCloud"
+ },
+ "CVE-2026-32562": {
+  "cvss_score": 5.4,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-25T16:15:12.284Z",
+  "product": "PPWP",
+  "vendor": "WP Folio Team"
+ },
+ "CVE-2026-32661": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-13T05:15:15.435Z",
+  "product": "GUARDIANWALL MailSuite (On-premises version); GUARDIANWALL Mail Security Cloud (SaaS version)",
+  "vendor": "Canon Marketing Japan Inc."
+ },
+ "CVE-2026-3296": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-08T01:24:43.946Z",
+  "product": "Everest Forms \u2013 Contact Form, Payment Form, Quiz, Survey & Custom Form Builder",
+  "vendor": "wpeverest"
+ },
+ "CVE-2026-3300": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-31T01:24:57.875Z",
+  "product": "Everest Forms Pro",
+  "vendor": "WPEverest"
+ },
+ "CVE-2026-33017": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-03-20T04:52:52.885Z",
+  "product": "langflow",
+  "vendor": "langflow-ai"
+ },
+ "CVE-2026-33032": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-30T17:58:42.159Z",
+  "product": "nginx-ui",
+  "vendor": "0xJacky"
+ },
+ "CVE-2026-33478": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-23T14:01:19.611Z",
+  "product": "AVideo",
+  "vendor": "WWBN"
+ },
+ "CVE-2026-33497": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-03-24T13:14:39.647Z",
+  "product": "langflow",
+  "vendor": "langflow-ai"
+ },
+ "CVE-2026-33626": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-20T20:29:19.558Z",
+  "product": "lmdeploy",
+  "vendor": "InternLM"
+ },
+ "CVE-2026-33634": {
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2026-03-23T21:47:29.636Z",
+  "product": "setup-trivy; trivy-action; trivy; LiteLLM; telnyx",
+  "vendor": "aquasecurity; BerriAI; team-telnyx"
+ },
+ "CVE-2026-33824": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-14T16:58:45.469Z",
+  "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 22H3; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-33825": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-14T16:57:49.361Z",
+  "product": "Microsoft Defender Antimalware Platform",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-3395": {
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2026-03-01T14:02:08.973Z",
+  "product": "CMS",
+  "vendor": "MaxSite"
+ },
+ "CVE-2026-34197": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-07T07:50:10.958Z",
+  "product": "Apache ActiveMQ Broker; Apache ActiveMQ All; Apache ActiveMQ",
+  "vendor": "Apache Software Foundation"
+ },
+ "CVE-2026-34234": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-19T21:03:05.274Z",
+  "product": "panel",
+  "vendor": "Ctrlpanel-gg"
+ },
+ "CVE-2026-34424": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-04-09T22:59:38.306Z",
+  "product": "Smart Slider 3 Pro for WordPress; Smart Slider 3 Pro for Joomla",
+  "vendor": "Nextendweb"
+ },
+ "CVE-2026-34486": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-09T19:35:35.994Z",
+  "product": "Apache Tomcat",
+  "vendor": "Apache Software Foundation"
+ },
+ "CVE-2026-34621": {
+  "cvss_score": 8.6,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-11T06:45:43.512Z",
+  "product": "Acrobat Reader",
+  "vendor": "Adobe"
+ },
+ "CVE-2026-34908": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-22T00:43:49.077Z",
+  "product": "UniFi OS Server; UDM; UDM-Pro; UDM-SE; UDM-Pro-Max; UDM-Beast; EFG; UDW; UDR; UDR7; UDR-5G; Express 7; UNVR; UNVR-Pro; UNVR-Instant; UNVR-G2; UNVR-G2-Pro; ENVR; ENVR-Core; UNAS-2; UNAS-4; UNAS-Pro; UNAS-Pro-4; UNAS-Pro-8; UCKP; UCK; UCK-Enterprise; UCG-Ultra; UCG-Max; UCG-Fiber; UCG-Industrial",
+  "vendor": "Ubiquiti Inc"
+ },
+ "CVE-2026-34909": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-22T00:43:49.072Z",
+  "product": "UniFi OS Server; Express; UDM; UDM-Pro; UDM-SE; UDM-Pro-Max; UDM-Beast; EFG; UDW; UDR; UDR7; UDR-5G; Express 7; UNVR; UNVR-Pro; UNVR-Instant; UNVR-G2; UNVR-G2-Pro; ENVR; ENVR-Core; UNAS-2; UNAS-4; UNAS-Pro; UNAS-Pro-4; UNAS-Pro-8; UCKP; UCK; UCK-Enterprise; UCG-Ultra; UCG-Max; UCG-Fiber; UCG-Industrial",
+  "vendor": "Ubiquiti Inc"
+ },
+ "CVE-2026-34910": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-22T00:43:49.096Z",
+  "product": "UniFi OS Server; UDM; UDM-Pro; UDM-SE; UDM-Pro-Max; UDM-Beast; EFG; UDW; UDR; UDR7; UDR-5G; Express 7; UNVR; UNVR-Pro; UNVR-Instant; UNVR-G2; UNVR-G2-Pro; ENVR; ENVR-Core; UNAS-2; UNAS-4; UNAS-Pro; UNAS-Pro-4; UNAS-Pro-8; UCKP; UCK; UCK-Enterprise; UCG-Ultra; UCG-Max; UCG-Fiber; UCG-Industrial",
+  "vendor": "Ubiquiti Inc"
+ },
+ "CVE-2026-34926": {
+  "cvss_score": 6.7,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-21T13:03:21.164Z",
+  "product": "TrendAI Apex One; TrendAI Apex One as a Service",
+  "vendor": "Trend Micro, Inc."
+ },
+ "CVE-2026-3502": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-30T18:05:42.806Z",
+  "product": "TrueConf Client",
+  "vendor": "TrueConf"
+ },
+ "CVE-2026-35056": {
+  "cvss_score": 8.6,
+  "cvss_version": "4.0",
+  "date_published": "2026-04-01T00:30:13.996Z",
+  "product": "XenForo",
+  "vendor": "XenForo"
+ },
+ "CVE-2026-35273": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-11T02:25:15.375Z",
+  "product": "PeopleSoft Enterprise PeopleTools",
+  "vendor": "Oracle Corporation"
+ },
+ "CVE-2026-35616": {
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-04T00:38:35.828Z",
+  "product": "FortiClientEMS",
+  "vendor": "Fortinet"
+ },
+ "CVE-2026-3564": {
+  "cvss_score": 9,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-17T14:48:59.940Z",
+  "product": "ScreenConnect",
+  "vendor": "ConnectWise"
+ },
+ "CVE-2026-3584": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-20T21:25:11.166Z",
+  "product": "Kali Forms \u2014 Contact Form & Drag-and-Drop Builder",
+  "vendor": "wpchill"
+ },
+ "CVE-2026-36356": {
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-05T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2026-3657": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-12T02:22:36.468Z",
+  "product": "My Sticky Bar \u2013 Floating Notification Bar & Sticky Header (formerly myStickymenu)",
+  "vendor": "premio"
+ },
+ "CVE-2026-3836": {
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": null,
+  "product": null,
+  "vendor": null
+ },
+ "CVE-2026-3844": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-23T02:25:21.927Z",
+  "product": "Breeze Cache",
+  "vendor": "cloudways"
+ },
+ "CVE-2026-38992": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-29T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2026-3909": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-12T21:30:51.265Z",
+  "product": "Chrome",
+  "vendor": "Google"
+ },
+ "CVE-2026-3910": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-12T21:30:51.861Z",
+  "product": "Chrome",
+  "vendor": "Google"
+ },
+ "CVE-2026-39365": {
+  "cvss_score": 6.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-04-07T19:13:50.927Z",
+  "product": "vite; vite-plus",
+  "vendor": "vitejs"
+ },
+ "CVE-2026-39494": {
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-11T21:05:40.175Z",
+  "product": "Product Filter by WBW",
+  "vendor": "WBW Plugins"
+ },
+ "CVE-2026-3965": {
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-03-11T23:32:09.955Z",
+  "product": "qinglong",
+  "vendor": "whyour"
+ },
+ "CVE-2026-39808": {
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-14T15:38:02.089Z",
+  "product": "FortiSandbox; FortiSandbox PaaS",
+  "vendor": "Fortinet"
+ },
+ "CVE-2026-39813": {
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-14T15:38:30.311Z",
+  "product": "FortiSandbox; FortiSandbox Cloud",
+  "vendor": "Fortinet"
+ },
+ "CVE-2026-39987": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-04-09T17:16:55.639Z",
+  "product": "marimo",
+  "vendor": "marimo-team"
+ },
+ "CVE-2026-4001": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-23T23:25:48.659Z",
+  "product": "Woocommerce Custom Product Addons Pro",
+  "vendor": "acowebs"
+ },
+ "CVE-2026-4020": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-31T01:24:57.221Z",
+  "product": "Gravity SMTP",
+  "vendor": "RocketGenius"
+ },
+ "CVE-2026-40217": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-10T13:43:23.147Z",
+  "product": "LiteLLM",
+  "vendor": "BerriAI"
+ },
+ "CVE-2026-40466": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-24T10:15:44.445Z",
+  "product": "Apache ActiveMQ Broker; Apache ActiveMQ All; Apache ActiveMQ",
+  "vendor": "Apache Software Foundation"
+ },
+ "CVE-2026-4047": {
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": null,
+  "product": null,
+  "vendor": null
+ },
+ "CVE-2026-41089": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-12T16:58:50.091Z",
+  "product": "Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-41091": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-20T13:09:13.634Z",
+  "product": "Microsoft Malware Protection Engine",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-41176": {
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-04-22T23:57:54.075Z",
+  "product": "rclone",
+  "vendor": "rclone"
+ },
+ "CVE-2026-41940": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-04-29T15:10:37.899Z",
+  "product": "cPanel; WP Squared; WHM",
+  "vendor": "WebPros"
+ },
+ "CVE-2026-42167": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-28T00:00:00.000Z",
+  "product": "ProFTPD",
+  "vendor": "ProFTPD"
+ },
+ "CVE-2026-42208": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-08T03:38:14.124Z",
+  "product": "litellm",
+  "vendor": "BerriAI"
+ },
+ "CVE-2026-42271": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-08T03:35:16.758Z",
+  "product": "litellm",
+  "vendor": "BerriAI"
+ },
+ "CVE-2026-42589": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-14T15:11:30.619Z",
+  "product": "gotenberg",
+  "vendor": "gotenberg"
+ },
+ "CVE-2026-42647": {
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-11T21:04:14.881Z",
+  "product": "JoomSport",
+  "vendor": "Beardev"
+ },
+ "CVE-2026-42653": {
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-11T21:07:15.235Z",
+  "product": "SliceWP",
+  "vendor": "iova.mihai"
+ },
+ "CVE-2026-42897": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-14T17:00:36.515Z",
+  "product": "Microsoft Exchange Server 2016 Cumulative Update 23; Microsoft Exchange Server 2019 Cumulative Update 14; Microsoft Exchange Server 2019 Cumulative Update 15; Microsoft Exchange Server Subscription Edition RTM",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-42945": {
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-13T14:12:43.971Z",
+  "product": "NGINX Plus; NGINX Open Source",
+  "vendor": "F5"
+ },
+ "CVE-2026-43284": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-08T07:21:47.524Z",
+  "product": "Linux",
+  "vendor": "Linux"
+ },
+ "CVE-2026-43500": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-11T06:26:45.838Z",
+  "product": "Linux",
+  "vendor": "Linux"
+ },
+ "CVE-2026-44338": {
+  "cvss_score": 7.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-08T13:35:44.521Z",
+  "product": "PraisonAI",
+  "vendor": "MervinPraison"
+ },
+ "CVE-2026-44742": {
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-07T18:09:20.069Z",
+  "product": "Postorius",
+  "vendor": "Postorius project"
+ },
+ "CVE-2026-4480": {
+  "cvss_score": 9,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-26T13:56:32.355Z",
+  "product": "Red Hat Enterprise Linux 10; Red Hat Enterprise Linux 10.0 Extended Update Support; Red Hat Enterprise Linux 7 Extended Lifecycle Support; Red Hat Enterprise Linux 8; Red Hat Enterprise Linux 8.4 Advanced Mission Critical Update Support; Red Hat Enterprise Linux 8.4 Extended Update Support Long-Life Add-On; Red Hat Enterprise Linux 8.6 Advanced Mission Critical Update Support; Red Hat Enterprise Linux 8.6 Extended Update Support Long-Life Add-On; Red Hat Enterprise Linux 8.8 Telecommunications Update Service; Red Hat Enterprise Linux 8.8 Update Services for SAP Solutions; Red Hat Enterprise Linux 9; Red Hat Enterprise Linux 9.2 Update Services for SAP Solutions; Red Hat Enterprise Linux 9.4 Update Services for SAP Solutions; Red Hat Enterprise Linux 9.6 Extended Update Support; Red Hat Enterprise Linux 6; Red Hat OpenShift Container Platform 4",
+  "vendor": "Red Hat"
+ },
+ "CVE-2026-44825": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-01T08:02:15.120Z",
+  "product": "Apache Solr",
+  "vendor": "Apache Software Foundation"
+ },
+ "CVE-2026-44963": {
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-09T22:27:01.735Z",
+  "product": "Backup and Replication",
+  "vendor": "Veeam"
+ },
+ "CVE-2026-45247": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-26T14:15:33.596Z",
+  "product": "Full Page Cache Warmer for Magento 2",
+  "vendor": "Mirasvit"
+ },
+ "CVE-2026-45298": {
+  "cvss_score": 8.6,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-26T22:01:29.977Z",
+  "product": "dozzle",
+  "vendor": "amir20"
+ },
+ "CVE-2026-45321": {
+  "cvss_score": 9.6,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-12T00:12:35.452Z",
+  "product": "arktype-adapter; eslint-plugin-router; eslint-plugin-start; history; nitro-v2-vite-plugin; react-router; react-router-devtools; react-router-ssr-query; react-start; react-start-client; react-start-rsc; react-start-server; router-cli; router-core; router-devtools; router-devtools-core; router-generator; router-plugin; router-ssr-query-core; router-utils; outer-vite-plugin; solid-router; solid-router-devtools; solid-router-ssr-query; solid-start; solid-start-client; solid-start-server; start-client-core; start-fn-stubs; start-plugin-core; start-server-core; start-static-server-functions; start-storage-context; valibot-adapter; virtual-file-routes; vue-router; vue-router-devtools; vue-router-ssr-query; vue-start; vue-start-client; vue-start-server; zod-adapter",
+  "vendor": "@tanstack"
+ },
+ "CVE-2026-45444": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-20T18:00:51.131Z",
+  "product": "Gift Cards For WooCommerce Pro",
+  "vendor": "WP Swings"
+ },
+ "CVE-2026-45498": {
+  "cvss_score": 4,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-20T13:09:12.903Z",
+  "product": "Microsoft Defender Antimalware Platform",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-45586": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-09T17:05:28.887Z",
+  "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 23H2; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-45659": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-22T22:04:33.517Z",
+  "product": "Microsoft SharePoint Enterprise Server 2016; Microsoft SharePoint Server 2019; Microsoft SharePoint Server Subscription Edition",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-4631": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-07T16:30:28.069Z",
+  "product": "Red Hat Enterprise Linux 10; Red Hat Enterprise Linux 10.0 Extended Update Support; Red Hat Enterprise Linux 9; Red Hat Enterprise Linux 9.6 Extended Update Support; Red Hat Enterprise Linux 7; Red Hat Enterprise Linux 8",
+  "vendor": "Red Hat"
+ },
+ "CVE-2026-46442": {
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-08T15:30:48.999Z",
+  "product": "Flowise",
+  "vendor": "FlowiseAI"
+ },
+ "CVE-2026-46817": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-28T20:17:10.861Z",
+  "product": "Oracle Payments",
+  "vendor": "Oracle Corporation"
+ },
+ "CVE-2026-47100": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-19T14:00:55.318Z",
+  "product": "Funnel Builder for WooCommerce Checkout",
+  "vendor": "FunnelKit"
+ },
+ "CVE-2026-48027": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-27T15:50:01.143Z",
+  "product": "nx-console",
+  "vendor": "nrwl"
+ },
+ "CVE-2026-48172": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-21T00:38:04.489Z",
+  "product": "cPanel Plugin; WHM Plugin",
+  "vendor": "LiteSpeed Technologies"
+ },
+ "CVE-2026-48282": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-30T15:11:57.151Z",
+  "product": "ColdFusion",
+  "vendor": "Adobe"
+ },
+ "CVE-2026-48294": {
+  "cvss_score": 7.4,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-16T20:12:02.544Z",
+  "product": "Adobe Acrobat PDF Extension (Chrome)",
+  "vendor": "Adobe"
+ },
+ "CVE-2026-48313": {
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-30T15:12:00.200Z",
+  "product": "ColdFusion",
+  "vendor": "Adobe"
+ },
+ "CVE-2026-48558": {
+  "cvss_score": 9.5,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-12T17:07:05.453Z",
+  "product": "SimpleHelp",
+  "vendor": "SimpleHelp"
+ },
+ "CVE-2026-48611": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.0",
+  "date_published": "2026-06-12T02:27:43.351Z",
+  "product": "phpBB",
+  "vendor": "phpBB"
+ },
+ "CVE-2026-48907": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-05T07:31:30.257Z",
+  "product": "Joomla Content Editor (JCE) extension for Joomla",
+  "vendor": "joomlacontenteditor.net"
+ },
+ "CVE-2026-48908": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-20T11:57:00.501Z",
+  "product": "SP Page Builder extension for Joomla",
+  "vendor": "joomshaper.net"
+ },
+ "CVE-2026-48939": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-20T11:56:50.752Z",
+  "product": "iCagenda extension for Joomla",
+  "vendor": "icagenda.com"
+ },
+ "CVE-2026-48969": {
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-15T12:58:56.144Z",
+  "product": "Really Simple SSL",
+  "vendor": "Really Simple Plugins B.V."
+ },
+ "CVE-2026-49049": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-29T14:34:07.407Z",
+  "product": "Helix3 extension for Joomla",
+  "vendor": "joomshaper.com"
+ },
+ "CVE-2026-49060": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-11T21:02:46.094Z",
+  "product": "Hippoo Mobile App for WooCommerce",
+  "vendor": "Hippoo"
+ },
+ "CVE-2026-49777": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-05T08:59:53.320Z",
+  "product": "Product Slider Pro for WooCommerce",
+  "vendor": "ShapedPlugin, LLC"
+ },
+ "CVE-2026-5027": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-27T14:54:53.609Z",
+  "product": "langflow",
+  "vendor": "langflow-ai"
+ },
+ "CVE-2026-50522": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-14T17:05:27.656Z",
+  "product": "Microsoft SharePoint Enterprise Server 2016; Microsoft SharePoint Server 2019; Microsoft SharePoint Server Subscription Edition",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-5073": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-02T18:30:47.226Z",
+  "product": "ARMember Premium \u2013 Membership Plugin, Content Restriction, Member Levels, User Profile & User signup",
+  "vendor": "armember"
+ },
+ "CVE-2026-50751": {
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-08T11:07:15.746Z",
+  "product": "Quantum Security Gateway; Spark Firewalls",
+  "vendor": "checkpoint"
+ },
+ "CVE-2026-5231": {
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-17T01:24:37.573Z",
+  "product": "WP Statistics \u2013 Simple, privacy-friendly Google Analytics alternative",
+  "vendor": "veronalabs"
+ },
+ "CVE-2026-52806": {
+  "cvss_score": 9.9,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-24T20:21:07.650Z",
+  "product": "gogs",
+  "vendor": "gogs"
+ },
+ "CVE-2026-5281": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-01T04:41:32.723Z",
+  "product": "Chrome",
+  "vendor": "Google"
+ },
+ "CVE-2026-52813": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-24T20:33:42.162Z",
+  "product": "gogs",
+  "vendor": "gogs"
+ },
+ "CVE-2026-53435": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-10T13:05:57.208Z",
+  "product": "Jenkins",
+  "vendor": "Jenkins Project"
+ },
+ "CVE-2026-53576": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-26T20:54:08.282Z",
+  "product": "kestra",
+  "vendor": "kestra-io"
+ },
+ "CVE-2026-54066": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-24T21:13:25.461Z",
+  "product": "siyuan",
+  "vendor": "siyuan-note"
+ },
+ "CVE-2026-5426": {
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-16T15:18:46.224Z",
+  "product": "KnowledgeDeliver",
+  "vendor": "Digital Knowledge"
+ },
+ "CVE-2026-54420": {
+  "cvss_score": 8.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-14T03:23:12.863Z",
+  "product": "cPanel Plugin",
+  "vendor": "LiteSpeed Technologies"
+ },
+ "CVE-2026-55040": {
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-14T17:09:00.641Z",
+  "product": "Microsoft SharePoint Enterprise Server 2016; Microsoft SharePoint Server 2019; Microsoft SharePoint Server Subscription Edition",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-5524": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-02T12:34:40.602Z",
+  "product": "Divi Form Builder",
+  "vendor": "Divi Engine"
+ },
+ "CVE-2026-55255": {
+  "cvss_score": 8.4,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-23T16:28:20.985Z",
+  "product": "langflow",
+  "vendor": "langflow-ai"
+ },
+ "CVE-2026-55450": {
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-23T16:17:52.168Z",
+  "product": "langflow",
+  "vendor": "langflow-ai"
+ },
+ "CVE-2026-56011": {
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-26T14:52:30.259Z",
+  "product": "MapPress Maps for WordPress",
+  "vendor": "chrisvrichardson"
+ },
+ "CVE-2026-56155": {
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-14T17:05:11.702Z",
+  "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-56164": {
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-14T17:05:12.313Z",
+  "product": "Microsoft SharePoint Enterprise Server 2016; Microsoft SharePoint Server 2019; Microsoft SharePoint Server Subscription Edition",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-56270": {
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-24T11:53:14.938Z",
+  "product": "Flowise",
+  "vendor": "Flowise"
+ },
+ "CVE-2026-56290": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-29T14:31:37.952Z",
+  "product": "JoomlaCK.fr Page Builder CK extension for Joomla",
+  "vendor": "joomlack.fr"
+ },
+ "CVE-2026-56291": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2026-07-09T09:53:57.886Z",
+  "product": "balbooa.com Balbooa Forms extension for Joomla",
+  "vendor": "balbooa.com"
+ },
+ "CVE-2026-5718": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-17T17:25:55.466Z",
+  "product": "Drag and Drop Multiple File Upload for Contact Form 7",
+  "vendor": "glenwpcoder"
+ },
+ "CVE-2026-57624": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-02T11:15:26.664Z",
+  "product": "Blocksy Companion Pro",
+  "vendor": "Creative Themes"
+ },
+ "CVE-2026-57700": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-25T17:29:31.795Z",
+  "product": "OMGF Pro",
+  "vendor": "Daan.dev"
+ },
+ "CVE-2026-58138": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-30T18:44:12.734Z",
+  "product": "conductor",
+  "vendor": "conductor-oss"
+ },
+ "CVE-2026-58231": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-11T10:21:29.039Z",
+  "product": "SAP Commerce Cloud (Data Hub Adapter)",
+  "vendor": "SAP_SE"
+ },
+ "CVE-2026-58455": {
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-07-02T15:12:10.383Z",
+  "product": "dockwatch",
+  "vendor": "Notifiarr"
+ },
+ "CVE-2026-58480": {
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-07-08T13:05:02.727Z",
+  "product": "Blocksy Companion",
+  "vendor": "Creative Themes"
+ },
+ "CVE-2026-58644": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-14T17:05:37.431Z",
+  "product": "Microsoft SharePoint Enterprise Server 2016; Microsoft SharePoint Server 2019; Microsoft SharePoint Server Subscription Edition",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-59309": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-30T12:19:52.390Z",
+  "product": "Cloud Foundation; vSphere Foundation; vCenter; Telco Cloud Infrastructure; Telco Cloud Platform",
+  "vendor": "VMware"
+ },
+ "CVE-2026-59310": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-30T12:19:25.296Z",
+  "product": "Cloud Foundation; vSphere Foundation; vCenter; Telco Cloud Infrastructure; Telco Cloud Platform",
+  "vendor": "VMware"
+ },
+ "CVE-2026-59553": {
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-27T13:59:12.758Z",
+  "product": "Product Feed Manager",
+  "vendor": "RexTheme"
+ },
+ "CVE-2026-59800": {
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-07-07T18:19:17.154Z",
+  "product": "9router",
+  "vendor": "decolua"
+ },
+ "CVE-2026-59821": {
+  "cvss_score": 2.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-07-08T19:14:13.265Z",
+  "product": "litellm",
+  "vendor": "BerriAI"
+ },
+ "CVE-2026-59822": {
+  "cvss_score": 8.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-07-08T19:32:18.611Z",
+  "product": "litellm",
+  "vendor": "BerriAI"
+ },
+ "CVE-2026-60137": {
+  "cvss_score": 5.9,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-17T19:14:12.159Z",
+  "product": "WordPress",
+  "vendor": "WordPress"
+ },
+ "CVE-2026-63030": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-17T19:14:12.910Z",
+  "product": "WordPress",
+  "vendor": "WordPress"
+ },
+ "CVE-2026-63077": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-27T16:44:32.290Z",
+  "product": "TeamCity",
+  "vendor": "JetBrains"
+ },
+ "CVE-2026-6433": {
+  "cvss_score": 7.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-11T06:00:01.278Z",
+  "product": "Custom css-js-php",
+  "vendor": "Unknown"
+ },
+ "CVE-2026-64849": {
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-17T21:16:10.612Z",
+  "product": "mlflow",
+  "vendor": "mlflow"
+ },
+ "CVE-2026-65400": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-06T18:17:18.263Z",
+  "product": "macOS",
+  "vendor": "Apple"
+ },
+ "CVE-2026-65442": {
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-27T22:44:04.517Z",
+  "product": "FormCraft",
+  "vendor": "Subtle Web Inc"
+ },
+ "CVE-2026-65884": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2026-07-29T12:09:08.021Z",
+  "product": "Gridbox extension for Joomla",
+  "vendor": "balbooa.com"
+ },
+ "CVE-2026-65885": {
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2026-07-29T12:05:48.262Z",
+  "product": "Gridbox extension for Joomla",
+  "vendor": "balbooa.com"
+ },
+ "CVE-2026-66441": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-13T13:36:53.716Z",
+  "product": "MultiVendorX",
+  "vendor": "MultiVendorX"
+ },
+ "CVE-2026-66443": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-13T13:36:54.357Z",
+  "product": "REST API Log",
+  "vendor": "Pete Nelson"
+ },
+ "CVE-2026-6664": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-09T00:43:42.640Z",
+  "product": "PgBouncer",
+  "vendor": "n/a"
+ },
+ "CVE-2026-66665": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-06T14:27:56.047Z",
+  "product": "Type Hub",
+  "vendor": "Brandexponents"
+ },
+ "CVE-2026-6692": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-07T04:27:10.449Z",
+  "product": "Slider Revolution",
+  "vendor": "Revolution Slider"
+ },
+ "CVE-2026-67595": {
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-07-29T21:33:25.952Z",
+  "product": "vaahcms",
+  "vendor": "webreinvent"
+ },
+ "CVE-2026-6875": {
+  "cvss_score": 9.5,
+  "cvss_version": "4.0",
+  "date_published": "2026-07-13T18:17:27.508Z",
+  "product": "ServiceNow AI Platform",
+  "vendor": "ServiceNow"
+ },
+ "CVE-2026-68820": {
+  "cvss_score": 7,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-11T17:05:15.930Z",
+  "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 23H2; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
+ "CVE-2026-6973": {
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-07T15:21:24.849Z",
+  "product": "Endpoint Manager Mobile",
+  "vendor": "Ivanti"
+ },
+ "CVE-2026-72898": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2026-08-10T17:55:54.841Z",
+  "product": "Metabase",
+  "vendor": "Metabase"
+ },
+ "CVE-2026-73532": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-08-13T16:01:19.629Z",
+  "product": "Fluent Forms Pro",
+  "vendor": "WPManageNinja"
+ },
+ "CVE-2026-73533": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-08-13T16:00:48.030Z",
+  "product": "Ninja Tables Pro",
+  "vendor": "WPManageNinja"
+ },
+ "CVE-2026-73570": {
+  "cvss_score": 8.9,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-13T15:19:42.195Z",
+  "product": "Collaboration",
+  "vendor": "Zimbra"
+ },
+ "CVE-2026-7465": {
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-30T09:29:00.397Z",
+  "product": "Spectra Gutenberg Blocks \u2013 Website Builder for the Block Editor",
+  "vendor": "brainstormforce"
+ },
+ "CVE-2026-7473": {
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-05T16:22:47.989Z",
+  "product": "EOS",
+  "vendor": "Arista Networks"
+ },
+ "CVE-2026-7482": {
+  "cvss_score": 8.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-04T12:38:28.464Z",
+  "product": "ollama",
+  "vendor": "ollama"
+ },
+ "CVE-2026-7515": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-19T05:33:29.949Z",
+  "product": "BetterDocs Pro",
+  "vendor": "betterdocs"
+ },
+ "CVE-2026-8037": {
+  "cvss_score": 9.6,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-04T13:13:45.793Z",
+  "product": "LoadMaster; ECS Connections Manager; Object Scale Connection Manager; MOVEit WAF",
+  "vendor": "Progress Software"
+ },
+ "CVE-2026-8054": {
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-27T07:55:25.905Z",
+  "product": "dotCMS Core",
+  "vendor": "dotCMS"
+ },
+ "CVE-2026-8181": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-14T05:30:29.145Z",
+  "product": "Burst Statistics \u2013 Privacy-Friendly WordPress Analytics (Google Analytics Alternative)",
+  "vendor": "burstbv"
+ },
+ "CVE-2026-8206": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-02T03:28:49.326Z",
+  "product": "Kirki \u2013 Freeform Page Builder, Website Builder & Customizer",
+  "vendor": "themeum"
+ },
+ "CVE-2026-8398": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-15T07:30:29.287Z",
+  "product": "DAEMON Tools Lite",
+  "vendor": "AVB Disc Soft"
+ },
+ "CVE-2026-8451": {
+  "cvss_score": 8.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-30T12:33:08.999Z",
+  "product": "ADC; Gateway",
+  "vendor": "NetScaler"
+ },
+ "CVE-2026-8452": {
+  "cvss_score": 8.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-30T12:41:07.622Z",
+  "product": "ADC; Gateway",
+  "vendor": "NetScaler"
+ },
+ "CVE-2026-8496": {
+  "cvss_score": 6.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-13T18:02:54.459Z",
+  "product": "SOGo",
+  "vendor": "Alinto SOGo"
+ },
+ "CVE-2026-8713": {
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-19T04:31:34.491Z",
+  "product": "Avada (Fusion) Builder",
+  "vendor": "themefusion"
+ },
+ "CVE-2026-8732": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-29T05:32:36.013Z",
+  "product": "WP Maps Pro",
+  "vendor": "flippercode"
+ },
+ "CVE-2026-9082": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-20T18:20:52.863Z",
+  "product": "Drupal core",
+  "vendor": "Drupal"
+ },
+ "CVE-2026-9198": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-17T17:36:11.246Z",
+  "product": "Langflow OSS",
+  "vendor": "IBM"
+ },
+ "CVE-2026-9282": {
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-11T06:50:33.051Z",
+  "product": "W3 Total Cache",
+  "vendor": "boldgrid"
  }
 }
