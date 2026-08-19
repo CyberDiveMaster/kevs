@@ -35251,6 +35251,13 @@
   "product": "rclone",
   "vendor": "rclone"
  },
+ "CVE-2026-41679": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-23T00:53:16.391Z",
+  "product": "paperclip; @paperclipai/server",
+  "vendor": "paperclipai"
+ },
  "CVE-2026-41940": {
   "cvss_score": 9.3,
   "cvss_version": "4.0",
