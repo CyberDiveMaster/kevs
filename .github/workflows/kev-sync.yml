@@ -28,6 +28,22 @@ jobs:
       - name: Checkout kevs
         uses: actions/checkout@v4
 
+      # actions/checkout resolves main to whatever SHA it was at TRIGGER
+      # time, not at actual job-start time. With concurrency queuing a run
+      # behind a long (multi-hour) previous run, that pinned SHA is stale
+      # by the time this job actually starts -- so data/cve_metadata_cache.json
+      # here may be missing entries the previous run already committed,
+      # and pushing our own commit later would either waste API calls
+      # re-fetching those or (worse) get rejected as a non-fast-forward
+      # push. Sync to whatever main actually is right now, before doing
+      # any work -- concurrency guarantees no other push can land between
+      # this and our own push later, since the whole workflow serializes
+      # on the same group.
+      - name: Sync to latest main
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
