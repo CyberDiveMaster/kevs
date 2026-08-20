@@ -73,6 +73,11 @@ header h1 {
   text-decoration: none;
 }
 
+.catalog-link-earliest {
+  color: #b8860b;
+  font-weight: bold;
+}
+
 .catalog-header-title {
   display: inline-flex;
   align-items: center;

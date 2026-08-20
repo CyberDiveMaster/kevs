@@ -90,9 +90,18 @@ function catalogFormatter(field) {
     const v = cell.getValue();
     if (!v) return '<span class="na-cell">-</span>';
     const row = cell.getRow().getData();
+    // Star instead of a plain checkmark when this is (one of) the
+    // earliest catalog(s) to list the CVE -- i.e. it's the catalog
+    // computeActiveSince's date actually came from. Recomputed live, so
+    // excluding a catalog via its header x button can hand the star to
+    // whichever catalog is now earliest among what's left.
+    const isEarliest = !excludedCatalogs.has(field) && v === computeActiveSince(row);
+    const symbol = isEarliest ? "&#x2605;" : "&#x2713;";
+    const linkClass = isEarliest ? "catalog-link catalog-link-earliest" : "catalog-link";
+    const titleText = isEarliest ? "Earliest listing among included catalogs" : "View on this catalog";
     const url = urlBuilder(row);
-    if (!url) return "&#x2713;";
-    return `<a href="${url}" target="_blank" rel="noopener" class="catalog-link" title="View on this catalog">&#x2713;</a>`;
+    if (!url) return symbol;
+    return `<a href="${url}" target="_blank" rel="noopener" class="${linkClass}" title="${titleText}">${symbol}</a>`;
   };
 }
 
