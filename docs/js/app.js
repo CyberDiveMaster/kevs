@@ -350,7 +350,7 @@ const columns = [
   },
   {
     title: "Product", field: "product", headerFilter: "input",
-    headerFilterFunc: pipeOrFilterFunc, headerFilterPlaceholder: "e.g. forti|palo|sonic",
+    headerFilterFunc: pipeOrFilterFunc, headerFilterPlaceholder: "e.g. fortios|pan-os|sonicos",
     sorter: "string", sorterParams: { alignEmptyValues: "bottom" },
     formatter: truncateFormatter(50), tooltip: fullValueTooltip,
   },
