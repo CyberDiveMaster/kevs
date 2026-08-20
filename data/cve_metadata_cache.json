@@ -5214,6 +5214,13 @@
   "product": "n/a",
   "vendor": "n/a"
  },
+ "CVE-2015-3246": {
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2015-08-11T14:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
  "CVE-2015-3440": {
   "cvss_score": null,
   "cvss_version": null,
@@ -5323,6 +5330,13 @@
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2015-10-27T16:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2015-5287": {
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2015-12-07T18:00:00.000Z",
   "product": "n/a",
   "vendor": "n/a"
  },
@@ -15203,6 +15217,13 @@
   "product": "plupload",
   "vendor": "n/a"
  },
+ "CVE-2021-23758": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2021-12-03T20:05:12.932Z",
+  "product": "AjaxPro.2",
+  "vendor": "n/a"
+ },
  "CVE-2021-23874": {
   "cvss_score": 8.2,
   "cvss_version": "3.1",
@@ -18380,6 +18401,13 @@
   "date_published": "2022-05-02T16:05:46.000Z",
   "product": "Sitemap by click5",
   "vendor": "Unknown"
+ },
+ "CVE-2022-0995": {
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2022-03-25T18:03:08.000Z",
+  "product": "kernel",
+  "vendor": "n/a"
  },
  "CVE-2022-1006": {
   "cvss_score": null,
@@ -34263,6 +34291,13 @@
   "date_published": "2026-02-18T06:42:41.042Z",
   "product": "YayMail \u2013 WooCommerce Email Customizer",
   "vendor": "yaycommerce"
+ },
+ "CVE-2026-19478": {
+  "cvss_score": 9.4,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-17T20:04:46.400Z",
+  "product": "GitLab",
+  "vendor": "GitLab"
  },
  "CVE-2026-19598": {
   "cvss_score": 9.8,
