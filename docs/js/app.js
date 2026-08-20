@@ -136,6 +136,7 @@ function excludeCatalog(field) {
   const column = table.getColumn(field);
   if (column) column.hide();
   table.refreshFilter();
+  table.redraw(true); // re-run formatters -- Active Since depends on excludedCatalogs, not just row data
   renderExcludedChips();
 }
 
@@ -144,6 +145,7 @@ function restoreCatalog(field) {
   const column = table.getColumn(field);
   if (column) column.show();
   table.refreshFilter();
+  table.redraw(true);
   renderExcludedChips();
 }
 
@@ -367,6 +369,43 @@ function dateRangeEmptyCheck(value) {
   return !value || (!value.from && !value.to);
 }
 
+// --- Active Since, recomputed live from whichever catalogs are still
+// active --- the stored active_since field is only the INITIAL value (min
+// date-added across all 5 catalogs at build time); once a catalog is
+// excluded via its header x button, this recomputes the min across the
+// remaining ones instead, so the column stays consistent with what's
+// still driving each row's presence in the table.
+function computeActiveSince(rowData) {
+  const dates = CATALOG_FIELDS
+    .filter((field) => !excludedCatalogs.has(field) && rowData[field])
+    .map((field) => rowData[field]);
+  return dates.length ? dates.reduce((min, d) => (d < min ? d : min)) : null;
+}
+
+function activeSinceFormatter(cell) {
+  const v = computeActiveSince(cell.getRow().getData());
+  if (!v) return '<span class="na-cell">-</span>';
+  return escapeHtml(String(v).slice(0, 10));
+}
+
+// Empty (no remaining catalog dates) rows sort to the bottom regardless
+// of direction, matching alignEmptyValues:"bottom" semantics for the
+// built-in string sorter -- needed here because the compared value isn't
+// the raw field, so the built-in sorter can't be used directly.
+function activeSinceSorter(a, b, aRow, bRow, column, dir) {
+  const av = computeActiveSince(aRow.getData());
+  const bv = computeActiveSince(bRow.getData());
+  const aEmpty = !av, bEmpty = !bv;
+  if (aEmpty && bEmpty) return 0;
+  if (aEmpty) return dir === "asc" ? 1 : -1;
+  if (bEmpty) return dir === "asc" ? -1 : 1;
+  return av < bv ? -1 : av > bv ? 1 : 0;
+}
+
+function activeSinceFilterFunc(headerValue, rowValue, rowData) {
+  return dateRangeFilterFunc(headerValue, computeActiveSince(rowData));
+}
+
 const CVSS_VERSION_TOOLTIP =
   "Shows the highest CVSS version available for that CVE (v4.0 > v3.1 > v3.0 > v2.0), " +
   "from the CNA record or CISA's ADP enrichment.";
@@ -381,12 +420,11 @@ const columns = [
     formatter: dateFormatter,
   },
   {
-    title: "Active Since", field: "active_since", width: 140, sorter: "string",
-    sorterParams: { alignEmptyValues: "bottom" },
-    headerFilter: dateRangeHeaderFilter, headerFilterFunc: dateRangeFilterFunc,
+    title: "Active Since", field: "active_since", width: 140, sorter: activeSinceSorter,
+    headerFilter: dateRangeHeaderFilter, headerFilterFunc: activeSinceFilterFunc,
     headerFilterEmptyCheck: dateRangeEmptyCheck, headerFilterLiveFilter: false,
-    formatter: dateFormatter,
-    tooltip: () => "Earliest date this CVE was added to any of the 5 catalogs",
+    formatter: activeSinceFormatter,
+    tooltip: () => "Earliest date this CVE was added to any catalog still included in the table -- excluding a catalog via its x button recalculates this",
   },
   {
     title: "CVSS Score", field: "cvss_score", sorter: "number",
