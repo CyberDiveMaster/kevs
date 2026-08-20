@@ -86,7 +86,7 @@ def main():
         json.dump(rows, f, separators=(",", ":"))
 
     meta_out = {
-        "generated_at": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+        "generated_at": datetime.datetime.now(datetime.timezone.utc).replace(microsecond=0).isoformat(),
         "cve_count": len(rows),
         "source_counts": {
             "cisa": len(cisa),

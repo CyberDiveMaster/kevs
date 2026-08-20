@@ -533,8 +533,12 @@ fetch("data/meta.json", { cache: "no-cache" })
     return res.json();
   })
   .then((meta) => {
+    // build.py now writes generated_at without a fractional-seconds
+    // component, but this strips one anyway in case an older meta.json
+    // (from before that fix) is still live.
+    const generatedAt = meta.generated_at.replace(/\.\d+(?=(Z|[+-]\d{2}:?\d{2})?$)/, "");
     document.getElementById("status").textContent =
-      `${meta.cve_count.toLocaleString()} CVEs / last updated: ${meta.generated_at}`;
+      `${meta.cve_count.toLocaleString()} CVEs / last updated: ${generatedAt}`;
     totalRowCount = meta.cve_count;
     return fetch("data/kevs.json", { cache: "no-cache" });
   })
