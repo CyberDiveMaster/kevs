@@ -35965,6 +35965,20 @@
   "product": "Endpoint Manager Mobile",
   "vendor": "Ivanti"
  },
+ "CVE-2026-72529": {
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-08-19T16:55:14.949Z",
+  "product": "TrueConf Server",
+  "vendor": "TrueConf"
+ },
+ "CVE-2026-72530": {
+  "cvss_score": 9.5,
+  "cvss_version": "4.0",
+  "date_published": "2026-08-19T16:56:53.099Z",
+  "product": "TrueConf Server",
+  "vendor": "TrueConf"
+ },
  "CVE-2026-72898": {
   "cvss_score": 10,
   "cvss_version": "4.0",
