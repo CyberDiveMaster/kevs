@@ -34936,6 +34936,13 @@
   "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 23H2; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2025; Windows Server 2025 (Server Core installation)",
   "vendor": "Microsoft"
  },
+ "CVE-2026-32475": {
+  "cvss_score": 9,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-19T17:24:55.906Z",
+  "product": "Elementor Pro",
+  "vendor": "Elementor"
+ },
  "CVE-2026-32499": {
   "cvss_score": 9.3,
   "cvss_version": "3.1",
@@ -35916,6 +35923,13 @@
   "product": "REST API Log",
   "vendor": "Pete Nelson"
  },
+ "CVE-2026-66629": {
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-18T13:59:39.209Z",
+  "product": "Kirki",
+  "vendor": "Themeum"
+ },
  "CVE-2026-6664": {
   "cvss_score": 7.5,
   "cvss_version": "3.1",
@@ -35985,6 +35999,20 @@
   "date_published": "2026-08-10T17:55:54.841Z",
   "product": "Metabase",
   "vendor": "Metabase"
+ },
+ "CVE-2026-73343": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-18T14:00:09.450Z",
+  "product": "WP Compress",
+  "vendor": "AresIT"
+ },
+ "CVE-2026-73400": {
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-18T14:00:36.638Z",
+  "product": "Restaurant Menu by MotoPress",
+  "vendor": "jetmonsters"
  },
  "CVE-2026-73532": {
   "cvss_score": 9.3,
