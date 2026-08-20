@@ -512,22 +512,13 @@ table.on("dataFiltered", (filters, rows) => {
     : `${rows.length.toLocaleString()} / ${totalRowCount.toLocaleString()} rows match`;
 });
 
-// Guard rail, not a hard technical limit -- keeps exports to something a
-// spreadsheet-review workflow can realistically use.
-const MAX_CSV_EXPORT_ROWS = 5000;
-
+// No row cap here -- unlike Vulnrichment Viewer (~162k rows, where a cap
+// guards against accidentally exporting a huge file), this dataset is
+// the union of 5 KEV catalogs, only ~5,000-6,000 rows total, so even a
+// fully unfiltered export is a small, fast CSV.
 const exportStatus = document.getElementById("export-status");
 
 document.getElementById("export-csv").addEventListener("click", () => {
-  const filteredCount = table.getDataCount("active");
-
-  if (filteredCount > MAX_CSV_EXPORT_ROWS) {
-    exportStatus.textContent =
-      `${filteredCount.toLocaleString()} rows match -- narrow filters to ${MAX_CSV_EXPORT_ROWS.toLocaleString()} or fewer to export.`;
-    exportStatus.classList.add("error");
-    return;
-  }
-
   exportStatus.textContent = "";
   exportStatus.classList.remove("error");
   table.download("csv", "kevs-export.csv");
