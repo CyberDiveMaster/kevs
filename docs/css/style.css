@@ -27,6 +27,12 @@ header h1 {
   margin: 0.15rem 0 0;
 }
 
+#legend {
+  font-size: 0.8rem;
+  opacity: 0.6;
+  margin: 0.15rem 0 0;
+}
+
 #status {
   font-size: 0.85rem;
   opacity: 0.7;
@@ -73,9 +79,8 @@ header h1 {
   text-decoration: none;
 }
 
-.catalog-link-earliest {
-  color: #b8860b;
-  font-weight: bold;
+.earliest-cell {
+  background-color: rgba(255, 193, 7, 0.35);
 }
 
 .catalog-header-title {

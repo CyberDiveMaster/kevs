@@ -88,21 +88,26 @@ function catalogFormatter(field) {
   const urlBuilder = CATALOG_URL_BUILDERS[field];
   return function (cell) {
     const v = cell.getValue();
-    if (!v) return '<span class="na-cell">-</span>';
+    const cellEl = cell.getElement();
+    if (!v) {
+      cellEl.classList.remove("earliest-cell");
+      return '<span class="na-cell">-</span>';
+    }
     const row = cell.getRow().getData();
-    // Bold + amber instead of plain when this is (one of) the earliest
-    // catalog(s) to list the CVE -- i.e. it's the catalog
-    // computeActiveSince's date actually came from. Recomputed live, so
-    // excluding a catalog via its header x button can hand this to
-    // whichever catalog is now earliest among what's left. Kept as the
-    // same checkmark glyph (not a star) -- a star reads as "favorite" in
-    // most Western UX conventions, not "chronologically first".
+    // Whole-cell background fill (like spreadsheet conditional
+    // formatting) when this is (one of) the earliest catalog(s) to list
+    // the CVE -- i.e. it's the catalog computeActiveSince's date
+    // actually came from. Recomputed live, so excluding a catalog via
+    // its header x button can hand this to whichever catalog is now
+    // earliest among what's left. Toggled directly on the cell element
+    // (not just the returned content) so the fill covers the full cell,
+    // not just the checkmark glyph.
     const isEarliest = !excludedCatalogs.has(field) && v === computeActiveSince(row);
-    const linkClass = isEarliest ? "catalog-link catalog-link-earliest" : "catalog-link";
+    cellEl.classList.toggle("earliest-cell", isEarliest);
     const titleText = isEarliest ? "Earliest listing among included catalogs" : "View on this catalog";
     const url = urlBuilder(row);
     if (!url) return "&#x2713;";
-    return `<a href="${url}" target="_blank" rel="noopener" class="${linkClass}" title="${titleText}">&#x2713;</a>`;
+    return `<a href="${url}" target="_blank" rel="noopener" class="catalog-link" title="${titleText}">&#x2713;</a>`;
   };
 }
 
