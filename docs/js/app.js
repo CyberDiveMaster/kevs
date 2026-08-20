@@ -96,6 +96,91 @@ function catalogFormatter(field) {
   };
 }
 
+const CATALOG_FIELDS = Object.keys(CATALOG_URL_BUILDERS);
+const CATALOG_LABELS = {
+  cisa_added: "CISA", enisa_added: "ENISA", circl_added: "CIRCL",
+  kevintel_added: "KEVIntel", vulncheck_added: "VulnCheck",
+};
+
+// --- "Exclude this catalog from the union" -- a small x button in each
+// catalog column's header. Excluding a catalog hides its column AND
+// drops any row that ONLY qualified for the table through that catalog
+// (i.e. isn't Yes in any of the still-active catalogs), since the whole
+// table is built as "listed in at least one of these 5". Excluded
+// catalogs stay recoverable via a chip in the toolbar rather than being
+// gone for good -- there's no other way back once a column is hidden.
+const excludedCatalogs = new Set();
+const excludedCatalogsEl = document.getElementById("excluded-catalogs");
+
+function renderExcludedChips() {
+  excludedCatalogsEl.innerHTML = "";
+  if (excludedCatalogs.size === 0) return;
+  const label = document.createElement("span");
+  label.classList.add("excluded-label");
+  label.textContent = "Excluded:";
+  excludedCatalogsEl.appendChild(label);
+  for (const field of CATALOG_FIELDS) {
+    if (!excludedCatalogs.has(field)) continue;
+    const chip = document.createElement("button");
+    chip.type = "button";
+    chip.classList.add("excluded-chip");
+    chip.textContent = `${CATALOG_LABELS[field]} ×`;
+    chip.title = `Restore ${CATALOG_LABELS[field]}`;
+    chip.addEventListener("click", () => restoreCatalog(field));
+    excludedCatalogsEl.appendChild(chip);
+  }
+}
+
+function excludeCatalog(field) {
+  excludedCatalogs.add(field);
+  const column = table.getColumn(field);
+  if (column) column.hide();
+  table.refreshFilter();
+  renderExcludedChips();
+}
+
+function restoreCatalog(field) {
+  excludedCatalogs.delete(field);
+  const column = table.getColumn(field);
+  if (column) column.show();
+  table.refreshFilter();
+  renderExcludedChips();
+}
+
+// A row qualifies as long as it's Yes in at least one catalog that
+// hasn't been excluded. Runs alongside (ANDed with) the normal header
+// filters via table.addFilter -- see near table construction below.
+function catalogUnionFilter(rowData) {
+  return CATALOG_FIELDS.some((field) => !excludedCatalogs.has(field) && rowData[field]);
+}
+
+function catalogTitleFormatter(field) {
+  const label = CATALOG_LABELS[field];
+  return function () {
+    const wrapper = document.createElement("span");
+    wrapper.classList.add("catalog-header-title");
+
+    const text = document.createElement("span");
+    text.textContent = label;
+
+    const closeBtn = document.createElement("button");
+    closeBtn.type = "button";
+    closeBtn.classList.add("catalog-hide-btn");
+    closeBtn.textContent = "×";
+    closeBtn.title = `Exclude ${label} from the table`;
+    // Stops the click from also reaching Tabulator's own header-click
+    // (sort) listener, which is attached higher up the same DOM chain.
+    closeBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      excludeCatalog(field);
+    });
+
+    wrapper.appendChild(text);
+    wrapper.appendChild(closeBtn);
+    return wrapper;
+  };
+}
+
 function presenceFilterFunc(headerValue, rowValue) {
   if (!headerValue || headerValue.length === 0) return true;
   const state = rowValue ? "yes" : "no";
@@ -311,12 +396,14 @@ const columns = [
   },
   {
     title: "CISA", field: "cisa_added", width: 116, hozAlign: "center",
+    titleFormatter: catalogTitleFormatter("cisa_added"),
     headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }),
     headerFilterFunc: presenceFilterFunc, headerFilterEmptyCheck: presenceEmptyCheck,
     formatter: catalogFormatter("cisa_added"),
   },
   {
     title: "ENISA", field: "enisa_added", width: 116, hozAlign: "center",
+    titleFormatter: catalogTitleFormatter("enisa_added"),
     headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }),
     headerFilterFunc: presenceFilterFunc, headerFilterEmptyCheck: presenceEmptyCheck,
     formatter: catalogFormatter("enisa_added"),
@@ -324,6 +411,7 @@ const columns = [
   },
   {
     title: "CIRCL", field: "circl_added", width: 116, hozAlign: "center",
+    titleFormatter: catalogTitleFormatter("circl_added"),
     headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }),
     headerFilterFunc: presenceFilterFunc, headerFilterEmptyCheck: presenceEmptyCheck,
     formatter: catalogFormatter("circl_added"),
@@ -331,12 +419,14 @@ const columns = [
   },
   {
     title: "KEVIntel", field: "kevintel_added", width: 116, hozAlign: "center",
+    titleFormatter: catalogTitleFormatter("kevintel_added"),
     headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }),
     headerFilterFunc: presenceFilterFunc, headerFilterEmptyCheck: presenceEmptyCheck,
     formatter: catalogFormatter("kevintel_added"),
   },
   {
     title: "VulnCheck", field: "vulncheck_added", width: 116, hozAlign: "center",
+    titleFormatter: catalogTitleFormatter("vulncheck_added"),
     headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }),
     headerFilterFunc: presenceFilterFunc, headerFilterEmptyCheck: presenceEmptyCheck,
     formatter: catalogFormatter("vulncheck_added"),
@@ -369,6 +459,11 @@ table.on("tableBuilt", () => {
   const titleEl = table.getColumn("cvss_score").getElement().querySelector(".tabulator-col-title");
   if (titleEl) titleEl.title = CVSS_VERSION_TOOLTIP;
 });
+
+// Runs ANDed with all header filters. A no-op while excludedCatalogs is
+// empty (every row is Yes in at least one catalog, by construction of
+// the dataset itself), so this is safe to leave permanently attached.
+table.addFilter(catalogUnionFilter);
 
 let totalRowCount = 0;
 const filterCountEl = document.getElementById("filter-count");

@@ -73,6 +73,51 @@ header h1 {
   text-decoration: none;
 }
 
+.catalog-header-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.catalog-hide-btn {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.85rem;
+  line-height: 1;
+  padding: 0 0.15rem;
+  opacity: 0.45;
+}
+
+.catalog-hide-btn:hover {
+  opacity: 1;
+  color: #c0392b;
+}
+
+#excluded-catalogs {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.85rem;
+}
+
+.excluded-label {
+  opacity: 0.7;
+}
+
+.excluded-chip {
+  border: 1px solid #888;
+  background: transparent;
+  border-radius: 999px;
+  padding: 0.1rem 0.55rem;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+.excluded-chip:hover {
+  background: rgba(128, 128, 128, 0.15);
+}
+
 .cvss-version-hint {
   opacity: 0.5;
   font-size: 0.8em;
