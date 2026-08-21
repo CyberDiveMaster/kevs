@@ -107,7 +107,7 @@ function catalogFormatter(field) {
     const titleText = isEarliest ? "Earliest listing among included catalogs" : "View on this catalog";
     const url = urlBuilder(row);
     if (!url) return "&#x2713;";
-    return `<a href="${url}" target="_blank" rel="noopener" class="catalog-link" title="${titleText}">&#x2713;</a>`;
+    return `<a href="${url}" target="_blank" rel="noopener" class="catalog-link" title="${escapeHtml(titleText)}">&#x2713;</a>`;
   };
 }
 
@@ -126,6 +126,15 @@ const CATALOG_HOME_URLS = {
   circl_added: "https://vulnerability.circl.lu/known-exploited-vulnerabilities-catalog/",
   kevintel_added: "https://kevintel.com/feed",
   vulncheck_added: "https://console.vulncheck.com/browse/kev",
+};
+
+// Explains what "Yes" in this column actually scopes to -- shown on the
+// column header (via catalogTitleFormatter), not per-cell, since it's a
+// property of the whole column rather than any individual CVE.
+const CATALOG_SCOPE_NOTES = {
+  enisa_added: "Column shows ENISA's own EU-specific findings only -- excludes CVEs ENISA's EUVD simply mirrors from CISA KEV.",
+  circl_added: "Column shows CIRCL's own original curation only -- excludes CVEs CIRCL mirrors from CISA, KEVIntel, ENISA, or Shadowserver.",
+  vulncheck_added: "Requires a free VulnCheck account to view.",
 };
 
 // --- "Exclude this catalog from the union" -- a small x button in each
@@ -185,6 +194,7 @@ function catalogUnionFilter(rowData) {
 function catalogTitleFormatter(field) {
   const label = CATALOG_LABELS[field];
   const homeUrl = CATALOG_HOME_URLS[field];
+  const scopeNote = CATALOG_SCOPE_NOTES[field];
   return function () {
     const wrapper = document.createElement("span");
     wrapper.classList.add("catalog-header-title");
@@ -194,7 +204,7 @@ function catalogTitleFormatter(field) {
     text.target = "_blank";
     text.rel = "noopener";
     text.textContent = label;
-    text.title = `Open ${label}'s KEV catalog`;
+    text.title = scopeNote ? `Open ${label}'s KEV catalog. ${scopeNote}` : `Open ${label}'s KEV catalog`;
     // Stops the click from also reaching Tabulator's own header-click
     // (sort) listener -- the link still navigates normally, this only
     // blocks the click from bubbling up to that ancestor listener.
@@ -480,7 +490,6 @@ const columns = [
     headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }),
     headerFilterFunc: presenceFilterFunc, headerFilterEmptyCheck: presenceEmptyCheck,
     formatter: catalogFormatter("enisa_added"),
-    tooltip: () => "ENISA's own EU-specific findings only -- excludes CVEs ENISA's EUVD simply mirrors from CISA KEV",
   },
   {
     title: "CIRCL", field: "circl_added", width: 116, hozAlign: "center",
@@ -488,7 +497,6 @@ const columns = [
     headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }),
     headerFilterFunc: presenceFilterFunc, headerFilterEmptyCheck: presenceEmptyCheck,
     formatter: catalogFormatter("circl_added"),
-    tooltip: () => "CIRCL's own original curation only -- excludes CVEs CIRCL mirrors from CISA, KEVIntel, ENISA, or Shadowserver",
   },
   {
     title: "KEVIntel", field: "kevintel_added", width: 116, hozAlign: "center",
@@ -503,7 +511,6 @@ const columns = [
     headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }),
     headerFilterFunc: presenceFilterFunc, headerFilterEmptyCheck: presenceEmptyCheck,
     formatter: catalogFormatter("vulncheck_added"),
-    tooltip: () => "Requires a free VulnCheck account to view",
   },
   {
     title: "Vendor", field: "vendor", headerFilter: "input",
