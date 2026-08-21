@@ -21856,6 +21856,7 @@
   "vendor": "n/a"
  },
  "CVE-2022-36559": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2022-08-29T22:46:21.000Z",
@@ -21863,6 +21864,7 @@
   "vendor": "n/a"
  },
  "CVE-2022-36560": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2022-08-29T22:46:22.000Z",
@@ -21870,6 +21872,7 @@
   "vendor": "n/a"
  },
  "CVE-2022-36642": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2022-09-02T21:23:28.000Z",
@@ -21919,6 +21922,7 @@
   "vendor": "n/a"
  },
  "CVE-2022-37061": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2022-08-18T00:00:00.000Z",
@@ -21926,6 +21930,7 @@
   "vendor": "n/a"
  },
  "CVE-2022-37129": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2022-08-31T22:44:57.000Z",
@@ -21933,6 +21938,7 @@
   "vendor": "n/a"
  },
  "CVE-2022-37153": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2022-08-24T12:22:56.000Z",
@@ -21947,6 +21953,7 @@
   "vendor": "Google"
  },
  "CVE-2022-37299": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2022-09-09T14:10:07.000Z",
@@ -21954,6 +21961,7 @@
   "vendor": "n/a"
  },
  "CVE-2022-37450": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2022-08-05T20:30:46.000Z",
@@ -21961,6 +21969,7 @@
   "vendor": "n/a"
  },
  "CVE-2022-37661": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2022-09-14T00:00:00.000Z",
@@ -22003,6 +22012,7 @@
   "vendor": "jegtheme"
  },
  "CVE-2022-38130": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2022-08-10T16:05:39.000Z",
@@ -22017,6 +22027,7 @@
   "vendor": "n/a"
  },
  "CVE-2022-38296": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2022-09-12T20:43:51.000Z",
@@ -22024,6 +22035,7 @@
   "vendor": "n/a"
  },
  "CVE-2022-38511": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2022-08-28T23:58:59.000Z",
@@ -22087,6 +22099,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2022-39960": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2022-09-17T17:49:35.000Z",
@@ -22094,6 +22107,7 @@
   "vendor": "n/a"
  },
  "CVE-2022-39986": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-08-01T00:00:00.000Z",
@@ -22185,6 +22199,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2022-40734": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2022-09-14T00:00:00.000Z",
@@ -22199,6 +22214,7 @@
   "vendor": "n/a"
  },
  "CVE-2022-40769": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2022-09-18T16:01:08.000Z",
@@ -22213,6 +22229,7 @@
   "vendor": "n/a"
  },
  "CVE-2022-40843": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2022-11-15T00:00:00.000Z",
@@ -22360,6 +22377,7 @@
   "vendor": "Collne Inc."
  },
  "CVE-2022-42045": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-07-13T00:00:00.000Z",
@@ -22465,6 +22483,7 @@
   "vendor": "Apple"
  },
  "CVE-2022-42889": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2022-10-13T00:00:00.000Z",
@@ -22745,6 +22764,7 @@
   "vendor": "Apple"
  },
  "CVE-2022-46705": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-02-27T00:00:00.000Z",
@@ -22752,6 +22772,7 @@
   "vendor": "Apple"
  },
  "CVE-2022-46718": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-06-23T00:00:00.000Z",
@@ -22990,6 +23011,7 @@
   "vendor": "Unknown"
  },
  "CVE-2023-0159": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-02-13T14:32:03.338Z",
@@ -23046,6 +23068,7 @@
   "vendor": "TRENDnet"
  },
  "CVE-2023-0656": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-03-02T00:00:00.000Z",
@@ -23158,6 +23181,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-1434": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": null,
@@ -23522,6 +23546,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-23063": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-02-22T00:00:00.000Z",
@@ -23571,6 +23596,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-23496": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-02-27T00:00:00.000Z",
@@ -23606,6 +23632,7 @@
   "vendor": "Apple"
  },
  "CVE-2023-2359": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-06-19T10:52:49.053Z",
@@ -23641,6 +23668,7 @@
   "vendor": "GamiPress"
  },
  "CVE-2023-24055": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-01-22T00:00:00.000Z",
@@ -23690,6 +23718,7 @@
   "vendor": "Citrix"
  },
  "CVE-2023-24733": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-03-06T00:00:00.000Z",
@@ -23865,6 +23894,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-26258": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-07-03T00:00:00.000Z",
@@ -23921,6 +23951,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2023-26469": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-08-17T00:00:00.000Z",
@@ -23949,6 +23980,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-26775": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-04-04T00:00:00.000Z",
@@ -24012,6 +24044,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-27240": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-03-15T00:00:00.000Z",
@@ -24117,6 +24150,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-2796": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-07-10T12:40:07.475Z",
@@ -24145,6 +24179,7 @@
   "vendor": "Weaver"
  },
  "CVE-2023-28121": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-04-12T00:00:00.000Z",
@@ -24201,6 +24236,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2023-28343": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-03-14T00:00:00.000Z",
@@ -24208,6 +24244,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-28365": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-06-30T23:40:13.388Z",
@@ -24264,6 +24301,7 @@
   "vendor": "Zyxel"
  },
  "CVE-2023-2877": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-06-27T13:17:12.873Z",
@@ -24292,6 +24330,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-29218": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-04-03T00:00:00.000Z",
@@ -24481,6 +24520,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-3139": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-07-04T07:23:27.209Z",
@@ -24495,6 +24535,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-31465": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-07-26T00:00:00.000Z",
@@ -24593,6 +24634,7 @@
   "vendor": "Apple"
  },
  "CVE-2023-32402": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-06-23T00:00:00.000Z",
@@ -24607,6 +24649,7 @@
   "vendor": "Apple"
  },
  "CVE-2023-32423": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-06-23T00:00:00.000Z",
@@ -24761,6 +24804,7 @@
   "vendor": "Chamilo"
  },
  "CVE-2023-33831": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-09-18T00:00:00.000Z",
@@ -24831,6 +24875,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2023-34598": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-06-29T00:00:00.000Z",
@@ -24838,6 +24883,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-3460": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-07-04T07:23:28.852Z",
@@ -24845,6 +24891,7 @@
   "vendor": "Unknown"
  },
  "CVE-2023-34659": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-06-16T00:00:00.000Z",
@@ -24866,6 +24913,7 @@
   "vendor": "Citrix"
  },
  "CVE-2023-34960": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-08-01T00:00:00.000Z",
@@ -24887,6 +24935,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-35042": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-06-12T00:00:00.000Z",
@@ -24936,6 +24985,7 @@
   "vendor": "Google"
  },
  "CVE-2023-35708": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-06-16T00:00:00.000Z",
@@ -24943,6 +24993,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-35813": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-06-17T00:00:00.000Z",
@@ -25013,6 +25064,7 @@
   "vendor": "Ruijie"
  },
  "CVE-2023-36144": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-06-30T00:00:00.000Z",
@@ -25139,6 +25191,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2023-36934": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-07-05T00:00:00.000Z",
@@ -25181,6 +25234,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2023-37679": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-08-03T00:00:00.000Z",
@@ -25223,6 +25277,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2023-38192": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-10-21T00:00:00.000Z",
@@ -25230,6 +25285,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-38198": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-07-13T00:00:00.000Z",
@@ -25286,6 +25342,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-38433": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-07-26T07:44:04.302Z",
@@ -25307,6 +25364,7 @@
   "vendor": "Apple"
  },
  "CVE-2023-38646": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-07-21T00:00:00.000Z",
@@ -25321,6 +25379,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-38817": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-10-11T00:00:00.000Z",
@@ -25356,6 +25415,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-39026": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-08-22T00:00:00.000Z",
@@ -25377,6 +25437,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2023-39276": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-10-17T22:04:34.956Z",
@@ -25384,6 +25445,7 @@
   "vendor": "SonicWall"
  },
  "CVE-2023-39277": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-10-17T22:08:55.318Z",
@@ -25391,6 +25453,7 @@
   "vendor": "SonicWall"
  },
  "CVE-2023-39278": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-10-17T22:12:29.594Z",
@@ -25398,6 +25461,7 @@
   "vendor": "SonicWall"
  },
  "CVE-2023-39279": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-10-17T22:15:00.711Z",
@@ -25405,6 +25469,7 @@
   "vendor": "SonicWall"
  },
  "CVE-2023-39280": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-10-17T22:17:36.308Z",
@@ -25440,6 +25505,7 @@
   "vendor": "ASUS"
  },
  "CVE-2023-39796": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-11-10T00:00:00.000Z",
@@ -25447,6 +25513,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-39910": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-08-09T00:00:00.000Z",
@@ -25503,6 +25570,7 @@
   "vendor": "Exactly WWW"
  },
  "CVE-2023-40711": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-08-20T00:00:00.000Z",
@@ -25510,6 +25578,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-40748": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-08-28T00:00:00.000Z",
@@ -25517,6 +25586,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-41011": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-09-14T00:00:00.000Z",
@@ -25538,6 +25608,7 @@
   "vendor": "Apple"
  },
  "CVE-2023-41109": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-08-28T00:00:00.000Z",
@@ -25601,6 +25672,7 @@
   "vendor": "ASUS"
  },
  "CVE-2023-41599": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-09-19T00:00:00.000Z",
@@ -25608,6 +25680,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-41642": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-08-31T00:00:00.000Z",
@@ -25762,6 +25835,7 @@
   "vendor": "Apple"
  },
  "CVE-2023-43177": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-11-17T00:00:00.000Z",
@@ -25846,6 +25920,7 @@
   "vendor": "Adobe"
  },
  "CVE-2023-44467": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-10-09T00:00:00.000Z",
@@ -25909,6 +25984,7 @@
   "vendor": "Acronis"
  },
  "CVE-2023-45311": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-10-06T00:00:00.000Z",
@@ -25944,6 +26020,7 @@
   "vendor": "Helix"
  },
  "CVE-2023-45852": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-10-14T00:00:00.000Z",
@@ -25951,6 +26028,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-45878": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-11-14T00:00:00.000Z",
@@ -25965,6 +26043,7 @@
   "vendor": "wpmudev"
  },
  "CVE-2023-46229": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-10-19T00:00:00.000Z",
@@ -25986,6 +26065,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-46574": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-10-24T00:00:00.000Z",
@@ -26063,6 +26143,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-47248": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-11-09T08:17:08.431Z",
@@ -26119,6 +26200,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-48084": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-12-14T00:00:00.000Z",
@@ -26175,6 +26257,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-49070": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-12-05T08:05:06.966Z",
@@ -26245,6 +26328,7 @@
   "vendor": "hit-reach"
  },
  "CVE-2023-50164": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-12-07T08:49:19.853Z",
@@ -26280,6 +26364,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2023-50428": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-12-09T00:00:00.000Z",
@@ -26308,6 +26393,7 @@
   "vendor": "D-Link"
  },
  "CVE-2023-50917": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-12-15T00:00:00.000Z",
@@ -26322,6 +26408,7 @@
   "vendor": "n/a"
  },
  "CVE-2023-50968": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-12-26T11:45:55.393Z",
@@ -26336,6 +26423,7 @@
   "vendor": "Jordy Meow"
  },
  "CVE-2023-51467": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-12-26T14:46:59.800Z",
@@ -26427,6 +26515,7 @@
   "vendor": "Tongda"
  },
  "CVE-2023-5360": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-10-31T13:54:42.111Z",
@@ -26448,6 +26537,7 @@
   "vendor": "Adivaha"
  },
  "CVE-2023-5559": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-11-27T16:22:06.218Z",
@@ -26497,6 +26587,7 @@
   "vendor": "Cloud Software Group"
  },
  "CVE-2023-5970": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-12-05T20:20:01.534Z",
@@ -26525,6 +26616,7 @@
   "vendor": "h2oai"
  },
  "CVE-2023-6114": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-12-26T18:33:12.631Z",
@@ -26560,6 +26652,7 @@
   "vendor": "Google"
  },
  "CVE-2023-6360": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": 8.6,
   "cvss_version": "3.1",
   "date_published": "2023-11-30T15:17:14.959Z",
@@ -26700,6 +26793,7 @@
   "vendor": "Douglas Wilson"
  },
  "CVE-2023-7102": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-12-24T21:47:20.453Z",
@@ -26973,6 +27067,7 @@
   "vendor": "eugenbobrowski"
  },
  "CVE-2024-1061": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": 8.6,
   "cvss_version": "3.1",
   "date_published": "2024-01-30T08:26:23.960Z",
@@ -28072,6 +28167,7 @@
   "vendor": "instawp"
  },
  "CVE-2024-26987": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2024-05-01T05:27:34.523Z",
@@ -28408,6 +28504,7 @@
   "vendor": "n/a"
  },
  "CVE-2024-29291": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2024-04-16T00:00:00.000Z",
@@ -30781,6 +30878,7 @@
   "vendor": "n/a"
  },
  "CVE-2024-57049": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2025-02-18T00:00:00.000Z",
@@ -31782,6 +31880,7 @@
   "vendor": "kstover"
  },
  "CVE-2025-11953": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": 9.8,
   "cvss_version": "3.1",
   "date_published": "2025-11-03T16:35:07.168Z",
@@ -32797,6 +32896,7 @@
   "vendor": "n/a"
  },
  "CVE-2025-2825": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2025-03-26T15:58:14.218Z",
@@ -34638,6 +34738,7 @@
   "vendor": "withastro"
  },
  "CVE-2025-55346": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": 9.8,
   "cvss_version": "3.1",
   "date_published": "2025-08-14T09:49:52.293Z",
@@ -35443,6 +35544,7 @@
   "vendor": "TOTOLINK"
  },
  "CVE-2025-8943": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": 9.8,
   "cvss_version": "3.1",
   "date_published": "2025-08-14T09:54:22.531Z",
@@ -36122,6 +36224,7 @@
   "vendor": "SmarterTools"
  },
  "CVE-2026-23800": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": 10,
   "cvss_version": "3.1",
   "date_published": "2026-01-16T20:40:13.232Z",
@@ -36661,6 +36764,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": null,
@@ -36766,6 +36870,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
+  "checked_at": "2026-08-21T12:34:55.241277+00:00",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": null,
