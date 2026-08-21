@@ -117,6 +117,17 @@ const CATALOG_LABELS = {
   kevintel_added: "KEVIntel", vulncheck_added: "VulnCheck",
 };
 
+// Each catalog's own top-level page (not a per-CVE deep link, which is
+// what the checkmark cells already link to -- this is just "what is
+// this catalog").
+const CATALOG_HOME_URLS = {
+  cisa_added: "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+  enisa_added: "https://euvd.enisa.europa.eu/",
+  circl_added: "https://vulnerability.circl.lu/kev-catalogs",
+  kevintel_added: "https://kevintel.com/",
+  vulncheck_added: "https://vulncheck.com/kev",
+};
+
 // --- "Exclude this catalog from the union" -- a small x button in each
 // catalog column's header. Excluding a catalog hides its column AND
 // drops any row that ONLY qualified for the table through that catalog
@@ -173,12 +184,21 @@ function catalogUnionFilter(rowData) {
 
 function catalogTitleFormatter(field) {
   const label = CATALOG_LABELS[field];
+  const homeUrl = CATALOG_HOME_URLS[field];
   return function () {
     const wrapper = document.createElement("span");
     wrapper.classList.add("catalog-header-title");
 
-    const text = document.createElement("span");
+    const text = document.createElement("a");
+    text.href = homeUrl;
+    text.target = "_blank";
+    text.rel = "noopener";
     text.textContent = label;
+    text.title = `Open ${label}'s KEV catalog`;
+    // Stops the click from also reaching Tabulator's own header-click
+    // (sort) listener -- the link still navigates normally, this only
+    // blocks the click from bubbling up to that ancestor listener.
+    text.addEventListener("click", (e) => e.stopPropagation());
 
     const closeBtn = document.createElement("button");
     closeBtn.type = "button";
