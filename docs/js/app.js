@@ -435,7 +435,7 @@ const columns = [
     formatter: dateFormatter,
   },
   {
-    title: "Active Since", field: "active_since", width: 140, sorter: activeSinceSorter,
+    title: "First Listed", field: "active_since", width: 140, sorter: activeSinceSorter,
     headerFilter: dateRangeHeaderFilter, headerFilterFunc: activeSinceFilterFunc,
     headerFilterEmptyCheck: dateRangeEmptyCheck, headerFilterLiveFilter: false,
     formatter: activeSinceFormatter,
