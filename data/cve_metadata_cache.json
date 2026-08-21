@@ -35979,6 +35979,13 @@
   "product": "Endpoint Manager Mobile",
   "vendor": "Ivanti"
  },
+ "CVE-2026-69836": {
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-20T21:43:12.611Z",
+  "product": "Microsoft Entra",
+  "vendor": "Microsoft"
+ },
  "CVE-2026-72529": {
   "cvss_score": 9.3,
   "cvss_version": "4.0",
@@ -36062,6 +36069,13 @@
   "date_published": "2026-06-19T05:33:29.949Z",
   "product": "BetterDocs Pro",
   "vendor": "betterdocs"
+ },
+ "CVE-2026-77647": {
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-20T22:24:39.626Z",
+  "product": "SPIP",
+  "vendor": "SPIP"
  },
  "CVE-2026-8037": {
   "cvss_score": 9.6,
