@@ -123,9 +123,9 @@ const CATALOG_LABELS = {
 const CATALOG_HOME_URLS = {
   cisa_added: "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
   enisa_added: "https://euvd.enisa.europa.eu/",
-  circl_added: "https://vulnerability.circl.lu/kev-catalogs",
-  kevintel_added: "https://kevintel.com/",
-  vulncheck_added: "https://vulncheck.com/kev",
+  circl_added: "https://vulnerability.circl.lu/known-exploited-vulnerabilities-catalog/",
+  kevintel_added: "https://kevintel.com/feed",
+  vulncheck_added: "https://console.vulncheck.com/browse/kev",
 };
 
 // --- "Exclude this catalog from the union" -- a small x button in each
