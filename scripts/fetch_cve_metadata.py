@@ -13,7 +13,16 @@ the last run, not the whole union every time. A single run also caps how
 many NEW lookups it performs (CVE_METADATA_MAX_PER_RUN) so an initial
 backfill of several thousand CVEs spreads across a few scheduled runs
 instead of blowing past GitHub Actions' 6-hour job limit.
+
+A cache entry with a null field (most often a CVE that was still
+"RESERVED" -- not yet published -- when first fetched) is NOT permanent:
+entries missing date_published/cvss_score/vendor/product are retried
+every RECHECK_INTERVAL, tracked via each entry's own "checked_at"
+timestamp, so a since-published record eventually gets picked up. A
+literal "n/a" string (some older CNA records genuinely say that) is real
+data, not a gap, and is never retried.
 """
+import datetime
 import json
 import os
 import re
@@ -26,6 +35,7 @@ from http_util import USER_AGENT
 CVE_RE = re.compile(r"^CVE-(\d{4})-(\d{4,7})$")
 BASE_URL = "https://cveawg.mitre.org/api/cve"
 DEFAULT_MAX_PER_RUN = 1500
+RECHECK_INTERVAL = datetime.timedelta(days=7)
 
 # v4.0 > v3.1 > v3.0 > v2.0, matching the convention already used by
 # Vulnrichment Viewer (see cvss-version-hint in that project's app.js).
@@ -98,6 +108,23 @@ def _fetch_one(cve_id):
     }
 
 
+def _is_incomplete(entry):
+    return any(entry.get(k) is None for k in ("date_published", "cvss_score", "vendor", "product"))
+
+
+def _needs_recheck(entry, now):
+    if not _is_incomplete(entry):
+        return False
+    checked_at = entry.get("checked_at")
+    if not checked_at:
+        return True  # cached before this field existed -- due immediately
+    try:
+        checked_dt = datetime.datetime.fromisoformat(checked_at)
+    except ValueError:
+        return True
+    return now - checked_dt >= RECHECK_INTERVAL
+
+
 def load_cache(path):
     if os.path.exists(path):
         with open(path, "r", encoding="utf-8") as f:
@@ -116,12 +143,15 @@ def ensure_metadata(cve_ids, cache_path, max_per_run=None):
     if max_per_run is None:
         max_per_run = int(os.environ.get("CVE_METADATA_MAX_PER_RUN", DEFAULT_MAX_PER_RUN))
     min_interval = _min_interval_seconds()
+    now = datetime.datetime.now(datetime.timezone.utc)
 
     cache = load_cache(cache_path)
-    missing = [c for c in cve_ids if c not in cache][:max_per_run]
+    due = [c for c in cve_ids if c not in cache or _needs_recheck(cache[c], now)]
+    due = due[:max_per_run]
+
     fetched = 0
     last_request_at = 0.0
-    for cve_id in missing:
+    for cve_id in due:
         elapsed = time.monotonic() - last_request_at
         if elapsed < min_interval:
             time.sleep(min_interval - elapsed)
@@ -129,6 +159,7 @@ def ensure_metadata(cve_ids, cache_path, max_per_run=None):
 
         meta = _fetch_one(cve_id)
         if meta is not None:
+            meta["checked_at"] = now.isoformat()
             cache[cve_id] = meta
             fetched += 1
     if fetched:
