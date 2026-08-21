@@ -37675,6 +37675,14 @@
   "product": "BetterDocs Pro",
   "vendor": "betterdocs"
  },
+ "CVE-2026-76904": {
+  "checked_at": "2026-08-21T21:18:30.773836+00:00",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-21T20:13:20.536Z",
+  "product": "geotools",
+  "vendor": "geotools"
+ },
  "CVE-2026-77647": {
   "cvss_score": 9.8,
   "cvss_version": "3.1",
