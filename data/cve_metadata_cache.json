@@ -37682,6 +37682,14 @@
   "product": "SPIP",
   "vendor": "SPIP"
  },
+ "CVE-2026-77806": {
+  "checked_at": "2026-08-21T15:26:46.515695+00:00",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-21T13:37:43.289Z",
+  "product": "SPIP",
+  "vendor": "SPIP"
+ },
  "CVE-2026-8037": {
   "cvss_score": 9.6,
   "cvss_version": "3.1",
