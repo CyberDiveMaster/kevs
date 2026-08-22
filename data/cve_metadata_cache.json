@@ -37374,6 +37374,14 @@
   "product": "OMGF Pro",
   "vendor": "Daan.dev"
  },
+ "CVE-2026-57739": {
+  "checked_at": "2026-08-22T18:20:19.161617+00:00",
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-13T08:41:24.999Z",
+  "product": "AcyMailing SMTP Newsletter",
+  "vendor": "AcyMailing Newsletter Team"
+ },
  "CVE-2026-58138": {
   "cvss_score": 9.3,
   "cvss_version": "4.0",
