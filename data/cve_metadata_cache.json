@@ -17239,6 +17239,14 @@
   "product": "n/a",
   "vendor": "n/a"
  },
+ "CVE-2021-27691": {
+  "checked_at": "2026-08-23T12:27:05.117926+00:00",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2021-04-15T23:14:46.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
  "CVE-2021-27692": {
   "checked_at": "2026-08-21T09:30:34.918964+00:00",
   "cvss_score": null,
@@ -31738,6 +31746,14 @@
   "date_published": "2025-09-09T02:32:10.145Z",
   "product": "DIR-823X",
   "vendor": "D-Link"
+ },
+ "CVE-2025-10164": {
+  "checked_at": "2026-08-23T12:27:05.117926+00:00",
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2025-09-09T18:32:06.015Z",
+  "product": "sglang",
+  "vendor": "lmsys"
  },
  "CVE-2025-10204": {
   "cvss_score": 7.1,
