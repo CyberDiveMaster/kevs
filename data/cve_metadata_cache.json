@@ -35826,6 +35826,14 @@
   "product": "User Profile Builder \u2013 Beautiful User Registration Forms, User Profiles & User Role Editor",
   "vendor": "cozmoslabs"
  },
+ "CVE-2026-15981": {
+  "checked_at": "2026-08-25T15:37:21.941769+00:00",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-23T20:33:51.362Z",
+  "product": "SAML Single Sign On \u2013 SSO Login",
+  "vendor": "cyberlord92"
+ },
  "CVE-2026-1603": {
   "cvss_score": 8.6,
   "cvss_version": "3.1",
@@ -35902,6 +35910,14 @@
   "date_published": "2026-03-26T06:00:09.659Z",
   "product": "LeadConnector",
   "vendor": "Unknown"
+ },
+ "CVE-2026-18963": {
+  "checked_at": "2026-08-25T15:37:21.941769+00:00",
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-18T17:05:07.478Z",
+  "product": "Red Hat build of Keycloak 26.4; Red Hat build of Keycloak 26.4.15; Red Hat build of Keycloak 26.6; Red Hat build of Keycloak 26.6.6; Red Hat JBoss Enterprise Application Platform Expansion Pack; Red Hat Single Sign-On 7",
+  "vendor": "Red Hat"
  },
  "CVE-2026-1937": {
   "cvss_score": 7.2,
@@ -37482,6 +37498,14 @@
   "product": "WordPress",
   "vendor": "WordPress"
  },
+ "CVE-2026-61979": {
+  "checked_at": "2026-08-25T15:37:21.941769+00:00",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-13T13:36:45.984Z",
+  "product": "SAML SP Single Sign On",
+  "vendor": "miniOrange"
+ },
  "CVE-2026-63030": {
   "cvss_score": 9.8,
   "cvss_version": "3.1",
@@ -37495,6 +37519,14 @@
   "date_published": "2026-07-27T16:44:32.290Z",
   "product": "TeamCity",
   "vendor": "JetBrains"
+ },
+ "CVE-2026-63520": {
+  "checked_at": "2026-08-25T15:37:21.941769+00:00",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-11T17:03:31.370Z",
+  "product": "Microsoft SharePoint Enterprise Server 2016; Microsoft SharePoint Server 2019; Microsoft SharePoint Server Subscription Edition",
+  "vendor": "Microsoft"
  },
  "CVE-2026-6433": {
   "cvss_score": 7.3,
