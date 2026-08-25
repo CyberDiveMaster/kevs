@@ -37715,6 +37715,14 @@
   "product": "geotools",
   "vendor": "geotools"
  },
+ "CVE-2026-77136": {
+  "checked_at": "2026-08-25T09:29:17.336394+00:00",
+  "cvss_score": 9.5,
+  "cvss_version": "4.0",
+  "date_published": "2026-08-25T09:00:39.526Z",
+  "product": "Extension \"powermail\"",
+  "vendor": "TYPO3"
+ },
  "CVE-2026-77647": {
   "cvss_score": 9.8,
   "cvss_version": "3.1",
