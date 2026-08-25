@@ -35812,6 +35812,14 @@
   "product": "WP Responsive Images",
   "vendor": "stuartbates"
  },
+ "CVE-2026-15780": {
+  "checked_at": "2026-08-25T18:31:26.722400+00:00",
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-19T06:37:54.188Z",
+  "product": "WP Statistics \u2013 Simple, privacy-friendly Google Analytics alternative",
+  "vendor": "veronalabs"
+ },
  "CVE-2026-1581": {
   "cvss_score": 7.5,
   "cvss_version": "3.1",
@@ -35868,6 +35876,14 @@
   "date_published": "2026-07-23T08:26:24.453Z",
   "product": "Fastjson",
   "vendor": "Alibaba"
+ },
+ "CVE-2026-16747": {
+  "checked_at": "2026-08-25T18:31:26.722400+00:00",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-12T11:24:00.245Z",
+  "product": "Kirki",
+  "vendor": "Unknown"
  },
  "CVE-2026-16812": {
   "cvss_score": 10,
@@ -37490,6 +37506,14 @@
   "date_published": "2026-07-08T19:32:18.611Z",
   "product": "litellm",
   "vendor": "BerriAI"
+ },
+ "CVE-2026-60004": {
+  "checked_at": "2026-08-25T18:31:26.722400+00:00",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": null,
+  "product": null,
+  "vendor": null
  },
  "CVE-2026-60137": {
   "cvss_score": 5.9,
