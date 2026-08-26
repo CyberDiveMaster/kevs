@@ -24854,6 +24854,14 @@
   "product": "GMS; Analytics",
   "vendor": "SonicWall"
  },
+ "CVE-2023-34132": {
+  "checked_at": "2026-08-26T16:13:20.299613+00:00",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2023-07-13T02:24:25.820Z",
+  "product": "GMS; Analytics",
+  "vendor": "SonicWall"
+ },
  "CVE-2023-34133": {
   "cvss_score": 7.5,
   "cvss_version": "3.1",
