@@ -26287,6 +26287,14 @@
   "product": "n/a",
   "vendor": "n/a"
  },
+ "CVE-2023-49105": {
+  "checked_at": "2026-08-26T19:42:13.764035+00:00",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2023-11-21T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
  "CVE-2023-4911": {
   "cvss_score": 7.8,
   "cvss_version": "3.1",
@@ -35792,6 +35800,14 @@
   "product": "User Registration & Membership \u2013 Free & Paid Memberships, Subscriptions, Content Restriction, User Profile, Custom User Registration & Login Builder",
   "vendor": "wpeverest"
  },
+ "CVE-2026-15039": {
+  "checked_at": "2026-08-26T19:42:13.764035+00:00",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-12T06:00:13.644Z",
+  "product": "giftware",
+  "vendor": "Unknown"
+ },
  "CVE-2026-15409": {
   "cvss_score": 10,
   "cvss_version": "3.1",
@@ -35927,6 +35943,14 @@
   "date_published": "2026-08-02T22:06:18.296Z",
   "product": "N-central",
   "vendor": "N-able"
+ },
+ "CVE-2026-18781": {
+  "checked_at": "2026-08-26T19:42:13.764035+00:00",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-21T06:00:16.993Z",
+  "product": "Drag and Drop Multiple File Upload for Contact Form 7",
+  "vendor": "Unknown"
  },
  "CVE-2026-1890": {
   "cvss_score": 5.3,
@@ -36567,6 +36591,14 @@
   "product": "Linux",
   "vendor": "Linux"
  },
+ "CVE-2026-31635": {
+  "checked_at": "2026-08-26T19:42:13.764035+00:00",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-24T14:44:49.963Z",
+  "product": "Linux",
+  "vendor": "Linux"
+ },
  "CVE-2026-31816": {
   "cvss_score": 9.1,
   "cvss_version": "3.1",
@@ -36608,6 +36640,14 @@
   "date_published": "2026-03-25T16:15:00.491Z",
   "product": "ChatBot",
   "vendor": "QuantumCloud"
+ },
+ "CVE-2026-32558": {
+  "checked_at": "2026-08-26T19:42:13.764035+00:00",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-24T11:54:54.444Z",
+  "product": "Affiliate Pro - Affiliate Program for WooCommerce & WordPress",
+  "vendor": "RedefiningTheWeb"
  },
  "CVE-2026-32562": {
   "cvss_score": 5.4,
@@ -37031,6 +37071,14 @@
   "product": "Linux",
   "vendor": "Linux"
  },
+ "CVE-2026-43494": {
+  "checked_at": "2026-08-26T19:42:13.764035+00:00",
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-21T10:49:21.310Z",
+  "product": "Linux",
+  "vendor": "Linux"
+ },
  "CVE-2026-43500": {
   "cvss_score": 7.8,
   "cvss_version": "3.1",
@@ -37122,12 +37170,28 @@
   "product": "Microsoft SharePoint Enterprise Server 2016; Microsoft SharePoint Server 2019; Microsoft SharePoint Server Subscription Edition",
   "vendor": "Microsoft"
  },
+ "CVE-2026-46300": {
+  "checked_at": "2026-08-26T19:42:13.764035+00:00",
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-23T11:44:02.231Z",
+  "product": "Linux",
+  "vendor": "Linux"
+ },
  "CVE-2026-4631": {
   "cvss_score": 9.8,
   "cvss_version": "3.1",
   "date_published": "2026-04-07T16:30:28.069Z",
   "product": "Red Hat Enterprise Linux 10; Red Hat Enterprise Linux 10.0 Extended Update Support; Red Hat Enterprise Linux 9; Red Hat Enterprise Linux 9.6 Extended Update Support; Red Hat Enterprise Linux 7; Red Hat Enterprise Linux 8",
   "vendor": "Red Hat"
+ },
+ "CVE-2026-46331": {
+  "checked_at": "2026-08-26T19:42:13.764035+00:00",
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-16T06:26:21.066Z",
+  "product": "Linux",
+  "vendor": "Linux"
  },
  "CVE-2026-46442": {
   "cvss_score": 9.4,
@@ -37199,6 +37263,14 @@
   "product": "phpBB",
   "vendor": "phpBB"
  },
+ "CVE-2026-48710": {
+  "checked_at": "2026-08-26T19:42:13.764035+00:00",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-26T21:54:54.393Z",
+  "product": "starlette",
+  "vendor": "Kludex"
+ },
  "CVE-2026-48907": {
   "cvss_score": 10,
   "cvss_version": "4.0",
@@ -37247,6 +37319,14 @@
   "date_published": "2026-06-05T08:59:53.320Z",
   "product": "Product Slider Pro for WooCommerce",
   "vendor": "ShapedPlugin, LLC"
+ },
+ "CVE-2026-49869": {
+  "checked_at": "2026-08-26T19:42:13.764035+00:00",
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-26T20:58:19.576Z",
+  "product": "kestra",
+  "vendor": "kestra-io"
  },
  "CVE-2026-5027": {
   "cvss_score": 8.8,
