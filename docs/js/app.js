@@ -240,6 +240,23 @@ function catalogUnionFilter(rowData) {
   return CATALOG_FIELDS.some((field) => !excludedCatalogs.has(field) && rowData[field]);
 }
 
+// Plain link-only column header (no exclude button, unlike
+// catalogTitleFormatter) -- just the title text itself linking out to a
+// reference page.
+function linkTitleFormatter(label, url) {
+  return function () {
+    const link = document.createElement("a");
+    link.classList.add("header-link");
+    link.href = url;
+    link.target = "_blank";
+    link.rel = "noopener";
+    link.textContent = label;
+    link.title = `About ${label}`;
+    link.addEventListener("click", (e) => e.stopPropagation());
+    return link;
+  };
+}
+
 function catalogTitleFormatter(field) {
   const label = CATALOG_LABELS[field];
   const homeUrl = CATALOG_HOME_URLS[field];
@@ -528,6 +545,7 @@ const columns = [
   },
   {
     title: "EPSS", field: "epss", sorter: "number",
+    titleFormatter: linkTitleFormatter("EPSS", "https://www.first.org/epss/"),
     sorterParams: { alignEmptyValues: "bottom" },
     headerFilter: "input", headerFilterFunc: epssMinFilterFunc,
     headerFilterPlaceholder: "Min %", formatter: epssFormatter,
