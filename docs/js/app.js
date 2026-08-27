@@ -26,6 +26,26 @@ function truncateFormatter(maxLen) {
   };
 }
 
+// Same as truncateFormatter, but appends a small "NVD" hint (same style
+// as the CVSS version hint) when the CNA's own record left this field
+// "n/a"/empty and NVD's own CPE data was used instead -- see
+// vendor_from_nvd/product_from_nvd in build.py.
+function vendorProductFormatter(maxLen, fromNvdField) {
+  return function (cell) {
+    const v = cell.getValue();
+    if (v === null || v === undefined || v === "") {
+      return '<span class="na-cell">-</span>';
+    }
+    const str = String(v);
+    const shown = str.length <= maxLen ? escapeHtml(str) : escapeHtml(str.slice(0, maxLen)) + "…";
+    const fromNvd = cell.getRow().getData()[fromNvdField];
+    const hint = fromNvd
+      ? ` <span class="cvss-version-hint" title="cve.org's own record didn't provide this -- taken from NVD's CPE data instead">NVD</span>`
+      : "";
+    return shown + hint;
+  };
+}
+
 function fullValueTooltip(e, cell) {
   return cell.getValue() || "";
 }
@@ -516,13 +536,13 @@ const columns = [
     title: "Vendor", field: "vendor", headerFilter: "input",
     headerFilterFunc: pipeOrFilterFunc, headerFilterPlaceholder: "e.g. forti|palo|sonic",
     sorter: "string", sorterParams: { alignEmptyValues: "bottom" },
-    formatter: truncateFormatter(50), tooltip: fullValueTooltip,
+    formatter: vendorProductFormatter(50, "vendor_from_nvd"), tooltip: fullValueTooltip,
   },
   {
     title: "Product", field: "product", headerFilter: "input",
     headerFilterFunc: pipeOrFilterFunc, headerFilterPlaceholder: "e.g. fortios|pan-os|sonicos",
     sorter: "string", sorterParams: { alignEmptyValues: "bottom" },
-    formatter: truncateFormatter(50), tooltip: fullValueTooltip,
+    formatter: vendorProductFormatter(50, "product_from_nvd"), tooltip: fullValueTooltip,
   },
 ];
 

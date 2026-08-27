@@ -62,6 +62,10 @@ jobs:
           CVE_API_KEY: ${{ secrets.CVE_API_KEY }}
           CVE_API_ORG: ${{ secrets.CVE_API_ORG }}
           CVE_API_USER: ${{ secrets.CVE_API_USER }}
+          # Free, instant self-serve signup (unlike CVE_API_KEY above) --
+          # raises the NVD vendor/product fallback lookup rate limit from
+          # 5/30s to 50/30s.
+          NVD_API_KEY: ${{ secrets.NVD_API_KEY }}
         run: python scripts/build.py
 
       - name: Commit and push if changed

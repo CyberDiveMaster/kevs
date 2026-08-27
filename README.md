@@ -16,6 +16,8 @@ Since / CVSS Score / 各カタログ掲載有無 / Vendor / Product でフィル
 | CISA | 公開JSON( `known_exploited_vulnerabilities.json` )を1回取得 | 不要 |
 | ENISA (EUVD) | `/api/kev/dump` を1回取得(全件ダンプ) | 不要 |
 | CIRCL | `vulnerability.circl.lu/api/kev/` をページング取得 | 不要 |
+| VulnCheck | `/v3/backup/vulncheck-kev` で全件バックアップzipのURLを取得しダウンロード | APIキー(Bearer) |
+| KEVIntel | `/api/v2/kevs` をページング取得(無料枠) | APIキー(`X-API-Token`) |
 
 **ENISA・CIRCLの掲載判定について:** どちらも「自前のKEVカタログ」を謳って
 いるが、実データはCISA KEV(および他カタログ)を丸ごと自社DBに取り込んで
@@ -25,26 +27,27 @@ Since / CVSS Score / 各カタログ掲載有無 / Vendor / Product でフィル
 - **ENISA**: `sources` に `eukev_kev`(ENISA独自のEU域内調査によるタグ)
   が含まれるエントリのみ対象。`cisa_kev` タグのみ(CISAの単純ミラー、
   1600件超)は対象外。→ 実質40件程度。
-- **CIRCL**: `evidence.source` がCIRCL自身の一次情報
-  (`cti-feed.circl.lu` 等)であるエントリのみ対象。`cisa-kev` /
-  `kevintel` / `shadowserver` / `enisa-cnw-kev` からのミラーは対象外
-  (これらだけでCIRCLの生データの大半を占める。特にShadowserverは今回の
-  5カタログに含まれない別ソース)。→ 実質数件程度。
-| VulnCheck | `/v3/backup/vulncheck-kev` で全件バックアップzipのURLを取得しダウンロード | APIキー(Bearer) |
-| KEVIntel | `/api/v2/kevs` をページング取得(無料枠) | APIキー(`X-API-Token`) |
+- **CIRCL**: `gcve.origin_uuid` がCIRCL自身の一次情報(「CIRCL Local」)
+  であるエントリのみ対象(サーバー側の `vulnerability_lookup_origin`
+  フィルタで絞り込み)。`cisa-kev` / `kevintel` / `shadowserver` /
+  `enisa-cnw-kev` からのミラーは対象外(これらだけでCIRCLの生データの
+  大半を占める。特にShadowserverは今回の5カタログに含まれない別ソース)。
+  → 実質20件弱程度。
 
-Date Published / CVSS Score / Vendor / Product は、上記5カタログのどれかに
-挙がった時点で cve.org の公式API( `cveawg.mitre.org/api/cve/{id}` )から
-直接取得して補完する。読み取りアクセス自体は認証不要だが、レート制限が
-厳しい(未認証: 30秒5リクエスト ≒ 毎分10件、CVE Services APIキー保有時:
-30秒50リクエスト)。CVE Servicesのキーは自己登録制ではなく、CNA(CVE
-Numbering Authority)のスポンサーが必要な登録制なので、未認証運用が既定。
-一度取得した内容は `data/cve_metadata_cache.json` にキャッシュし、次回
-以降は新規CVEのみ追加取得する。1回の実行で新規取得するCVE数は
-`CVE_METADATA_MAX_PER_RUN`(既定1500件)で上限を設けており、現状(和集合
-約5,200件)の初回バックフィルは3時間おきの定期実行に自然に分散される
-(1回では終わらない点に注意。GitHub Actionsの1ジョブ6時間上限に対する
-セーフティネットとして `timeout-minutes: 240` も設定済み)。
+### Date Published / CVSS Score / Vendor / Product の補完
+
+上記5カタログのどれかに挙がった時点で、cve.org の公式API
+( `cveawg.mitre.org/api/cve/{id}` )から直接取得して補完する。読み取り
+アクセス自体は認証不要だが、レート制限が厳しい(未認証: 30秒5リクエスト
+≒ 毎分10件、CVE Services APIキー保有時: 30秒50リクエスト)。CVE Services
+のキーは自己登録制ではなく、CNA(CVE Numbering Authority)のスポンサーが
+必要な登録制なので、未認証運用が既定。一度取得した内容は
+`data/cve_metadata_cache.json` にキャッシュし、次回以降は新規CVEのみ
+追加取得する。1回の実行で新規取得するCVE数は `CVE_METADATA_MAX_PER_RUN`
+(既定1500件)で上限を設けており、現状(和集合約5,200件)の初回バックフィル
+は3時間おきの定期実行に自然に分散される(1回では終わらない点に注意。
+GitHub Actionsの1ジョブ6時間上限に対するセーフティネットとして
+`timeout-minutes: 240` も設定済み)。
 
 CVE Servicesのアカウントを取得できた場合は、Secretsに以下の3つを追加
 すれば自動的にレート制限が緩和される(`scripts/fetch_cve_metadata.py`
@@ -53,6 +56,17 @@ CVE Servicesのアカウントを取得できた場合は、Secretsに以下の3
 - `CVE_API_KEY`
 - `CVE_API_ORG`
 - `CVE_API_USER`
+
+**Vendor/Productの"n/a"問題とNVDフォールバック:** cve.orgのCNAレコードは
+約4割が vendor/product を "n/a" のまま(特に担当CNAが具体的な報告元を持たず
+「mitre」が汎用的に受け付けたレコードに多い)。この場合、NVD
+( `services.nvd.nist.gov` )のCPEデータ(先頭の一致のみ採用)で補完する。
+NVDも別途レート制限があるが、CVE Servicesと違い**誰でも即時に無料APIキーを
+自己発行できる**ので、`NVD_API_KEY` を発行して登録することを推奨。
+補完した値はViewer上でVendor/Product列に薄い「NVD」ヒントタグを表示して
+区別する。cve.org側のCNAレコードが後日更新されて実データが入った場合は、
+7日ごとの再チェック(既存のnullフィールド再チェックの仕組みを流用)で
+自動的にcve.org側の値へ差し替わる。
 
 ## 仕組み
 
@@ -78,6 +92,8 @@ CVE Servicesのアカウントを取得できた場合は、Secretsに以下の3
    CVE ServicesのAPIキーを取得できた場合は、追加で以下3つも登録する
    (任意。未登録なら未認証のまま動作する):
    - `CVE_API_KEY` / `CVE_API_ORG` / `CVE_API_USER`
+   NVD APIキー(無料・即時発行)も登録推奨:
+   - `NVD_API_KEY`
 3. リポジトリの Settings → Pages で、Source を `Deploy from a branch`、
    Branch を `main` / `/docs` に設定。
 4. Actions タブから `Update KEV data` を手動実行(workflow_dispatch)して
