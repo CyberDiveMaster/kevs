@@ -69,19 +69,30 @@ def main():
         active_since = min(present_dates) if present_dates else None
 
         meta = metadata.get(cve_id, {})
-        vendor, cna_vendor = meta.get("vendor"), meta.get("cna_vendor")
-        product, cna_product = meta.get("product"), meta.get("cna_product")
+        vendor, product = meta.get("vendor"), meta.get("product")
+        # cna_vendor/cna_product are only absent for cache entries from
+        # before the NVD fallback existed -- treat "key genuinely missing"
+        # as "unknown, not NVD" rather than mistaking every pre-migration
+        # CNA-sourced value (the vast majority of the cache) for an NVD one.
+        # Once such an entry is (re)fetched, the key always exists (as a
+        # real value or explicit None), so this self-corrects over time.
+        vendor_from_nvd = (
+            vendor is not None and "cna_vendor" in meta
+            and meta["cna_vendor"] in (None, "n/a")
+        )
+        product_from_nvd = (
+            product is not None and "cna_product" in meta
+            and meta["cna_product"] in (None, "n/a")
+        )
         rows.append({
             "cve_id": cve_id,
             "date_published": meta.get("date_published"),
             "cvss_score": meta.get("cvss_score"),
             "cvss_version": meta.get("cvss_version"),
             "vendor": vendor,
-            # True when the CNA's own record left this "n/a"/empty and
-            # the displayed value came from NVD's CPE data instead.
-            "vendor_from_nvd": vendor is not None and (cna_vendor is None or cna_vendor == "n/a"),
+            "vendor_from_nvd": vendor_from_nvd,
             "product": product,
-            "product_from_nvd": product is not None and (cna_product is None or cna_product == "n/a"),
+            "product_from_nvd": product_from_nvd,
             "active_since": active_since,
             "enisa_id": enisa_entry["enisa_id"] if enisa_entry else None,
             **catalog_dates,
