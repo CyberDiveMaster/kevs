@@ -158,6 +158,12 @@ def _is_incomplete(entry):
 
 
 def _needs_recheck(entry, now):
+    # Entries cached before cna_vendor/cna_product existed (pre-NVD-fallback)
+    # were never evaluated against the current logic at all -- force one
+    # fresh check regardless of checked_at, rather than making them wait
+    # out a RECHECK_INTERVAL they were never actually subject to.
+    if "cna_vendor" not in entry or "cna_product" not in entry:
+        return True
     if not _is_incomplete(entry):
         return False
     checked_at = entry.get("checked_at")
