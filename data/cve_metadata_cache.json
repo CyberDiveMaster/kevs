@@ -51109,6 +51109,16 @@
   "product": "gogs",
   "vendor": "gogs"
  },
+ "CVE-2026-53362": {
+  "checked_at": "2026-08-27T23:53:16.495980+00:00",
+  "cna_product": "Linux",
+  "cna_vendor": "Linux",
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-04T11:56:35.864Z",
+  "product": "Linux",
+  "vendor": "Linux"
+ },
  "CVE-2026-53435": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Jenkins",
@@ -51548,6 +51558,16 @@
   "date_published": "2026-07-30T18:32:11.419Z",
   "product": "rails",
   "vendor": "rails"
+ },
+ "CVE-2026-66384": {
+  "checked_at": "2026-08-27T23:53:16.495980+00:00",
+  "cna_product": "artifactory",
+  "cna_vendor": "jfrog",
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-12T15:14:04.906Z",
+  "product": "artifactory",
+  "vendor": "jfrog"
  },
  "CVE-2026-66441": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
