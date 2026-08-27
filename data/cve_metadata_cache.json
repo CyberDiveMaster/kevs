@@ -35988,6 +35988,14 @@
   "product": "Pods \u2013 Custom Content Types and Fields",
   "vendor": "sc0ttkclark"
  },
+ "CVE-2026-19632": {
+  "checked_at": "2026-08-27T00:23:25.771611+00:00",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-26T03:39:22.812Z",
+  "product": "TranslatePress \u2013 Translate Multilingual sites with AI Translation",
+  "vendor": "cozmoslabs"
+ },
  "CVE-2026-1969": {
   "cvss_score": 5.3,
   "cvss_version": "3.1",
@@ -36849,6 +36857,14 @@
   "cvss_score": 9.1,
   "cvss_version": "3.1",
   "date_published": "2026-05-05T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
+ "CVE-2026-36425": {
+  "checked_at": "2026-08-27T00:23:25.771611+00:00",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-16T00:00:00.000Z",
   "product": "n/a",
   "vendor": "n/a"
  },
