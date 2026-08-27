@@ -76,6 +76,35 @@ function cvssScoreFormatter(cell) {
   return withVersionHint(cell, escapeHtml(v));
 }
 
+// EPSS score (0-1 probability) is shown as a percentage, with its
+// percentile rank folded in as a small hint -- same "primary value +
+// muted supplementary detail" pattern as CVSS's version hint, rather
+// than a separate column, since percentile only makes sense relative to
+// EPSS itself, not as an independent metric. Links to FIRST.org's own
+// per-CVE API result -- there's no human-facing detail page on
+// first.org for a single CVE, only this raw JSON endpoint.
+function epssFormatter(cell) {
+  const v = cell.getValue();
+  if (v === null || v === undefined) {
+    return '<span class="na-cell">-</span>';
+  }
+  const pct = (v * 100).toFixed(1);
+  const percentile = cell.getRow().getData().epss_percentile;
+  const hint = (percentile === null || percentile === undefined)
+    ? ""
+    : ` <span class="cvss-version-hint">${Math.round(percentile * 100)}th</span>`;
+  const cveId = cell.getRow().getData().cve_id;
+  const url = `https://api.first.org/data/v1/epss?cve=${encodeURIComponent(cveId)}`;
+  return `<a href="${url}" target="_blank" rel="noopener" title="FIRST.org EPSS data for this CVE (raw JSON)">${pct}%</a>${hint}`;
+}
+
+function epssMinFilterFunc(headerValue, rowValue) {
+  if (headerValue === "" || headerValue === null || headerValue === undefined) return true;
+  const min = Number(headerValue);
+  if (Number.isNaN(min)) return true;
+  return rowValue !== null && rowValue !== undefined && Number(rowValue) * 100 >= min;
+}
+
 function cveLinkFormatter(cell) {
   const v = cell.getValue();
   if (!v) return "";
@@ -496,6 +525,13 @@ const columns = [
     sorterParams: { alignEmptyValues: "bottom" },
     headerFilter: "input", headerFilterFunc: minScoreFilterFunc,
     headerFilterPlaceholder: "Min score", formatter: cvssScoreFormatter,
+  },
+  {
+    title: "EPSS", field: "epss", sorter: "number",
+    sorterParams: { alignEmptyValues: "bottom" },
+    headerFilter: "input", headerFilterFunc: epssMinFilterFunc,
+    headerFilterPlaceholder: "Min %", formatter: epssFormatter,
+    tooltip: () => "FIRST.org EPSS: predicted probability of exploitation in the next 30 days, plus percentile rank among all scored CVEs. Updated daily.",
   },
   {
     title: "CISA", field: "cisa_added", width: 116, hozAlign: "center",

@@ -6,6 +6,11 @@ on:
     # (05:00 / 15:00 US Central) update cadence, and frequent enough to
     # capture VulnCheck/KEVIntel's early-warning listings same-day.
     - cron: "0 */3 * * *"
+    # EPSS-refresh run -- 14:30 UTC, an hour after FIRST.org's own daily
+    # publish (~13:30 UTC). EPSS only changes once/day, so this is the
+    # only trigger that re-downloads it (see REFRESH_EPSS below); the
+    # rest of the build still runs same as any other scheduled trigger.
+    - cron: "30 14 * * *"
   workflow_dispatch: {}
 
 concurrency:
@@ -66,13 +71,16 @@ jobs:
           # raises the NVD vendor/product fallback lookup rate limit from
           # 5/30s to 50/30s.
           NVD_API_KEY: ${{ secrets.NVD_API_KEY }}
+          # True on the dedicated 14:30 UTC daily schedule, or any manual
+          # run (so a manual trigger can also force a fresh EPSS pull).
+          REFRESH_EPSS: ${{ github.event.schedule == '30 14 * * *' || github.event_name == 'workflow_dispatch' }}
         run: python scripts/build.py
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/data/kevs.json docs/data/meta.json data/cve_metadata_cache.json
+          git add docs/data/kevs.json docs/data/meta.json data/cve_metadata_cache.json data/epss_cache.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else

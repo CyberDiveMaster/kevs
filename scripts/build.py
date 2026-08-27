@@ -18,12 +18,14 @@ sys.path.insert(0, os.path.dirname(__file__))
 import fetch_cisa
 import fetch_circl
 import fetch_enisa
+import fetch_epss
 import fetch_kevintel
 import fetch_vulncheck
 from fetch_cve_metadata import ensure_metadata
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE_PATH = os.path.join(REPO_ROOT, "data", "cve_metadata_cache.json")
+EPSS_CACHE_PATH = os.path.join(REPO_ROOT, "data", "epss_cache.json")
 DOCS_DATA_DIR = os.path.join(REPO_ROOT, "docs", "data")
 
 
@@ -55,6 +57,19 @@ def main():
     metadata, fetched = ensure_metadata(all_cve_ids, CACHE_PATH)
     print(f"  fetched {fetched} new record(s), {len(metadata)} cached total")
 
+    # EPSS only changes once/day (FIRST.org publishes ~13:30 UTC) -- only
+    # re-download the bulk CSV on the workflow's dedicated daily schedule
+    # (REFRESH_EPSS=true, 14:30 UTC); every other run just reuses whatever
+    # was cached last, since re-fetching hourly would gain nothing.
+    if os.environ.get("REFRESH_EPSS") == "true":
+        print("Refreshing EPSS scores from FIRST.org...")
+        epss_data = fetch_epss.fetch(all_cve_ids)
+        fetch_epss.save_cache(EPSS_CACHE_PATH, epss_data)
+        print(f"  refreshed {len(epss_data)} CVEs")
+    else:
+        epss_data = fetch_epss.load_cache(EPSS_CACHE_PATH)
+        print(f"Using cached EPSS scores ({len(epss_data)} CVEs, not refreshed this run)")
+
     rows = []
     for cve_id in all_cve_ids:
         enisa_entry = enisa.get(cve_id)
@@ -84,11 +99,14 @@ def main():
             product is not None and "cna_product" in meta
             and meta["cna_product"] in (None, "n/a")
         )
+        epss_entry = epss_data.get(cve_id)
         rows.append({
             "cve_id": cve_id,
             "date_published": meta.get("date_published"),
             "cvss_score": meta.get("cvss_score"),
             "cvss_version": meta.get("cvss_version"),
+            "epss": epss_entry["epss"] if epss_entry else None,
+            "epss_percentile": epss_entry["percentile"] if epss_entry else None,
             "vendor": vendor,
             "vendor_from_nvd": vendor_from_nvd,
             "product": product,

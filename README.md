@@ -70,6 +70,23 @@ NVDも別途レート制限があるが、CVE Servicesと違い**誰でも即時
 7日ごとの再チェック(既存のnullフィールド再チェックの仕組みを流用)で
 自動的にcve.org側の値へ差し替わる。
 
+### EPSS(悪用予測スコア)
+
+CVSS Scoreの右にEPSS列を追加(FIRST.org、`epss.empiricalsecurity.com/epss_scores-current.csv.gz`
+のバルクCSVを1回取得し、和集合に該当するCVEだけを抽出)。EPSSは1日1回
+(UTC 13:30頃)しか更新されないため、他4カタログと違い**3時間おきには
+再取得しない**。GitHub Actionsのスケジュールに専用のcronエントリ
+(`30 14 * * *`、UTC 14:30 = FIRST.org更新の1時間後)を追加してあり、
+このタイミング(または手動実行時)だけ `REFRESH_EPSS=true` として
+`data/epss_cache.json` を更新する。それ以外の3時間おきの通常実行では
+前回キャッシュされた値をそのまま使い回す。
+
+表示は「45.2% <span style="opacity:.5">89th</span>」のように、EPSS
+スコア(%表記)を主表示にし、パーセンタイル順位はCVSSの「v3.1」ヒントと
+同じスタイルで補足情報として添える(別カラムにすると別指標に見えてしまう
+ため)。EPSS値はFIRST.orgの該当CVE APIレスポンス(`api.first.org/data/v1/epss?cve=...`、
+人間向けページが無いため生JSON)にリンクする。
+
 ## 仕組み
 
 1. **`.github/workflows/kev-sync.yml`**(3時間おき、GitHub Actionsが自動実行)
