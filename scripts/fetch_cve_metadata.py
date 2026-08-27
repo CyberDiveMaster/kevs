@@ -45,7 +45,7 @@ from http_util import USER_AGENT
 CVE_RE = re.compile(r"^CVE-(\d{4})-(\d{4,7})$")
 CVE_BASE_URL = "https://cveawg.mitre.org/api/cve"
 NVD_BASE_URL = "https://services.nvd.nist.gov/rest/json/cves/2.0"
-DEFAULT_MAX_PER_RUN = 1500
+DEFAULT_MAX_PER_RUN = 5000
 RECHECK_INTERVAL = datetime.timedelta(days=7)
 
 # v4.0 > v3.1 > v3.0 > v2.0, matching the convention already used by
