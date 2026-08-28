@@ -48999,6 +48999,16 @@
   "product": "Kirki",
   "vendor": "Unknown"
  },
+ "CVE-2026-16759": {
+  "checked_at": "2026-08-28T23:38:33.869066+00:00",
+  "cna_product": "Tutor LMS \u2013 eLearning and online course solution",
+  "cna_vendor": "themeum",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-28T03:39:35.072Z",
+  "product": "Tutor LMS \u2013 eLearning and online course solution",
+  "vendor": "themeum"
+ },
  "CVE-2026-16812": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "VeloCloud Orchestrator On-Prem",
@@ -51758,6 +51768,16 @@
   "date_published": "2026-08-13T15:19:42.195Z",
   "product": "Collaboration",
   "vendor": "Zimbra"
+ },
+ "CVE-2026-74232": {
+  "checked_at": "2026-08-28T23:38:33.869066+00:00",
+  "cna_product": "L3_V2_8; WE826-T2; ZBT-7628; ZBT-ZBT7621; MQAC-7620; MQAC-7620A; MQAP-7620; MQAP-7620A; MQAP-7628; AP522; AP7628; APG721B; HC5661A; HK300; MAP-N10",
+  "cna_vendor": "Zbtlink; MoreQuick; Unknown",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-08-27T10:39:14.386Z",
+  "product": "L3_V2_8; WE826-T2; ZBT-7628; ZBT-ZBT7621; MQAC-7620; MQAC-7620A; MQAP-7620; MQAP-7620A; MQAP-7628; AP522; AP7628; APG721B; HC5661A; HK300; MAP-N10",
+  "vendor": "Zbtlink; MoreQuick; Unknown"
  },
  "CVE-2026-74233": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
