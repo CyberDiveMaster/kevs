@@ -51809,6 +51809,16 @@
   "product": "BetterDocs Pro",
   "vendor": "betterdocs"
  },
+ "CVE-2026-76581": {
+  "checked_at": "2026-08-28T14:48:23.177166+00:00",
+  "cna_product": "WPMU DEV Dashboard",
+  "cna_vendor": "wpmudev",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-28T06:39:49.567Z",
+  "product": "WPMU DEV Dashboard",
+  "vendor": "wpmudev"
+ },
  "CVE-2026-76904": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "geotools",
@@ -51849,6 +51859,16 @@
   "product": "SPIP",
   "vendor": "SPIP"
  },
+ "CVE-2026-78003": {
+  "checked_at": "2026-08-28T14:48:23.177166+00:00",
+  "cna_product": "Mailgun for WordPress",
+  "cna_vendor": "mailgun",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-22T08:26:38.970Z",
+  "product": "Mailgun for WordPress",
+  "vendor": "mailgun"
+ },
  "CVE-2026-8037": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "LoadMaster; ECS Connections Manager; Object Scale Connection Manager; MOVEit WAF",
@@ -51869,6 +51889,16 @@
   "product": "dotCMS Core",
   "vendor": "dotCMS"
  },
+ "CVE-2026-81578": {
+  "checked_at": "2026-08-28T14:48:23.177166+00:00",
+  "cna_product": "PaperCut MF/NG",
+  "cna_vendor": "PaperCut",
+  "cvss_score": 8.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-08-28T11:39:45.402Z",
+  "product": "PaperCut MF/NG",
+  "vendor": "PaperCut"
+ },
  "CVE-2026-8181": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Burst Statistics \u2013 Privacy-Friendly WordPress Analytics (Google Analytics Alternative)",
@@ -51888,6 +51918,16 @@
   "date_published": "2026-06-02T03:28:49.326Z",
   "product": "Kirki \u2013 Freeform Page Builder, Website Builder & Customizer",
   "vendor": "themeum"
+ },
+ "CVE-2026-82078": {
+  "checked_at": "2026-08-28T14:48:23.177166+00:00",
+  "cna_product": "PaperCut MF/NG",
+  "cna_vendor": "PaperCut",
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2026-08-28T11:45:25.388Z",
+  "product": "PaperCut MF/NG",
+  "vendor": "PaperCut"
  },
  "CVE-2026-8398": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
