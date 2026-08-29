@@ -48659,6 +48659,16 @@
   "product": "Ninja Forms - File Uploads",
   "vendor": "SaturdayDrive"
  },
+ "CVE-2026-0768": {
+  "checked_at": "2026-08-29T17:48:45.994201+00:00",
+  "cna_product": "Langflow",
+  "cna_vendor": "Langflow",
+  "cvss_score": 9.8,
+  "cvss_version": "3.0",
+  "date_published": "2026-01-23T03:28:43.301Z",
+  "product": "Langflow",
+  "vendor": "Langflow"
+ },
  "CVE-2026-0769": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Langflow",
@@ -50078,6 +50088,16 @@
   "date_published": "2026-03-25T16:15:12.284Z",
   "product": "PPWP",
   "vendor": "WP Folio Team"
+ },
+ "CVE-2026-32566": {
+  "checked_at": "2026-08-29T17:48:45.994201+00:00",
+  "cna_product": "ACPT (Pro) - Custom Post Types Plugin for WordPress",
+  "cna_vendor": "ACPT",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-27T08:59:53.588Z",
+  "product": "ACPT (Pro) - Custom Post Types Plugin for WordPress",
+  "vendor": "ACPT"
  },
  "CVE-2026-32661": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
