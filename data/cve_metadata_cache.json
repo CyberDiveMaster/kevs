@@ -49749,6 +49749,16 @@
   "product": ".NET 10.0; .NET 9.0; Microsoft.Bcl.Memory",
   "vendor": "Microsoft"
  },
+ "CVE-2026-2614": {
+  "checked_at": "2026-08-29T22:57:42.455667+00:00",
+  "cna_product": "mlflow/mlflow",
+  "cna_vendor": "mlflow",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-11T19:02:46.025Z",
+  "product": "mlflow/mlflow",
+  "vendor": "mlflow"
+ },
  "CVE-2026-26190": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "milvus",
