@@ -49049,6 +49049,16 @@
   "product": "W3 Total Cache",
   "vendor": "boldgrid"
  },
+ "CVE-2026-18366": {
+  "checked_at": "2026-08-31T18:37:03.530021+00:00",
+  "cna_product": "Events Manager",
+  "cna_vendor": "Unknown",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-12T06:00:17.317Z",
+  "product": "Events Manager",
+  "vendor": "Unknown"
+ },
  "CVE-2026-18556": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "N-central",
@@ -51978,6 +51988,16 @@
   "date_published": "2026-08-28T11:45:25.388Z",
   "product": "PaperCut MF/NG",
   "vendor": "PaperCut"
+ },
+ "CVE-2026-82222": {
+  "checked_at": "2026-08-31T18:37:03.530021+00:00",
+  "cna_product": "GiveWP",
+  "cna_vendor": "Liquid Web / StellarWP",
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-28T10:46:14.315Z",
+  "product": "GiveWP",
+  "vendor": "Liquid Web / StellarWP"
  },
  "CVE-2026-8398": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
