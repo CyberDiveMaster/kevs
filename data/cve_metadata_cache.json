@@ -48869,6 +48869,16 @@
   "product": "giftware",
   "vendor": "Unknown"
  },
+ "CVE-2026-15369": {
+  "checked_at": "2026-09-01T00:19:10.130515+00:00",
+  "cna_product": "Custom User Registration Fields for WooCommerce",
+  "cna_vendor": "Addify",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-29T19:26:34.288Z",
+  "product": "Custom User Registration Fields for WooCommerce",
+  "vendor": "Addify"
+ },
  "CVE-2026-15409": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "SMA1000",
@@ -51998,6 +52008,16 @@
   "date_published": "2026-08-28T10:46:14.315Z",
   "product": "GiveWP",
   "vendor": "Liquid Web / StellarWP"
+ },
+ "CVE-2026-82970": {
+  "checked_at": "2026-09-01T00:19:10.130515+00:00",
+  "cna_product": "WP Cookie Notice for GDPR, CCPA & ePrivacy Consent",
+  "cna_vendor": "WP Legal Pages",
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-31T14:43:38.358Z",
+  "product": "WP Cookie Notice for GDPR, CCPA & ePrivacy Consent",
+  "vendor": "WP Legal Pages"
  },
  "CVE-2026-8398": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
