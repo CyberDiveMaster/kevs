@@ -62,8 +62,8 @@ def main():
     # (REFRESH_EPSS=true, 14:30 UTC); every other run just reuses whatever
     # was cached last, since re-fetching hourly would gain nothing.
     if os.environ.get("REFRESH_EPSS") == "true":
-        print("Refreshing EPSS scores from FIRST.org...")
-        epss_data = fetch_epss.fetch(all_cve_ids)
+        print("Refreshing EPSS scores + trend from FIRST.org (current + 1d/7d/30d)...")
+        epss_data = fetch_epss.fetch_with_trends(all_cve_ids)
         fetch_epss.save_cache(EPSS_CACHE_PATH, epss_data)
         print(f"  refreshed {len(epss_data)} CVEs")
     else:
@@ -99,14 +99,20 @@ def main():
             product is not None and "cna_product" in meta
             and meta["cna_product"] in (None, "n/a")
         )
-        epss_entry = epss_data.get(cve_id)
+        epss_entry = epss_data.get(cve_id) or {}
         rows.append({
             "cve_id": cve_id,
             "date_published": meta.get("date_published"),
             "cvss_score": meta.get("cvss_score"),
             "cvss_version": meta.get("cvss_version"),
-            "epss": epss_entry["epss"] if epss_entry else None,
-            "epss_percentile": epss_entry["percentile"] if epss_entry else None,
+            "epss": epss_entry.get("epss"),
+            "epss_percentile": epss_entry.get("percentile"),
+            # Change vs. the longest of 30d/7d/1d ago that actually has a
+            # snapshot for this CVE -- None/{} when not even yesterday's
+            # snapshot has it (e.g. published within the last day).
+            "epss_trend_window": epss_entry.get("trend_window_days"),
+            "epss_trend_delta": epss_entry.get("trend_delta"),
+            "epss_deltas": epss_entry.get("deltas") or {},
             "vendor": vendor,
             "vendor_from_nvd": vendor_from_nvd,
             "product": product,

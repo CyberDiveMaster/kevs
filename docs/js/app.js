@@ -83,19 +83,52 @@ function cvssScoreFormatter(cell) {
 // EPSS itself, not as an independent metric. Links to FIRST.org's own
 // per-CVE API result -- there's no human-facing detail page on
 // first.org for a single CVE, only this raw JSON endpoint.
+function formatPp(delta) {
+  const pp = delta * 100;
+  const sign = pp > 0 ? "+" : "";
+  return `${sign}${pp.toFixed(1)}pp`;
+}
+
+// Trend uses the longest of 30d/7d/1d that actually has a snapshot for
+// this CVE (see fetch_epss.py) -- a fixed 30-day window would show "-"
+// for most freshly-published/freshly-KEV-listed CVEs, which is exactly
+// the population a trend indicator is most useful for. The other
+// available windows (if any) are folded into the tooltip rather than
+// shown inline, to keep the cell itself scannable.
 function epssFormatter(cell) {
+  const row = cell.getRow().getData();
   const v = cell.getValue();
   if (v === null || v === undefined) {
     return '<span class="na-cell">-</span>';
   }
   const pct = (v * 100).toFixed(1);
-  const percentile = cell.getRow().getData().epss_percentile;
-  const hint = (percentile === null || percentile === undefined)
+
+  const percentile = row.epss_percentile;
+  const percentileHint = (percentile === null || percentile === undefined)
     ? ""
     : ` <span class="cvss-version-hint">${Math.round(percentile * 100)}th</span>`;
-  const cveId = cell.getRow().getData().cve_id;
+
+  const windowDays = row.epss_trend_window;
+  const trendDelta = row.epss_trend_delta;
+  let trendHint = "";
+  let trendTitle = "";
+  if (windowDays !== null && windowDays !== undefined && trendDelta !== null && trendDelta !== undefined) {
+    const trendClass = trendDelta > 0 ? "epss-trend-up" : trendDelta < 0 ? "epss-trend-down" : "";
+    const arrow = trendDelta > 0 ? "▲" : trendDelta < 0 ? "▼" : "";
+    trendHint = ` <span class="cvss-version-hint ${trendClass}">${arrow}${formatPp(trendDelta)}/${windowDays}d</span>`;
+
+    const otherWindows = Object.entries(row.epss_deltas || {})
+      .filter(([days]) => Number(days) !== windowDays)
+      .sort(([a], [b]) => Number(b) - Number(a))
+      .map(([days, d]) => `${days}d: ${formatPp(d)}`);
+    trendTitle = ` -- change over ${windowDays}d: ${formatPp(trendDelta)}` +
+      (otherWindows.length ? ` (${otherWindows.join(", ")})` : "");
+  }
+
+  const cveId = row.cve_id;
   const url = `https://api.first.org/data/v1/epss?cve=${encodeURIComponent(cveId)}`;
-  return `<a href="${url}" target="_blank" rel="noopener" title="FIRST.org EPSS data for this CVE (raw JSON)">${pct}%</a>${hint}`;
+  const title = escapeHtml(`FIRST.org EPSS data for this CVE (raw JSON)${trendTitle}`);
+  return `<a href="${url}" target="_blank" rel="noopener" title="${title}">${pct}%</a>${percentileHint}${trendHint}`;
 }
 
 function epssMinFilterFunc(headerValue, rowValue) {

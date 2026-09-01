@@ -88,6 +88,14 @@ header h1 {
   background-color: rgba(255, 193, 7, 0.35);
 }
 
+.epss-trend-up {
+  color: #c0392b;
+}
+
+.epss-trend-down {
+  color: #2e7d32;
+}
+
 .catalog-header-title {
   display: inline-flex;
   align-items: center;
