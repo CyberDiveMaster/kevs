@@ -52009,6 +52009,16 @@
   "product": "GiveWP",
   "vendor": "Liquid Web / StellarWP"
  },
+ "CVE-2026-82329": {
+  "checked_at": "2026-09-01T08:12:21.010791+00:00",
+  "cna_product": "artifactory",
+  "cna_vendor": "jfrog",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-28T18:27:43.632Z",
+  "product": "artifactory",
+  "vendor": "jfrog"
+ },
  "CVE-2026-82970": {
   "checked_at": "2026-09-01T00:19:10.130515+00:00",
   "cna_product": "WP Cookie Notice for GDPR, CCPA & ePrivacy Consent",
