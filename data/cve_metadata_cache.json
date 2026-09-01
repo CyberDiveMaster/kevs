@@ -46019,6 +46019,16 @@
   "product": "Web Help Desk",
   "vendor": "SolarWinds"
  },
+ "CVE-2025-40553": {
+  "checked_at": "2026-09-01T13:52:25.310811+00:00",
+  "cna_product": "Web Help Desk",
+  "cna_vendor": "SolarWinds",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-28T07:35:41.825Z",
+  "product": "Web Help Desk",
+  "vendor": "SolarWinds"
+ },
  "CVE-2025-40554": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Web Help Desk",
@@ -50638,6 +50648,16 @@
   "date_published": "2026-04-29T15:10:37.899Z",
   "product": "cPanel; WP Squared; WHM",
   "vendor": "WebPros"
+ },
+ "CVE-2026-41948": {
+  "checked_at": "2026-09-01T13:52:25.310811+00:00",
+  "cna_product": "dify",
+  "cna_vendor": "langgenius",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-18T13:50:21.372Z",
+  "product": "dify",
+  "vendor": "langgenius"
  },
  "CVE-2026-42167": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
