@@ -83,8 +83,17 @@ function cvssScoreFormatter(cell) {
 // EPSS itself, not as an independent metric. Links to FIRST.org's own
 // per-CVE API result -- there's no human-facing detail page on
 // first.org for a single CVE, only this raw JSON endpoint.
-function formatPp(delta) {
-  const pp = delta * 100;
+// Rounds a raw 0-1 EPSS delta to a percentage-point figure at the same
+// 1-decimal precision it's displayed at, and normalizes -0 to 0 -- a
+// delta that's technically a tiny negative float (subtraction noise
+// between two ~equal EPSS values) would otherwise round to "-0.0pp" and
+// still trigger the "down" arrow/color despite showing as unchanged.
+function roundPp(delta) {
+  const pp = Math.round(delta * 1000) / 10;
+  return pp === 0 ? 0 : pp; // Math.round can itself produce -0
+}
+
+function formatPp(pp) {
   const sign = pp > 0 ? "+" : "";
   return `${sign}${pp.toFixed(1)}pp`;
 }
@@ -113,15 +122,16 @@ function epssFormatter(cell) {
   let trendHint = "";
   let trendTitle = "";
   if (windowDays !== null && windowDays !== undefined && trendDelta !== null && trendDelta !== undefined) {
-    const trendClass = trendDelta > 0 ? "epss-trend-up" : trendDelta < 0 ? "epss-trend-down" : "";
-    const arrow = trendDelta > 0 ? "▲" : trendDelta < 0 ? "▼" : "";
-    trendHint = ` <span class="cvss-version-hint ${trendClass}">${arrow}${formatPp(trendDelta)}/${windowDays}d</span>`;
+    const pp = roundPp(trendDelta);
+    const trendClass = pp > 0 ? "epss-trend-up" : pp < 0 ? "epss-trend-down" : "";
+    const arrow = pp > 0 ? "▲" : pp < 0 ? "▼" : "";
+    trendHint = ` <span class="cvss-version-hint ${trendClass}">${arrow}${formatPp(pp)}/${windowDays}d</span>`;
 
     const otherWindows = Object.entries(row.epss_deltas || {})
       .filter(([days]) => Number(days) !== windowDays)
       .sort(([a], [b]) => Number(b) - Number(a))
-      .map(([days, d]) => `${days}d: ${formatPp(d)}`);
-    trendTitle = ` -- change over ${windowDays}d: ${formatPp(trendDelta)}` +
+      .map(([days, d]) => `${days}d: ${formatPp(roundPp(d))}`);
+    trendTitle = ` -- change over ${windowDays}d: ${formatPp(pp)}` +
       (otherWindows.length ? ` (${otherWindows.join(", ")})` : "");
   }
 
