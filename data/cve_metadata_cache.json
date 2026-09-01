@@ -52138,5 +52138,15 @@
   "date_published": "2026-07-11T06:50:33.051Z",
   "product": "W3 Total Cache",
   "vendor": "boldgrid"
+ },
+ "CVE-2026-9586": {
+  "checked_at": "2026-09-01T17:55:17.102872+00:00",
+  "cna_product": "Switchvox SMB Edition",
+  "cna_vendor": "Sangoma",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-07-17T15:57:42.879Z",
+  "product": "Switchvox SMB Edition",
+  "vendor": "Sangoma"
  }
 }
