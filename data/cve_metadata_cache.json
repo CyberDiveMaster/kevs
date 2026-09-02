@@ -34209,6 +34209,16 @@
   "product": "cacti",
   "vendor": "Cacti"
  },
+ "CVE-2023-39470": {
+  "checked_at": "2026-09-02T13:09:47.490755+00:00",
+  "cna_product": "NG",
+  "cna_vendor": "PaperCut",
+  "cvss_score": 7.2,
+  "cvss_version": "3.0",
+  "date_published": "2024-11-22T20:04:57.069Z",
+  "product": "NG",
+  "vendor": "PaperCut"
+ },
  "CVE-2023-39780": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "RT-AX55",
@@ -36247,6 +36257,16 @@
   "cvss_version": "3.1",
   "date_published": "2024-01-16T15:57:04.379Z",
   "product": "EventON",
+  "vendor": "Unknown"
+ },
+ "CVE-2024-0250": {
+  "checked_at": "2026-09-02T13:09:47.490755+00:00",
+  "cna_product": "Analytics Insights for Google Analytics 4 (AIWP)",
+  "cna_vendor": "Unknown",
+  "cvss_score": 6.1,
+  "cvss_version": "3.1",
+  "date_published": "2024-02-12T16:05:58.073Z",
+  "product": "Analytics Insights for Google Analytics 4 (AIWP)",
   "vendor": "Unknown"
  },
  "CVE-2024-0292": {
@@ -47709,6 +47729,16 @@
   "product": "Red Hat Enterprise Linux 10; Red Hat Enterprise Linux 7 Extended Lifecycle Support; Red Hat Enterprise Linux 8; Red Hat Enterprise Linux 8.2 Advanced Update Support; Red Hat Enterprise Linux 8.4 Advanced Mission Critical Update Support; Red Hat Enterprise Linux 8.6 Advanced Mission Critical Update Support; Red Hat Enterprise Linux 8.6 Telecommunications Update Service; Red Hat Enterprise Linux 8.6 Update Services for SAP Solutions; Red Hat Enterprise Linux 8.8 Update Services for SAP Solutions; Red Hat Enterprise Linux 9; Red Hat Enterprise Linux 9.0 Update Services for SAP Solutions; Red Hat Enterprise Linux 9.2 Update Services for SAP Solutions; Red Hat Enterprise Linux 9.4 Extended Update Support",
   "vendor": "Red Hat"
  },
+ "CVE-2025-60702": {
+  "checked_at": "2026-09-02T13:09:47.490755+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-11-13T00:00:00.000Z",
+  "product": "a950rg_firmware",
+  "vendor": "totolink"
+ },
  "CVE-2025-60710": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Windows 11 Version 24H2; Windows 11 Version 25H2; Windows Server 2025; Windows Server 2025 (Server Core installation)",
@@ -48928,6 +48958,16 @@
   "date_published": "2026-08-06T04:26:51.990Z",
   "product": "WPMU DEV Dashboard",
   "vendor": "wpmudev"
+ },
+ "CVE-2026-1547": {
+  "checked_at": "2026-09-02T13:09:47.490755+00:00",
+  "cna_product": "A7000R",
+  "cna_vendor": "Totolink",
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-01-28T22:02:10.788Z",
+  "product": "A7000R",
+  "vendor": "Totolink"
  },
  "CVE-2026-1557": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -51159,6 +51199,16 @@
   "product": "Quantum Security Gateway; Spark Firewalls",
   "vendor": "checkpoint"
  },
+ "CVE-2026-5153": {
+  "checked_at": "2026-09-02T13:09:47.490755+00:00",
+  "cna_product": "CH22",
+  "cna_vendor": "Tenda",
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-03-30T21:30:16.286Z",
+  "product": "CH22",
+  "vendor": "Tenda"
+ },
  "CVE-2026-5231": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "WP Statistics \u2013 Simple, privacy-friendly Google Analytics alternative",
@@ -51968,6 +52018,16 @@
   "date_published": "2026-08-22T08:26:38.970Z",
   "product": "Mailgun for WordPress",
   "vendor": "mailgun"
+ },
+ "CVE-2026-78141": {
+  "checked_at": "2026-09-02T13:09:47.490755+00:00",
+  "cna_product": "CH22",
+  "cna_vendor": "Tenda",
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-08-23T21:45:09.069Z",
+  "product": "CH22",
+  "vendor": "Tenda"
  },
  "CVE-2026-8037": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
