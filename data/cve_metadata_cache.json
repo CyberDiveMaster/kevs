@@ -52199,6 +52199,16 @@
   "product": "WP Maps Pro",
   "vendor": "flippercode"
  },
+ "CVE-2026-9055": {
+  "checked_at": "2026-09-02T18:00:07.888338+00:00",
+  "cna_product": "Booking for Appointments and Events Calendar \u2013 Amelia",
+  "cna_vendor": "melograno",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-02T04:26:46.198Z",
+  "product": "Booking for Appointments and Events Calendar \u2013 Amelia",
+  "vendor": "melograno"
+ },
  "CVE-2026-9082": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Drupal core",
