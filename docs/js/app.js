@@ -661,6 +661,14 @@ const table = new Tabulator("#kev-table", {
 table.on("tableBuilt", () => {
   const titleEl = table.getColumn("cvss_score").getElement().querySelector(".tabulator-col-title");
   if (titleEl) titleEl.title = CVSS_VERSION_TOOLTIP;
+
+  // "No data" (the placeholder set above) is meant for a genuinely empty
+  // result -- e.g. filters that match nothing -- not for "hasn't loaded
+  // yet", which looks identical and reads as the site being broken.
+  // table.alert() is a separate overlay that can cover that first-load
+  // window without touching the placeholder's own meaning. Cleared once
+  // setData succeeds (or replaced with an error message on failure) below.
+  table.alert("Loading data…");
 });
 
 // Runs ANDed with all header filters. A no-op while excludedCatalogs is
@@ -713,7 +721,9 @@ fetch("data/meta.json", { cache: "no-cache" })
   })
   .then((rows) => {
     table.setData(rows);
+    table.clearAlert();
   })
   .catch((err) => {
     document.getElementById("status").textContent = `Failed to load data: ${err.message}`;
+    table.alert(`Failed to load data: ${escapeHtml(err.message)}`, "error");
   });
