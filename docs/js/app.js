@@ -198,8 +198,14 @@ function catalogFormatter(field) {
     cellEl.classList.toggle("earliest-cell", isEarliest);
     const titleText = isEarliest ? "Earliest listing among included catalogs" : "View on this catalog";
     const url = urlBuilder(row);
-    if (!url) return "&#x2713;";
-    return `<a href="${url}" target="_blank" rel="noopener" class="catalog-link" title="${escapeHtml(titleText)}">&#x2713;</a>`;
+    // v is already the catalog's own "date added" (YYYY-MM-DD) -- shown
+    // as a small hint next to the checkmark, same style as the CVSS
+    // version / EPSS percentile hints elsewhere.
+    const dateHint = ` <span class="cvss-version-hint">${escapeHtml(String(v).slice(0, 10))}</span>`;
+    const mark = url
+      ? `<a href="${url}" target="_blank" rel="noopener" class="catalog-link" title="${escapeHtml(titleText)}">&#x2713;</a>`
+      : "&#x2713;";
+    return mark + dateHint;
   };
 }
 
@@ -595,35 +601,35 @@ const columns = [
     tooltip: () => "FIRST.org EPSS: predicted probability of exploitation in the next 30 days, plus percentile rank among all scored CVEs. Updated daily.",
   },
   {
-    title: "CISA", field: "cisa_added", width: 116, hozAlign: "center",
+    title: "CISA", field: "cisa_added", width: 150, hozAlign: "center", sorter: "string", sorterParams: { alignEmptyValues: "bottom" },
     titleFormatter: catalogTitleFormatter("cisa_added"),
     headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }),
     headerFilterFunc: presenceFilterFunc, headerFilterEmptyCheck: presenceEmptyCheck,
     formatter: catalogFormatter("cisa_added"),
   },
   {
-    title: "ENISA", field: "enisa_added", width: 116, hozAlign: "center",
+    title: "ENISA", field: "enisa_added", width: 150, hozAlign: "center", sorter: "string", sorterParams: { alignEmptyValues: "bottom" },
     titleFormatter: catalogTitleFormatter("enisa_added"),
     headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }),
     headerFilterFunc: presenceFilterFunc, headerFilterEmptyCheck: presenceEmptyCheck,
     formatter: catalogFormatter("enisa_added"),
   },
   {
-    title: "CIRCL", field: "circl_added", width: 116, hozAlign: "center",
+    title: "CIRCL", field: "circl_added", width: 150, hozAlign: "center", sorter: "string", sorterParams: { alignEmptyValues: "bottom" },
     titleFormatter: catalogTitleFormatter("circl_added"),
     headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }),
     headerFilterFunc: presenceFilterFunc, headerFilterEmptyCheck: presenceEmptyCheck,
     formatter: catalogFormatter("circl_added"),
   },
   {
-    title: "KEVIntel", field: "kevintel_added", width: 116, hozAlign: "center",
+    title: "KEVIntel", field: "kevintel_added", width: 150, hozAlign: "center", sorter: "string", sorterParams: { alignEmptyValues: "bottom" },
     titleFormatter: catalogTitleFormatter("kevintel_added"),
     headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }),
     headerFilterFunc: presenceFilterFunc, headerFilterEmptyCheck: presenceEmptyCheck,
     formatter: catalogFormatter("kevintel_added"),
   },
   {
-    title: "VulnCheck", field: "vulncheck_added", width: 116, hozAlign: "center",
+    title: "VulnCheck", field: "vulncheck_added", width: 150, hozAlign: "center", sorter: "string", sorterParams: { alignEmptyValues: "bottom" },
     titleFormatter: catalogTitleFormatter("vulncheck_added"),
     headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }),
     headerFilterFunc: presenceFilterFunc, headerFilterEmptyCheck: presenceEmptyCheck,
