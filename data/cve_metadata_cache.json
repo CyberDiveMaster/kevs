@@ -29990,7 +29990,7 @@
   "vendor": "helpsystems"
  },
  "CVE-2022-42953": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -30030,7 +30030,7 @@
   "vendor": "Hitachi Vantara"
  },
  "CVE-2022-44149": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -30040,7 +30040,7 @@
   "vendor": "nexxtsolutions"
  },
  "CVE-2022-44354": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -30080,7 +30080,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2022-44877": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -30090,7 +30090,7 @@
   "vendor": "control-webpanel"
  },
  "CVE-2022-45045": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -30200,7 +30200,7 @@
   "vendor": "Zyxel"
  },
  "CVE-2022-45699": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -30240,7 +30240,7 @@
   "vendor": "PhonePe"
  },
  "CVE-2022-45933": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -30260,7 +30260,7 @@
   "vendor": "Cacti"
  },
  "CVE-2022-46381": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.1,
@@ -30270,7 +30270,7 @@
   "vendor": "niceforyou"
  },
  "CVE-2022-46604": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -30360,7 +30360,7 @@
   "vendor": "Apple"
  },
  "CVE-2022-46705": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "macOS",
   "cna_vendor": "Apple",
   "cvss_score": null,
@@ -30370,7 +30370,7 @@
   "vendor": "Apple"
  },
  "CVE-2022-46718": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "macOS",
   "cna_vendor": "Apple",
   "cvss_score": null,
@@ -30430,7 +30430,7 @@
   "vendor": "wproyal"
  },
  "CVE-2022-47075": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -30490,7 +30490,7 @@
   "vendor": "ThimPress"
  },
  "CVE-2022-47945": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -30500,7 +30500,7 @@
   "vendor": "thinkphp"
  },
  "CVE-2022-47966": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -30520,7 +30520,7 @@
   "vendor": "IBM"
  },
  "CVE-2022-48164": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -30530,7 +30530,7 @@
   "vendor": "wavlink"
  },
  "CVE-2022-48323": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -30710,7 +30710,7 @@
   "vendor": "Unknown"
  },
  "CVE-2023-0159": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Extensive VC Addons for WPBakery page builder",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -30740,7 +30740,7 @@
   "vendor": "pyload"
  },
  "CVE-2023-0386": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Kernel",
   "cna_vendor": "n/a",
   "cvss_score": 7.8,
@@ -30790,7 +30790,7 @@
   "vendor": "TRENDnet"
  },
  "CVE-2023-0656": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "SonicOS",
   "cna_vendor": "SonicWall",
   "cvss_score": null,
@@ -30940,7 +30940,7 @@
   "vendor": "mlflow"
  },
  "CVE-2023-1389": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "TP-Link Archer AX21 (AX1800)",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -30950,7 +30950,7 @@
   "vendor": "tp-link"
  },
  "CVE-2023-1434": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -30960,7 +30960,7 @@
   "vendor": null
  },
  "CVE-2023-1454": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "jeecg-boot",
   "cna_vendor": "n/a",
   "cvss_score": 6.3,
@@ -31130,7 +31130,7 @@
   "vendor": "Google"
  },
  "CVE-2023-2059": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "DedeCMS",
   "cna_vendor": "n/a",
   "cvss_score": 4.3,
@@ -31160,7 +31160,7 @@
   "vendor": "VMware"
  },
  "CVE-2023-20887": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Aria Operations for Networks (Formerly vRealize Network Insight)",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -31170,7 +31170,7 @@
   "vendor": "vmware"
  },
  "CVE-2023-20963": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Android",
   "cna_vendor": "n/a",
   "cvss_score": 7.8,
@@ -31180,7 +31180,7 @@
   "vendor": "google"
  },
  "CVE-2023-21237": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Android",
   "cna_vendor": "n/a",
   "cvss_score": 6.2,
@@ -31410,7 +31410,7 @@
   "vendor": "Atlassian"
  },
  "CVE-2023-22620": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -31420,7 +31420,7 @@
   "vendor": "securepoint"
  },
  "CVE-2023-22621": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 10,
@@ -31430,7 +31430,7 @@
   "vendor": "strapi"
  },
  "CVE-2023-22809": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.8,
@@ -31440,7 +31440,7 @@
   "vendor": "sudo_project"
  },
  "CVE-2023-22893": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.2,
@@ -31450,7 +31450,7 @@
   "vendor": "strapi"
  },
  "CVE-2023-22897": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -31460,7 +31460,7 @@
   "vendor": "securepoint"
  },
  "CVE-2023-22952": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -31470,7 +31470,7 @@
   "vendor": "sugarcrm"
  },
  "CVE-2023-23063": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -31480,7 +31480,7 @@
   "vendor": "cellinx"
  },
  "CVE-2023-23295": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -31490,7 +31490,7 @@
   "vendor": "korenix"
  },
  "CVE-2023-23333": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -31520,7 +31520,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2023-23488": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Paid Memberships Pro WordPress Plugin",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -31530,7 +31530,7 @@
   "vendor": "strangerstudios"
  },
  "CVE-2023-23489": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Easy Digital Downloads WordPress Plugin",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -31540,7 +31540,7 @@
   "vendor": "sandhillsdev"
  },
  "CVE-2023-23496": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "iOS and iPadOS; tvOS; Safari; macOS; watchOS",
   "cna_vendor": "Apple",
   "cvss_score": null,
@@ -31590,7 +31590,7 @@
   "vendor": "Apple"
  },
  "CVE-2023-2359": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Slider Revolution",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -31640,7 +31640,7 @@
   "vendor": "GamiPress"
  },
  "CVE-2023-24055": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -31650,7 +31650,7 @@
   "vendor": "keepass"
  },
  "CVE-2023-24059": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.3,
@@ -31660,7 +31660,7 @@
   "vendor": "rockstargames"
  },
  "CVE-2023-24229": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.8,
@@ -31670,7 +31670,7 @@
   "vendor": "draytek"
  },
  "CVE-2023-2437": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "UserPro - Community and User Profile WordPress Plugin",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -31680,7 +31680,7 @@
   "vendor": "userproplugin"
  },
  "CVE-2023-2446": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "UserPro - Community and User Profile WordPress Plugin",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -31710,7 +31710,7 @@
   "vendor": "Citrix"
  },
  "CVE-2023-24733": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -31720,7 +31720,7 @@
   "vendor": "sigb"
  },
  "CVE-2023-24796": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -31770,7 +31770,7 @@
   "vendor": "Vova Anokhin"
  },
  "CVE-2023-25135": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -31820,7 +31820,7 @@
   "vendor": "Weaver"
  },
  "CVE-2023-25280": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -31890,7 +31890,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2023-25717": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -31910,7 +31910,7 @@
   "vendor": "Favethemes"
  },
  "CVE-2023-26067": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.1,
@@ -31920,7 +31920,7 @@
   "vendor": "lexmark"
  },
  "CVE-2023-26083": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 3.3,
@@ -31930,7 +31930,7 @@
   "vendor": "arm"
  },
  "CVE-2023-26134": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "git-commit-info",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -31940,7 +31940,7 @@
   "vendor": "git-commit-info_project"
  },
  "CVE-2023-26255": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -31950,7 +31950,7 @@
   "vendor": "stagil"
  },
  "CVE-2023-26256": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -31960,7 +31960,7 @@
   "vendor": "stagil"
  },
  "CVE-2023-26258": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32040,7 +32040,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2023-26469": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32070,7 +32070,7 @@
   "vendor": "Favethemes"
  },
  "CVE-2023-26609": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.2,
@@ -32080,17 +32080,17 @@
   "vendor": "abus"
  },
  "CVE-2023-26775": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-04-04T00:00:00.000Z",
-  "product": "monitorr",
-  "vendor": "monitorr"
+  "product": "n/a",
+  "vendor": "n/a"
  },
  "CVE-2023-26801": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -32100,7 +32100,7 @@
   "vendor": "lb-link"
  },
  "CVE-2023-26802": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -32110,7 +32110,7 @@
   "vendor": "dcnglobal"
  },
  "CVE-2023-27008": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.1,
@@ -32120,7 +32120,7 @@
   "vendor": "atutor"
  },
  "CVE-2023-27032": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -32130,7 +32130,7 @@
   "vendor": "idnovate"
  },
  "CVE-2023-27034": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -32140,7 +32140,7 @@
   "vendor": "joommasters"
  },
  "CVE-2023-27076": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -32150,7 +32150,7 @@
   "vendor": "tenda"
  },
  "CVE-2023-27159": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -32160,7 +32160,7 @@
   "vendor": "appwrite"
  },
  "CVE-2023-27163": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -32170,7 +32170,7 @@
   "vendor": "rbaskets"
  },
  "CVE-2023-27240": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32220,7 +32220,7 @@
   "vendor": "PaperCut"
  },
  "CVE-2023-27372": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -32260,7 +32260,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2023-27532": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Veeam Backup & Replication",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -32280,7 +32280,7 @@
   "vendor": "rozbb"
  },
  "CVE-2023-27637": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -32290,7 +32290,7 @@
   "vendor": "tshirtecommerce"
  },
  "CVE-2023-27638": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -32300,7 +32300,7 @@
   "vendor": "tshirtecommerce"
  },
  "CVE-2023-27639": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -32310,7 +32310,7 @@
   "vendor": "tshirtecommerce"
  },
  "CVE-2023-27640": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -32320,7 +32320,7 @@
   "vendor": "tshirtecommerce"
  },
  "CVE-2023-2796": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "EventON",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -32360,7 +32360,7 @@
   "vendor": "Weaver"
  },
  "CVE-2023-28121": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "WooCommerce Payments WordPress Plugin",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32440,7 +32440,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2023-28343": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32450,7 +32450,7 @@
   "vendor": "apsystems"
  },
  "CVE-2023-28365": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "UniFi Network application",
   "cna_vendor": "Ubiquiti Inc.",
   "cvss_score": null,
@@ -32480,7 +32480,7 @@
   "vendor": "minio"
  },
  "CVE-2023-28461": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -32500,7 +32500,7 @@
   "vendor": "Barracuda"
  },
  "CVE-2023-28711": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Hyperscan Library maintained by Intel(R)",
   "cna_vendor": "n/a",
   "cvss_score": 5.5,
@@ -32510,7 +32510,7 @@
   "vendor": "intel"
  },
  "CVE-2023-28725": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.1,
@@ -32530,7 +32530,7 @@
   "vendor": "Zyxel"
  },
  "CVE-2023-2877": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Formidable Forms",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -32560,7 +32560,7 @@
   "vendor": "Zyxel"
  },
  "CVE-2023-29059": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.8,
@@ -32570,7 +32570,7 @@
   "vendor": "3cx"
  },
  "CVE-2023-29218": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32640,7 +32640,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2023-29389": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.8,
@@ -32650,7 +32650,7 @@
   "vendor": "toyota"
  },
  "CVE-2023-29492": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -32660,7 +32660,7 @@
   "vendor": "3rdmill"
  },
  "CVE-2023-29552": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -32690,7 +32690,7 @@
   "vendor": "tychesoftwares"
  },
  "CVE-2023-29919": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -32700,7 +32700,7 @@
   "vendor": "contec"
  },
  "CVE-2023-30150": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -32710,7 +32710,7 @@
   "vendor": "leotheme"
  },
  "CVE-2023-30194": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -32720,7 +32720,7 @@
   "vendor": "prestashop"
  },
  "CVE-2023-30258": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -32800,7 +32800,7 @@
   "vendor": "StellarWP"
  },
  "CVE-2023-31059": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -32830,7 +32830,7 @@
   "vendor": "Linux"
  },
  "CVE-2023-31290": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 5.9,
@@ -32840,7 +32840,7 @@
   "vendor": "trustwallet"
  },
  "CVE-2023-3139": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Protect WP Admin",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -32850,7 +32850,7 @@
   "vendor": "Unknown"
  },
  "CVE-2023-31446": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -32860,7 +32860,7 @@
   "vendor": "cassianetworks"
  },
  "CVE-2023-31465": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32870,7 +32870,7 @@
   "vendor": "fsmlabs"
  },
  "CVE-2023-31478": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -32930,7 +32930,7 @@
   "vendor": "SoftLab"
  },
  "CVE-2023-32233": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.8,
@@ -32940,7 +32940,7 @@
   "vendor": "linux"
  },
  "CVE-2023-32235": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -33000,7 +33000,7 @@
   "vendor": "Apple"
  },
  "CVE-2023-32402": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "macOS; Safari; watchOS; iOS and iPadOS; tvOS",
   "cna_vendor": "Apple",
   "cvss_score": null,
@@ -33020,7 +33020,7 @@
   "vendor": "Apple"
  },
  "CVE-2023-32423": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "macOS; Safari; watchOS; iOS and iPadOS; tvOS",
   "cna_vendor": "Apple",
   "cvss_score": null,
@@ -33100,7 +33100,7 @@
   "vendor": "inspireui"
  },
  "CVE-2023-32784": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -33190,7 +33190,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2023-33297": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -33200,7 +33200,7 @@
   "vendor": "bitcoin"
  },
  "CVE-2023-33510": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -33210,7 +33210,7 @@
   "vendor": "jeecg_p3_biz_chat_project"
  },
  "CVE-2023-33538": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -33220,7 +33220,7 @@
   "vendor": "tp-link"
  },
  "CVE-2023-33629": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.2,
@@ -33240,7 +33240,7 @@
   "vendor": "Chamilo"
  },
  "CVE-2023-33831": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33300,7 +33300,7 @@
   "vendor": "SonicWall"
  },
  "CVE-2023-34132": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "GMS; Analytics",
   "cna_vendor": "SonicWall",
   "cvss_score": null,
@@ -33320,7 +33320,7 @@
   "vendor": "SonicWall"
  },
  "CVE-2023-34192": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9,
@@ -33330,7 +33330,7 @@
   "vendor": "synacor"
  },
  "CVE-2023-34362": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -33350,7 +33350,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2023-34598": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33360,7 +33360,7 @@
   "vendor": "gibbonedu"
  },
  "CVE-2023-3460": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Ultimate Member",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -33370,7 +33370,7 @@
   "vendor": "Unknown"
  },
  "CVE-2023-34659": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33400,7 +33400,7 @@
   "vendor": "Citrix"
  },
  "CVE-2023-34960": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33420,7 +33420,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2023-35036": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.1,
@@ -33430,7 +33430,7 @@
   "vendor": "progress"
  },
  "CVE-2023-35042": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33500,7 +33500,7 @@
   "vendor": "Google"
  },
  "CVE-2023-35708": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33510,7 +33510,7 @@
   "vendor": "progress"
  },
  "CVE-2023-35813": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33520,7 +33520,7 @@
   "vendor": "sitecore"
  },
  "CVE-2023-35843": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -33530,7 +33530,7 @@
   "vendor": "nocodb"
  },
  "CVE-2023-35844": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -33540,7 +33540,7 @@
   "vendor": "lightdash"
  },
  "CVE-2023-35885": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -33590,7 +33590,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2023-3606": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "TamronOS",
   "cna_vendor": "n/a",
   "cvss_score": 6.3,
@@ -33610,7 +33610,7 @@
   "vendor": "Ruijie"
  },
  "CVE-2023-36144": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33670,7 +33670,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2023-36661": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -33790,7 +33790,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2023-36934": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33830,7 +33830,7 @@
   "vendor": "Apple"
  },
  "CVE-2023-37580": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.1,
@@ -33850,7 +33850,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2023-37679": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33910,7 +33910,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2023-38192": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33920,7 +33920,7 @@
   "vendor": "superwebmailer"
  },
  "CVE-2023-38198": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33990,7 +33990,7 @@
   "vendor": "Artbees"
  },
  "CVE-2023-38408": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -34000,7 +34000,7 @@
   "vendor": "openbsd"
  },
  "CVE-2023-38433": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "IP-HE950E; IP-HE950D; IP-HE900E; IP-HE900D; IP-900E / IP-920E; IP-900D / IP-900\u2161D / IP-920D; IP-90; IP-9610",
   "cna_vendor": "Fujitsu Limited ",
   "cvss_score": null,
@@ -34030,7 +34030,7 @@
   "vendor": "Apple"
  },
  "CVE-2023-38646": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34040,7 +34040,7 @@
   "vendor": "metabase"
  },
  "CVE-2023-38743": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.2,
@@ -34050,7 +34050,7 @@
   "vendor": "zohocorp"
  },
  "CVE-2023-38817": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34060,7 +34060,7 @@
   "vendor": "echo"
  },
  "CVE-2023-38831": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.8,
@@ -34070,7 +34070,7 @@
   "vendor": "rarlab"
  },
  "CVE-2023-38950": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -34080,7 +34080,7 @@
   "vendor": "zkteco"
  },
  "CVE-2023-38951": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -34090,7 +34090,7 @@
   "vendor": "zkteco"
  },
  "CVE-2023-38952": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -34100,7 +34100,7 @@
   "vendor": "zkteco"
  },
  "CVE-2023-39026": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34110,7 +34110,7 @@
   "vendor": "filemage"
  },
  "CVE-2023-39143": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -34130,7 +34130,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2023-39276": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "SonicOS",
   "cna_vendor": "SonicWall",
   "cvss_score": null,
@@ -34140,7 +34140,7 @@
   "vendor": "SonicWall"
  },
  "CVE-2023-39277": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "SonicOS",
   "cna_vendor": "SonicWall",
   "cvss_score": null,
@@ -34150,7 +34150,7 @@
   "vendor": "SonicWall"
  },
  "CVE-2023-39278": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "SonicOS",
   "cna_vendor": "SonicWall",
   "cvss_score": null,
@@ -34160,7 +34160,7 @@
   "vendor": "SonicWall"
  },
  "CVE-2023-39279": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "SonicOS",
   "cna_vendor": "SonicWall",
   "cvss_score": null,
@@ -34170,7 +34170,7 @@
   "vendor": "SonicWall"
  },
  "CVE-2023-39280": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "SonicOS",
   "cna_vendor": "SonicWall",
   "cvss_score": null,
@@ -34230,7 +34230,7 @@
   "vendor": "ASUS"
  },
  "CVE-2023-39796": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34240,7 +34240,7 @@
   "vendor": "wbce"
  },
  "CVE-2023-39910": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34300,7 +34300,7 @@
   "vendor": "PickPlugins"
  },
  "CVE-2023-40238": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 5.5,
@@ -34320,7 +34320,7 @@
   "vendor": "Exactly WWW"
  },
  "CVE-2023-40711": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34330,7 +34330,7 @@
   "vendor": "veilid"
  },
  "CVE-2023-40748": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34340,7 +34340,7 @@
   "vendor": "phpjabbers"
  },
  "CVE-2023-41011": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34370,7 +34370,7 @@
   "vendor": "Apple"
  },
  "CVE-2023-41109": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34400,7 +34400,7 @@
   "vendor": "WPvivid Team"
  },
  "CVE-2023-41265": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.6,
@@ -34410,7 +34410,7 @@
   "vendor": "qlik"
  },
  "CVE-2023-41266": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.2,
@@ -34460,7 +34460,7 @@
   "vendor": "ASUS"
  },
  "CVE-2023-41599": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34470,7 +34470,7 @@
   "vendor": "jfinalcms_project"
  },
  "CVE-2023-41642": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34610,7 +34610,7 @@
   "vendor": "Chamilo"
  },
  "CVE-2023-42344": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.3,
@@ -34690,7 +34690,7 @@
   "vendor": "Apple"
  },
  "CVE-2023-43177": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34710,7 +34710,7 @@
   "vendor": "Red Hat"
  },
  "CVE-2023-43208": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -34720,7 +34720,7 @@
   "vendor": "nextgen"
  },
  "CVE-2023-43261": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -34760,7 +34760,7 @@
   "vendor": "pytorch"
  },
  "CVE-2023-43770": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.1,
@@ -34810,7 +34810,7 @@
   "vendor": "Adobe"
  },
  "CVE-2023-44467": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34820,7 +34820,7 @@
   "vendor": "langchain"
  },
  "CVE-2023-44487": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -34900,7 +34900,7 @@
   "vendor": "Acronis"
  },
  "CVE-2023-45311": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34950,7 +34950,7 @@
   "vendor": "Helix"
  },
  "CVE-2023-45852": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34960,7 +34960,7 @@
   "vendor": "viessmann"
  },
  "CVE-2023-45878": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34980,7 +34980,7 @@
   "vendor": "wpmudev"
  },
  "CVE-2023-46229": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -35000,7 +35000,7 @@
   "vendor": "dglingren"
  },
  "CVE-2023-46347": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -35010,7 +35010,7 @@
   "vendor": "ndkdesign"
  },
  "CVE-2023-46574": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -35090,7 +35090,7 @@
   "vendor": "Ivanti"
  },
  "CVE-2023-47105": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.6,
@@ -35110,7 +35110,7 @@
   "vendor": "QNAP Systems Inc."
  },
  "CVE-2023-47246": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -35120,7 +35120,7 @@
   "vendor": "sysaid"
  },
  "CVE-2023-47248": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "PyArrow",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -35130,7 +35130,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2023-47253": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -35190,7 +35190,7 @@
   "vendor": "ThemePunch OHG"
  },
  "CVE-2023-48022": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -35200,7 +35200,7 @@
   "vendor": "anyscale"
  },
  "CVE-2023-48084": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -35210,7 +35210,7 @@
   "vendor": "nagios"
  },
  "CVE-2023-48365": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.6,
@@ -35270,7 +35270,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2023-48795": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 5.9,
@@ -35280,7 +35280,7 @@
   "vendor": "openbsd"
  },
  "CVE-2023-49070": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Apache OFBiz",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -35290,7 +35290,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2023-49103": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 10,
@@ -35300,7 +35300,7 @@
   "vendor": "owncloud"
  },
  "CVE-2023-49105": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -35390,7 +35390,7 @@
   "vendor": "hit-reach"
  },
  "CVE-2023-50164": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Apache Struts",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -35440,7 +35440,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2023-50428": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -35450,7 +35450,7 @@
   "vendor": "bitcoin"
  },
  "CVE-2023-50445": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.8,
@@ -35480,7 +35480,7 @@
   "vendor": "D-Link"
  },
  "CVE-2023-50917": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -35490,7 +35490,7 @@
   "vendor": "mjdm"
  },
  "CVE-2023-50919": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -35500,7 +35500,7 @@
   "vendor": "gl-inet"
  },
  "CVE-2023-50968": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Apache OFBiz",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -35520,7 +35520,7 @@
   "vendor": "Jordy Meow"
  },
  "CVE-2023-51467": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Apache OFBiz",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -35550,7 +35550,7 @@
   "vendor": "D-Link"
  },
  "CVE-2023-51833": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.1,
@@ -35570,7 +35570,7 @@
   "vendor": "brazenlygeek"
  },
  "CVE-2023-52028": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -35590,7 +35590,7 @@
   "vendor": "mate-desktop"
  },
  "CVE-2023-52163": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -35620,7 +35620,7 @@
   "vendor": "Viessmann"
  },
  "CVE-2023-52251": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -35630,7 +35630,7 @@
   "vendor": "provectus"
  },
  "CVE-2023-52271": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -35650,7 +35650,7 @@
   "vendor": "Tongda"
  },
  "CVE-2023-5360": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Royal Elementor Addons and Templates",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -35690,7 +35690,7 @@
   "vendor": "Proxmox Server Solutions GmbH"
  },
  "CVE-2023-5559": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "10Web Booster",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -35760,7 +35760,7 @@
   "vendor": "Cloud Software Group"
  },
  "CVE-2023-5970": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "SMA100",
   "cna_vendor": "SonicWall",
   "cvss_score": null,
@@ -35800,7 +35800,7 @@
   "vendor": "h2oai"
  },
  "CVE-2023-6114": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Duplicator; Duplicator Pro",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -35850,7 +35850,7 @@
   "vendor": "Google"
  },
  "CVE-2023-6360": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": 8.6,
@@ -36050,7 +36050,7 @@
   "vendor": "Douglas Wilson"
  },
  "CVE-2023-7102": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Barracuda ESG Appliance",
   "cna_vendor": "Barracuda Networks Inc.",
   "cvss_score": null,
@@ -36300,7 +36300,7 @@
   "vendor": "Guangzhou Yingke Electronic Technology"
  },
  "CVE-2024-0352": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Likeshop",
   "cna_vendor": "n/a",
   "cvss_score": 7.3,
@@ -36400,7 +36400,7 @@
   "vendor": "Ericsson"
  },
  "CVE-2024-1021": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Rebuild",
   "cna_vendor": "n/a",
   "cvss_score": 6.3,
@@ -36450,7 +36450,7 @@
   "vendor": "eugenbobrowski"
  },
  "CVE-2024-1061": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": 8.6,
@@ -36610,7 +36610,7 @@
   "vendor": "scriptsbundle"
  },
  "CVE-2024-11587": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "idcCMS",
   "cna_vendor": "n/a",
   "cvss_score": 5.3,
@@ -37530,7 +37530,7 @@
   "vendor": "InstaWP"
  },
  "CVE-2024-22252": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "VMware ESXi; VMware Workstation; VMware Fusion; VMware Cloud Foundation",
   "cna_vendor": "n/a",
   "cvss_score": 9.3,
@@ -37540,7 +37540,7 @@
   "vendor": "vmware"
  },
  "CVE-2024-22253": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "VMware ESXi; VMware Workstation; VMware Fusion; VMware Cloud Foundation",
   "cna_vendor": "n/a",
   "cvss_score": 9.3,
@@ -37550,7 +37550,7 @@
   "vendor": "vmware"
  },
  "CVE-2024-22254": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "VMware ESXi; VMware Cloud Foundation",
   "cna_vendor": "n/a",
   "cvss_score": 7.9,
@@ -37560,7 +37560,7 @@
   "vendor": "vmware"
  },
  "CVE-2024-22255": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "VMware ESXi; VMware Workstation; VMware Fusion; VMware Cloud Foundation",
   "cna_vendor": "n/a",
   "cvss_score": 7.1,
@@ -37600,7 +37600,7 @@
   "vendor": "IBM"
  },
  "CVE-2024-22729": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -37660,7 +37660,7 @@
   "vendor": "Hitron Systems"
  },
  "CVE-2024-22927": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.1,
@@ -37780,7 +37780,7 @@
   "vendor": "Totolink"
  },
  "CVE-2024-23660": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -37850,7 +37850,7 @@
   "vendor": "wpeverest"
  },
  "CVE-2024-24328": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -37860,7 +37860,7 @@
   "vendor": "totolink"
  },
  "CVE-2024-24329": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -37900,7 +37900,7 @@
   "vendor": "checkpoint"
  },
  "CVE-2024-25461": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -37940,7 +37940,7 @@
   "vendor": "Liferay"
  },
  "CVE-2024-25735": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.1,
@@ -37950,7 +37950,7 @@
   "vendor": "wyrestorm"
  },
  "CVE-2024-25852": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -38020,7 +38020,7 @@
   "vendor": "instawp"
  },
  "CVE-2024-26987": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Linux",
   "cna_vendor": "Linux",
   "cvss_score": null,
@@ -38090,7 +38090,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2024-27443": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.1,
@@ -38100,14 +38100,14 @@
   "vendor": "zimbra"
  },
  "CVE-2024-27497": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
   "cvss_version": "3.1",
   "date_published": "2024-03-01T00:00:00.000Z",
-  "product": "n/a",
-  "vendor": "n/a"
+  "product": "e2000_firmware",
+  "vendor": "linksys"
  },
  "CVE-2024-27564": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -38300,7 +38300,7 @@
   "vendor": "LG Electronics"
  },
  "CVE-2024-28734": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.1,
@@ -38490,7 +38490,7 @@
   "vendor": "geoserver"
  },
  "CVE-2024-29269": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -38500,7 +38500,7 @@
   "vendor": "telesquare"
  },
  "CVE-2024-29291": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -38510,7 +38510,7 @@
   "vendor": "n/a"
  },
  "CVE-2024-29510": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.3,
@@ -38790,7 +38790,7 @@
   "vendor": "ASUS"
  },
  "CVE-2024-30891": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -38870,7 +38870,7 @@
   "vendor": "Saleswonder Team: Tobias"
  },
  "CVE-2024-31750": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -38880,7 +38880,7 @@
   "vendor": "f-logic"
  },
  "CVE-2024-31839": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 4.8,
@@ -38920,7 +38920,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2024-32238": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -39180,7 +39180,7 @@
   "vendor": "Sirv CDN and Image Hosting"
  },
  "CVE-2024-33112": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -39190,7 +39190,7 @@
   "vendor": "dlink"
  },
  "CVE-2024-33326": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.1,
@@ -39200,7 +39200,7 @@
   "vendor": "n/a"
  },
  "CVE-2024-33434": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -39330,7 +39330,7 @@
   "vendor": "Adobe"
  },
  "CVE-2024-34193": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -39340,7 +39340,7 @@
   "vendor": "lkw199711"
  },
  "CVE-2024-34257": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -39390,7 +39390,7 @@
   "vendor": "Saleswonder Team: Tobias"
  },
  "CVE-2024-34854": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -39430,7 +39430,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2024-35286": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -39540,7 +39540,7 @@
   "vendor": "FlowiseAI"
  },
  "CVE-2024-36675": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.1,
@@ -39550,7 +39550,7 @@
   "vendor": "lylme"
  },
  "CVE-2024-36680": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -39560,7 +39560,7 @@
   "vendor": "n/a"
  },
  "CVE-2024-36857": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -39570,7 +39570,7 @@
   "vendor": "homebrew"
  },
  "CVE-2024-36858": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -39600,7 +39600,7 @@
   "vendor": "Splunk"
  },
  "CVE-2024-37014": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -39610,7 +39610,7 @@
   "vendor": "langflow"
  },
  "CVE-2024-37032": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -39620,7 +39620,7 @@
   "vendor": "ollama"
  },
  "CVE-2024-37079": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "VMware vCenter Server; VMware Cloud Foundation",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -39630,7 +39630,7 @@
   "vendor": "vmware"
  },
  "CVE-2024-37085": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "VMware ESXi; VMware Cloud Foundation",
   "cna_vendor": "n/a",
   "cvss_score": 6.8,
@@ -39690,7 +39690,7 @@
   "vendor": "WP Lab"
  },
  "CVE-2024-37383": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.1,
@@ -39700,7 +39700,7 @@
   "vendor": "roundcube"
  },
  "CVE-2024-37393": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -39790,7 +39790,7 @@
   "vendor": "IqbalRony"
  },
  "CVE-2024-37656": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.1,
@@ -40040,7 +40040,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2024-38289": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -40140,7 +40140,7 @@
   "vendor": "Vito Peleg"
  },
  "CVE-2024-38812": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "VMware vCenter Server; VMware Cloud Foundation",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -40150,7 +40150,7 @@
   "vendor": "vmware"
  },
  "CVE-2024-38813": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "VMware vCenter Server; VMware Cloud Foundation",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -40240,7 +40240,7 @@
   "vendor": "Versa"
  },
  "CVE-2024-39891": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 5.3,
@@ -40330,7 +40330,7 @@
   "vendor": "Barix"
  },
  "CVE-2024-41710": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.8,
@@ -40340,7 +40340,7 @@
   "vendor": "mitel"
  },
  "CVE-2024-41713": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.1,
@@ -40360,7 +40360,7 @@
   "vendor": "Adobe"
  },
  "CVE-2024-42009": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.3,
@@ -40390,7 +40390,7 @@
   "vendor": "Veeam"
  },
  "CVE-2024-42640": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -40400,7 +40400,7 @@
   "vendor": "n/a"
  },
  "CVE-2024-42852": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.1,
@@ -40710,7 +40710,7 @@
   "vendor": "brandexponents"
  },
  "CVE-2024-44068": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.1,
@@ -40780,7 +40780,7 @@
   "vendor": "yithemes"
  },
  "CVE-2024-44849": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -40790,7 +40790,7 @@
   "vendor": "qualitor"
  },
  "CVE-2024-44902": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -40850,7 +40850,7 @@
   "vendor": "SAML-Toolkits"
  },
  "CVE-2024-45506": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -40870,7 +40870,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2024-45519": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 10,
@@ -40910,7 +40910,7 @@
   "vendor": "I-O DATA DEVICE, INC."
  },
  "CVE-2024-45884": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8,
@@ -40920,7 +40920,7 @@
   "vendor": "draytek"
  },
  "CVE-2024-45885": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8,
@@ -40930,7 +40930,7 @@
   "vendor": "draytek"
  },
  "CVE-2024-45887": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8,
@@ -40940,7 +40940,7 @@
   "vendor": "draytek"
  },
  "CVE-2024-45888": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8,
@@ -40950,7 +40950,7 @@
   "vendor": "draytek"
  },
  "CVE-2024-45890": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8,
@@ -40960,7 +40960,7 @@
   "vendor": "draytek"
  },
  "CVE-2024-45891": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8,
@@ -41000,7 +41000,7 @@
   "vendor": "NetAlertX"
  },
  "CVE-2024-46507": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.3,
@@ -41010,7 +41010,7 @@
   "vendor": "yeti-platform"
  },
  "CVE-2024-46510": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.6,
@@ -41030,7 +41030,7 @@
   "vendor": "Google"
  },
  "CVE-2024-46938": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -41110,7 +41110,7 @@
   "vendor": "Google"
  },
  "CVE-2024-48074": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8,
@@ -41120,7 +41120,7 @@
   "vendor": "draytek"
  },
  "CVE-2024-48217": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -41140,7 +41140,7 @@
   "vendor": "NAKIVO"
  },
  "CVE-2024-48307": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -41170,7 +41170,7 @@
   "vendor": "icegram"
  },
  "CVE-2024-48455": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 2.7,
@@ -41180,7 +41180,7 @@
   "vendor": "n/a"
  },
  "CVE-2024-48456": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -41289,6 +41289,16 @@
   "product": "Chrome",
   "vendor": "Google"
  },
+ "CVE-2024-4956": {
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
+  "cna_product": "Nexus Repository",
+  "cna_vendor": "Sonatype",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2024-05-16T15:31:01.795Z",
+  "product": "Nexus Repository",
+  "vendor": "Sonatype"
+ },
  "CVE-2024-4978": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Viewer",
@@ -41350,7 +41360,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2024-50599": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.1,
@@ -41370,7 +41380,7 @@
   "vendor": "Aviatrix"
  },
  "CVE-2024-50623": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -41390,7 +41400,7 @@
   "vendor": "Sonatype"
  },
  "CVE-2024-50967": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -41400,7 +41410,7 @@
   "vendor": "n/a"
  },
  "CVE-2024-51211": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -41410,7 +41420,7 @@
   "vendor": "os4ed"
  },
  "CVE-2024-51228": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.8,
@@ -41420,7 +41430,7 @@
   "vendor": "n/a"
  },
  "CVE-2024-51324": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 3.8,
@@ -41430,7 +41440,7 @@
   "vendor": "n/a"
  },
  "CVE-2024-51378": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 10,
@@ -41440,7 +41450,7 @@
   "vendor": "cyberpanel"
  },
  "CVE-2024-51567": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 10,
@@ -41450,7 +41460,7 @@
   "vendor": "cyberpanel"
  },
  "CVE-2024-51568": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 10,
@@ -41600,7 +41610,7 @@
   "vendor": "Fortra"
  },
  "CVE-2024-52763": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.1,
@@ -41670,7 +41680,7 @@
   "vendor": "stitionai"
  },
  "CVE-2024-53375": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8,
@@ -41710,7 +41720,7 @@
   "vendor": "SonicWall"
  },
  "CVE-2024-53900": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.1,
@@ -41720,7 +41730,7 @@
   "vendor": "mongoosejs"
  },
  "CVE-2024-53944": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -41760,7 +41770,7 @@
   "vendor": "Webnus; webnus/"
  },
  "CVE-2024-54763": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -41770,7 +41780,7 @@
   "vendor": "n/a"
  },
  "CVE-2024-54764": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -41780,7 +41790,7 @@
   "vendor": "n/a"
  },
  "CVE-2024-55457": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -41790,7 +41800,7 @@
   "vendor": "n/a"
  },
  "CVE-2024-55550": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 4.4,
@@ -41820,7 +41830,7 @@
   "vendor": "man-group"
  },
  "CVE-2024-55956": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -41830,7 +41840,7 @@
   "vendor": "cleo"
  },
  "CVE-2024-55963": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -41870,7 +41880,7 @@
   "vendor": "withastro"
  },
  "CVE-2024-57040": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -41880,7 +41890,7 @@
   "vendor": "tp-link"
  },
  "CVE-2024-57046": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -41890,7 +41900,7 @@
   "vendor": "netgear"
  },
  "CVE-2024-57049": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -41900,7 +41910,7 @@
   "vendor": null
  },
  "CVE-2024-57726": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.9,
@@ -41910,7 +41920,7 @@
   "vendor": "simple-help"
  },
  "CVE-2024-57727": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.1,
@@ -41920,7 +41930,7 @@
   "vendor": "simple-help"
  },
  "CVE-2024-57728": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.2,
@@ -42440,7 +42450,7 @@
   "vendor": "Unknown"
  },
  "CVE-2024-7928": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "FastAdmin",
   "cna_vendor": "n/a",
   "cvss_score": 5.3,
@@ -43190,7 +43200,7 @@
   "vendor": "Google"
  },
  "CVE-2025-1094": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "PostgreSQL",
   "cna_vendor": "n/a",
   "cvss_score": 8.1,
@@ -43330,7 +43340,7 @@
   "vendor": "kstover"
  },
  "CVE-2025-11953": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": 9.8,
@@ -43420,7 +43430,7 @@
   "vendor": "Gravity Forms"
  },
  "CVE-2025-1302": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "jsonpath-plus",
   "cna_vendor": "n/a",
   "cvss_score": 9.3,
@@ -43990,7 +44000,7 @@
   "vendor": "Linux"
  },
  "CVE-2025-22214": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 4.3,
@@ -44010,7 +44020,7 @@
   "vendor": "VMware"
  },
  "CVE-2025-22225": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "VMware ESXi; VMware Cloud Foundation; VMware Telco Cloud Platform; VMware Telco Cloud Infrastructure",
   "cna_vendor": "n/a",
   "cvss_score": 8.2,
@@ -44020,7 +44030,7 @@
   "vendor": "vmware"
  },
  "CVE-2025-22226": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "ESXi; VMware Workstation; VMware Fusion; VMware Cloud Foundation; VMware Telco Cloud Platform; VMware Telco Cloud Infrastructure",
   "cna_vendor": "n/a",
   "cvss_score": 7.1,
@@ -44050,7 +44060,7 @@
   "vendor": "Santesoft"
  },
  "CVE-2025-22905": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -44070,7 +44080,7 @@
   "vendor": "extendthemes"
  },
  "CVE-2025-22952": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -44490,7 +44500,7 @@
   "vendor": "ICT Innovations"
  },
  "CVE-2025-26125": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.3,
@@ -44500,7 +44510,7 @@
   "vendor": "n/a"
  },
  "CVE-2025-26319": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -44590,7 +44600,7 @@
   "vendor": "Yonyou"
  },
  "CVE-2025-27218": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 5.3,
@@ -44600,7 +44610,7 @@
   "vendor": "n/a"
  },
  "CVE-2025-27222": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.6,
@@ -44610,7 +44620,7 @@
   "vendor": "rocketsoftware"
  },
  "CVE-2025-27223": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -44740,7 +44750,7 @@
   "vendor": "Google"
  },
  "CVE-2025-27915": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 5.4,
@@ -44760,7 +44770,7 @@
   "vendor": "Srimax"
  },
  "CVE-2025-28036": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -44770,7 +44780,7 @@
   "vendor": "totolink"
  },
  "CVE-2025-28137": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -44780,7 +44790,7 @@
   "vendor": "totolink"
  },
  "CVE-2025-2825": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -44790,7 +44800,7 @@
   "vendor": null
  },
  "CVE-2025-28367": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -44810,7 +44820,7 @@
   "vendor": "Mozilla"
  },
  "CVE-2025-29063": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -44830,7 +44840,7 @@
   "vendor": "Unknown"
  },
  "CVE-2025-29085": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -44840,7 +44850,7 @@
   "vendor": "n/a"
  },
  "CVE-2025-29306": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -44850,7 +44860,7 @@
   "vendor": "foxcms"
  },
  "CVE-2025-29635": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.2,
@@ -45140,7 +45150,7 @@
   "vendor": "1clickmigration"
  },
  "CVE-2025-32355": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.9,
@@ -45260,7 +45270,7 @@
   "vendor": "Edge-Themes"
  },
  "CVE-2025-32813": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.2,
@@ -45270,7 +45280,7 @@
   "vendor": "infoblox"
  },
  "CVE-2025-32814": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -45280,7 +45290,7 @@
   "vendor": "infoblox"
  },
  "CVE-2025-32815": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -45330,7 +45340,7 @@
   "vendor": "xwiki"
  },
  "CVE-2025-32975": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 10,
@@ -46150,7 +46160,7 @@
   "vendor": "Kunbus"
  },
  "CVE-2025-4210": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Casdoor",
   "cna_vendor": "n/a",
   "cvss_score": 6.9,
@@ -46340,7 +46350,7 @@
   "vendor": "Relevanssi; comesio"
  },
  "CVE-2025-44136": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -46350,7 +46360,7 @@
   "vendor": "maptiler"
  },
  "CVE-2025-44137": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.2,
@@ -46360,7 +46370,7 @@
   "vendor": "maptiler"
  },
  "CVE-2025-44177": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.2,
@@ -46390,7 +46400,7 @@
   "vendor": "Ivanti"
  },
  "CVE-2025-44846": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.3,
@@ -46410,7 +46420,7 @@
   "vendor": "Liferay"
  },
  "CVE-2025-45985": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -46420,7 +46430,7 @@
   "vendor": "b-link"
  },
  "CVE-2025-45988": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -46510,7 +46520,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2025-47188": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -46520,7 +46530,7 @@
   "vendor": "n/a"
  },
  "CVE-2025-47204": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.1,
@@ -46620,7 +46630,7 @@
   "vendor": "wftpserver"
  },
  "CVE-2025-47827": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 4.6,
@@ -46700,7 +46710,7 @@
   "vendor": "Google"
  },
  "CVE-2025-48700": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.1,
@@ -46920,7 +46930,7 @@
   "vendor": "Dassault Syst\u00e8mes"
  },
  "CVE-2025-51482": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -46930,7 +46940,7 @@
   "vendor": "letta"
  },
  "CVE-2025-51591": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 3.7,
@@ -46940,7 +46950,7 @@
   "vendor": "n/a"
  },
  "CVE-2025-51683": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -46950,7 +46960,7 @@
   "vendor": "mjobtime"
  },
  "CVE-2025-52089": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -47420,7 +47430,7 @@
   "vendor": "withastro"
  },
  "CVE-2025-55346": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": 9.8,
@@ -47430,7 +47440,7 @@
   "vendor": null
  },
  "CVE-2025-55523": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 3.5,
@@ -47440,7 +47450,7 @@
   "vendor": "agent-zero"
  },
  "CVE-2025-55583": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -47500,7 +47510,7 @@
   "vendor": "WSO2"
  },
  "CVE-2025-56132": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.3,
@@ -47510,7 +47520,7 @@
   "vendor": "liquidfiles"
  },
  "CVE-2025-56520": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 5.3,
@@ -47520,7 +47530,7 @@
   "vendor": "dify"
  },
  "CVE-2025-57296": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -47680,7 +47690,7 @@
   "vendor": "Libraesva"
  },
  "CVE-2025-59716": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 5.3,
@@ -47750,7 +47760,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2025-61155": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 5.5,
@@ -47910,7 +47920,7 @@
   "vendor": "Rapid7"
  },
  "CVE-2025-63387": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -48100,7 +48110,7 @@
   "vendor": "Array Networks"
  },
  "CVE-2025-66744": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -48110,7 +48120,7 @@
   "vendor": "n/a"
  },
  "CVE-2025-67038": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -48130,7 +48140,7 @@
   "vendor": "Unknown"
  },
  "CVE-2025-67303": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -48210,7 +48220,7 @@
   "vendor": "n8n-io"
  },
  "CVE-2025-68645": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -48250,7 +48260,7 @@
   "vendor": "thorsten"
  },
  "CVE-2025-69985": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -48260,7 +48270,7 @@
   "vendor": "frangoteam"
  },
  "CVE-2025-70795": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 5.5,
@@ -48580,7 +48590,7 @@
   "vendor": "TOTOLINK"
  },
  "CVE-2025-8943": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": 9.8,
@@ -49680,7 +49690,7 @@
   "vendor": "SmarterTools"
  },
  "CVE-2026-23800": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "Modular DS",
   "cna_vendor": null,
   "cvss_score": 10,
@@ -50480,7 +50490,7 @@
   "vendor": "wpchill"
  },
  "CVE-2026-36356": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.1,
@@ -50490,7 +50500,7 @@
   "vendor": "n/a"
  },
  "CVE-2026-36425": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -50510,7 +50520,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -50530,7 +50540,7 @@
   "vendor": "cloudways"
  },
  "CVE-2026-38992": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -50660,7 +50670,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51760,7 +51770,7 @@
   "vendor": "Themeum"
  },
  "CVE-2026-6664": {
-  "checked_at": "2026-08-27T13:36:25.949663+00:00",
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "PgBouncer",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -51838,6 +51848,16 @@
   "date_published": "2026-08-20T21:43:12.611Z",
   "product": "Microsoft Entra",
   "vendor": "Microsoft"
+ },
+ "CVE-2026-71362": {
+  "checked_at": "2026-09-03T17:58:52.758820+00:00",
+  "cna_product": "Adobe Commerce; Adobe Commerce B2B; Magento Open Source",
+  "cna_vendor": "Adobe",
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-11T17:52:48.311Z",
+  "product": "Adobe Commerce; Adobe Commerce B2B; Magento Open Source",
+  "vendor": "Adobe"
  },
  "CVE-2026-72529": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
