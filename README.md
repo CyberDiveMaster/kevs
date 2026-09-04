@@ -27,9 +27,17 @@ Listed / Days / CVSS Score / EPSS / 各カタログ掲載有無 / Vendor / Produ
 
 ### ソーシャル共有ボタン・ANTERASロゴ
 
-ヘッダー右側に X / LinkedIn / Reddit / WhatsApp への共有リンクを設置
-(クリック時点の `location.href` を使うため、`?s=` が付いていればその
-フィルタ・ソート状態ごと共有される)。ページ下部には Macnica ANTERAS
+ページ下部(フッター)左側に X / LinkedIn / Reddit / WhatsApp への共有
+アイコン(各社の公式ブランドカラー・形状のSVGをインライン埋め込み、
+外部アイコンCDNには依存しない)を設置。クリック時点の `location.href`
+を使うため、`?s=` が付いていればそのフィルタ・ソート状態ごと共有される。
+X/Reddit/WhatsAppは共有リンクのURLパラメータで本文サンプルも渡すが、
+LinkedInの共有エンドポイントはURL以外のパラメータを受け付けないため、
+`<head>` の `og:title` / `og:description` でLinkedInのスクレイパーに
+本文サンプルを渡している。ヘッダーには置かず、フッターに留めることで
+控えめな見た目にしている。
+
+フッター右側には Macnica ANTERAS
 ( https://www.macnica.co.jp/business/security/manufacturers/anteras/ )
 へのロゴリンクを設置。ロゴ画像自体は透過PNGで文字が黒色のため、
 ダークモードでも視認できるよう小さな白背景チップを敷いている。

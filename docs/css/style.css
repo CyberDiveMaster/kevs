@@ -40,21 +40,8 @@ header h1 {
   white-space: nowrap;
 }
 
-#share-links {
-  font-size: 0.8rem;
-  opacity: 0.7;
-  white-space: nowrap;
-}
-
-#share-links a {
-  color: inherit;
-  margin-left: 0.4rem;
-  text-decoration: none;
-}
-
-#share-links a:hover {
-  text-decoration: underline;
-}
+/* Now lives in the footer (icon form), not the header (text form) --
+   see the footer rules further below. */
 
 .toolbar {
   margin-bottom: 0.75rem;
@@ -332,15 +319,43 @@ header h1 {
 
 footer {
   display: flex;
-  justify-content: flex-end;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
   padding: 0.75rem 0 1rem;
 }
 
-/* The logo's own transparent background is fine in light mode, but its
-   wordmark is solid black -- unreadable against a dark system theme
-   (this page follows prefers-color-scheme; the logo itself doesn't).
-   A small fixed-white chip behind it keeps the actual brand colors
-   untouched (no invert() hacks) and legible in both themes. */
+#share-links {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+}
+
+#share-links a {
+  display: block;
+  /* X's mark is solid black/currentColor (see its inline fill) -- unlike
+     the other 3 icons' own vivid brand colors, plain black would vanish
+     against a dark system theme, so it alone needs the same opacity
+     treatment as muted text elsewhere rather than full-strength color. */
+  color: CanvasText;
+  opacity: 0.75;
+}
+
+#share-links a:hover {
+  opacity: 1;
+}
+
+#share-links svg {
+  height: 20px;
+  width: 20px;
+  display: block;
+}
+
+/* The ANTERAS logo's own transparent background is fine in light mode,
+   but its wordmark is solid black -- unreadable against a dark system
+   theme (this page follows prefers-color-scheme; the logo itself
+   doesn't). A small fixed-white chip behind it keeps the actual brand
+   colors untouched (no invert() hacks) and legible in both themes. */
 #anteras-logo {
   height: 22px;
   width: auto;
