@@ -22,7 +22,11 @@
     <span id="filter-count"></span>
     <span id="legend">✓ links directly to that catalog's page for the CVE. A highlighted cell marks whichever catalog listed it earliest.</span>
     <span id="excluded-catalogs"></span>
-    <button id="export-csv">Export CSV</button>
+    <div id="column-toggle-wrap">
+      <button id="column-toggle-btn" class="toolbar-btn" type="button">Columns ▾</button>
+      <div id="column-toggle-panel" hidden></div>
+    </div>
+    <button id="export-csv" class="toolbar-btn">Export CSV</button>
     <span id="export-status"></span>
   </div>
   <div id="kev-table"></div>

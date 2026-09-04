@@ -84,6 +84,18 @@ def main():
         active_since = min(present_dates) if present_dates else None
 
         meta = metadata.get(cve_id, {})
+        date_published = meta.get("date_published")
+        # Static baseline (all 5 catalogs included) for CSV export -- the
+        # viewer recomputes this live from whichever catalogs are still
+        # included when one is excluded via its header x button, same as
+        # active_since itself. Can be negative: a catalog sometimes lists
+        # a CVE as exploited before cve.org's own record is published.
+        days_to_active = None
+        if active_since and date_published:
+            days_to_active = (
+                datetime.date.fromisoformat(active_since)
+                - datetime.date.fromisoformat(date_published[:10])
+            ).days
         vendor, product = meta.get("vendor"), meta.get("product")
         # cna_vendor/cna_product are only absent for cache entries from
         # before the NVD fallback existed -- treat "key genuinely missing"
@@ -102,7 +114,7 @@ def main():
         epss_entry = epss_data.get(cve_id) or {}
         rows.append({
             "cve_id": cve_id,
-            "date_published": meta.get("date_published"),
+            "date_published": date_published,
             "cvss_score": meta.get("cvss_score"),
             "cvss_version": meta.get("cvss_version"),
             "epss": epss_entry.get("epss"),
@@ -118,6 +130,7 @@ def main():
             "product": product,
             "product_from_nvd": product_from_nvd,
             "active_since": active_since,
+            "days_to_active": days_to_active,
             "enisa_id": enisa_entry["enisa_id"] if enisa_entry else None,
             **catalog_dates,
         })

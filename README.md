@@ -5,9 +5,15 @@ Vulnerabilities)カタログを横断し、いずれか1つにでも掲載され
 一覧で確認できる軽量ビューワー。サーバ不要(GitHub Actions + GitHub Pages +
 クライアントサイドJSのみ)。
 
-表示言語は英語(グローバル利用を想定)。CVE ID / Date Published / Active
-Since / CVSS Score / 各カタログ掲載有無 / Vendor / Product でフィルタ・
-ソートできる。
+表示言語は英語(グローバル利用を想定)。CVE ID / Date Published / First
+Listed / Days / CVSS Score / EPSS / 各カタログ掲載有無 / Vendor / Product
+でフィルタ・ソートできる。ツールバーの **Columns** ボタンで列の表示・非表示を
+切り替え可能(Days・EPSSは既定で非表示)。
+
+- **Days**: Date Published(cve.org)からFirst Listed(現在含まれている
+  カタログの中で一番早い掲載日)までの日数。カタログを除外すると
+  First Listed同様に再計算される。マイナス値は、cve.orgの正式公開日より
+  前に悪用が報告されていたことを意味する。
 
 ## データソースと取得方法
 

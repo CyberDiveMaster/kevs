@@ -566,6 +566,36 @@ function activeSinceFilterFunc(headerValue, rowValue, rowData) {
   return dateRangeFilterFunc(headerValue, computeActiveSince(rowData));
 }
 
+// Days between Date Published (cve.org) and First Listed -- how quickly
+// this CVE was flagged as exploited after being published. Recomputed
+// live from computeActiveSince, same as the First Listed column itself,
+// so excluding a catalog updates this too. Can be negative when a
+// catalog listed the CVE before cve.org's own publish date.
+function computeDaysToActive(rowData) {
+  const published = rowData.date_published;
+  const activeSince = computeActiveSince(rowData);
+  if (!published || !activeSince) return null;
+  const publishedDate = new Date(published.slice(0, 10));
+  const activeDate = new Date(activeSince);
+  return Math.round((activeDate - publishedDate) / 86400000);
+}
+
+function daysToActiveFormatter(cell) {
+  const days = computeDaysToActive(cell.getRow().getData());
+  if (days === null) return '<span class="na-cell">-</span>';
+  return escapeHtml(String(days));
+}
+
+function daysToActiveSorter(a, b, aRow, bRow, column, dir) {
+  const av = computeDaysToActive(aRow.getData());
+  const bv = computeDaysToActive(bRow.getData());
+  const aEmpty = av === null, bEmpty = bv === null;
+  if (aEmpty && bEmpty) return 0;
+  if (aEmpty) return dir === "asc" ? 1 : -1;
+  if (bEmpty) return dir === "asc" ? -1 : 1;
+  return av - bv;
+}
+
 const CVSS_VERSION_TOOLTIP =
   "Shows the highest CVSS version available for that CVE (v4.0 > v3.1 > v3.0 > v2.0), " +
   "from the CNA record or CISA's ADP enrichment.";
@@ -587,6 +617,13 @@ const columns = [
     tooltip: () => "Earliest date this CVE was added to any catalog still included in the table -- excluding a catalog via its x button recalculates this",
   },
   {
+    title: "Days", field: "days_to_active", sorter: daysToActiveSorter,
+    visible: false,
+    sorterParams: { alignEmptyValues: "bottom" },
+    formatter: daysToActiveFormatter,
+    tooltip: () => "Days from Date Published to First Listed -- how quickly this CVE was flagged as exploited after being published. Negative means a catalog listed it before cve.org's own publish date.",
+  },
+  {
     title: "CVSS Score", field: "cvss_score", sorter: "number",
     sorterParams: { alignEmptyValues: "bottom" },
     headerFilter: "input", headerFilterFunc: minScoreFilterFunc,
@@ -594,6 +631,7 @@ const columns = [
   },
   {
     title: "EPSS", field: "epss", sorter: "number",
+    visible: false,
     titleFormatter: linkTitleFormatter("EPSS", "https://www.first.org/epss/"),
     sorterParams: { alignEmptyValues: "bottom" },
     headerFilter: "input", headerFilterFunc: epssMinFilterFunc,
@@ -669,6 +707,37 @@ table.on("tableBuilt", () => {
   // window without touching the placeholder's own meaning. Cleared once
   // setData succeeds (or replaced with an error message on failure) below.
   table.alert("Loading data…");
+
+  // Lets a user hide columns they don't care about. CVE ID is left out
+  // since it's frozen/always needed to identify a row at all.
+  const columnTogglePanel = document.getElementById("column-toggle-panel");
+  for (const col of table.getColumns()) {
+    const field = col.getField();
+    if (!field || field === "cve_id") continue;
+    const label = document.createElement("label");
+    label.classList.add("column-toggle-option");
+    const checkbox = document.createElement("input");
+    checkbox.type = "checkbox";
+    checkbox.checked = col.isVisible();
+    checkbox.addEventListener("change", () => {
+      if (checkbox.checked) col.show(); else col.hide();
+    });
+    label.appendChild(checkbox);
+    label.appendChild(document.createTextNode(" " + col.getDefinition().title));
+    columnTogglePanel.appendChild(label);
+  }
+});
+
+const columnToggleBtn = document.getElementById("column-toggle-btn");
+const columnTogglePanelEl = document.getElementById("column-toggle-panel");
+columnToggleBtn.addEventListener("click", (e) => {
+  e.stopPropagation();
+  columnTogglePanelEl.hidden = !columnTogglePanelEl.hidden;
+});
+document.addEventListener("click", (e) => {
+  if (!columnTogglePanelEl.hidden && !columnTogglePanelEl.contains(e.target) && e.target !== columnToggleBtn) {
+    columnTogglePanelEl.hidden = true;
+  }
 });
 
 // Runs ANDed with all header filters. A no-op while excludedCatalogs is
