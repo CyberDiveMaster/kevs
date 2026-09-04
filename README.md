@@ -1,6 +1,6 @@
 # kevs
 
-CISA / ENISA(EUVD) / CIRCL / KEVIntel / VulnCheck の5つのKEV(Known Exploited
+CISA / ENISA(EUVD) / CIRCL / Previdian(旧KEVIntel) / VulnCheck の5つのKEV(Known Exploited
 Vulnerabilities)カタログを横断し、いずれか1つにでも掲載されているCVEを
 一覧で確認できる軽量ビューワー。サーバ不要(GitHub Actions + GitHub Pages +
 クライアントサイドJSのみ)。
@@ -50,7 +50,7 @@ LinkedInの共有エンドポイントはURL以外のパラメータを受け付
 | ENISA (EUVD) | `/api/kev/dump` を1回取得(全件ダンプ) | 不要 |
 | CIRCL | `vulnerability.circl.lu/api/kev/` をページング取得 | 不要 |
 | VulnCheck | `/v3/backup/vulncheck-kev` で全件バックアップzipのURLを取得しダウンロード | APIキー(Bearer) |
-| KEVIntel | `/api/v2/kevs` をページング取得(無料枠) | APIキー(`X-API-Token`) |
+| Previdian(旧KEVIntel、`kevintel.com`は`previdian.com`へリダイレクト) | `/api/v2/kevs` をページング取得(無料枠) | APIキー(`X-API-Token`) |
 
 **ENISA・CIRCLの掲載判定について:** どちらも「自前のKEVカタログ」を謳って
 いるが、実データはCISA KEV(および他カタログ)を丸ごと自社DBに取り込んで
@@ -167,7 +167,7 @@ CVSS Scoreの右にEPSS列を追加(FIRST.org、`epss.empiricalsecurity.com/epss
 
 ## 各カタログ列の表示について
 
-- CISA / ENISA / CIRCL / KEVIntel は匿名で閲覧できる公開ページへのリンク
+- CISA / ENISA / CIRCL / Previdian は匿名で閲覧できる公開ページへのリンク
   (ENISAは `/vulnerability/{EUVD-ID}` 形式。実URLでHTTP 200を確認済みだが
   中身はReact SPAのためブラウザでの最終確認はしていない)。
 - VulnCheck のリンク先(`console.vulncheck.com`)は無料アカウントでの

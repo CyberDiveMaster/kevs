@@ -1,4 +1,6 @@
-"""Fetch KEVIntel's free KEV catalog (kevintel.com).
+"""Fetch Previdian's free KEV catalog (previdian.com, formerly
+kevintel.com -- KEVIntel rebranded; the old domain still works but
+redirects, so this uses the current one directly).
 
 Requires KEVINTEL_API_KEY, sent as the X-API-Token header. The free tier
 only exposes the paginated list endpoint (no single-CVE lookup), so we
@@ -8,7 +10,7 @@ import os
 
 from http_util import get_json
 
-BASE_URL = "https://kevintel.com/api/v2/kevs"
+BASE_URL = "https://previdian.com/api/v2/kevs"
 PER_PAGE = 100
 
 

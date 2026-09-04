@@ -170,7 +170,9 @@ const CATALOG_URL_BUILDERS = {
     ? `https://euvd.enisa.europa.eu/vulnerability/${encodeURIComponent(row.enisa_id)}`
     : null,
   circl_added: (row) => `https://vulnerability.circl.lu/vuln/${encodeURIComponent(row.cve_id)}`,
-  kevintel_added: (row) => `https://kevintel.com/${encodeURIComponent(row.cve_id)}`,
+  // KEVIntel rebranded to Previdian -- kevintel.com still redirects here,
+  // but linking straight to the current domain avoids the extra hop.
+  kevintel_added: (row) => `https://previdian.com/${encodeURIComponent(row.cve_id)}`,
   // Requires a (free) VulnCheck account to actually view -- there is no
   // public, unauthenticated per-CVE page for the VulnCheck community KEV.
   vulncheck_added: (row) => `https://console.vulncheck.com/cve/${encodeURIComponent(row.cve_id)}`,
@@ -211,7 +213,7 @@ function catalogFormatter(field) {
 const CATALOG_FIELDS = Object.keys(CATALOG_URL_BUILDERS);
 const CATALOG_LABELS = {
   cisa_added: "CISA", enisa_added: "ENISA", circl_added: "CIRCL",
-  kevintel_added: "KEVIntel", vulncheck_added: "VulnCheck",
+  kevintel_added: "Previdian", vulncheck_added: "VulnCheck",
 };
 
 // Each catalog's own top-level page (not a per-CVE deep link, which is
@@ -221,7 +223,7 @@ const CATALOG_HOME_URLS = {
   cisa_added: "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
   enisa_added: "https://euvd.enisa.europa.eu/",
   circl_added: "https://vulnerability.circl.lu/known-exploited-vulnerabilities-catalog/",
-  kevintel_added: "https://kevintel.com/feed",
+  kevintel_added: "https://previdian.com/feed",
   vulncheck_added: "https://console.vulncheck.com/browse/kev",
 };
 
@@ -230,7 +232,7 @@ const CATALOG_HOME_URLS = {
 // property of the whole column rather than any individual CVE.
 const CATALOG_SCOPE_NOTES = {
   enisa_added: "Column shows ENISA's own EU-specific findings only -- excludes CVEs ENISA's EUVD simply mirrors from CISA KEV.",
-  circl_added: "Column shows CIRCL's own original curation only -- excludes CVEs CIRCL mirrors from CISA, KEVIntel, ENISA, or Shadowserver.",
+  circl_added: "Column shows CIRCL's own original curation only -- excludes CVEs CIRCL mirrors from CISA, Previdian, ENISA, or Shadowserver.",
   vulncheck_added: "Requires a free VulnCheck account to view.",
 };
 
@@ -714,7 +716,7 @@ const columns = [
     formatter: catalogFormatter("circl_added"),
   },
   {
-    title: "KEVIntel", field: "kevintel_added", width: 125, hozAlign: "center", sorter: "string", sorterParams: { alignEmptyValues: "bottom" },
+    title: "Previdian", field: "kevintel_added", width: 125, hozAlign: "center", sorter: "string", sorterParams: { alignEmptyValues: "bottom" },
     titleFormatter: catalogTitleFormatter("kevintel_added"),
     headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }, restoredFilters.kevintel_added),
     headerFilterFunc: presenceFilterFunc, headerFilterEmptyCheck: presenceEmptyCheck,
@@ -896,7 +898,7 @@ function updateURLFromState() {
 // ahead of time) so sharing also carries along whatever filtered/sorted
 // view is currently active via ?s=, same link a user would get from the
 // address bar itself.
-const SHARE_TEXT = "KEV Cross-Catalog Viewer -- compare CISA, ENISA, CIRCL, KEVIntel, and VulnCheck.";
+const SHARE_TEXT = "KEV Cross-Catalog Viewer -- compare CISA, ENISA, CIRCL, Previdian, and VulnCheck.";
 
 function setupShareLink(id, buildUrl) {
   const el = document.getElementById(id);
