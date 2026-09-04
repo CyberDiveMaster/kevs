@@ -135,15 +135,6 @@ header h1 {
   text-decoration: none;
 }
 
-/* Overrides cvss-version-hint's own opacity:0.5 -- full-strength,
-   bold text for whichever catalog's date is the earliest, greyscale
-   only (no new color) so it can't be confused with the EPSS trend
-   colors or anything else that actually uses color for meaning. */
-.earliest-date-hint {
-  opacity: 1;
-  font-weight: bold;
-}
-
 .epss-trend-up {
   color: #c0392b;
 }
@@ -218,6 +209,16 @@ header h1 {
 .cvss-version-hint {
   opacity: 0.5;
   font-size: 0.8em;
+}
+
+/* Comes after cvss-version-hint above so its opacity:1/bold actually
+   wins the cascade (equal specificity -- later source position wins) --
+   full-strength, bold text for whichever catalog's date is the
+   earliest. Greyscale only (no new color) so it can't be confused with
+   the EPSS trend colors or anything else that uses color for meaning. */
+.earliest-date-hint {
+  opacity: 1;
+  font-weight: bold;
 }
 
 /* Make the active sort arrow bigger/higher-contrast than Tabulator's
