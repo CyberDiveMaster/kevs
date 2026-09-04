@@ -817,6 +817,14 @@ table.on("tableBuilt", () => {
   }
 });
 
+// Simplest reliable reset: reload at the bare URL (no ?s=) rather than
+// hand-rolling code to clear every filter/sorter/exclusion/column
+// individually -- that's exactly what a fresh page load with no shared
+// state already does correctly, so this just re-enters that same path.
+document.getElementById("reset-view-btn").addEventListener("click", () => {
+  location.href = location.pathname;
+});
+
 const columnToggleBtn = document.getElementById("column-toggle-btn");
 const columnTogglePanelEl = document.getElementById("column-toggle-panel");
 columnToggleBtn.addEventListener("click", (e) => {
