@@ -51499,6 +51499,16 @@
   "product": "SAP Commerce Cloud (Data Hub Adapter)",
   "vendor": "SAP_SE"
  },
+ "CVE-2026-58400": {
+  "checked_at": "2026-09-04T13:05:13.830993+00:00",
+  "cna_product": "core-geonetwork",
+  "cna_vendor": "geonetwork",
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-03T17:06:17.827Z",
+  "product": "core-geonetwork",
+  "vendor": "geonetwork"
+ },
  "CVE-2026-58455": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "dockwatch",
@@ -51648,6 +51658,16 @@
   "date_published": "2026-07-27T16:44:32.290Z",
   "product": "TeamCity",
   "vendor": "JetBrains"
+ },
+ "CVE-2026-63219": {
+  "checked_at": "2026-09-04T13:05:13.830993+00:00",
+  "cna_product": "core-geonetwork",
+  "cna_vendor": "geonetwork",
+  "cvss_score": 8.6,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-03T17:13:01.357Z",
+  "product": "core-geonetwork",
+  "vendor": "geonetwork"
  },
  "CVE-2026-63520": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -52218,6 +52238,16 @@
   "date_published": "2026-05-13T18:02:54.459Z",
   "product": "SOGo",
   "vendor": "Alinto SOGo"
+ },
+ "CVE-2026-85046": {
+  "checked_at": "2026-09-04T13:05:13.830993+00:00",
+  "cna_product": "Chrome",
+  "cna_vendor": "Google",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-03T19:26:12.609Z",
+  "product": "Chrome",
+  "vendor": "Google"
  },
  "CVE-2026-8713": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
