@@ -6,6 +6,11 @@
   <title>KEV Cross-Catalog Viewer</title>
   <meta name="description" content="A free, serverless viewer that cross-references CISA, ENISA, CIRCL, Previdian, and VulnCheck Known Exploited Vulnerabilities catalogs -- filter and sort by CVE, CVSS, Active Since, vendor, and product.">
 
+  <!-- Filtering/sorting rewrites the URL with a ?s= state param (see
+       app.js), so the same content is reachable at unlimited URLs -- this
+       points every one of them back at the bare URL as the indexable one. -->
+  <link rel="canonical" href="https://cyberdivemaster.github.io/kevs/">
+
   <!-- LinkedIn's share-offsite endpoint takes no title/text param of its
        own -- it (and most other link-preview scrapers) reads these
        instead. X/Reddit/WhatsApp already get their own explicit sample
@@ -14,6 +19,23 @@
   <meta property="og:title" content="KEV Cross-Catalog Viewer">
   <meta property="og:description" content="Compare Known Exploited Vulnerabilities coverage across CISA, ENISA, CIRCL, Previdian, and VulnCheck.">
   <meta property="og:url" content="https://cyberdivemaster.github.io/kevs/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="KEV Cross-Catalog Viewer">
+  <meta name="twitter:description" content="Compare Known Exploited Vulnerabilities coverage across CISA, ENISA, CIRCL, Previdian, and VulnCheck.">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "KEV Cross-Catalog Viewer",
+    "url": "https://cyberdivemaster.github.io/kevs/",
+    "description": "Cross-references the CISA, ENISA (EUVD), CIRCL, Previdian, and VulnCheck Known Exploited Vulnerabilities catalogs, showing per-CVE which catalogs list it, which listed it first, and how many days after publication.",
+    "applicationCategory": "SecurityApplication",
+    "operatingSystem": "Any (web browser)",
+    "isAccessibleForFree": true,
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+  }
+  </script>
 
   <link href="https://cdn.jsdelivr.net/npm/tabulator-tables@6.3.0/dist/css/tabulator.min.css" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/flatpickr@4.6.13/dist/flatpickr.min.css" rel="stylesheet">
