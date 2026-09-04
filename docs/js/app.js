@@ -180,28 +180,27 @@ function catalogFormatter(field) {
   const urlBuilder = CATALOG_URL_BUILDERS[field];
   return function (cell) {
     const v = cell.getValue();
-    const cellEl = cell.getElement();
-    if (!v) {
-      cellEl.classList.remove("earliest-cell");
-      return '<span class="na-cell">-</span>';
-    }
+    if (!v) return '<span class="na-cell">-</span>';
     const row = cell.getRow().getData();
-    // Whole-cell background fill (like spreadsheet conditional
-    // formatting) when this is (one of) the earliest catalog(s) to list
-    // the CVE -- i.e. it's the catalog computeActiveSince's date
-    // actually came from. Recomputed live, so excluding a catalog via
-    // its header x button can hand this to whichever catalog is now
-    // earliest among what's left. Toggled directly on the cell element
-    // (not just the returned content) so the fill covers the full cell,
-    // not just the checkmark glyph.
+    // Emphasize the DATE hint itself (bold, full opacity instead of the
+    // usual muted 0.5) rather than filling the whole cell's background,
+    // when this is (one of) the earliest catalog(s) to list the CVE --
+    // i.e. it's the catalog computeActiveSince's date actually came
+    // from. A whole-cell fill reads as "notable" without saying why; the
+    // date itself is the actual reason, so highlighting that directly is
+    // both more precise and less visually loud scanning down a column.
+    // Recomputed live, so excluding a catalog via its header x button
+    // can hand this to whichever catalog is now earliest among what's
+    // left. No new color introduced (stays greyscale, unlike the
+    // earlier amber-fill version) so it can't clash with anything else.
     const isEarliest = !excludedCatalogs.has(field) && v === computeActiveSince(row);
-    cellEl.classList.toggle("earliest-cell", isEarliest);
     const titleText = isEarliest ? "Earliest listing among included catalogs" : "View on this catalog";
     const url = urlBuilder(row);
     // v is already the catalog's own "date added" (YYYY-MM-DD) -- shown
     // as a small hint next to the checkmark, same style as the CVSS
     // version / EPSS percentile hints elsewhere.
-    const dateHint = ` <span class="cvss-version-hint">${escapeHtml(String(v).slice(0, 10))}</span>`;
+    const dateHintClass = isEarliest ? "cvss-version-hint earliest-date-hint" : "cvss-version-hint";
+    const dateHint = ` <span class="${dateHintClass}">${escapeHtml(String(v).slice(0, 10))}</span>`;
     const mark = url
       ? `<a href="${url}" target="_blank" rel="noopener" class="catalog-link" title="${escapeHtml(titleText)}">&#x2713;</a>`
       : "&#x2713;";

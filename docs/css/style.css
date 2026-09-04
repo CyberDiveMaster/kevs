@@ -135,8 +135,13 @@ header h1 {
   text-decoration: none;
 }
 
-.earliest-cell {
-  background-color: rgba(255, 193, 7, 0.35);
+/* Overrides cvss-version-hint's own opacity:0.5 -- full-strength,
+   bold text for whichever catalog's date is the earliest, greyscale
+   only (no new color) so it can't be confused with the EPSS trend
+   colors or anything else that actually uses color for meaning. */
+.earliest-date-hint {
+  opacity: 1;
+  font-weight: bold;
 }
 
 .epss-trend-up {
