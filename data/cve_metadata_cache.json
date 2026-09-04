@@ -51519,6 +51519,16 @@
   "product": "dockwatch",
   "vendor": "Notifiarr"
  },
+ "CVE-2026-58457": {
+  "checked_at": "2026-09-04T17:43:49.662561+00:00",
+  "cna_product": "M300 Wi-Fi Repeater",
+  "cna_vendor": "Shenzhen Aitemi E Commerce Co. Ltd.",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-07-01T19:22:42.559Z",
+  "product": "M300 Wi-Fi Repeater",
+  "vendor": "Shenzhen Aitemi E Commerce Co. Ltd."
+ },
  "CVE-2026-58480": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Blocksy Companion",
