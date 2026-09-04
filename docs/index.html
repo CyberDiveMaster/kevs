@@ -16,7 +16,16 @@
       <h1>KEV Cross-Catalog Viewer</h1>
       <p id="subtitle">Compare Known Exploited Vulnerabilities coverage across CISA, ENISA, CIRCL, KEVIntel, and VulnCheck.</p>
     </div>
-    <div id="status">Loading...</div>
+    <div id="header-right">
+      <div id="status">Loading...</div>
+      <div id="share-links">
+        Share:
+        <a id="share-x" href="#" target="_blank" rel="noopener">X</a>
+        <a id="share-linkedin" href="#" target="_blank" rel="noopener">LinkedIn</a>
+        <a id="share-reddit" href="#" target="_blank" rel="noopener">Reddit</a>
+        <a id="share-whatsapp" href="#" target="_blank" rel="noopener">WhatsApp</a>
+      </div>
+    </div>
   </header>
   <div class="toolbar">
     <span id="filter-count"></span>
@@ -31,6 +40,12 @@
     <span id="export-status"></span>
   </div>
   <div id="kev-table"></div>
+
+  <footer>
+    <a href="https://www.macnica.co.jp/business/security/manufacturers/anteras/" target="_blank" rel="noopener" title="Macnica ANTERAS">
+      <img src="images/anteras-logo.png" alt="Macnica ANTERAS" id="anteras-logo">
+    </a>
+  </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/tabulator-tables@6.3.0/dist/js/tabulator.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/flatpickr@4.6.13/dist/flatpickr.min.js"></script>

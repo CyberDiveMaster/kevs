@@ -893,6 +893,30 @@ function updateURLFromState() {
   history.replaceState(null, "", url);
 }
 
+// Reads location.href fresh at click time (not a static href baked in
+// ahead of time) so sharing also carries along whatever filtered/sorted
+// view is currently active via ?s=, same link a user would get from the
+// address bar itself.
+const SHARE_TEXT = "KEV Cross-Catalog Viewer -- compare CISA, ENISA, CIRCL, KEVIntel, and VulnCheck.";
+
+function setupShareLink(id, buildUrl) {
+  const el = document.getElementById(id);
+  if (!el) return;
+  el.addEventListener("click", (e) => {
+    e.preventDefault();
+    window.open(buildUrl(location.href, SHARE_TEXT), "_blank", "noopener");
+  });
+}
+
+setupShareLink("share-x", (url, text) =>
+  `https://twitter.com/intent/tweet?url=${encodeURIComponent(url)}&text=${encodeURIComponent(text)}`);
+setupShareLink("share-linkedin", (url) =>
+  `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(url)}`);
+setupShareLink("share-reddit", (url, text) =>
+  `https://www.reddit.com/submit?url=${encodeURIComponent(url)}&title=${encodeURIComponent(text)}`);
+setupShareLink("share-whatsapp", (url, text) =>
+  `https://wa.me/?text=${encodeURIComponent(text + " " + url)}`);
+
 // No row cap here -- unlike Vulnrichment Viewer (~162k rows, where a cap
 // guards against accidentally exporting a huge file), this dataset is
 // the union of 5 KEV catalogs, only ~5,000-6,000 rows total, so even a

@@ -25,6 +25,15 @@ Listed / Days / CVSS Score / EPSS / 各カタログ掲載有無 / Vendor / Produ
 (URLだけで完結)。ツールバーの **Reset** ボタンで `?s=` の付かない
 素のURLに移動し、全ての状態を初期化できる。
 
+### ソーシャル共有ボタン・ANTERASロゴ
+
+ヘッダー右側に X / LinkedIn / Reddit / WhatsApp への共有リンクを設置
+(クリック時点の `location.href` を使うため、`?s=` が付いていればその
+フィルタ・ソート状態ごと共有される)。ページ下部には Macnica ANTERAS
+( https://www.macnica.co.jp/business/security/manufacturers/anteras/ )
+へのロゴリンクを設置。ロゴ画像自体は透過PNGで文字が黒色のため、
+ダークモードでも視認できるよう小さな白背景チップを敷いている。
+
 ## データソースと取得方法
 
 | カタログ | 取得方法 | 認証 |

@@ -27,10 +27,33 @@ header h1 {
   margin: 0.15rem 0 0;
 }
 
+#header-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.3rem;
+}
+
 #status {
   font-size: 0.85rem;
   opacity: 0.7;
   white-space: nowrap;
+}
+
+#share-links {
+  font-size: 0.8rem;
+  opacity: 0.7;
+  white-space: nowrap;
+}
+
+#share-links a {
+  color: inherit;
+  margin-left: 0.4rem;
+  text-decoration: none;
+}
+
+#share-links a:hover {
+  text-decoration: underline;
 }
 
 .toolbar {
@@ -305,4 +328,24 @@ header h1 {
 
 .multiselect-option:hover {
   background: rgba(128, 128, 128, 0.15);
+}
+
+footer {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0.75rem 0 1rem;
+}
+
+/* The logo's own transparent background is fine in light mode, but its
+   wordmark is solid black -- unreadable against a dark system theme
+   (this page follows prefers-color-scheme; the logo itself doesn't).
+   A small fixed-white chip behind it keeps the actual brand colors
+   untouched (no invert() hacks) and legible in both themes. */
+#anteras-logo {
+  height: 22px;
+  width: auto;
+  display: block;
+  background: #fff;
+  padding: 0.3rem 0.6rem;
+  border-radius: 4px;
 }
