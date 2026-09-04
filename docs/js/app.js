@@ -271,6 +271,7 @@ function excludeCatalog(field) {
   table.refreshFilter();
   table.redraw(true); // re-run formatters -- Active Since depends on excludedCatalogs, not just row data
   renderExcludedChips();
+  updateURLFromState();
 }
 
 function restoreCatalog(field) {
@@ -280,6 +281,7 @@ function restoreCatalog(field) {
   table.refreshFilter();
   table.redraw(true);
   renderExcludedChips();
+  updateURLFromState();
 }
 
 // A row qualifies as long as it's Yes in at least one catalog that
@@ -366,7 +368,9 @@ document.addEventListener("click", (e) => {
   }
 });
 
-function multiSelectHeaderFilter(valuesMap) {
+// initialValue (optional): array of preselected values, e.g. from a
+// shared/restored URL -- see restoreStateFromURL near the bottom.
+function multiSelectHeaderFilter(valuesMap, initialValue) {
   return function (cell, onRendered, success) {
     const container = document.createElement("span");
     container.classList.add("multiselect-filter");
@@ -381,7 +385,7 @@ function multiSelectHeaderFilter(valuesMap) {
     panel.hidden = true;
     multiSelectPanels.push({ container, panel });
 
-    const selected = new Set();
+    const selected = new Set(initialValue || []);
 
     function refreshTrigger() {
       if (selected.size === 0) {
@@ -401,6 +405,7 @@ function multiSelectHeaderFilter(valuesMap) {
       const checkbox = document.createElement("input");
       checkbox.type = "checkbox";
       checkbox.value = value;
+      checkbox.checked = selected.has(value);
       checkbox.addEventListener("change", () => {
         if (checkbox.checked) {
           selected.add(value);
@@ -416,6 +421,13 @@ function multiSelectHeaderFilter(valuesMap) {
       row.appendChild(labelSpan);
       panel.appendChild(row);
     }
+
+    refreshTrigger();
+    // Register the restored value with Tabulator itself (not just the
+    // checkboxes' visual state) so it's actually applied as a filter and
+    // so a later table.getHeaderFilters() call (when re-serializing the
+    // URL after some OTHER change) reports it correctly.
+    if (selected.size) success(Array.from(selected));
 
     trigger.addEventListener("click", (e) => {
       e.stopPropagation();
@@ -477,43 +489,58 @@ function formatDateLocal(date) {
   return `${y}-${m}-${d}`;
 }
 
-function dateRangeHeaderFilter(cell, onRendered, success) {
-  const container = document.createElement("span");
-  container.classList.add("range-filter");
+// initialValue (optional): a { from, to } object (either side can be
+// empty), e.g. from a shared/restored URL -- see restoreStateFromURL
+// near the bottom.
+function dateRangeHeaderFilter(initialValue) {
+  return function (cell, onRendered, success) {
+    const container = document.createElement("span");
+    container.classList.add("range-filter");
 
-  const input = document.createElement("input");
-  input.type = "text";
-  input.readOnly = true;
-  input.placeholder = "Select range...";
+    const input = document.createElement("input");
+    input.type = "text";
+    input.readOnly = true;
+    input.placeholder = "Select range...";
 
-  const clearBtn = document.createElement("button");
-  clearBtn.type = "button";
-  clearBtn.textContent = "×";
-  clearBtn.title = "Clear";
-  clearBtn.classList.add("range-clear");
+    const clearBtn = document.createElement("button");
+    clearBtn.type = "button";
+    clearBtn.textContent = "×";
+    clearBtn.title = "Clear";
+    clearBtn.classList.add("range-clear");
 
-  container.appendChild(input);
-  container.appendChild(clearBtn);
+    container.appendChild(input);
+    container.appendChild(clearBtn);
 
-  onRendered(() => {
-    const fp = flatpickr(input, {
-      mode: "range",
-      dateFormat: "Y-m-d",
-      onClose: (selectedDates) => {
-        const [from, to] = selectedDates;
-        success({
-          from: from ? formatDateLocal(from) : "",
-          to: to ? formatDateLocal(to) : "",
-        });
-      },
+    const restoredDates = initialValue
+      ? [initialValue.from, initialValue.to].filter(Boolean)
+      : [];
+
+    onRendered(() => {
+      const fp = flatpickr(input, {
+        mode: "range",
+        dateFormat: "Y-m-d",
+        defaultDate: restoredDates.length ? restoredDates : undefined,
+        onClose: (selectedDates) => {
+          const [from, to] = selectedDates;
+          success({
+            from: from ? formatDateLocal(from) : "",
+            to: to ? formatDateLocal(to) : "",
+          });
+        },
+      });
+      clearBtn.addEventListener("click", () => {
+        fp.clear();
+        success({ from: "", to: "" });
+      });
     });
-    clearBtn.addEventListener("click", () => {
-      fp.clear();
-      success({ from: "", to: "" });
-    });
-  });
 
-  return container;
+    // Register with Tabulator right away (see multiSelectHeaderFilter
+    // for why) rather than waiting for flatpickr's onClose, which only
+    // fires on user interaction.
+    if (restoredDates.length) success(initialValue);
+
+    return container;
+  };
 }
 
 function dateRangeFilterFunc(headerValue, rowValue) {
@@ -600,18 +627,46 @@ const CVSS_VERSION_TOOLTIP =
   "Shows the highest CVSS version available for that CVE (v4.0 > v3.1 > v3.0 > v2.0), " +
   "from the CNA record or CISA's ADP enrichment.";
 
+// --- Shareable-link state (filters/sort/excluded catalogs/hidden columns
+// packed into a single ?s= URL param) --- parsed once, synchronously,
+// before the columns array / table below are built, so restored values
+// can be threaded into each header filter widget at construction time
+// (see multiSelectHeaderFilter / dateRangeHeaderFilter above) rather than
+// needing to reach into an already-built widget's internal state later.
+const URL_STATE_PARAM = "s";
+
+function parseStateFromURL() {
+  try {
+    const raw = new URLSearchParams(location.search).get(URL_STATE_PARAM);
+    if (!raw) return { present: false };
+    const parsed = JSON.parse(decodeURIComponent(raw));
+    return {
+      present: true, // a link was actually shared -- see restoredState.present below
+      filters: parsed.filters || {},
+      sorters: Array.isArray(parsed.sorters) ? parsed.sorters : null,
+      excluded: Array.isArray(parsed.excluded) ? parsed.excluded : [],
+      hidden: Array.isArray(parsed.hidden) ? parsed.hidden : [],
+    };
+  } catch (e) {
+    return { present: false }; // malformed/tampered ?s= -- fall back to defaults rather than error out
+  }
+}
+
+const restoredState = parseStateFromURL();
+const restoredFilters = restoredState.filters || {};
+
 const columns = [
   { title: "CVE ID", field: "cve_id", headerFilter: "input", formatter: cveLinkFormatter, frozen: true },
   {
     title: "Date Published", field: "date_published", width: 140, sorter: "string",
     sorterParams: { alignEmptyValues: "bottom" },
-    headerFilter: dateRangeHeaderFilter, headerFilterFunc: dateRangeFilterFunc,
+    headerFilter: dateRangeHeaderFilter(restoredFilters.date_published), headerFilterFunc: dateRangeFilterFunc,
     headerFilterEmptyCheck: dateRangeEmptyCheck, headerFilterLiveFilter: false,
     formatter: dateFormatter,
   },
   {
     title: "First Listed", field: "active_since", width: 140, sorter: activeSinceSorter,
-    headerFilter: dateRangeHeaderFilter, headerFilterFunc: activeSinceFilterFunc,
+    headerFilter: dateRangeHeaderFilter(restoredFilters.active_since), headerFilterFunc: activeSinceFilterFunc,
     headerFilterEmptyCheck: dateRangeEmptyCheck, headerFilterLiveFilter: false,
     formatter: activeSinceFormatter,
     tooltip: () => "Earliest date this CVE was added to any catalog still included in the table -- excluding a catalog via its x button recalculates this",
@@ -641,35 +696,35 @@ const columns = [
   {
     title: "CISA", field: "cisa_added", width: 125, hozAlign: "center", sorter: "string", sorterParams: { alignEmptyValues: "bottom" },
     titleFormatter: catalogTitleFormatter("cisa_added"),
-    headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }),
+    headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }, restoredFilters.cisa_added),
     headerFilterFunc: presenceFilterFunc, headerFilterEmptyCheck: presenceEmptyCheck,
     formatter: catalogFormatter("cisa_added"),
   },
   {
     title: "ENISA", field: "enisa_added", width: 125, hozAlign: "center", sorter: "string", sorterParams: { alignEmptyValues: "bottom" },
     titleFormatter: catalogTitleFormatter("enisa_added"),
-    headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }),
+    headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }, restoredFilters.enisa_added),
     headerFilterFunc: presenceFilterFunc, headerFilterEmptyCheck: presenceEmptyCheck,
     formatter: catalogFormatter("enisa_added"),
   },
   {
     title: "CIRCL", field: "circl_added", width: 125, hozAlign: "center", sorter: "string", sorterParams: { alignEmptyValues: "bottom" },
     titleFormatter: catalogTitleFormatter("circl_added"),
-    headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }),
+    headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }, restoredFilters.circl_added),
     headerFilterFunc: presenceFilterFunc, headerFilterEmptyCheck: presenceEmptyCheck,
     formatter: catalogFormatter("circl_added"),
   },
   {
     title: "KEVIntel", field: "kevintel_added", width: 125, hozAlign: "center", sorter: "string", sorterParams: { alignEmptyValues: "bottom" },
     titleFormatter: catalogTitleFormatter("kevintel_added"),
-    headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }),
+    headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }, restoredFilters.kevintel_added),
     headerFilterFunc: presenceFilterFunc, headerFilterEmptyCheck: presenceEmptyCheck,
     formatter: catalogFormatter("kevintel_added"),
   },
   {
     title: "VulnCheck", field: "vulncheck_added", width: 125, hozAlign: "center", sorter: "string", sorterParams: { alignEmptyValues: "bottom" },
     titleFormatter: catalogTitleFormatter("vulncheck_added"),
-    headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }),
+    headerFilter: multiSelectHeaderFilter({ yes: "Yes", no: "No" }, restoredFilters.vulncheck_added),
     headerFilterFunc: presenceFilterFunc, headerFilterEmptyCheck: presenceEmptyCheck,
     formatter: catalogFormatter("vulncheck_added"),
   },
@@ -693,7 +748,7 @@ const table = new Tabulator("#kev-table", {
   columns,
   placeholder: "No data",
   columnDefaults: { headerFilterLiveFilter: true },
-  initialSort: [{ column: "active_since", dir: "desc" }],
+  initialSort: restoredState.sorters || [{ column: "active_since", dir: "desc" }],
 });
 
 table.on("tableBuilt", () => {
@@ -708,6 +763,39 @@ table.on("tableBuilt", () => {
   // setData succeeds (or replaced with an error message on failure) below.
   table.alert("Loading data…");
 
+  // Restore excluded catalogs / hidden columns / native-input header
+  // filters from a shared link. Safe to run before data actually loads
+  // (setData happens async, further below) -- Tabulator re-evaluates
+  // filters/visibility once real rows arrive, same as the custom
+  // header filter widgets above already registering their restored
+  // value before data exists. Runs BEFORE the column-toggle panel is
+  // built below, so its checkboxes reflect the restored visibility.
+  for (const field of restoredState.excluded || []) {
+    if (CATALOG_FIELDS.includes(field)) excludeCatalog(field);
+  }
+  if (restoredState.present) {
+    // A link was actually shared, so its "hidden" list is authoritative
+    // for every non-frozen column -- including showing Days/EPSS (hidden
+    // by default in the column defs) if the sharer had turned them on.
+    // Without a shared link at all, this whole block is skipped so a
+    // bare visit keeps each column's own visible:false/true default.
+    const hidden = new Set(restoredState.hidden || []);
+    for (const col of table.getColumns()) {
+      const field = col.getField();
+      if (!field || field === "cve_id" || excludedCatalogs.has(field)) continue;
+      if (hidden.has(field)) col.hide(); else col.show();
+    }
+  }
+  // Tabulator's own built-in "input" filter type -- unlike the custom
+  // multiselect/date-range widgets above, this needs no special
+  // construction-time wiring; setHeaderFilterValue handles both the
+  // visible input's value and registering it as an active filter.
+  for (const field of ["cve_id", "cvss_score", "epss", "vendor", "product"]) {
+    if (restoredFilters[field] !== undefined && restoredFilters[field] !== "") {
+      table.setHeaderFilterValue(field, restoredFilters[field]);
+    }
+  }
+
   // Lets a user hide columns they don't care about. CVE ID is left out
   // since it's frozen/always needed to identify a row at all.
   const columnTogglePanel = document.getElementById("column-toggle-panel");
@@ -721,6 +809,7 @@ table.on("tableBuilt", () => {
     checkbox.checked = col.isVisible();
     checkbox.addEventListener("change", () => {
       if (checkbox.checked) col.show(); else col.hide();
+      updateURLFromState();
     });
     label.appendChild(checkbox);
     label.appendChild(document.createTextNode(" " + col.getDefinition().title));
@@ -752,7 +841,31 @@ table.on("dataFiltered", (filters, rows) => {
   filterCountEl.textContent = rows.length === totalRowCount
     ? `${totalRowCount.toLocaleString()} rows`
     : `${rows.length.toLocaleString()} / ${totalRowCount.toLocaleString()} rows match`;
+  updateURLFromState();
 });
+
+table.on("dataSorted", () => updateURLFromState());
+
+// Packs current filters/sort/excluded-catalogs/hidden-columns into the
+// ?s= URL param (replaceState, not pushState -- filtering/sorting
+// shouldn't spam browser history) so the address bar itself is always a
+// shareable link to the current view. Restored by parseStateFromURL /
+// restoredFilters above, read once at page load.
+function updateURLFromState() {
+  const filters = {};
+  for (const f of table.getHeaderFilters()) {
+    filters[f.field] = f.value;
+  }
+  const sorters = table.getSorters().map((s) => ({ column: s.field, dir: s.dir }));
+  const hidden = table.getColumns()
+    .filter((c) => c.getField() && c.getField() !== "cve_id" && !c.isVisible())
+    .map((c) => c.getField());
+
+  const state = { filters, sorters, excluded: Array.from(excludedCatalogs), hidden };
+  const url = new URL(location.href);
+  url.searchParams.set(URL_STATE_PARAM, encodeURIComponent(JSON.stringify(state)));
+  history.replaceState(null, "", url);
+}
 
 // No row cap here -- unlike Vulnrichment Viewer (~162k rows, where a cap
 // guards against accidentally exporting a huge file), this dataset is
