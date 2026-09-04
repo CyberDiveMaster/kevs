@@ -854,12 +854,24 @@ table.on("dataFiltered", (filters, rows) => {
 
 table.on("dataSorted", () => updateURLFromState());
 
+// dataFiltered/dataSorted both fire once as an intrinsic part of the
+// initial setData() call (applying the default sort/restored filters to
+// the newly-arrived rows), before that call's own promise resolves --
+// without this guard, that automatic first firing would stamp a ?s= onto
+// a bare visit that never asked for one, or clobber a shared link's own
+// ?s= with a re-derived copy before restoration (tableBuilt-time, before
+// there was any data) had actually taken hold. Flipped true once
+// table.setData(...).then() resolves, further below.
+let initialLoadComplete = false;
+
 // Packs current filters/sort/excluded-catalogs/hidden-columns into the
 // ?s= URL param (replaceState, not pushState -- filtering/sorting
 // shouldn't spam browser history) so the address bar itself is always a
 // shareable link to the current view. Restored by parseStateFromURL /
 // restoredFilters above, read once at page load.
 function updateURLFromState() {
+  if (!initialLoadComplete) return;
+
   const filters = {};
   for (const f of table.getHeaderFilters()) {
     filters[f.field] = f.value;
@@ -868,10 +880,16 @@ function updateURLFromState() {
   const hidden = table.getColumns()
     .filter((c) => c.getField() && c.getField() !== "cve_id" && !c.isVisible())
     .map((c) => c.getField());
+  const excluded = Array.from(excludedCatalogs);
 
-  const state = { filters, sorters, excluded: Array.from(excludedCatalogs), hidden };
   const url = new URL(location.href);
-  url.searchParams.set(URL_STATE_PARAM, encodeURIComponent(JSON.stringify(state)));
+  const hasState = Object.keys(filters).length > 0 || sorters.length > 0 || hidden.length > 0 || excluded.length > 0;
+  if (hasState) {
+    const state = { filters, sorters, excluded, hidden };
+    url.searchParams.set(URL_STATE_PARAM, encodeURIComponent(JSON.stringify(state)));
+  } else {
+    url.searchParams.delete(URL_STATE_PARAM);
+  }
   history.replaceState(null, "", url);
 }
 
@@ -910,8 +928,14 @@ fetch("data/meta.json", { cache: "no-cache" })
     return res.json();
   })
   .then((rows) => {
-    table.setData(rows);
-    table.clearAlert();
+    // dataFiltered/dataSorted fire internally as part of setData's own
+    // rendering, before the promise it returns resolves -- initialLoadComplete
+    // must flip only after that settles, or the guard in updateURLFromState()
+    // above wouldn't actually catch that first automatic firing.
+    return table.setData(rows).then(() => {
+      table.clearAlert();
+      initialLoadComplete = true;
+    });
   })
   .catch((err) => {
     document.getElementById("status").textContent = `Failed to load data: ${err.message}`;
