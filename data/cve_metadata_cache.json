@@ -36539,6 +36539,16 @@
   "product": "Sign In With Google",
   "vendor": "tarecord"
  },
+ "CVE-2024-11080": {
+  "checked_at": "2026-09-06T17:16:41.937857+00:00",
+  "cna_product": "Post Grid",
+  "cna_vendor": "pickplugins",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-05T08:27:20.884Z",
+  "product": "Post Grid",
+  "vendor": "pickplugins"
+ },
  "CVE-2024-11120": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "GV-VS12; GV-VS11; GV-DSP_LPR_V3; GVLX 4 V2; GVLX 4 V3",
@@ -52298,6 +52308,16 @@
   "date_published": "2026-09-05T20:00:59.107Z",
   "product": "RouterOS",
   "vendor": "Mikrotik"
+ },
+ "CVE-2026-86218": {
+  "checked_at": "2026-09-06T17:16:41.937857+00:00",
+  "cna_product": "N-central",
+  "cna_vendor": "N-able",
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-06T02:15:28.824Z",
+  "product": "N-central",
+  "vendor": "N-able"
  },
  "CVE-2026-8713": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
