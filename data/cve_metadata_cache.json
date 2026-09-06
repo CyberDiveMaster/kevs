@@ -51829,6 +51829,26 @@
   "product": "Slider Revolution",
   "vendor": "Revolution Slider"
  },
+ "CVE-2026-67276": {
+  "checked_at": "2026-09-06T02:25:21.413016+00:00",
+  "cna_product": "RouterOS",
+  "cna_vendor": "Mikrotik",
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-05T20:00:55.811Z",
+  "product": "RouterOS",
+  "vendor": "Mikrotik"
+ },
+ "CVE-2026-67277": {
+  "checked_at": "2026-09-06T02:25:21.413016+00:00",
+  "cna_product": "RouterOS",
+  "cna_vendor": "Mikrotik",
+  "cvss_score": 8.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-05T20:00:56.614Z",
+  "product": "RouterOS",
+  "vendor": "Mikrotik"
+ },
  "CVE-2026-67595": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "vaahcms",
@@ -52258,6 +52278,16 @@
   "date_published": "2026-09-03T19:26:12.609Z",
   "product": "Chrome",
   "vendor": "Google"
+ },
+ "CVE-2026-86060": {
+  "checked_at": "2026-09-06T02:25:21.413016+00:00",
+  "cna_product": "RouterOS",
+  "cna_vendor": "Mikrotik",
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-05T20:00:59.107Z",
+  "product": "RouterOS",
+  "vendor": "Mikrotik"
  },
  "CVE-2026-8713": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
