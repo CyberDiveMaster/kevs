@@ -44,28 +44,29 @@ def fetch():
             cve_id = (row.get("vulnerability") or {}).get("vulnId")
             if not cve_id or not CVE_RE.match(cve_id):
                 continue
-            # Earliest of first_seen_at and status_updated_at. Usually
-            # these match, or first_seen_at is legitimately earlier. They
-            # invert when CIRCL creates an entry later than the assertion
-            # it records: CVE-2021-44228's entry was created 2026-09-03
-            # (so first_seen_at/asserted_at/last_seen_at all say that)
-            # while status_updated_at keeps the 2024-06-03 assertion
-            # date. Taking first_seen_at there would show Log4Shell as
-            # freshly listed. CIRCL's own page shows both values per
-            # entry ("Status Updated" vs "Timestamps / First Seen"), so
-            # either is defensible -- the earlier one is closer to "when
-            # was this known exploited", which is what the viewer's
-            # First Listed / Days columns are for.
+            # GCVE BCP-07 (the format CIRCL's KEV API implements) defines
+            # asserted_at as "Date when an authority or source officially
+            # declared exploitation", explicitly noting it "mirrors
+            # fields such as 'date added' in KEV lists" -- so it, not
+            # anything else here, is the counterpart of CISA's dateAdded
+            # and friends that the other four columns show.
+            #
+            # About 5 of ~23 CIRCL-Local entries omit asserted_at, so
+            # first_seen_at ("earliest known exploitation activity based
+            # on technical observation") is the fallback -- earlier than
+            # a declaration by definition, but the closest thing on hand.
+            #
+            # status.status_updated_at is deliberately NOT used: per spec
+            # it is "the last change to the exploitation status", i.e.
+            # record metadata, not a listing date. CVE-2021-44228 shows
+            # why that matters -- its entry asserts 2026-09-03 while
+            # status_updated_at says 2024-06-03, and reading the latter
+            # as a listing date is simply wrong.
             timestamps = row.get("timestamps") or {}
-            status = row.get("status") or {}
-            candidates = [
-                value[:10]  # ISO datetime -> date
-                for value in (timestamps.get("first_seen_at"), status.get("status_updated_at"))
-                if value
-            ]
-            if not candidates:
+            date_added = timestamps.get("asserted_at") or timestamps.get("first_seen_at")
+            if not date_added:
                 continue
-            date_added = min(candidates)
+            date_added = date_added[:10]  # ISO datetime -> date
             # Kept so the viewer can deep-link to CIRCL's own per-entry
             # page (/known-exploited-vulnerabilities-catalog/{uuid}),
             # which actually displays these dates -- the generic
