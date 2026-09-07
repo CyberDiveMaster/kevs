@@ -44,10 +44,24 @@ def fetch():
             cve_id = (row.get("vulnerability") or {}).get("vulnId")
             if not cve_id or not CVE_RE.match(cve_id):
                 continue
-            date_added = (row.get("timestamps") or {}).get("first_seen_at")
-            if not date_added:
+            # Earliest of first_seen_at and status_updated_at. Normally
+            # these match, or first_seen_at is legitimately earlier. But
+            # re-saving an entry on CIRCL's side can reset the timestamps
+            # block to the edit date while status_updated_at keeps the
+            # original -- CVE-2021-44228 for instance carried
+            # first_seen_at 2026-09-03 against status_updated_at
+            # 2024-06-03 (same 09:49:45 time-of-day, two years apart),
+            # which would otherwise show Log4Shell as freshly listed.
+            timestamps = row.get("timestamps") or {}
+            status = row.get("status") or {}
+            candidates = [
+                value[:10]  # ISO datetime -> date
+                for value in (timestamps.get("first_seen_at"), status.get("status_updated_at"))
+                if value
+            ]
+            if not candidates:
                 continue
-            date_added = date_added[:10]  # ISO datetime -> date
+            date_added = min(candidates)
             existing = result.get(cve_id)
             if existing is None or date_added < existing:
                 result[cve_id] = date_added
