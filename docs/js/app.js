@@ -232,7 +232,7 @@ const CATALOG_HOME_URLS = {
 // property of the whole column rather than any individual CVE.
 const CATALOG_SCOPE_NOTES = {
   enisa_added: "Column shows ENISA's own EU-specific findings only -- excludes CVEs ENISA's EUVD simply mirrors from CISA KEV.",
-  circl_added: "Column shows CIRCL's own original curation only -- excludes CVEs CIRCL mirrors from CISA, Previdian, ENISA, or Shadowserver.",
+  circl_added: "Column shows CIRCL's own original curation only -- excludes CVEs CIRCL mirrors from CISA, Previdian, ENISA, or Shadowserver. Date is the earlier of CIRCL's own \"Status Updated\" and \"First Seen\" values, which can differ when CIRCL creates an entry later than the assertion it records.",
   vulncheck_added: "Requires a free VulnCheck account to view.",
 };
 

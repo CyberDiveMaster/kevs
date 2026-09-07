@@ -44,14 +44,18 @@ def fetch():
             cve_id = (row.get("vulnerability") or {}).get("vulnId")
             if not cve_id or not CVE_RE.match(cve_id):
                 continue
-            # Earliest of first_seen_at and status_updated_at. Normally
-            # these match, or first_seen_at is legitimately earlier. But
-            # re-saving an entry on CIRCL's side can reset the timestamps
-            # block to the edit date while status_updated_at keeps the
-            # original -- CVE-2021-44228 for instance carried
-            # first_seen_at 2026-09-03 against status_updated_at
-            # 2024-06-03 (same 09:49:45 time-of-day, two years apart),
-            # which would otherwise show Log4Shell as freshly listed.
+            # Earliest of first_seen_at and status_updated_at. Usually
+            # these match, or first_seen_at is legitimately earlier. They
+            # invert when CIRCL creates an entry later than the assertion
+            # it records: CVE-2021-44228's entry was created 2026-09-03
+            # (so first_seen_at/asserted_at/last_seen_at all say that)
+            # while status_updated_at keeps the 2024-06-03 assertion
+            # date. Taking first_seen_at there would show Log4Shell as
+            # freshly listed. CIRCL's own page shows both values per
+            # entry ("Status Updated" vs "Timestamps / First Seen"), so
+            # either is defensible -- the earlier one is closer to "when
+            # was this known exploited", which is what the viewer's
+            # First Listed / Days columns are for.
             timestamps = row.get("timestamps") or {}
             status = row.get("status") or {}
             candidates = [
