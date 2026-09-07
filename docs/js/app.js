@@ -169,7 +169,15 @@ const CATALOG_URL_BUILDERS = {
   enisa_added: (row) => row.enisa_id
     ? `https://euvd.enisa.europa.eu/vulnerability/${encodeURIComponent(row.enisa_id)}`
     : null,
-  circl_added: (row) => `https://vulnerability.circl.lu/vuln/${encodeURIComponent(row.cve_id)}`,
+  // CIRCL's per-entry KEV page is the one that actually displays the
+  // date this column shows ("Status Updated At" / "First Seen At"). The
+  // generic /vuln/{CVE} page only carries a small badge linking here,
+  // with all four catalogs' entries mixed together, so the number here
+  // couldn't be checked against it. Falls back to that generic page for
+  // rows built before circl_entry_uuid existed.
+  circl_added: (row) => row.circl_entry_uuid
+    ? `https://vulnerability.circl.lu/known-exploited-vulnerabilities-catalog/${encodeURIComponent(row.circl_entry_uuid)}`
+    : `https://vulnerability.circl.lu/vuln/${encodeURIComponent(row.cve_id)}`,
   // KEVIntel rebranded to Previdian -- kevintel.com still redirects here,
   // but linking straight to the current domain avoids the extra hop.
   kevintel_added: (row) => `https://previdian.com/${encodeURIComponent(row.cve_id)}`,

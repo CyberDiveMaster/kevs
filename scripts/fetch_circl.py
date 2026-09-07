@@ -66,9 +66,15 @@ def fetch():
             if not candidates:
                 continue
             date_added = min(candidates)
+            # Kept so the viewer can deep-link to CIRCL's own per-entry
+            # page (/known-exploited-vulnerabilities-catalog/{uuid}),
+            # which actually displays these dates -- the generic
+            # /vuln/{CVE} page only shows a badge linking here, mixing
+            # all four catalogs' entries together.
+            entry_uuid = row.get("uuid")
             existing = result.get(cve_id)
-            if existing is None or date_added < existing:
-                result[cve_id] = date_added
+            if existing is None or date_added < existing["date_added"]:
+                result[cve_id] = {"date_added": date_added, "entry_uuid": entry_uuid}
         count = meta.get("count", 0)
         if page * PER_PAGE >= count:
             break

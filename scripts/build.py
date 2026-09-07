@@ -73,10 +73,11 @@ def main():
     rows = []
     for cve_id in all_cve_ids:
         enisa_entry = enisa.get(cve_id)
+        circl_entry = circl.get(cve_id)
         catalog_dates = {
             "cisa_added": cisa.get(cve_id),
             "enisa_added": enisa_entry["date_added"] if enisa_entry else None,
-            "circl_added": circl.get(cve_id),
+            "circl_added": circl_entry["date_added"] if circl_entry else None,
             "kevintel_added": kevintel.get(cve_id),
             "vulncheck_added": vulncheck.get(cve_id),
         }
@@ -132,6 +133,8 @@ def main():
             "active_since": active_since,
             "days_to_active": days_to_active,
             "enisa_id": enisa_entry["enisa_id"] if enisa_entry else None,
+            # Both only exist to build per-entry deep links in the viewer.
+            "circl_entry_uuid": circl_entry["entry_uuid"] if circl_entry else None,
             **catalog_dates,
         })
 
