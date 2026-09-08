@@ -33829,6 +33829,16 @@
   "product": "Safari; tvOS; iOS and iPadOS; macOS; watchOS",
   "vendor": "Apple"
  },
+ "CVE-2023-37569": {
+  "checked_at": "2026-09-08T13:13:54.993396+00:00",
+  "cna_product": "Emagic Data Center Management Suite",
+  "cna_vendor": "ESDS",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2023-08-08T08:04:22.979Z",
+  "product": "Emagic Data Center Management Suite",
+  "vendor": "ESDS"
+ },
  "CVE-2023-37580": {
   "checked_at": "2026-09-03T17:58:52.758820+00:00",
   "cna_product": "n/a",
@@ -43569,6 +43579,16 @@
   "product": "Chrome",
   "vendor": "Google"
  },
+ "CVE-2025-14208": {
+  "checked_at": "2026-09-08T13:13:54.993396+00:00",
+  "cna_product": "DIR-823X",
+  "cna_vendor": "D-Link",
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-12-08T01:02:07.507Z",
+  "product": "DIR-823X",
+  "vendor": "D-Link"
+ },
  "CVE-2025-14436": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Brevo for WooCommerce",
@@ -47748,6 +47768,26 @@
   "date_published": "2025-06-19T11:55:57.380Z",
   "product": "Red Hat Enterprise Linux 10; Red Hat Enterprise Linux 7 Extended Lifecycle Support; Red Hat Enterprise Linux 8; Red Hat Enterprise Linux 8.2 Advanced Update Support; Red Hat Enterprise Linux 8.4 Advanced Mission Critical Update Support; Red Hat Enterprise Linux 8.6 Advanced Mission Critical Update Support; Red Hat Enterprise Linux 8.6 Telecommunications Update Service; Red Hat Enterprise Linux 8.6 Update Services for SAP Solutions; Red Hat Enterprise Linux 8.8 Update Services for SAP Solutions; Red Hat Enterprise Linux 9; Red Hat Enterprise Linux 9.0 Update Services for SAP Solutions; Red Hat Enterprise Linux 9.2 Update Services for SAP Solutions; Red Hat Enterprise Linux 9.4 Extended Update Support",
   "vendor": "Red Hat"
+ },
+ "CVE-2025-6068": {
+  "checked_at": "2026-09-08T13:13:54.993396+00:00",
+  "cna_product": "Gallery by FooGallery",
+  "cna_vendor": "fooplugins",
+  "cvss_score": 6.4,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-11T07:23:00.715Z",
+  "product": "Gallery by FooGallery",
+  "vendor": "fooplugins"
+ },
+ "CVE-2025-60687": {
+  "checked_at": "2026-09-08T13:13:54.993396+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-11-13T00:00:00.000Z",
+  "product": "lr1200gb_firmware",
+  "vendor": "totolink"
  },
  "CVE-2025-60698": {
   "checked_at": "2026-09-06T12:32:38.188393+00:00",
