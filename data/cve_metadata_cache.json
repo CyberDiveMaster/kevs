@@ -52079,6 +52079,16 @@
   "product": "BetterDocs Pro",
   "vendor": "betterdocs"
  },
+ "CVE-2026-75650": {
+  "checked_at": "2026-09-08T07:42:32.398332+00:00",
+  "cna_product": "Adobe Commerce; Adobe Commerce B2B; Magento Open Source",
+  "cna_vendor": "Adobe",
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-07T20:17:16.761Z",
+  "product": "Adobe Commerce; Adobe Commerce B2B; Magento Open Source",
+  "vendor": "Adobe"
+ },
  "CVE-2026-76581": {
   "checked_at": "2026-08-28T14:48:23.177166+00:00",
   "cna_product": "WPMU DEV Dashboard",
