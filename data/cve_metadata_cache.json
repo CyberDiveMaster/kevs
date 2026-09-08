@@ -44459,6 +44459,16 @@
   "product": "Omnissa Workspace ONE UEM",
   "vendor": "Omnissa"
  },
+ "CVE-2025-25249": {
+  "checked_at": "2026-09-08T18:01:29.345380+00:00",
+  "cna_product": "FortiSwitchManager; FortiOS",
+  "cna_vendor": "Fortinet",
+  "cvss_score": 7.4,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-13T16:32:35.662Z",
+  "product": "FortiSwitchManager; FortiOS",
+  "vendor": "Fortinet"
+ },
  "CVE-2025-25256": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "FortiSIEM",
@@ -52239,6 +52249,16 @@
   "product": "Burst Statistics \u2013 Privacy-Friendly WordPress Analytics (Google Analytics Alternative)",
   "vendor": "burstbv"
  },
+ "CVE-2026-81963": {
+  "checked_at": "2026-09-08T18:01:29.345380+00:00",
+  "cna_product": "Windows 11 version 23H2; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "cna_vendor": "Microsoft",
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-08T17:19:13.121Z",
+  "product": "Windows 11 version 23H2; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
+ },
  "CVE-2026-8206": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Kirki \u2013 Freeform Page Builder, Website Builder & Customizer",
@@ -52339,6 +52359,26 @@
   "product": "ADC; Gateway",
   "vendor": "NetScaler"
  },
+ "CVE-2026-84755": {
+  "checked_at": "2026-09-08T18:01:29.345380+00:00",
+  "cna_product": "Mail Mint",
+  "cna_vendor": "WPFunnels",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-03T16:31:44.890Z",
+  "product": "Mail Mint",
+  "vendor": "WPFunnels"
+ },
+ "CVE-2026-84813": {
+  "checked_at": "2026-09-08T18:01:29.345380+00:00",
+  "cna_product": "GeoDirectory",
+  "cna_vendor": "Paolo",
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-03T16:31:57.948Z",
+  "product": "GeoDirectory",
+  "vendor": "Paolo"
+ },
  "CVE-2026-8496": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "SOGo",
@@ -52358,6 +52398,16 @@
   "date_published": "2026-09-03T19:26:12.609Z",
   "product": "Chrome",
   "vendor": "Google"
+ },
+ "CVE-2026-85880": {
+  "checked_at": "2026-09-08T18:01:29.345380+00:00",
+  "cna_product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022",
+  "cna_vendor": "Microsoft",
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-08T17:14:21.465Z",
+  "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022",
+  "vendor": "Microsoft"
  },
  "CVE-2026-86060": {
   "checked_at": "2026-09-06T02:25:21.413016+00:00",
