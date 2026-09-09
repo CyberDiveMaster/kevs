@@ -33829,6 +33829,16 @@
   "product": "Safari; tvOS; iOS and iPadOS; macOS; watchOS",
   "vendor": "Apple"
  },
+ "CVE-2023-37462": {
+  "checked_at": "2026-09-09T13:19:55.956227+00:00",
+  "cna_product": "xwiki-platform",
+  "cna_vendor": "xwiki",
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2023-07-14T20:39:05.941Z",
+  "product": "xwiki-platform",
+  "vendor": "xwiki"
+ },
  "CVE-2023-37569": {
   "checked_at": "2026-09-08T13:13:54.993396+00:00",
   "cna_product": "Emagic Data Center Management Suite",
@@ -47810,7 +47820,7 @@
   "vendor": "dlink"
  },
  "CVE-2025-60702": {
-  "checked_at": "2026-09-02T13:09:47.490755+00:00",
+  "checked_at": "2026-09-09T13:19:55.956227+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -52429,6 +52439,16 @@
   "product": "RouterOS",
   "vendor": "Mikrotik"
  },
+ "CVE-2026-86207": {
+  "checked_at": "2026-09-09T13:19:55.956227+00:00",
+  "cna_product": "N-central",
+  "cna_vendor": "N-able",
+  "cvss_score": 7.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-05T19:12:06.178Z",
+  "product": "N-central",
+  "vendor": "N-able"
+ },
  "CVE-2026-86218": {
   "checked_at": "2026-09-06T17:16:41.937857+00:00",
   "cna_product": "N-central",
@@ -52458,6 +52478,26 @@
   "date_published": "2026-05-29T05:32:36.013Z",
   "product": "WP Maps Pro",
   "vendor": "flippercode"
+ },
+ "CVE-2026-87491": {
+  "checked_at": "2026-09-09T13:19:55.956227+00:00",
+  "cna_product": "Chrome",
+  "cna_vendor": "Google",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-09T00:09:38.419Z",
+  "product": "Chrome",
+  "vendor": "Google"
+ },
+ "CVE-2026-87827": {
+  "checked_at": "2026-09-09T13:19:55.956227+00:00",
+  "cna_product": "KGUARD_firmware",
+  "cna_vendor": "KGUARD",
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-09T10:54:15.520Z",
+  "product": "KGUARD_firmware",
+  "vendor": "KGUARD"
  },
  "CVE-2026-9055": {
   "checked_at": "2026-09-02T18:00:07.888338+00:00",
