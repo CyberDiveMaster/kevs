@@ -50919,6 +50919,26 @@
   "product": "dify",
   "vendor": "langgenius"
  },
+ "CVE-2026-42016": {
+  "checked_at": "2026-09-10T22:53:34.158911+00:00",
+  "cna_product": "artifactory",
+  "cna_vendor": "jfrog",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-27T19:20:56.352Z",
+  "product": "artifactory",
+  "vendor": "jfrog"
+ },
+ "CVE-2026-42018": {
+  "checked_at": "2026-09-10T22:53:34.158911+00:00",
+  "cna_product": "artifactory",
+  "cna_vendor": "jfrog",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-12T17:43:21.289Z",
+  "product": "artifactory",
+  "vendor": "jfrog"
+ },
  "CVE-2026-42031": {
   "checked_at": "2026-09-10T13:16:41.576814+00:00",
   "cna_product": "ckan",
