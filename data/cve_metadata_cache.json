@@ -48949,6 +48949,16 @@
   "product": "Chrome",
   "vendor": "Google"
  },
+ "CVE-2026-11907": {
+  "checked_at": "2026-09-10T17:48:33.413075+00:00",
+  "cna_product": "Stream \u2013 Activity Log & Audit Trail",
+  "cna_vendor": "xwp",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-07T04:25:55.665Z",
+  "product": "Stream \u2013 Activity Log & Audit Trail",
+  "vendor": "xwp"
+ },
  "CVE-2026-1207": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Django",
@@ -49067,6 +49077,16 @@
   "cvss_version": "3.1",
   "date_published": "2026-08-12T06:00:13.644Z",
   "product": "giftware",
+  "vendor": "Unknown"
+ },
+ "CVE-2026-15205": {
+  "checked_at": "2026-09-10T17:48:33.413075+00:00",
+  "cna_product": "Paymob for WooCommerce",
+  "cna_vendor": "Unknown",
+  "cvss_score": 8.6,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-14T06:00:11.326Z",
+  "product": "Paymob for WooCommerce",
   "vendor": "Unknown"
  },
  "CVE-2026-15369": {
@@ -49308,6 +49328,16 @@
   "date_published": "2026-08-21T06:00:16.993Z",
   "product": "Drag and Drop Multiple File Upload for Contact Form 7",
   "vendor": "Unknown"
+ },
+ "CVE-2026-18884": {
+  "checked_at": "2026-09-10T17:48:33.413075+00:00",
+  "cna_product": "WooCommerce Lottery",
+  "cna_vendor": "wpgenie",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-26T07:42:00.282Z",
+  "product": "WooCommerce Lottery",
+  "vendor": "wpgenie"
  },
  "CVE-2026-1890": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -51959,6 +51989,36 @@
   "product": "REST API Log",
   "vendor": "Pete Nelson"
  },
+ "CVE-2026-66464": {
+  "checked_at": "2026-09-10T17:48:33.413075+00:00",
+  "cna_product": "Internal Link Optimiser",
+  "cna_vendor": "Toast Plugins",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-13T13:37:03.988Z",
+  "product": "Internal Link Optimiser",
+  "vendor": "Toast Plugins"
+ },
+ "CVE-2026-66582": {
+  "checked_at": "2026-09-10T17:48:33.413075+00:00",
+  "cna_product": "TranslatePress",
+  "cna_vendor": "Cozmoslabs",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-20T12:06:57.691Z",
+  "product": "TranslatePress",
+  "vendor": "Cozmoslabs"
+ },
+ "CVE-2026-66613": {
+  "checked_at": "2026-09-10T17:48:33.413075+00:00",
+  "cna_product": "JetEngine",
+  "cna_vendor": "Crocoblock. Jetimpex Inc.",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-19T12:38:45.424Z",
+  "product": "JetEngine",
+  "vendor": "Crocoblock. Jetimpex Inc."
+ },
  "CVE-2026-66629": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Kirki",
@@ -52228,6 +52288,16 @@
   "date_published": "2026-09-07T20:17:16.761Z",
   "product": "Adobe Commerce; Adobe Commerce B2B; Magento Open Source",
   "vendor": "Adobe"
+ },
+ "CVE-2026-75981": {
+  "checked_at": "2026-09-10T17:48:33.413075+00:00",
+  "cna_product": "TranslatePress \u2013 Translate Multilingual sites with AI Translation",
+  "cna_vendor": "cozmoslabs",
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-19T06:37:55.093Z",
+  "product": "TranslatePress \u2013 Translate Multilingual sites with AI Translation",
+  "vendor": "cozmoslabs"
  },
  "CVE-2026-76581": {
   "checked_at": "2026-08-28T14:48:23.177166+00:00",
