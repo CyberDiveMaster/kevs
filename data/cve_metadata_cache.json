@@ -11299,6 +11299,16 @@
   "product": "rt-ac1750_firmware",
   "vendor": "asus"
  },
+ "CVE-2017-8917": {
+  "checked_at": "2026-09-12T12:34:34.160070+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2017-05-17T23:00:00.000Z",
+  "product": "joomla\\!",
+  "vendor": "joomla"
+ },
  "CVE-2017-8961": {
   "checked_at": "2026-09-10T02:37:29.267630+00:00",
   "cna_product": "Intelligent Management Center",
@@ -12638,6 +12648,16 @@
   "date_published": "2018-10-15T19:00:00.000Z",
   "product": "rut900_firmware",
   "vendor": "teltonika"
+ },
+ "CVE-2018-18084": {
+  "checked_at": "2026-09-12T12:34:34.160070+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2018-10-09T18:00:00.000Z",
+  "product": "duomicms",
+  "vendor": "comsenz"
  },
  "CVE-2018-18325": {
   "checked_at": "2026-09-10T02:37:29.267630+00:00",
