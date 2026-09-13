@@ -47910,7 +47910,7 @@
   "vendor": "totolink"
  },
  "CVE-2025-60698": {
-  "checked_at": "2026-09-06T12:32:38.188393+00:00",
+  "checked_at": "2026-09-13T13:35:28.249119+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.3,
