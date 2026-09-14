@@ -49369,6 +49369,16 @@
   "product": "N-central",
   "vendor": "N-able"
  },
+ "CVE-2026-18562": {
+  "checked_at": "2026-09-14T15:34:43.591881+00:00",
+  "cna_product": "HUSKY \u2013 Products Filter for WooCommerce Professional",
+  "cna_vendor": "realmag777",
+  "cvss_score": 6.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-11T03:39:38.824Z",
+  "product": "HUSKY \u2013 Products Filter for WooCommerce Professional",
+  "vendor": "realmag777"
+ },
  "CVE-2026-18577": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "N-central",
@@ -50770,7 +50780,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-09-14T08:59:10.739237+00:00",
+  "checked_at": "2026-09-14T15:34:43.591881+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -50920,7 +50930,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-09-14T08:59:10.739237+00:00",
+  "checked_at": "2026-09-14T15:34:43.591881+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51530,7 +51540,7 @@
   "vendor": "Tenda"
  },
  "CVE-2026-51990": {
-  "checked_at": "2026-09-14T08:59:10.739237+00:00",
+  "checked_at": "2026-09-14T15:34:43.591881+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51680,7 +51690,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-09-14T08:59:10.739237+00:00",
+  "checked_at": "2026-09-14T15:34:43.591881+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52479,6 +52489,16 @@
   "product": "Mailgun for WordPress",
   "vendor": "mailgun"
  },
+ "CVE-2026-78006": {
+  "checked_at": "2026-09-14T15:34:43.591881+00:00",
+  "cna_product": "The Events Calendar",
+  "cna_vendor": "stellarwp",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-12T07:39:15.165Z",
+  "product": "The Events Calendar",
+  "vendor": "stellarwp"
+ },
  "CVE-2026-78141": {
   "checked_at": "2026-09-02T13:09:47.490755+00:00",
   "cna_product": "CH22",
@@ -52488,6 +52508,16 @@
   "date_published": "2026-08-23T21:45:09.069Z",
   "product": "CH22",
   "vendor": "Tenda"
+ },
+ "CVE-2026-78159": {
+  "checked_at": "2026-09-14T15:34:43.591881+00:00",
+  "cna_product": "The Events Calendar",
+  "cna_vendor": "stellarwp",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-12T07:39:15.542Z",
+  "product": "The Events Calendar",
+  "vendor": "stellarwp"
  },
  "CVE-2026-80099": {
   "checked_at": "2026-09-09T17:56:06.063158+00:00",
