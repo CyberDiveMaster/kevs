@@ -48,6 +48,24 @@ NVD_BASE_URL = "https://services.nvd.nist.gov/rest/json/cves/2.0"
 DEFAULT_MAX_PER_RUN = 5000
 RECHECK_INTERVAL = datetime.timedelta(days=7)
 
+# A CVE that's still missing a date_published is usually one a KEV catalog
+# listed *before* its CNA published the record -- precisely the case this
+# viewer exists to surface (it's what makes Days negative). That gap is
+# normally hours to a couple of days, so the 7-day interval above would
+# leave the most interesting rows blank for a week after the record went
+# live. CVE-2026-85706 is the worked example: CISA/Previdian/VulnCheck all
+# listed it 2026-09-11, cve.org published it 2026-09-12 02:46Z, and the
+# 09-11 13:10Z check had already stamped checked_at -- so it would have
+# stayed blank (and Days empty instead of -1) until 09-18.
+#
+# Recent IDs therefore retry roughly every other run. An old CVE still
+# missing a record is a different animal -- withdrawn, rejected, or never
+# published -- and will most likely never fill in, so it keeps the long
+# interval rather than burning a cve.org request every few hours forever.
+# See _recheck_interval() for why this is scoped to date_published alone.
+RECENT_RECHECK_INTERVAL = datetime.timedelta(hours=6)
+RECENT_YEARS = 2
+
 # v4.0 > v3.1 > v3.0 > v2.0, matching the convention already used by
 # Vulnrichment Viewer (see cvss-version-hint in that project's app.js).
 CVSS_KEYS_BY_VERSION = ["cvssV4_0", "cvssV3_1", "cvssV3_0", "cvssV2_0"]
@@ -157,7 +175,28 @@ def _is_incomplete(entry):
     return _is_placeholder(entry.get("cna_vendor")) or _is_placeholder(entry.get("cna_product"))
 
 
-def _needs_recheck(entry, now):
+def _recheck_interval(cve_id, entry, now):
+    """Short interval only for the narrow case it's meant for: a recent
+    CVE with no date_published, i.e. a record that is very likely just
+    not published yet and will fill itself in within days.
+
+    Deliberately NOT applied to the other things _is_incomplete() covers
+    (missing CVSS, "n/a" vendor/product). Those are mostly permanent --
+    the CNA simply never supplied them -- so polling them every few hours
+    forever would spend ~69 requests a run to change nothing, versus the
+    handful this narrow test actually catches.
+    """
+    if entry.get("date_published") is not None:
+        return RECHECK_INTERVAL
+    match = CVE_RE.match(cve_id)
+    if not match:
+        return RECHECK_INTERVAL
+    if int(match.group(1)) >= now.year - (RECENT_YEARS - 1):
+        return RECENT_RECHECK_INTERVAL
+    return RECHECK_INTERVAL
+
+
+def _needs_recheck(cve_id, entry, now):
     # Entries cached before cna_vendor/cna_product existed (pre-NVD-fallback)
     # were never evaluated against the current logic at all -- force one
     # fresh check regardless of checked_at, rather than making them wait
@@ -173,7 +212,7 @@ def _needs_recheck(entry, now):
         checked_dt = datetime.datetime.fromisoformat(checked_at)
     except ValueError:
         return True
-    return now - checked_dt >= RECHECK_INTERVAL
+    return now - checked_dt >= _recheck_interval(cve_id, entry, now)
 
 
 def load_cache(path):
@@ -198,7 +237,7 @@ def ensure_metadata(cve_ids, cache_path, max_per_run=None):
     now = datetime.datetime.now(datetime.timezone.utc)
 
     cache = load_cache(cache_path)
-    due = [c for c in cve_ids if CVE_RE.match(c) and (c not in cache or _needs_recheck(cache[c], now))]
+    due = [c for c in cve_ids if CVE_RE.match(c) and (c not in cache or _needs_recheck(c, cache[c], now))]
     due = due[:max_per_run]
 
     fetched = 0
