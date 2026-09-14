@@ -49889,6 +49889,16 @@
   "product": "RecoverPoint for Virtual Machines",
   "vendor": "Dell"
  },
+ "CVE-2026-23536": {
+  "checked_at": "2026-09-14T08:59:10.739237+00:00",
+  "cna_product": "Red Hat OpenShift AI (RHOAI)",
+  "cna_vendor": "Red Hat",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-20T21:58:47.338Z",
+  "product": "Red Hat OpenShift AI (RHOAI)",
+  "vendor": "Red Hat"
+ },
  "CVE-2026-23541": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Mail Mint",
@@ -50760,7 +50770,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-09-10T17:59:50.469964+00:00",
+  "checked_at": "2026-09-14T08:59:10.739237+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -50910,7 +50920,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-09-10T17:59:50.469964+00:00",
+  "checked_at": "2026-09-14T08:59:10.739237+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51520,7 +51530,7 @@
   "vendor": "Tenda"
  },
  "CVE-2026-51990": {
-  "checked_at": "2026-09-11T17:50:31.840471+00:00",
+  "checked_at": "2026-09-14T08:59:10.739237+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51668,6 +51678,16 @@
   "date_published": "2026-06-23T16:17:52.168Z",
   "product": "langflow",
   "vendor": "langflow-ai"
+ },
+ "CVE-2026-55786": {
+  "checked_at": "2026-09-14T08:59:10.739237+00:00",
+  "cna_product": null,
+  "cna_vendor": null,
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": null,
+  "product": null,
+  "vendor": null
  },
  "CVE-2026-56011": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -52680,14 +52700,14 @@
   "vendor": "Google"
  },
  "CVE-2026-85706": {
-  "checked_at": "2026-09-11T13:10:53.721393+00:00",
-  "cna_product": null,
-  "cna_vendor": null,
-  "cvss_score": null,
-  "cvss_version": null,
-  "date_published": null,
-  "product": null,
-  "vendor": null
+  "checked_at": "2026-09-14T08:59:10.739237+00:00",
+  "cna_product": "GitLab",
+  "cna_vendor": "GitLab",
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-12T02:46:31.624Z",
+  "product": "GitLab",
+  "vendor": "GitLab"
  },
  "CVE-2026-85880": {
   "checked_at": "2026-09-08T18:01:29.345380+00:00",
