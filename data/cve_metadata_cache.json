@@ -52429,6 +52429,16 @@
   "product": "TranslatePress \u2013 Translate Multilingual sites with AI Translation",
   "vendor": "cozmoslabs"
  },
+ "CVE-2026-76461": {
+  "checked_at": "2026-09-14T19:33:00.897572+00:00",
+  "cna_product": "Cisco Secure Email",
+  "cna_vendor": "Cisco",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-14T16:09:07.839Z",
+  "product": "Cisco Secure Email",
+  "vendor": "Cisco"
+ },
  "CVE-2026-76581": {
   "checked_at": "2026-08-28T14:48:23.177166+00:00",
   "cna_product": "WPMU DEV Dashboard",
