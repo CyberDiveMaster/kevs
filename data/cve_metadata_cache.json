@@ -35849,6 +35849,16 @@
   "product": "Proxmox Virtual Environment (VE)",
   "vendor": "Proxmox Server Solutions GmbH"
  },
+ "CVE-2023-54398": {
+  "checked_at": "2026-09-15T18:24:14.792129+00:00",
+  "cna_product": "U8 Cloud",
+  "cna_vendor": "Yonyou",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-15T16:43:06.574Z",
+  "product": "U8 Cloud",
+  "vendor": "Yonyou"
+ },
  "CVE-2023-5559": {
   "checked_at": "2026-09-10T17:59:50.469964+00:00",
   "cna_product": "10Web Booster",
@@ -42218,6 +42228,16 @@
   "date_published": "2026-08-13T17:21:22.909Z",
   "product": "e-HR",
   "vendor": "Hongjing Century"
+ },
+ "CVE-2024-58385": {
+  "checked_at": "2026-09-15T18:24:14.792129+00:00",
+  "cna_product": "U8 CRM",
+  "cna_vendor": "Yonyou",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-15T16:43:41.535Z",
+  "product": "U8 CRM",
+  "vendor": "Yonyou"
  },
  "CVE-2024-5889": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -50919,6 +50939,16 @@
   "product": "Chrome",
   "vendor": "Google"
  },
+ "CVE-2026-39364": {
+  "checked_at": "2026-09-15T18:24:14.792129+00:00",
+  "cna_product": "vite; vite-plus",
+  "cna_vendor": "vitejs",
+  "cvss_score": 8.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-04-07T19:12:47.577Z",
+  "product": "vite; vite-plus",
+  "vendor": "vitejs"
+ },
  "CVE-2026-39365": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "vite; vite-plus",
@@ -52928,6 +52958,16 @@
   "date_published": "2026-09-09T10:54:15.520Z",
   "product": "KGUARD_firmware",
   "vendor": "KGUARD"
+ },
+ "CVE-2026-89026": {
+  "checked_at": "2026-09-15T18:24:14.792129+00:00",
+  "cna_product": "Issabel Framework",
+  "cna_vendor": "Issabel Foundation",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-15T16:41:39.363Z",
+  "product": "Issabel Framework",
+  "vendor": "Issabel Foundation"
  },
  "CVE-2026-9055": {
   "checked_at": "2026-09-02T18:00:07.888338+00:00",
