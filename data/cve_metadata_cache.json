@@ -41109,6 +41109,16 @@
   "product": "PHP",
   "vendor": "PHP Group"
  },
+ "CVE-2024-45811": {
+  "checked_at": "2026-09-15T23:22:23.297674+00:00",
+  "cna_product": "vite",
+  "cna_vendor": "vitejs",
+  "cvss_score": 4.8,
+  "cvss_version": "3.1",
+  "date_published": "2024-09-17T20:08:11.801Z",
+  "product": "vite",
+  "vendor": "vitejs"
+ },
  "CVE-2024-45841": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "UD-LT1; UD-LT1/EX",
@@ -50890,7 +50900,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-09-15T14:05:56.297783+00:00",
+  "checked_at": "2026-09-15T23:22:23.297674+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51050,7 +51060,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-09-15T14:05:56.297783+00:00",
+  "checked_at": "2026-09-15T23:22:23.297674+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51660,7 +51670,7 @@
   "vendor": "Tenda"
  },
  "CVE-2026-51990": {
-  "checked_at": "2026-09-15T14:05:56.297783+00:00",
+  "checked_at": "2026-09-15T23:22:23.297674+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51810,7 +51820,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-09-15T14:05:56.297783+00:00",
+  "checked_at": "2026-09-15T23:22:23.297674+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52358,6 +52368,16 @@
   "date_published": "2026-08-11T17:05:15.930Z",
   "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 23H2; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2025; Windows Server 2025 (Server Core installation)",
   "vendor": "Microsoft"
+ },
+ "CVE-2026-69255": {
+  "checked_at": "2026-09-15T23:22:23.297674+00:00",
+  "cna_product": "Flowise",
+  "cna_vendor": "FlowiseAI",
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-08-04T15:39:39.166Z",
+  "product": "Flowise",
+  "vendor": "FlowiseAI"
  },
  "CVE-2026-6973": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -52958,6 +52978,16 @@
   "date_published": "2026-09-09T10:54:15.520Z",
   "product": "KGUARD_firmware",
   "vendor": "KGUARD"
+ },
+ "CVE-2026-87886": {
+  "checked_at": "2026-09-15T23:22:23.297674+00:00",
+  "cna_product": null,
+  "cna_vendor": null,
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": null,
+  "product": null,
+  "vendor": null
  },
  "CVE-2026-89026": {
   "checked_at": "2026-09-15T18:24:14.792129+00:00",
