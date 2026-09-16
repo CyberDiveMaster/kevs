@@ -51669,6 +51669,16 @@
   "product": "Quantum Security Gateway; Spark Firewalls",
   "vendor": "checkpoint"
  },
+ "CVE-2026-50752": {
+  "checked_at": "2026-09-16T23:28:38.137437+00:00",
+  "cna_product": "Quantum Security Gateway; Spark Firewalls",
+  "cna_vendor": "checkpoint",
+  "cvss_score": 7.4,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-08T11:00:38.563Z",
+  "product": "Quantum Security Gateway; Spark Firewalls",
+  "vendor": "checkpoint"
+ },
  "CVE-2026-5153": {
   "checked_at": "2026-09-02T13:09:47.490755+00:00",
   "cna_product": "CH22",
