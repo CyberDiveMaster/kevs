@@ -29260,7 +29260,7 @@
   "vendor": "Atlassian"
  },
  "CVE-2022-36883": {
-  "checked_at": "2026-09-09T17:56:06.063158+00:00",
+  "checked_at": "2026-09-16T18:20:30.427602+00:00",
   "cna_product": "Jenkins Git Plugin",
   "cna_vendor": "Jenkins project",
   "cvss_score": null,
@@ -50910,7 +50910,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-09-16T08:11:54.764637+00:00",
+  "checked_at": "2026-09-16T18:20:30.427602+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51070,7 +51070,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-09-16T08:11:54.764637+00:00",
+  "checked_at": "2026-09-16T18:20:30.427602+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51680,14 +51680,14 @@
   "vendor": "Tenda"
  },
  "CVE-2026-51990": {
-  "checked_at": "2026-09-16T08:11:54.764637+00:00",
-  "cna_product": null,
-  "cna_vendor": null,
+  "checked_at": "2026-09-16T18:20:30.427602+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
   "cvss_score": null,
   "cvss_version": null,
-  "date_published": null,
-  "product": null,
-  "vendor": null
+  "date_published": "2026-09-16T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
  },
  "CVE-2026-5231": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -51850,7 +51850,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-09-16T08:11:54.764637+00:00",
+  "checked_at": "2026-09-16T18:20:30.427602+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52609,6 +52609,16 @@
   "product": "TranslatePress \u2013 Translate Multilingual sites with AI Translation",
   "vendor": "cozmoslabs"
  },
+ "CVE-2026-76460": {
+  "checked_at": "2026-09-16T18:20:30.427602+00:00",
+  "cna_product": null,
+  "cna_vendor": null,
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": null,
+  "product": null,
+  "vendor": null
+ },
  "CVE-2026-76461": {
   "checked_at": "2026-09-14T19:33:00.897572+00:00",
   "cna_product": "Cisco Secure Email",
@@ -53020,7 +53030,7 @@
   "vendor": "KGUARD"
  },
  "CVE-2026-87886": {
-  "checked_at": "2026-09-16T08:11:54.764637+00:00",
+  "checked_at": "2026-09-16T18:20:30.427602+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
