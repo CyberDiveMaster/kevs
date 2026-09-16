@@ -48040,7 +48040,7 @@
   "vendor": "dlink"
  },
  "CVE-2025-60702": {
-  "checked_at": "2026-09-09T13:19:55.956227+00:00",
+  "checked_at": "2026-09-16T13:58:29.344432+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -48958,6 +48958,16 @@
   "date_published": "2025-08-27T13:02:08.736Z",
   "product": "E1700",
   "vendor": "Linksys"
+ },
+ "CVE-2025-9603": {
+  "checked_at": "2026-09-16T13:58:29.344432+00:00",
+  "cna_product": "TLR-2005KSH",
+  "cna_vendor": "Telesquare",
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-29T01:32:05.620Z",
+  "product": "TLR-2005KSH",
+  "vendor": "Telesquare"
  },
  "CVE-2025-9807": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -51759,6 +51769,16 @@
   "product": "siyuan",
   "vendor": "siyuan-note"
  },
+ "CVE-2026-54196": {
+  "checked_at": "2026-09-16T13:58:29.344432+00:00",
+  "cna_product": "JetFormBuilder",
+  "cna_vendor": "Jetmonsters",
+  "cvss_score": 6.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-17T09:51:40.708Z",
+  "product": "JetFormBuilder",
+  "vendor": "Jetmonsters"
+ },
  "CVE-2026-5426": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "KnowledgeDeliver",
@@ -52008,6 +52028,16 @@
   "date_published": "2026-07-14T17:05:37.431Z",
   "product": "Microsoft SharePoint Enterprise Server 2016; Microsoft SharePoint Server 2019; Microsoft SharePoint Server Subscription Edition",
   "vendor": "Microsoft"
+ },
+ "CVE-2026-58704": {
+  "checked_at": "2026-09-16T13:58:29.344432+00:00",
+  "cna_product": "Android",
+  "cna_vendor": "Google",
+  "cvss_score": 8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-15T18:34:37.966Z",
+  "product": "Android",
+  "vendor": "Google"
  },
  "CVE-2026-59309": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
