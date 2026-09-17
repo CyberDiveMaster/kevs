@@ -26049,6 +26049,16 @@
   "product": "XML Sitemap Generator for Google",
   "vendor": "Unknown"
  },
+ "CVE-2022-0412": {
+  "checked_at": "2026-09-17T14:02:57.306570+00:00",
+  "cna_product": "TI WooCommerce Wishlist; TI WooCommerce Wishlist Pro",
+  "cna_vendor": "TemplateInvaders",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2022-02-28T09:06:56.000Z",
+  "product": "TI WooCommerce Wishlist; TI WooCommerce Wishlist Pro",
+  "vendor": "TemplateInvaders"
+ },
  "CVE-2022-0429": {
   "checked_at": "2026-09-17T08:19:29.182018+00:00",
   "cna_product": "WP Cerber Security, Anti-spam & Malware Scan",
@@ -27798,6 +27808,16 @@
   "date_published": "2022-03-15T17:40:48.000Z",
   "product": "atomcms",
   "vendor": "thedigitalcraft"
+ },
+ "CVE-2022-25497": {
+  "checked_at": "2026-09-17T14:02:57.306570+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2022-03-15T17:31:35.000Z",
+  "product": "cuppacms",
+  "vendor": "cuppacms"
  },
  "CVE-2022-2551": {
   "checked_at": "2026-09-17T08:19:29.182018+00:00",
@@ -50920,7 +50940,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-09-17T02:55:57.888792+00:00",
+  "checked_at": "2026-09-17T14:02:57.306570+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51080,7 +51100,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-09-17T02:55:57.888792+00:00",
+  "checked_at": "2026-09-17T14:02:57.306570+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51870,7 +51890,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-09-17T02:55:57.888792+00:00",
+  "checked_at": "2026-09-17T14:02:57.306570+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52268,6 +52288,16 @@
   "date_published": "2026-07-29T12:05:48.262Z",
   "product": "Gridbox extension for Joomla",
   "vendor": "balbooa.com"
+ },
+ "CVE-2026-66047": {
+  "checked_at": "2026-09-17T14:02:57.306570+00:00",
+  "cna_product": "ProfilePress",
+  "cna_vendor": "Proper Fraction",
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-08-31T14:46:41.174Z",
+  "product": "ProfilePress",
+  "vendor": "Proper Fraction"
  },
  "CVE-2026-66066": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -53050,7 +53080,7 @@
   "vendor": "KGUARD"
  },
  "CVE-2026-87886": {
-  "checked_at": "2026-09-17T02:55:57.888792+00:00",
+  "checked_at": "2026-09-17T14:02:57.306570+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
