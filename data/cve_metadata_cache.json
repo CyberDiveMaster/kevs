@@ -10549,6 +10549,16 @@
   "product": "FLIR Thermal Camera PT-Series",
   "vendor": "FLIR Systems, Inc."
  },
+ "CVE-2017-20284": {
+  "checked_at": "2026-09-18T20:47:38.727440+00:00",
+  "cna_product": "Resin",
+  "cna_vendor": "Caucho Technology, Inc.",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-18T19:00:15.115Z",
+  "product": "Resin",
+  "vendor": "Caucho Technology, Inc."
+ },
  "CVE-2017-2404": {
   "checked_at": "2026-09-17T02:55:57.888792+00:00",
   "cna_product": "n/a",
@@ -16108,6 +16118,16 @@
   "date_published": "2026-08-13T17:21:38.584Z",
   "product": "ASP-CMS",
   "vendor": "ASP-CMS Project"
+ },
+ "CVE-2019-25776": {
+  "checked_at": "2026-09-18T20:47:38.727440+00:00",
+  "cna_product": "E-cology",
+  "cna_vendor": "Weaver Network Co., Ltd.",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-18T18:59:02.474Z",
+  "product": "E-cology",
+  "vendor": "Weaver Network Co., Ltd."
  },
  "CVE-2019-2588": {
   "checked_at": "2026-09-17T08:19:29.182018+00:00",
@@ -26008,6 +26028,16 @@
   "date_published": "2026-01-15T23:25:44.158Z",
   "product": "GeoVision Geowebserver",
   "vendor": "Geovision"
+ },
+ "CVE-2021-48008": {
+  "checked_at": "2026-09-18T20:47:38.727440+00:00",
+  "cna_product": "CRM",
+  "cna_vendor": "Chanjet Information Technology Co., Ltd.",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-18T18:59:43.420Z",
+  "product": "CRM",
+  "vendor": "Chanjet Information Technology Co., Ltd."
  },
  "CVE-2022-0028": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
@@ -35998,6 +36028,16 @@
   "date_published": "2026-09-15T16:43:06.574Z",
   "product": "U8 Cloud",
   "vendor": "Yonyou"
+ },
+ "CVE-2023-54399": {
+  "checked_at": "2026-09-18T20:47:38.727440+00:00",
+  "cna_product": "e-HR",
+  "cna_vendor": "Hongjing",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-18T18:58:28.593Z",
+  "product": "e-HR",
+  "vendor": "Hongjing"
  },
  "CVE-2023-5559": {
   "checked_at": "2026-09-17T18:27:53.253360+00:00",
@@ -46439,6 +46479,16 @@
   "product": "Arlo",
   "vendor": "Frenify"
  },
+ "CVE-2025-39682": {
+  "checked_at": "2026-09-18T20:47:38.727440+00:00",
+  "cna_product": "Linux",
+  "cna_vendor": "Linux",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-05T17:20:48.657Z",
+  "product": "Linux",
+  "vendor": "Linux"
+ },
  "CVE-2025-3987": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "N150RT",
@@ -53098,6 +53148,16 @@
   "date_published": "2026-05-15T07:30:29.287Z",
   "product": "DAEMON Tools Lite",
   "vendor": "AVB Disc Soft"
+ },
+ "CVE-2026-84434": {
+  "checked_at": "2026-09-18T20:47:38.727440+00:00",
+  "cna_product": null,
+  "cna_vendor": null,
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": null,
+  "product": null,
+  "vendor": null
  },
  "CVE-2026-8451": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
