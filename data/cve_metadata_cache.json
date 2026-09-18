@@ -26420,7 +26420,7 @@
   "vendor": "Sophos"
  },
  "CVE-2022-1057": {
-  "checked_at": "2026-09-11T13:10:53.721393+00:00",
+  "checked_at": "2026-09-18T13:19:22.623265+00:00",
   "cna_product": "Pricing Deals for WooCommerce",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -30338,6 +30338,16 @@
   "date_published": "2022-12-06T20:36:45.061Z",
   "product": "YITH WooCommerce Gift Cards",
   "vendor": "YITH"
+ },
+ "CVE-2022-45362": {
+  "checked_at": "2026-09-18T13:19:22.623265+00:00",
+  "cna_product": "Paytm Payment Gateway",
+  "cna_vendor": "Paytm",
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2023-12-07T11:05:04.334Z",
+  "product": "Paytm Payment Gateway",
+  "vendor": "Paytm"
  },
  "CVE-2022-45363": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -50579,6 +50589,16 @@
   "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 23H2; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2025; Windows Server 2025 (Server Core installation)",
   "vendor": "Microsoft"
  },
+ "CVE-2026-32255": {
+  "checked_at": "2026-09-18T13:19:22.623265+00:00",
+  "cna_product": "kan",
+  "cna_vendor": "kanbn",
+  "cvss_score": 8.6,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-18T23:11:36.892Z",
+  "product": "kan",
+  "vendor": "kanbn"
+ },
  "CVE-2026-32475": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Elementor Pro",
@@ -51088,6 +51108,16 @@
   "date_published": "2026-04-10T13:43:23.147Z",
   "product": "LiteLLM",
   "vendor": "BerriAI"
+ },
+ "CVE-2026-40242": {
+  "checked_at": "2026-09-18T13:19:22.623265+00:00",
+  "cna_product": "arcane",
+  "cna_vendor": "getarcaneapp",
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-10T20:34:12.777Z",
+  "product": "arcane",
+  "vendor": "getarcaneapp"
  },
  "CVE-2026-40466": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -53008,6 +53038,16 @@
   "date_published": "2026-09-05T20:00:59.107Z",
   "product": "RouterOS",
   "vendor": "Mikrotik"
+ },
+ "CVE-2026-86124": {
+  "checked_at": "2026-09-18T13:19:22.623265+00:00",
+  "cna_product": "AutoAgent",
+  "cna_vendor": "HKUDS",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-05T09:59:12.062Z",
+  "product": "AutoAgent",
+  "vendor": "HKUDS"
  },
  "CVE-2026-86206": {
   "checked_at": "2026-09-10T07:46:59.969652+00:00",
