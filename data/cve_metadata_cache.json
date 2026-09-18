@@ -289,6 +289,16 @@
   "product": "aix",
   "vendor": "ibm"
  },
+ "CVE-2002-1717": {
+  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2005-06-21T04:00:00.000Z",
+  "product": "internet_information_services",
+  "vendor": "microsoft"
+ },
  "CVE-2003-0050": {
   "checked_at": "2026-09-17T02:55:57.888792+00:00",
   "cna_product": "n/a",
@@ -4169,6 +4179,16 @@
   "product": "windows_7",
   "vendor": "microsoft"
  },
+ "CVE-2012-0152": {
+  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2012-03-13T21:00:00.000Z",
+  "product": "windows_7",
+  "vendor": "microsoft"
+ },
  "CVE-2012-0158": {
   "checked_at": "2026-09-17T02:55:57.888792+00:00",
   "cna_product": "n/a",
@@ -4218,6 +4238,16 @@
   "date_published": "2012-01-08T15:00:00.000Z",
   "product": "struts",
   "vendor": "apache"
+ },
+ "CVE-2012-0432": {
+  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2012-12-25T11:00:00.000Z",
+  "product": "edirectory",
+  "vendor": "microfocus"
  },
  "CVE-2012-0507": {
   "checked_at": "2026-09-17T02:55:57.888792+00:00",
@@ -14099,6 +14129,16 @@
   "product": "Apache HTTP Server",
   "vendor": "Apache"
  },
+ "CVE-2019-0230": {
+  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "cna_product": "Apache Struts",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2020-09-14T16:41:27.000Z",
+  "product": "Apache Struts",
+  "vendor": "apache"
+ },
  "CVE-2019-0232": {
   "checked_at": "2026-09-17T02:55:57.888792+00:00",
   "cna_product": "Tomcat",
@@ -15599,6 +15639,16 @@
   "product": "dir-859_firmware",
   "vendor": "dlink"
  },
+ "CVE-2019-17662": {
+  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2019-10-16T17:24:07.000Z",
+  "product": "thinvnc",
+  "vendor": "cybelsoft"
+ },
  "CVE-2019-18187": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
   "cna_product": "Trend Micro OfficeScan",
@@ -16298,6 +16348,16 @@
   "date_published": "2019-05-06T16:53:33.000Z",
   "product": "Revive Adserver",
   "vendor": "revive-sas"
+ },
+ "CVE-2019-5513": {
+  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "cna_product": "VMware Horizon Connection Server",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2019-04-09T19:30:44.000Z",
+  "product": "VMware Horizon Connection Server",
+  "vendor": "vmware"
  },
  "CVE-2019-5526": {
   "checked_at": "2026-09-17T08:19:29.182018+00:00",
@@ -26949,6 +27009,16 @@
   "product": "Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music",
   "vendor": "Qualcomm, Inc."
  },
+ "CVE-2022-22241": {
+  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "cna_product": "Junos OS",
+  "cna_vendor": "Juniper Networks",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2022-10-18T02:46:43.500Z",
+  "product": "Junos OS",
+  "vendor": "Juniper Networks"
+ },
  "CVE-2022-22242": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
   "cna_product": "Junos OS",
@@ -28727,6 +28797,16 @@
   "cvss_version": null,
   "date_published": "2022-08-05T15:07:24.000Z",
   "product": "VMware Workspace ONE Access, Identity Manager and vRealize Automation",
+  "vendor": "vmware"
+ },
+ "CVE-2022-31675": {
+  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "cna_product": "VMware vRealize Operations",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2022-08-09T20:19:18.000Z",
+  "product": "VMware vRealize Operations",
   "vendor": "vmware"
  },
  "CVE-2022-31678": {
@@ -33449,6 +33529,16 @@
   "product": "VMware vCenter Server; VMware Cloud Foundation (VMware vCenter Server)",
   "vendor": "VMware"
  },
+ "CVE-2023-34060": {
+  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "cna_product": "VMware Cloud Director Appliance (VCD Appliance)",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2023-11-14T20:20:51.972Z",
+  "product": "VMware Cloud Director Appliance (VCD Appliance)",
+  "vendor": "vmware"
+ },
  "CVE-2023-34105": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "srs",
@@ -33568,6 +33658,16 @@
   "date_published": "2023-07-19T18:35:56.843Z",
   "product": "NetScaler ADC\u202f; NetScaler Gateway",
   "vendor": "Citrix"
+ },
+ "CVE-2023-34723": {
+  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2023-08-25T00:00:00.000Z",
+  "product": "la5570_firmware",
+  "vendor": "jaycar"
  },
  "CVE-2023-34960": {
   "checked_at": "2026-09-17T18:27:53.253360+00:00",
@@ -34008,6 +34108,16 @@
   "date_published": "2023-07-14T20:39:05.941Z",
   "product": "xwiki-platform",
   "vendor": "xwiki"
+ },
+ "CVE-2023-37474": {
+  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "cna_product": "copyparty",
+  "cna_vendor": "9001",
+  "cvss_score": 7.5,
+  "cvss_version": "3.0",
+  "date_published": "2023-07-14T19:55:22.779Z",
+  "product": "copyparty",
+  "vendor": "9001"
  },
  "CVE-2023-37569": {
   "checked_at": "2026-09-08T13:13:54.993396+00:00",
@@ -38948,6 +39058,16 @@
   "date_published": "2024-03-28T04:20:23.364Z",
   "product": "Church Admin",
   "vendor": "andy_moyle"
+ },
+ "CVE-2024-30265": {
+  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "cna_product": "voila",
+  "cna_vendor": "voila-dashboards",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2024-04-03T22:55:20.202Z",
+  "product": "voila",
+  "vendor": "voila-dashboards"
  },
  "CVE-2024-30269": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -44039,6 +44159,16 @@
   "product": "X18",
   "vendor": "TOTOLINK"
  },
+ "CVE-2025-1974": {
+  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "cna_product": "ingress-nginx",
+  "cna_vendor": "kubernetes",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-03-24T23:28:48.985Z",
+  "product": "ingress-nginx",
+  "vendor": "kubernetes"
+ },
  "CVE-2025-1976": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Fabric OS",
@@ -46318,6 +46448,16 @@
   "date_published": "2025-04-27T21:31:06.521Z",
   "product": "N150RT",
   "vendor": "TOTOLINK"
+ },
+ "CVE-2025-39964": {
+  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "cna_product": "Linux",
+  "cna_vendor": "Linux",
+  "cvss_score": 7.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-13T13:48:30.334Z",
+  "product": "Linux",
+  "vendor": "Linux"
  },
  "CVE-2025-4008": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -50039,6 +50179,16 @@
   "product": "Oracle HTTP Server, Oracle Weblogic Server Proxy Plug-in",
   "vendor": "Oracle Corporation"
  },
+ "CVE-2026-21992": {
+  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "cna_product": "Oracle Identity Manager; Oracle Web Services Manager",
+  "cna_vendor": "Oracle Corporation",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-20T02:24:16.080Z",
+  "product": "Oracle Identity Manager; Oracle Web Services Manager",
+  "vendor": "Oracle Corporation"
+ },
  "CVE-2026-22679": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "E-cology",
@@ -50960,7 +51110,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-09-18T07:52:19.230229+00:00",
+  "checked_at": "2026-09-18T17:48:00.503582+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51130,7 +51280,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-09-18T07:52:19.230229+00:00",
+  "checked_at": "2026-09-18T17:48:00.503582+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51799,6 +51949,16 @@
   "product": "gogs",
   "vendor": "gogs"
  },
+ "CVE-2026-53266": {
+  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "cna_product": "Linux",
+  "cna_vendor": "Linux",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-25T08:39:53.190Z",
+  "product": "Linux",
+  "vendor": "Linux"
+ },
  "CVE-2026-53362": {
   "checked_at": "2026-08-27T23:53:16.495980+00:00",
   "cna_product": "Linux",
@@ -51920,7 +52080,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-09-18T07:52:19.230229+00:00",
+  "checked_at": "2026-09-18T17:48:00.503582+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
