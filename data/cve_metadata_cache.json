@@ -11340,7 +11340,7 @@
   "vendor": "asus"
  },
  "CVE-2017-8917": {
-  "checked_at": "2026-09-12T12:34:34.160070+00:00",
+  "checked_at": "2026-09-19T12:49:38.645982+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -12710,7 +12710,7 @@
   "vendor": "teltonika"
  },
  "CVE-2018-18084": {
-  "checked_at": "2026-09-12T12:34:34.160070+00:00",
+  "checked_at": "2026-09-19T12:49:38.645982+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32959,6 +32959,16 @@
   "product": "miniOrange Social Login and Register (Discord, Google, Twitter, LinkedIn)",
   "vendor": "cyberlord92"
  },
+ "CVE-2023-29827": {
+  "checked_at": "2026-09-19T12:49:38.645982+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2023-05-04T00:00:00.000Z",
+  "product": "ejs",
+  "vendor": "ejs"
+ },
  "CVE-2023-2986": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Abandoned Cart Lite for WooCommerce",
@@ -35338,6 +35348,16 @@
   "date_published": "2023-10-25T00:00:00.000Z",
   "product": "ndk_steppingpack",
   "vendor": "ndkdesign"
+ },
+ "CVE-2023-46359": {
+  "checked_at": "2026-09-19T12:49:38.645982+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2024-02-06T00:00:00.000Z",
+  "product": "cph2_echarge_firmware",
+  "vendor": "hardy-barth"
  },
  "CVE-2023-46574": {
   "checked_at": "2026-09-17T18:27:53.253360+00:00",
@@ -51160,7 +51180,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-09-19T02:41:48.776294+00:00",
+  "checked_at": "2026-09-19T12:49:38.645982+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51330,7 +51350,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-09-19T02:41:48.776294+00:00",
+  "checked_at": "2026-09-19T12:49:38.645982+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51488,6 +51508,16 @@
   "date_published": "2026-06-11T21:07:15.235Z",
   "product": "SliceWP",
   "vendor": "iova.mihai"
+ },
+ "CVE-2026-42796": {
+  "checked_at": "2026-09-19T12:49:38.645982+00:00",
+  "cna_product": "Arelle",
+  "cna_vendor": "Arelle",
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-04T17:19:43.020Z",
+  "product": "Arelle",
+  "vendor": "Arelle"
  },
  "CVE-2026-42897": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -52130,7 +52160,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-09-19T02:41:48.776294+00:00",
+  "checked_at": "2026-09-19T12:49:38.645982+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
