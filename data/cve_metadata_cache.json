@@ -50879,6 +50879,16 @@
   "product": "GUARDIANWALL MailSuite (On-premises version); GUARDIANWALL Mail Security Cloud (SaaS version)",
   "vendor": "Canon Marketing Japan Inc."
  },
+ "CVE-2026-32882": {
+  "checked_at": "2026-09-19T17:22:37.636211+00:00",
+  "cna_product": "libheif",
+  "cna_vendor": "strukturag",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-19T20:07:21.464Z",
+  "product": "libheif",
+  "vendor": "strukturag"
+ },
  "CVE-2026-3296": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Everest Forms \u2013 Contact Form, Payment Form, Quiz, Survey & Custom Form Builder",
