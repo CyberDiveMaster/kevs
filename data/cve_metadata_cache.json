@@ -53150,14 +53150,14 @@
   "vendor": "AVB Disc Soft"
  },
  "CVE-2026-84434": {
-  "checked_at": "2026-09-18T20:47:38.727440+00:00",
-  "cna_product": null,
-  "cna_vendor": null,
-  "cvss_score": null,
-  "cvss_version": null,
-  "date_published": null,
-  "product": null,
-  "vendor": null
+  "checked_at": "2026-09-19T07:43:58.052771+00:00",
+  "cna_product": "Gravity Forms",
+  "cna_vendor": "Gravity Forms",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-19T02:27:09.915Z",
+  "product": "Gravity Forms",
+  "vendor": "Gravity Forms"
  },
  "CVE-2026-8451": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
