@@ -51200,7 +51200,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-09-21T02:51:07.119830+00:00",
+  "checked_at": "2026-09-21T15:34:56.212326+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51370,7 +51370,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-09-21T02:51:07.119830+00:00",
+  "checked_at": "2026-09-21T15:34:56.212326+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52180,7 +52180,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-09-21T02:51:07.119830+00:00",
+  "checked_at": "2026-09-21T15:34:56.212326+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52808,6 +52808,16 @@
   "date_published": "2026-08-19T16:56:53.099Z",
   "product": "TrueConf Server",
   "vendor": "TrueConf"
+ },
+ "CVE-2026-7273": {
+  "checked_at": "2026-09-21T15:34:56.212326+00:00",
+  "cna_product": "GS1900-48HPv2 firmware; GS1900-8 firmware; GS1900-8HP firmware; GS1900-10HP firmware; GS1900-16 firmware; GS1900-24 firmware; GS1900-24E firmware; GS1900-24EP firmware; GS1900-24HPv2 firmware; GS1900-48 firmware",
+  "cna_vendor": "Zyxel",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-16T02:20:29.847Z",
+  "product": "GS1900-48HPv2 firmware; GS1900-8 firmware; GS1900-8HP firmware; GS1900-10HP firmware; GS1900-16 firmware; GS1900-24 firmware; GS1900-24E firmware; GS1900-24EP firmware; GS1900-24HPv2 firmware; GS1900-48 firmware",
+  "vendor": "Zyxel"
  },
  "CVE-2026-72898": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
