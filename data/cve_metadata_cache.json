@@ -50619,6 +50619,16 @@
   "product": "nginx-ui",
   "vendor": "0xJacky"
  },
+ "CVE-2026-27960": {
+  "checked_at": "2026-09-21T08:28:54.327809+00:00",
+  "cna_product": "opencti",
+  "cna_vendor": "OpenCTI-Platform",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-05T18:35:41.854Z",
+  "product": "opencti",
+  "vendor": "OpenCTI-Platform"
+ },
  "CVE-2026-27971": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "qwik",
