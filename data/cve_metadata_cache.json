@@ -50909,6 +50909,16 @@
   "product": "Everest Forms \u2013 Contact Form, Payment Form, Quiz, Survey & Custom Form Builder",
   "vendor": "wpeverest"
  },
+ "CVE-2026-32996": {
+  "checked_at": "2026-09-21T19:40:22.390936+00:00",
+  "cna_product": "Backup and Replication",
+  "cna_vendor": "Veeam",
+  "cvss_score": 7.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-28T04:01:37.686Z",
+  "product": "Backup and Replication",
+  "vendor": "Veeam"
+ },
  "CVE-2026-3300": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Everest Forms Pro",
@@ -51858,6 +51868,16 @@
   "date_published": "2026-05-26T21:54:54.393Z",
   "product": "starlette",
   "vendor": "Kludex"
+ },
+ "CVE-2026-48842": {
+  "checked_at": "2026-09-21T19:40:22.390936+00:00",
+  "cna_product": "Webmail",
+  "cna_vendor": "Roundcube",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-25T19:06:37.434Z",
+  "product": "Webmail",
+  "vendor": "Roundcube"
  },
  "CVE-2026-48907": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -53468,6 +53488,16 @@
   "date_published": "2026-07-17T17:36:11.246Z",
   "product": "Langflow OSS",
   "vendor": "IBM"
+ },
+ "CVE-2026-92229": {
+  "checked_at": "2026-09-21T19:40:22.390936+00:00",
+  "cna_product": "Forminator Forms \u2013 Contact Form, Payment Form & Custom Form Builder",
+  "cna_vendor": "wpmudev",
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-19T02:27:10.265Z",
+  "product": "Forminator Forms \u2013 Contact Form, Payment Form & Custom Form Builder",
+  "vendor": "wpmudev"
  },
  "CVE-2026-9282": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
