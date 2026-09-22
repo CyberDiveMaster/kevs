@@ -52649,6 +52649,16 @@
   "product": "REST API Log",
   "vendor": "Pete Nelson"
  },
+ "CVE-2026-66457": {
+  "checked_at": "2026-09-22T08:10:09.885183+00:00",
+  "cna_product": "Events Manager",
+  "cna_vendor": "Pixelite",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-06T14:27:52.685Z",
+  "product": "Events Manager",
+  "vendor": "Pixelite"
+ },
  "CVE-2026-66464": {
   "checked_at": "2026-09-10T17:48:33.413075+00:00",
   "cna_product": "Internal Link Optimiser",
