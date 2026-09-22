@@ -48749,6 +48749,16 @@
   "product": "Webmail",
   "vendor": "Roundcube"
  },
+ "CVE-2025-68472": {
+  "checked_at": "2026-09-22T18:27:37.750791+00:00",
+  "cna_product": "mindsdb",
+  "cna_vendor": "mindsdb",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-12T16:53:47.748Z",
+  "product": "mindsdb",
+  "vendor": "mindsdb"
+ },
  "CVE-2025-68493": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Apache Struts",
