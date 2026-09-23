@@ -29420,7 +29420,7 @@
   "vendor": "Atlassian"
  },
  "CVE-2022-36883": {
-  "checked_at": "2026-09-16T18:20:30.427602+00:00",
+  "checked_at": "2026-09-23T18:32:33.274162+00:00",
   "cna_product": "Jenkins Git Plugin",
   "cna_vendor": "Jenkins project",
   "cvss_score": null,
@@ -51250,7 +51250,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-09-23T08:12:10.470828+00:00",
+  "checked_at": "2026-09-23T18:32:33.274162+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51420,7 +51420,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-09-23T08:12:10.470828+00:00",
+  "checked_at": "2026-09-23T18:32:33.274162+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52060,11 +52060,11 @@
   "vendor": "Tenda"
  },
  "CVE-2026-51990": {
-  "checked_at": "2026-09-16T18:20:30.427602+00:00",
+  "checked_at": "2026-09-23T18:32:33.274162+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
-  "cvss_score": null,
-  "cvss_version": null,
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
   "date_published": "2026-09-16T00:00:00.000Z",
   "product": "n/a",
   "vendor": "n/a"
@@ -52250,7 +52250,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-09-23T08:12:10.470828+00:00",
+  "checked_at": "2026-09-23T18:32:33.274162+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52806,6 +52806,16 @@
   "cvss_score": 8.8,
   "cvss_version": "4.0",
   "date_published": "2026-09-05T20:00:56.614Z",
+  "product": "RouterOS",
+  "vendor": "Mikrotik"
+ },
+ "CVE-2026-67279": {
+  "checked_at": "2026-09-23T18:32:33.274162+00:00",
+  "cna_product": "RouterOS",
+  "cna_vendor": "Mikrotik",
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-05T20:00:57.894Z",
   "product": "RouterOS",
   "vendor": "Mikrotik"
  },
