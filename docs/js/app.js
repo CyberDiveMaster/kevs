@@ -364,6 +364,20 @@ function presenceEmptyCheck(value) {
   return !value || value.length === 0;
 }
 
+// Stands in for "this row has no value at all" inside a multi-select,
+// which needs a concrete key to put a checkbox against. Only the CVSS
+// column uses it so far -- the catalog columns are strictly Yes/No.
+const NONE_SENTINEL = "__none__";
+
+// Multi-select option labels may carry a small muted hint (see
+// CVSS_SEVERITY_SELECT_VALUES), so they're rendered as HTML. The
+// collapsed trigger button is plain text, so it strips that back out.
+function stripHtml(html) {
+  const el = document.createElement("div");
+  el.innerHTML = html;
+  return el.textContent;
+}
+
 // --- Multi-select checkbox-dropdown header filter (Yes/No, or any small
 // fixed vocabulary) -- a native <select multiple> would technically work
 // but requires a non-obvious ctrl/cmd-click gesture to pick more than one
@@ -394,7 +408,10 @@ function multiSelectHeaderFilter(valuesMap, initialValue) {
     panel.hidden = true;
     multiSelectPanels.push({ container, panel });
 
-    const selected = new Set(initialValue || []);
+    // Array.isArray guard, not just a truthiness check: a link shared
+    // before this column became a multi-select can carry a plain string
+    // here, and new Set("7") would spread it into single characters.
+    const selected = new Set(Array.isArray(initialValue) ? initialValue : []);
 
     function refreshTrigger() {
       if (selected.size === 0) {
@@ -403,7 +420,7 @@ function multiSelectHeaderFilter(valuesMap, initialValue) {
       }
       const labels = Object.entries(valuesMap)
         .filter(([value]) => selected.has(value))
-        .map(([, label]) => label);
+        .map(([, label]) => stripHtml(label));
       trigger.textContent = labels.join(", ");
       trigger.title = labels.join(", ");
     }
@@ -425,7 +442,7 @@ function multiSelectHeaderFilter(valuesMap, initialValue) {
         success(selected.size ? Array.from(selected) : "");
       });
       const labelSpan = document.createElement("span");
-      labelSpan.textContent = " " + label;
+      labelSpan.innerHTML = " " + label;
       row.appendChild(checkbox);
       row.appendChild(labelSpan);
       panel.appendChild(row);
@@ -480,11 +497,45 @@ function pipeOrFilterFunc(headerValue, rowValue) {
   return needles.some((n) => haystack.includes(n));
 }
 
-function minScoreFilterFunc(headerValue, rowValue) {
-  if (headerValue === "" || headerValue === null || headerValue === undefined) return true;
-  const min = Number(headerValue);
-  if (Number.isNaN(min)) return true;
-  return rowValue !== null && rowValue !== undefined && Number(rowValue) >= min;
+// CVSS Score filters by severity CATEGORY rather than a numeric minimum:
+// it covers the same "show me the worst ones" / "just the mid-range"
+// needs without making anyone type a threshold, and unlike a min-score
+// box it can express "Critical AND Low but not High". The column itself
+// still displays and sorts the raw number (see cvssScoreFormatter).
+//
+// Roughly a third of rows carry no CVSS at all -- a min-score filter hid
+// those silently, so they get their own checkbox instead of being
+// lumped in with None (which in CVSS means a real 0.0 score).
+const CVSS_SEVERITY_SELECT_VALUES = {
+  CRITICAL: 'Critical <span class="cvss-version-hint">9.0-10.0</span>',
+  HIGH: 'High <span class="cvss-version-hint">7.0-8.9</span>',
+  MEDIUM: 'Medium <span class="cvss-version-hint">4.0-6.9</span>',
+  LOW: 'Low <span class="cvss-version-hint">0.1-3.9</span>',
+  NONE: 'None <span class="cvss-version-hint">0.0</span>',
+  [NONE_SENTINEL]: "(No score)",
+};
+
+// The CVSS v3.x/v4.0 severity-rating table. Deriving this from the score
+// rather than reading a stored baseSeverity is exact for those versions
+// -- the spec defines the rating AS a function of the base score, so
+// there's nothing extra to fetch. v2.0 predates the table (and has no
+// Critical band), but exactly one row in the dataset is v2.0-primary and
+// it sits below 9.0, so nothing is currently mislabelled by it.
+function cvssSeverity(score) {
+  if (score === null || score === undefined) return NONE_SENTINEL;
+  if (score >= 9.0) return "CRITICAL";
+  if (score >= 7.0) return "HIGH";
+  if (score >= 4.0) return "MEDIUM";
+  if (score > 0.0) return "LOW";
+  return "NONE";
+}
+
+function cvssSeverityFilterFunc(headerValue, rowValue) {
+  // A link shared while this column was still a min-score box carries a
+  // numeric string. Treat that as "no filter" rather than matching
+  // nothing, so an old link still opens on a usable table.
+  if (!Array.isArray(headerValue) || headerValue.length === 0) return true;
+  return headerValue.includes(cvssSeverity(rowValue));
 }
 
 // --- Date range header filter, shared by Date Published / Active Since ---
@@ -690,8 +741,9 @@ const columns = [
   {
     title: "CVSS Score", field: "cvss_score", sorter: "number",
     sorterParams: { alignEmptyValues: "bottom" },
-    headerFilter: "input", headerFilterFunc: minScoreFilterFunc,
-    headerFilterPlaceholder: "Min score", formatter: cvssScoreFormatter,
+    headerFilter: multiSelectHeaderFilter(CVSS_SEVERITY_SELECT_VALUES, restoredFilters.cvss_score),
+    headerFilterFunc: cvssSeverityFilterFunc, headerFilterEmptyCheck: presenceEmptyCheck,
+    formatter: cvssScoreFormatter,
   },
   {
     title: "EPSS", field: "epss", sorter: "number",
@@ -799,7 +851,7 @@ table.on("tableBuilt", () => {
   // multiselect/date-range widgets above, this needs no special
   // construction-time wiring; setHeaderFilterValue handles both the
   // visible input's value and registering it as an active filter.
-  for (const field of ["cve_id", "cvss_score", "epss", "vendor", "product"]) {
+  for (const field of ["cve_id", "epss", "vendor", "product"]) {
     if (restoredFilters[field] !== undefined && restoredFilters[field] !== "") {
       table.setHeaderFilterValue(field, restoredFilters[field]);
     }
