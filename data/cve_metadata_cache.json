@@ -290,7 +290,7 @@
   "vendor": "ibm"
  },
  "CVE-2002-1717": {
-  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "checked_at": "2026-09-25T18:49:23.004584+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -4180,7 +4180,7 @@
   "vendor": "microsoft"
  },
  "CVE-2012-0152": {
-  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "checked_at": "2026-09-25T18:49:23.004584+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -4240,7 +4240,7 @@
   "vendor": "apache"
  },
  "CVE-2012-0432": {
-  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "checked_at": "2026-09-25T18:49:23.004584+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -14160,7 +14160,7 @@
   "vendor": "Apache"
  },
  "CVE-2019-0230": {
-  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "checked_at": "2026-09-25T18:49:23.004584+00:00",
   "cna_product": "Apache Struts",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -15670,7 +15670,7 @@
   "vendor": "dlink"
  },
  "CVE-2019-17662": {
-  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "checked_at": "2026-09-25T18:49:23.004584+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -16390,7 +16390,7 @@
   "vendor": "revive-sas"
  },
  "CVE-2019-5513": {
-  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "checked_at": "2026-09-25T18:49:23.004584+00:00",
   "cna_product": "VMware Horizon Connection Server",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -28379,6 +28379,16 @@
   "product": "reprise_license_manager",
   "vendor": "reprisesoftware"
  },
+ "CVE-2022-28368": {
+  "checked_at": "2026-09-25T18:49:23.004584+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2022-04-03T00:00:00.000Z",
+  "product": "dompdf",
+  "vendor": "dompdf_project"
+ },
  "CVE-2022-2856": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
   "cna_product": "Chrome",
@@ -28860,7 +28870,7 @@
   "vendor": "vmware"
  },
  "CVE-2022-31675": {
-  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "checked_at": "2026-09-25T18:49:23.004584+00:00",
   "cna_product": "VMware vRealize Operations",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33600,7 +33610,7 @@
   "vendor": "VMware"
  },
  "CVE-2023-34060": {
-  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "checked_at": "2026-09-25T18:49:23.004584+00:00",
   "cna_product": "VMware Cloud Director Appliance (VCD Appliance)",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33730,7 +33740,7 @@
   "vendor": "Citrix"
  },
  "CVE-2023-34723": {
-  "checked_at": "2026-09-18T17:48:00.503582+00:00",
+  "checked_at": "2026-09-25T18:49:23.004584+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -51270,7 +51280,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-09-25T08:37:34.692044+00:00",
+  "checked_at": "2026-09-25T18:49:23.004584+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51440,7 +51450,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-09-25T08:37:34.692044+00:00",
+  "checked_at": "2026-09-25T18:49:23.004584+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52270,7 +52280,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-09-25T08:37:34.692044+00:00",
+  "checked_at": "2026-09-25T18:49:23.004584+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
