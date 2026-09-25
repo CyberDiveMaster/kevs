@@ -26540,7 +26540,7 @@
   "vendor": "Sophos"
  },
  "CVE-2022-1057": {
-  "checked_at": "2026-09-18T13:19:22.623265+00:00",
+  "checked_at": "2026-09-25T14:22:38.935396+00:00",
   "cna_product": "Pricing Deals for WooCommerce",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -53678,6 +53678,16 @@
   "date_published": "2026-09-22T12:59:01.057Z",
   "product": "Quantum Security Management",
   "vendor": "checkpoint"
+ },
+ "CVE-2026-93622": {
+  "checked_at": "2026-09-25T14:22:38.935396+00:00",
+  "cna_product": "WPS Limit Login",
+  "cna_vendor": "NicolasKulka",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-23T18:14:17.046Z",
+  "product": "WPS Limit Login",
+  "vendor": "NicolasKulka"
  },
  "CVE-2026-93952": {
   "checked_at": "2026-09-22T13:50:36.656120+00:00",
