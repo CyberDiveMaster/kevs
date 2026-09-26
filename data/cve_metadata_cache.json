@@ -51290,7 +51290,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-09-26T03:02:35.768682+00:00",
+  "checked_at": "2026-09-26T10:38:50.699411+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51460,7 +51460,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-09-26T03:02:35.768682+00:00",
+  "checked_at": "2026-09-26T10:38:50.699411+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52290,7 +52290,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-09-26T03:02:35.768682+00:00",
+  "checked_at": "2026-09-26T10:38:50.699411+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53468,6 +53468,16 @@
   "date_published": "2026-09-09T13:00:31.206Z",
   "product": "Quantum Security Gateway",
   "vendor": "checkpoint"
+ },
+ "CVE-2026-85542": {
+  "checked_at": "2026-09-26T10:38:50.699411+00:00",
+  "cna_product": "Guardium Data Protection",
+  "cna_vendor": "IBM",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-25T13:53:50.933Z",
+  "product": "Guardium Data Protection",
+  "vendor": "IBM"
  },
  "CVE-2026-85706": {
   "checked_at": "2026-09-14T08:59:10.739237+00:00",
