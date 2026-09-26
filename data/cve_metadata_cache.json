@@ -11350,7 +11350,7 @@
   "vendor": "asus"
  },
  "CVE-2017-8917": {
-  "checked_at": "2026-09-19T12:49:38.645982+00:00",
+  "checked_at": "2026-09-26T15:33:23.629380+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -12730,7 +12730,7 @@
   "vendor": "teltonika"
  },
  "CVE-2018-18084": {
-  "checked_at": "2026-09-19T12:49:38.645982+00:00",
+  "checked_at": "2026-09-26T15:33:23.629380+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33000,7 +33000,7 @@
   "vendor": "cyberlord92"
  },
  "CVE-2023-29827": {
-  "checked_at": "2026-09-19T12:49:38.645982+00:00",
+  "checked_at": "2026-09-26T15:33:23.629380+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -35390,7 +35390,7 @@
   "vendor": "ndkdesign"
  },
  "CVE-2023-46359": {
-  "checked_at": "2026-09-19T12:49:38.645982+00:00",
+  "checked_at": "2026-09-26T15:33:23.629380+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
