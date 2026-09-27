@@ -49189,6 +49189,16 @@
   "product": "flowise",
   "vendor": "flowiseai"
  },
+ "CVE-2025-9090": {
+  "checked_at": "2026-09-27T23:33:11.408639+00:00",
+  "cna_product": "AC20",
+  "cna_vendor": "Tenda",
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-17T02:02:07.488Z",
+  "product": "AC20",
+  "vendor": "Tenda"
+ },
  "CVE-2025-9242": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Fireware OS",
