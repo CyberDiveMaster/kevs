@@ -48310,7 +48310,7 @@
   "vendor": "totolink"
  },
  "CVE-2025-60698": {
-  "checked_at": "2026-09-20T17:36:12.936843+00:00",
+  "checked_at": "2026-09-27T18:36:30.995295+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.3,
@@ -51290,7 +51290,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-09-27T11:12:12.503329+00:00",
+  "checked_at": "2026-09-27T18:36:30.995295+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51460,7 +51460,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-09-27T11:12:12.503329+00:00",
+  "checked_at": "2026-09-27T18:36:30.995295+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51598,6 +51598,16 @@
   "date_published": "2026-05-14T15:11:30.619Z",
   "product": "gotenberg",
   "vendor": "gotenberg"
+ },
+ "CVE-2026-42608": {
+  "checked_at": "2026-09-27T18:36:30.995295+00:00",
+  "cna_product": "grav",
+  "cna_vendor": "getgrav",
+  "cvss_score": 8.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-11T15:02:15.956Z",
+  "product": "grav",
+  "vendor": "getgrav"
  },
  "CVE-2026-42647": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -52290,7 +52300,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-09-27T11:12:12.503329+00:00",
+  "checked_at": "2026-09-27T18:36:30.995295+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53628,6 +53638,26 @@
   "date_published": "2026-09-10T19:14:17.508Z",
   "product": "OmniRoute",
   "vendor": "diegosouzapw"
+ },
+ "CVE-2026-88771": {
+  "checked_at": "2026-09-27T18:36:30.995295+00:00",
+  "cna_product": "ADC; Gateway",
+  "cna_vendor": "Citrix NetScaler",
+  "cvss_score": 9.5,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-27T16:02:07.001Z",
+  "product": "ADC; Gateway",
+  "vendor": "Citrix NetScaler"
+ },
+ "CVE-2026-88772": {
+  "checked_at": "2026-09-27T18:36:30.995295+00:00",
+  "cna_product": "ADC; Gateway",
+  "cna_vendor": "Citrix NetScaler",
+  "cvss_score": 9.5,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-27T16:09:56.033Z",
+  "product": "ADC; Gateway",
+  "vendor": "Citrix NetScaler"
  },
  "CVE-2026-89013": {
   "checked_at": "2026-09-17T18:27:53.253360+00:00",
