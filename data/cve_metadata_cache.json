@@ -42269,6 +42269,16 @@
   "product": "n/a",
   "vendor": "n/a"
  },
+ "CVE-2024-5522": {
+  "checked_at": "2026-09-28T20:41:33.331509+00:00",
+  "cna_product": "HTML5 Video Player ",
+  "cna_vendor": "Unknown",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2024-06-20T06:00:04.044Z",
+  "product": "HTML5 Video Player ",
+  "vendor": "Unknown"
+ },
  "CVE-2024-55457": {
   "checked_at": "2026-09-24T18:36:14.707252+00:00",
   "cna_product": "n/a",
@@ -51300,7 +51310,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-09-28T12:39:00.209993+00:00",
+  "checked_at": "2026-09-28T20:41:33.331509+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51470,7 +51480,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-09-28T12:39:00.209993+00:00",
+  "checked_at": "2026-09-28T20:41:33.331509+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52320,7 +52330,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-09-28T12:39:00.209993+00:00",
+  "checked_at": "2026-09-28T20:41:33.331509+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52628,6 +52638,16 @@
   "date_published": "2026-08-13T13:36:45.984Z",
   "product": "SAML SP Single Sign On",
   "vendor": "miniOrange"
+ },
+ "CVE-2026-62062": {
+  "checked_at": "2026-09-28T20:41:33.331509+00:00",
+  "cna_product": "Elementor Website Builder",
+  "cna_vendor": "Elementor",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-25T06:29:47.521Z",
+  "product": "Elementor Website Builder",
+  "vendor": "Elementor"
  },
  "CVE-2026-63030": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -53589,6 +53609,16 @@
   "product": "knowns",
   "vendor": "knowns-dev"
  },
+ "CVE-2026-86950": {
+  "checked_at": "2026-09-28T20:41:33.331509+00:00",
+  "cna_product": "iOS and iPadOS; macOS",
+  "cna_vendor": "Apple",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-28T19:13:52.603Z",
+  "product": "iOS and iPadOS; macOS",
+  "vendor": "Apple"
+ },
  "CVE-2026-8713": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Avada (Fusion) Builder",
@@ -53679,6 +53709,16 @@
   "product": "ADC; Gateway",
   "vendor": "Citrix NetScaler"
  },
+ "CVE-2026-88996": {
+  "checked_at": "2026-09-28T20:41:33.331509+00:00",
+  "cna_product": "WPForms \u2013 AI Form Builder for WordPress \u2013 Contact Forms, Payment Forms, Survey Form, Quiz & More",
+  "cna_vendor": "smub",
+  "cvss_score": 6.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-25T07:40:24.474Z",
+  "product": "WPForms \u2013 AI Form Builder for WordPress \u2013 Contact Forms, Payment Forms, Survey Form, Quiz & More",
+  "vendor": "smub"
+ },
  "CVE-2026-89013": {
   "checked_at": "2026-09-17T18:27:53.253360+00:00",
   "cna_product": "Dolibarr",
@@ -53748,6 +53788,16 @@
   "date_published": "2026-07-11T06:50:33.051Z",
   "product": "W3 Total Cache",
   "vendor": "boldgrid"
+ },
+ "CVE-2026-93399": {
+  "checked_at": "2026-09-28T20:41:33.331509+00:00",
+  "cna_product": "Online Scheduling and Appointment Booking System \u2013 Bookly",
+  "cna_vendor": "ladela",
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-25T06:39:55.951Z",
+  "product": "Online Scheduling and Appointment Booking System \u2013 Bookly",
+  "vendor": "ladela"
  },
  "CVE-2026-93616": {
   "checked_at": "2026-09-22T18:13:47.861822+00:00",
