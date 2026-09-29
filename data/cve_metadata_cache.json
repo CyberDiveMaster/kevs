@@ -11960,7 +11960,7 @@
   "vendor": "axis"
  },
  "CVE-2018-10735": {
-  "checked_at": "2026-09-22T18:13:47.861822+00:00",
+  "checked_at": "2026-09-29T19:35:20.916281+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -11970,7 +11970,7 @@
   "vendor": "nagios"
  },
  "CVE-2018-10736": {
-  "checked_at": "2026-09-22T18:13:47.861822+00:00",
+  "checked_at": "2026-09-29T19:35:20.916281+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -28290,7 +28290,7 @@
   "vendor": "synacor"
  },
  "CVE-2022-27927": {
-  "checked_at": "2026-09-22T18:13:47.861822+00:00",
+  "checked_at": "2026-09-29T19:35:20.916281+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -28630,7 +28630,7 @@
   "vendor": "tenda"
  },
  "CVE-2022-30047": {
-  "checked_at": "2026-09-22T18:13:47.861822+00:00",
+  "checked_at": "2026-09-29T19:35:20.916281+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -28980,7 +28980,7 @@
   "vendor": "online_fire_reporting_system_project"
  },
  "CVE-2022-32024": {
-  "checked_at": "2026-09-22T18:13:47.861822+00:00",
+  "checked_at": "2026-09-29T19:35:20.916281+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -28990,7 +28990,7 @@
   "vendor": "car_rental_management_system_project"
  },
  "CVE-2022-32025": {
-  "checked_at": "2026-09-22T18:13:47.861822+00:00",
+  "checked_at": "2026-09-29T19:35:20.916281+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -29000,7 +29000,7 @@
   "vendor": "car_rental_management_system_project"
  },
  "CVE-2022-32026": {
-  "checked_at": "2026-09-22T18:13:47.861822+00:00",
+  "checked_at": "2026-09-29T19:35:20.916281+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -29010,7 +29010,7 @@
   "vendor": "car_rental_management_system_project"
  },
  "CVE-2022-32028": {
-  "checked_at": "2026-09-22T18:13:47.861822+00:00",
+  "checked_at": "2026-09-29T19:35:20.916281+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -38280,7 +38280,7 @@
   "vendor": "JetBrains"
  },
  "CVE-2024-24112": {
-  "checked_at": "2026-09-22T18:13:47.861822+00:00",
+  "checked_at": "2026-09-29T19:35:20.916281+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -48330,7 +48330,7 @@
   "vendor": "fooplugins"
  },
  "CVE-2025-60687": {
-  "checked_at": "2026-09-22T18:13:47.861822+00:00",
+  "checked_at": "2026-09-29T19:35:20.916281+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
