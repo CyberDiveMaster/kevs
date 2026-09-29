@@ -50,9 +50,17 @@ header h1 {
   gap: 0.5rem;
 }
 
+/* Deliberately the loudest thing in the toolbar: in a live demo the
+   point being made is usually "look how the count moves as I filter",
+   so it's sized to read from across a room rather than matched to the
+   muted legend beside it. Same treatment as Vulnrichment Viewer's.
+   No margin-right:auto here (unlike that page) -- #legend already takes
+   the slack with flex:1, and adding both would shove the legend off
+   its centre. */
 #filter-count {
-  font-size: 0.85rem;
-  opacity: 0.8;
+  font-size: 1.15rem;
+  font-weight: 700;
+  opacity: 1;
   white-space: nowrap;
 }
 
