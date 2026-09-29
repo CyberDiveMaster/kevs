@@ -48419,6 +48419,16 @@
   "product": "Lanscope Endpoint Manager (On-Premises) (Client program (MR) and Detection agent (DA))",
   "vendor": "MOTEX Inc."
  },
+ "CVE-2025-62023": {
+  "checked_at": "2026-09-29T09:23:28.005726+00:00",
+  "cna_product": "s2Member",
+  "cna_vendor": "Cristi\u00e1n L\u00e1vaque",
+  "cvss_score": 9,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-22T14:32:50.026Z",
+  "product": "s2Member",
+  "vendor": "Cristi\u00e1n L\u00e1vaque"
+ },
  "CVE-2025-6204": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "DELMIA Apriso",
@@ -51310,7 +51320,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-09-28T20:41:33.331509+00:00",
+  "checked_at": "2026-09-29T09:23:28.005726+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51480,7 +51490,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-09-28T20:41:33.331509+00:00",
+  "checked_at": "2026-09-29T09:23:28.005726+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52330,7 +52340,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-09-28T20:41:33.331509+00:00",
+  "checked_at": "2026-09-29T09:23:28.005726+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
