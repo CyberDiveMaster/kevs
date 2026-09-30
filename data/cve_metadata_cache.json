@@ -36129,6 +36129,26 @@
   "product": "Fumeng Cloud",
   "vendor": "Fumasoft"
  },
+ "CVE-2023-54402": {
+  "checked_at": "2026-09-30T21:46:24.272445+00:00",
+  "cna_product": "iDocView",
+  "cna_vendor": "iDocView",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-30T20:22:33.022Z",
+  "product": "iDocView",
+  "vendor": "iDocView"
+ },
+ "CVE-2023-54403": {
+  "checked_at": "2026-09-30T21:46:24.272445+00:00",
+  "cna_product": "U8 CRM",
+  "cna_vendor": "Yonyou",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-30T20:25:40.223Z",
+  "product": "U8 CRM",
+  "vendor": "Yonyou"
+ },
  "CVE-2023-5559": {
   "checked_at": "2026-09-24T18:36:14.707252+00:00",
   "cna_product": "10Web Booster",
@@ -42538,6 +42558,16 @@
   "date_published": "2026-09-15T16:43:41.535Z",
   "product": "U8 CRM",
   "vendor": "Yonyou"
+ },
+ "CVE-2024-58387": {
+  "checked_at": "2026-09-30T21:46:24.272445+00:00",
+  "cna_product": "Haiyue HCM Cloud",
+  "cna_vendor": "Inspur",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-30T20:24:25.915Z",
+  "product": "Haiyue HCM Cloud",
+  "vendor": "Inspur"
  },
  "CVE-2024-5889": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
