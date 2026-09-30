@@ -29450,7 +29450,7 @@
   "vendor": "Atlassian"
  },
  "CVE-2022-36883": {
-  "checked_at": "2026-09-23T18:32:33.274162+00:00",
+  "checked_at": "2026-09-30T19:35:06.316874+00:00",
   "cna_product": "Jenkins Git Plugin",
   "cna_vendor": "Jenkins project",
   "cvss_score": null,
@@ -49429,6 +49429,26 @@
   "product": "Tutor LMS Pro",
   "vendor": "themeum"
  },
+ "CVE-2026-102489": {
+  "checked_at": "2026-09-30T19:35:06.316874+00:00",
+  "cna_product": "Zammad",
+  "cna_vendor": "Zammad GmbH",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-30T16:21:19.937Z",
+  "product": "Zammad",
+  "vendor": "Zammad GmbH"
+ },
+ "CVE-2026-102490": {
+  "checked_at": "2026-09-30T19:35:06.316874+00:00",
+  "cna_product": "Zammad",
+  "cna_vendor": "Zammad GmbH",
+  "cvss_score": 8.5,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-30T16:21:20.601Z",
+  "product": "Zammad",
+  "vendor": "Zammad GmbH"
+ },
  "CVE-2026-10520": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Sentry",
@@ -51360,7 +51380,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-09-30T11:45:51.280505+00:00",
+  "checked_at": "2026-09-30T19:35:06.316874+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51530,7 +51550,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-09-30T11:45:51.280505+00:00",
+  "checked_at": "2026-09-30T19:35:06.316874+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52190,7 +52210,7 @@
   "vendor": "Tenda"
  },
  "CVE-2026-51990": {
-  "checked_at": "2026-09-23T18:32:33.274162+00:00",
+  "checked_at": "2026-09-30T19:35:06.316874+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -52380,7 +52400,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-09-30T11:45:51.280505+00:00",
+  "checked_at": "2026-09-30T19:35:06.316874+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
