@@ -13709,6 +13709,16 @@
   "product": "Apache HTTP Server",
   "vendor": "Apache Software Foundation"
  },
+ "CVE-2018-8033": {
+  "checked_at": "2026-09-30T17:26:08.318017+00:00",
+  "cna_product": "Apache OFBiz",
+  "cna_vendor": "Apache Software Foundation",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2018-12-13T14:00:00.000Z",
+  "product": "Apache OFBiz",
+  "vendor": "Apache Software Foundation"
+ },
  "CVE-2018-8114": {
   "checked_at": "2026-09-24T08:02:57.136408+00:00",
   "cna_product": "Internet Explorer 11",
@@ -48350,7 +48360,7 @@
   "vendor": "dlink"
  },
  "CVE-2025-60702": {
-  "checked_at": "2026-09-23T14:01:49.835276+00:00",
+  "checked_at": "2026-09-30T17:26:08.318017+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -53227,6 +53237,16 @@
   "cvss_version": "3.1",
   "date_published": "2026-09-14T16:09:07.839Z",
   "product": "Cisco Secure Email",
+  "vendor": "Cisco"
+ },
+ "CVE-2026-76504": {
+  "checked_at": "2026-09-30T17:26:08.318017+00:00",
+  "cna_product": "Cisco Catalyst SD-WAN Manager",
+  "cna_vendor": "Cisco",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-30T13:04:32.095Z",
+  "product": "Cisco Catalyst SD-WAN Manager",
   "vendor": "Cisco"
  },
  "CVE-2026-76581": {
