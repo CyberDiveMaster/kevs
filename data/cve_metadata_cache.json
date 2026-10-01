@@ -41959,6 +41959,16 @@
   "product": "Nexus Repository",
   "vendor": "Sonatype"
  },
+ "CVE-2024-49766": {
+  "checked_at": "2026-10-01T21:51:23.620130+00:00",
+  "cna_product": "werkzeug",
+  "cna_vendor": "pallets",
+  "cvss_score": 6.3,
+  "cvss_version": "4.0",
+  "date_published": "2024-10-25T19:22:36.380Z",
+  "product": "werkzeug",
+  "vendor": "pallets"
+ },
  "CVE-2024-4978": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Viewer",
