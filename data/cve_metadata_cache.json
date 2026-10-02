@@ -350,7 +350,7 @@
   "vendor": "ibm"
  },
  "CVE-2002-1717": {
-  "checked_at": "2026-09-25T18:49:23.004584+00:00",
+  "checked_at": "2026-10-02T19:27:39.107484+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -4270,7 +4270,7 @@
   "vendor": "microsoft"
  },
  "CVE-2012-0152": {
-  "checked_at": "2026-09-25T18:49:23.004584+00:00",
+  "checked_at": "2026-10-02T19:27:39.107484+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -4330,7 +4330,7 @@
   "vendor": "apache"
  },
  "CVE-2012-0432": {
-  "checked_at": "2026-09-25T18:49:23.004584+00:00",
+  "checked_at": "2026-10-02T19:27:39.107484+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -6318,6 +6318,16 @@
   "date_published": "2025-07-31T14:57:28.299Z",
   "product": "Kloxo",
   "vendor": "LXCenter"
+ },
+ "CVE-2014-125130": {
+  "checked_at": "2026-10-02T19:27:39.107484+00:00",
+  "cna_product": "CodeArt Google MP3 Audio Player",
+  "cna_vendor": "Damjan",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-02T18:36:41.302Z",
+  "product": "CodeArt Google MP3 Audio Player",
+  "vendor": "Damjan"
  },
  "CVE-2014-1510": {
   "checked_at": "2026-10-01T12:14:47.027537+00:00",
@@ -14290,7 +14300,7 @@
   "vendor": "Apache"
  },
  "CVE-2019-0230": {
-  "checked_at": "2026-09-25T18:49:23.004584+00:00",
+  "checked_at": "2026-10-02T19:27:39.107484+00:00",
   "cna_product": "Apache Struts",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -15800,7 +15810,7 @@
   "vendor": "dlink"
  },
  "CVE-2019-17662": {
-  "checked_at": "2026-09-25T18:49:23.004584+00:00",
+  "checked_at": "2026-10-02T19:27:39.107484+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -16520,7 +16530,7 @@
   "vendor": "revive-sas"
  },
  "CVE-2019-5513": {
-  "checked_at": "2026-09-25T18:49:23.004584+00:00",
+  "checked_at": "2026-10-02T19:27:39.107484+00:00",
   "cna_product": "VMware Horizon Connection Server",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -20078,6 +20088,16 @@
   "date_published": "2026-02-11T20:37:32.275Z",
   "product": "Voyager",
   "vendor": "The Control Group"
+ },
+ "CVE-2020-37278": {
+  "checked_at": "2026-10-02T19:27:39.107484+00:00",
+  "cna_product": "e-Bridge",
+  "cna_vendor": "Weaver",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-02T18:38:24.013Z",
+  "product": "e-Bridge",
+  "vendor": "Weaver"
  },
  "CVE-2020-3837": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
@@ -28540,7 +28560,7 @@
   "vendor": "reprisesoftware"
  },
  "CVE-2022-28368": {
-  "checked_at": "2026-09-25T18:49:23.004584+00:00",
+  "checked_at": "2026-10-02T19:27:39.107484+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -29030,7 +29050,7 @@
   "vendor": "vmware"
  },
  "CVE-2022-31675": {
-  "checked_at": "2026-09-25T18:49:23.004584+00:00",
+  "checked_at": "2026-10-02T19:27:39.107484+00:00",
   "cna_product": "VMware vRealize Operations",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33780,7 +33800,7 @@
   "vendor": "VMware"
  },
  "CVE-2023-34060": {
-  "checked_at": "2026-09-25T18:49:23.004584+00:00",
+  "checked_at": "2026-10-02T19:27:39.107484+00:00",
   "cna_product": "VMware Cloud Director Appliance (VCD Appliance)",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33910,7 +33930,7 @@
   "vendor": "Citrix"
  },
  "CVE-2023-34723": {
-  "checked_at": "2026-09-25T18:49:23.004584+00:00",
+  "checked_at": "2026-10-02T19:27:39.107484+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -36298,6 +36318,16 @@
   "date_published": "2026-09-30T20:25:40.223Z",
   "product": "U8 CRM",
   "vendor": "Yonyou"
+ },
+ "CVE-2023-54405": {
+  "checked_at": "2026-10-02T19:27:39.107484+00:00",
+  "cna_product": "CVM",
+  "cna_vendor": "H3C",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-02T18:36:03.442Z",
+  "product": "CVM",
+  "vendor": "H3C"
  },
  "CVE-2023-5559": {
   "checked_at": "2026-10-01T19:44:28.848675+00:00",
