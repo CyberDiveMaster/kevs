@@ -11480,7 +11480,7 @@
   "vendor": "asus"
  },
  "CVE-2017-8917": {
-  "checked_at": "2026-09-26T15:33:23.629380+00:00",
+  "checked_at": "2026-10-03T15:34:18.519426+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -12860,7 +12860,7 @@
   "vendor": "teltonika"
  },
  "CVE-2018-18084": {
-  "checked_at": "2026-09-26T15:33:23.629380+00:00",
+  "checked_at": "2026-10-03T15:34:18.519426+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33180,7 +33180,7 @@
   "vendor": "cyberlord92"
  },
  "CVE-2023-29827": {
-  "checked_at": "2026-09-26T15:33:23.629380+00:00",
+  "checked_at": "2026-10-03T15:34:18.519426+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -35580,7 +35580,7 @@
   "vendor": "ndkdesign"
  },
  "CVE-2023-46359": {
-  "checked_at": "2026-09-26T15:33:23.629380+00:00",
+  "checked_at": "2026-10-03T15:34:18.519426+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -54248,5 +54248,15 @@
   "date_published": "2026-07-17T15:57:42.879Z",
   "product": "Switchvox SMB Edition",
   "vendor": "Sangoma"
+ },
+ "CVE-2026-97359": {
+  "checked_at": "2026-10-03T15:34:18.519426+00:00",
+  "cna_product": "hfs2",
+  "cna_vendor": "rejetto",
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-24T13:28:18.818Z",
+  "product": "hfs2",
+  "vendor": "rejetto"
  }
 }
