@@ -51650,7 +51650,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-03T10:57:33.851871+00:00",
+  "checked_at": "2026-10-03T18:07:41.275202+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51820,7 +51820,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-03T10:57:33.851871+00:00",
+  "checked_at": "2026-10-03T18:07:41.275202+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52670,7 +52670,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-10-03T10:57:33.851871+00:00",
+  "checked_at": "2026-10-03T18:07:41.275202+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
