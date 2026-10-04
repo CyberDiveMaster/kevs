@@ -48600,7 +48600,7 @@
   "vendor": "totolink"
  },
  "CVE-2025-60698": {
-  "checked_at": "2026-09-27T18:36:30.995295+00:00",
+  "checked_at": "2026-10-04T20:46:58.777351+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.3,
