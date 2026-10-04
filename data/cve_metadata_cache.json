@@ -51650,7 +51650,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-04T03:49:04.492604+00:00",
+  "checked_at": "2026-10-04T11:39:49.882284+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51820,7 +51820,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-04T03:49:04.492604+00:00",
+  "checked_at": "2026-10-04T11:39:49.882284+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52670,7 +52670,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-10-04T03:49:04.492604+00:00",
+  "checked_at": "2026-10-04T11:39:49.882284+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54108,6 +54108,16 @@
   "date_published": "2026-09-27T16:09:56.033Z",
   "product": "ADC; Gateway",
   "vendor": "Citrix NetScaler"
+ },
+ "CVE-2026-88779": {
+  "checked_at": "2026-10-04T11:39:49.882284+00:00",
+  "cna_product": "ADC; Gateway",
+  "cna_vendor": "NetScaler",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-04T02:35:35.525Z",
+  "product": "ADC; Gateway",
+  "vendor": "NetScaler"
  },
  "CVE-2026-88996": {
   "checked_at": "2026-09-28T20:41:33.331509+00:00",
