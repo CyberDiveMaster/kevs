@@ -47669,6 +47669,16 @@
   "product": "service",
   "vendor": "TeleMessage"
  },
+ "CVE-2025-49002": {
+  "checked_at": "2026-10-06T12:35:56.219434+00:00",
+  "cna_product": "dataease",
+  "cna_vendor": "dataease",
+  "cvss_score": 8.2,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-03T20:37:40.449Z",
+  "product": "dataease",
+  "vendor": "dataease"
+ },
  "CVE-2025-49113": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Webmail",
@@ -51670,7 +51680,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-06T04:21:18.790638+00:00",
+  "checked_at": "2026-10-06T12:35:56.219434+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51840,7 +51850,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-06T04:21:18.790638+00:00",
+  "checked_at": "2026-10-06T12:35:56.219434+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52499,6 +52509,16 @@
   "product": "CH22",
   "vendor": "Tenda"
  },
+ "CVE-2026-51886": {
+  "checked_at": "2026-10-06T12:35:56.219434+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-01T00:00:00.000Z",
+  "product": "n/a",
+  "vendor": "n/a"
+ },
  "CVE-2026-51990": {
   "checked_at": "2026-09-30T19:35:06.316874+00:00",
   "cna_product": "n/a",
@@ -52690,7 +52710,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-10-06T04:21:18.790638+00:00",
+  "checked_at": "2026-10-06T12:35:56.219434+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
