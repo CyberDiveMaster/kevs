@@ -38439,6 +38439,16 @@
   "product": "DAP-1650",
   "vendor": "D-Link"
  },
+ "CVE-2024-23625": {
+  "checked_at": "2026-10-06T04:21:18.790638+00:00",
+  "cna_product": "DAP-1650",
+  "cna_vendor": "D-Link",
+  "cvss_score": 9.6,
+  "cvss_version": "3.1",
+  "date_published": "2024-01-25T23:41:20.687Z",
+  "product": "DAP-1650",
+  "vendor": "D-Link"
+ },
  "CVE-2024-23660": {
   "checked_at": "2026-10-01T19:44:28.848675+00:00",
   "cna_product": "n/a",
@@ -51660,7 +51670,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-05T21:35:33.713212+00:00",
+  "checked_at": "2026-10-06T04:21:18.790638+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51830,7 +51840,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-05T21:35:33.713212+00:00",
+  "checked_at": "2026-10-06T04:21:18.790638+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52680,7 +52690,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-10-05T21:35:33.713212+00:00",
+  "checked_at": "2026-10-06T04:21:18.790638+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
