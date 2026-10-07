@@ -13830,7 +13830,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2018-8033": {
-  "checked_at": "2026-09-30T17:26:08.318017+00:00",
+  "checked_at": "2026-10-07T18:17:39.945892+00:00",
   "cna_product": "Apache OFBiz",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -46989,6 +46989,16 @@
   "product": "Grafana",
   "vendor": "Grafana"
  },
+ "CVE-2025-41243": {
+  "checked_at": "2026-10-07T18:17:39.945892+00:00",
+  "cna_product": "Cloud Gateway",
+  "cna_vendor": "Spring",
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-16T14:54:57.396Z",
+  "product": "Cloud Gateway",
+  "vendor": "Spring"
+ },
  "CVE-2025-41244": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "VCF operations; VMware tools; VMware Aria Operations; VMware Cloud Foundation; VMware Telco Cloud Platform; VMware Telco Cloud Infrastructure",
@@ -48640,7 +48650,7 @@
   "vendor": "dlink"
  },
  "CVE-2025-60702": {
-  "checked_at": "2026-09-30T17:26:08.318017+00:00",
+  "checked_at": "2026-10-07T18:17:39.945892+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -50979,6 +50989,16 @@
   "product": "milvus",
   "vendor": "milvus-io"
  },
+ "CVE-2026-26216": {
+  "checked_at": "2026-10-07T18:17:39.945892+00:00",
+  "cna_product": "Crawl4AI",
+  "cna_vendor": "unclecode",
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2026-02-12T15:31:20.810Z",
+  "product": "Crawl4AI",
+  "vendor": "unclecode"
+ },
  "CVE-2026-2652": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "mlflow/mlflow",
@@ -51178,6 +51198,16 @@
   "date_published": "2026-04-01T12:22:42.420Z",
   "product": "MetInfo CMS",
   "vendor": "MetInfo CMS"
+ },
+ "CVE-2026-29058": {
+  "checked_at": "2026-10-07T18:17:39.945892+00:00",
+  "cna_product": "AVideo-Encoder",
+  "cna_vendor": "WWBN",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-06T07:08:26.844Z",
+  "product": "AVideo-Encoder",
+  "vendor": "WWBN"
  },
  "CVE-2026-29059": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -51690,7 +51720,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-07T09:39:36.589143+00:00",
+  "checked_at": "2026-10-07T18:17:39.945892+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51860,7 +51890,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-07T09:39:36.589143+00:00",
+  "checked_at": "2026-10-07T18:17:39.945892+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52720,7 +52750,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-10-07T09:39:36.589143+00:00",
+  "checked_at": "2026-10-07T18:17:39.945892+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53957,6 +53987,16 @@
   "cvss_version": "3.1",
   "date_published": "2026-09-09T13:00:31.206Z",
   "product": "Quantum Security Gateway",
+  "vendor": "checkpoint"
+ },
+ "CVE-2026-85103": {
+  "checked_at": "2026-10-07T18:17:39.945892+00:00",
+  "cna_product": "Quantum Security Gateway; Quantum Security Management",
+  "cna_vendor": "checkpoint",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-09T13:00:42.088Z",
+  "product": "Quantum Security Gateway; Quantum Security Management",
   "vendor": "checkpoint"
  },
  "CVE-2026-85520": {
