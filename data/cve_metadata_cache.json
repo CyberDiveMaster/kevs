@@ -29610,7 +29610,7 @@
   "vendor": "Atlassian"
  },
  "CVE-2022-36883": {
-  "checked_at": "2026-09-30T19:35:06.316874+00:00",
+  "checked_at": "2026-10-07T20:06:14.594567+00:00",
   "cna_product": "Jenkins Git Plugin",
   "cna_vendor": "Jenkins project",
   "cvss_score": null,
@@ -52560,7 +52560,7 @@
   "vendor": "n/a"
  },
  "CVE-2026-51990": {
-  "checked_at": "2026-09-30T19:35:06.316874+00:00",
+  "checked_at": "2026-10-07T20:06:14.594567+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
