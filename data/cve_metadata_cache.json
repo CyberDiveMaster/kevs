@@ -50639,6 +50639,16 @@
   "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 22H3; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows 11 Version 26H1; Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
   "vendor": "Microsoft"
  },
+ "CVE-2026-21589": {
+  "checked_at": "2026-10-07T00:18:39.896937+00:00",
+  "cna_product": "Bamboo Data Center; Bitbucket Data Center; Confluence Data Center; Crowd Data Center; Crucible Data Center; Fisheye Data Center; Jira Service Management Data Center; Jira Software Data Center",
+  "cna_vendor": "Atlassian",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-05T21:30:00.390Z",
+  "product": "Bamboo Data Center; Bitbucket Data Center; Confluence Data Center; Crowd Data Center; Crucible Data Center; Fisheye Data Center; Jira Service Management Data Center; Jira Software Data Center",
+  "vendor": "Atlassian"
+ },
  "CVE-2026-21643": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "FortiClientEMS",
@@ -54269,6 +54279,16 @@
   "product": "WPS Limit Login",
   "vendor": "NicolasKulka"
  },
+ "CVE-2026-93836": {
+  "checked_at": "2026-10-07T00:18:39.896937+00:00",
+  "cna_product": "WPC Product Bundles for WooCommerce",
+  "cna_vendor": "wpclever",
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-22T07:41:16.170Z",
+  "product": "WPC Product Bundles for WooCommerce",
+  "vendor": "wpclever"
+ },
  "CVE-2026-93952": {
   "checked_at": "2026-09-22T13:50:36.656120+00:00",
   "cna_product": "VeloCloud Orchestrator (VCO) On-Prem",
@@ -54288,6 +54308,16 @@
   "date_published": "2026-09-22T14:17:42.730Z",
   "product": "BIG-IP",
   "vendor": "F5"
+ },
+ "CVE-2026-94504": {
+  "checked_at": "2026-10-07T00:18:39.896937+00:00",
+  "cna_product": "Ninja Forms \u2013 Contact Form Builder with Calculators, Quizzes, Signatures & AI Form Builder",
+  "cna_vendor": "kstover",
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-22T06:39:41.379Z",
+  "product": "Ninja Forms \u2013 Contact Form Builder with Calculators, Quizzes, Signatures & AI Form Builder",
+  "vendor": "kstover"
  },
  "CVE-2026-95675": {
   "checked_at": "2026-10-05T13:20:22.368013+00:00",
