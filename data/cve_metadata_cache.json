@@ -24770,7 +24770,7 @@
   "vendor": "sunhillo"
  },
  "CVE-2021-36580": {
-  "checked_at": "2026-10-02T17:15:38.505655+00:00",
+  "checked_at": "2026-10-09T17:51:41.380850+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26740,7 +26740,7 @@
   "vendor": "Sophos"
  },
  "CVE-2022-1057": {
-  "checked_at": "2026-10-02T17:15:38.505655+00:00",
+  "checked_at": "2026-10-09T17:51:41.380850+00:00",
   "cna_product": "Pricing Deals for WooCommerce",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -49800,7 +49800,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-104935": {
-  "checked_at": "2026-10-09T09:54:25.716831+00:00",
+  "checked_at": "2026-10-09T17:51:41.380850+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -49808,6 +49808,26 @@
   "date_published": null,
   "product": null,
   "vendor": null
+ },
+ "CVE-2026-105133": {
+  "checked_at": "2026-10-09T17:51:41.380850+00:00",
+  "cna_product": "AhsayCBS",
+  "cna_vendor": "Ahsay",
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-04T05:15:14.561Z",
+  "product": "AhsayCBS",
+  "vendor": "Ahsay"
+ },
+ "CVE-2026-105134": {
+  "checked_at": "2026-10-09T17:51:41.380850+00:00",
+  "cna_product": "AhsayCBS",
+  "cna_vendor": "Ahsay",
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-04T05:30:12.882Z",
+  "product": "AhsayCBS",
+  "vendor": "Ahsay"
  },
  "CVE-2026-10520": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -51780,7 +51800,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-09T09:54:25.716831+00:00",
+  "checked_at": "2026-10-09T17:51:41.380850+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51950,7 +51970,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-09T09:54:25.716831+00:00",
+  "checked_at": "2026-10-09T17:51:41.380850+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52820,7 +52840,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-10-09T09:54:25.716831+00:00",
+  "checked_at": "2026-10-09T17:51:41.380850+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
