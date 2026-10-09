@@ -51290,7 +51290,7 @@
   "vendor": "NetScaler"
  },
  "CVE-2026-30633": {
-  "checked_at": "2026-10-02T00:25:56.914662+00:00",
+  "checked_at": "2026-10-09T00:55:54.350127+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -51760,7 +51760,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-08T18:18:27.481625+00:00",
+  "checked_at": "2026-10-09T00:55:54.350127+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51930,7 +51930,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-08T18:18:27.481625+00:00",
+  "checked_at": "2026-10-09T00:55:54.350127+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52790,7 +52790,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-10-08T18:18:27.481625+00:00",
+  "checked_at": "2026-10-09T00:55:54.350127+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
