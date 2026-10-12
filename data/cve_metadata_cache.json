@@ -49759,6 +49759,16 @@
   "product": "Tutor LMS Pro",
   "vendor": "themeum"
  },
+ "CVE-2026-100147": {
+  "checked_at": "2026-10-12T22:12:30.353616+00:00",
+  "cna_product": "FunnelKit \u2013 Funnel Builder for WooCommerce Checkout",
+  "cna_vendor": "teamfunnelkit",
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-10T07:41:43.163Z",
+  "product": "FunnelKit \u2013 Funnel Builder for WooCommerce Checkout",
+  "vendor": "teamfunnelkit"
+ },
  "CVE-2026-100382": {
   "checked_at": "2026-10-01T12:14:47.027537+00:00",
   "cna_product": "Mediawiki - ExternalData Extension",
@@ -49810,7 +49820,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-104935": {
-  "checked_at": "2026-10-12T14:09:15.616227+00:00",
+  "checked_at": "2026-10-12T22:12:30.353616+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51820,7 +51830,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-12T14:09:15.616227+00:00",
+  "checked_at": "2026-10-12T22:12:30.353616+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51990,7 +52000,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-12T14:09:15.616227+00:00",
+  "checked_at": "2026-10-12T22:12:30.353616+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52870,7 +52880,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-10-12T14:09:15.616227+00:00",
+  "checked_at": "2026-10-12T22:12:30.353616+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54389,6 +54399,16 @@
   "product": "Drupal core",
   "vendor": "Drupal"
  },
+ "CVE-2026-91136": {
+  "checked_at": "2026-10-12T22:12:30.353616+00:00",
+  "cna_product": "Divi Plus",
+  "cna_vendor": "Divi Essential",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-10T08:26:38.959Z",
+  "product": "Divi Plus",
+  "vendor": "Divi Essential"
+ },
  "CVE-2026-9198": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Langflow OSS",
@@ -54528,5 +54548,15 @@
   "date_published": "2026-09-24T13:28:18.818Z",
   "product": "hfs2",
   "vendor": "rejetto"
+ },
+ "CVE-2026-97670": {
+  "checked_at": "2026-10-12T22:12:30.353616+00:00",
+  "cna_product": "Avada (Fusion) Builder",
+  "cna_vendor": "themefusion",
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-10T04:26:48.734Z",
+  "product": "Avada (Fusion) Builder",
+  "vendor": "themefusion"
  }
 }
