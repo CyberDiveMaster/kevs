@@ -49820,7 +49820,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-104935": {
-  "checked_at": "2026-10-13T05:00:27.307859+00:00",
+  "checked_at": "2026-10-13T13:21:45.090428+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51830,7 +51830,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-13T05:00:27.307859+00:00",
+  "checked_at": "2026-10-13T13:21:45.090428+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52000,7 +52000,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-13T05:00:27.307859+00:00",
+  "checked_at": "2026-10-13T13:21:45.090428+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52680,7 +52680,7 @@
   "vendor": "Tenda"
  },
  "CVE-2026-51886": {
-  "checked_at": "2026-10-06T12:35:56.219434+00:00",
+  "checked_at": "2026-10-13T13:21:45.090428+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -52880,7 +52880,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-10-13T05:00:27.307859+00:00",
+  "checked_at": "2026-10-13T13:21:45.090428+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54388,6 +54388,16 @@
   "date_published": "2026-09-02T04:26:46.198Z",
   "product": "Booking for Appointments and Events Calendar \u2013 Amelia",
   "vendor": "melograno"
+ },
+ "CVE-2026-90817": {
+  "checked_at": "2026-10-13T13:21:45.090428+00:00",
+  "cna_product": "REDCap",
+  "cna_vendor": "Vanderbilt University",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-20T12:05:32.698Z",
+  "product": "REDCap",
+  "vendor": "Vanderbilt University"
  },
  "CVE-2026-9082": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
