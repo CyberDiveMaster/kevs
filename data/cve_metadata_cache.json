@@ -12090,7 +12090,7 @@
   "vendor": "axis"
  },
  "CVE-2018-10735": {
-  "checked_at": "2026-10-06T19:45:06.519014+00:00",
+  "checked_at": "2026-10-13T20:19:16.992191+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -12100,7 +12100,7 @@
   "vendor": "nagios"
  },
  "CVE-2018-10736": {
-  "checked_at": "2026-10-06T19:45:06.519014+00:00",
+  "checked_at": "2026-10-13T20:19:16.992191+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -12500,7 +12500,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2018-13980": {
-  "checked_at": "2026-10-06T19:45:06.519014+00:00",
+  "checked_at": "2026-10-13T20:19:16.992191+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23530,7 +23530,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2021-30134": {
-  "checked_at": "2026-10-06T19:45:06.519014+00:00",
+  "checked_at": "2026-10-13T20:19:16.992191+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.1,
@@ -28480,7 +28480,7 @@
   "vendor": "synacor"
  },
  "CVE-2022-27927": {
-  "checked_at": "2026-10-06T19:45:06.519014+00:00",
+  "checked_at": "2026-10-13T20:19:16.992191+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -28820,7 +28820,7 @@
   "vendor": "tenda"
  },
  "CVE-2022-30047": {
-  "checked_at": "2026-10-06T19:45:06.519014+00:00",
+  "checked_at": "2026-10-13T20:19:16.992191+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -29170,7 +29170,7 @@
   "vendor": "online_fire_reporting_system_project"
  },
  "CVE-2022-32024": {
-  "checked_at": "2026-10-06T19:45:06.519014+00:00",
+  "checked_at": "2026-10-13T20:19:16.992191+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -29180,7 +29180,7 @@
   "vendor": "car_rental_management_system_project"
  },
  "CVE-2022-32025": {
-  "checked_at": "2026-10-06T19:45:06.519014+00:00",
+  "checked_at": "2026-10-13T20:19:16.992191+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -29190,7 +29190,7 @@
   "vendor": "car_rental_management_system_project"
  },
  "CVE-2022-32026": {
-  "checked_at": "2026-10-06T19:45:06.519014+00:00",
+  "checked_at": "2026-10-13T20:19:16.992191+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -29200,7 +29200,7 @@
   "vendor": "car_rental_management_system_project"
  },
  "CVE-2022-32028": {
-  "checked_at": "2026-10-06T19:45:06.519014+00:00",
+  "checked_at": "2026-10-13T20:19:16.992191+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -38540,7 +38540,7 @@
   "vendor": "JetBrains"
  },
  "CVE-2024-24112": {
-  "checked_at": "2026-10-06T19:45:06.519014+00:00",
+  "checked_at": "2026-10-13T20:19:16.992191+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -48660,7 +48660,7 @@
   "vendor": "fooplugins"
  },
  "CVE-2025-60687": {
-  "checked_at": "2026-10-06T19:45:06.519014+00:00",
+  "checked_at": "2026-10-13T20:19:16.992191+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -49820,14 +49820,14 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-104935": {
-  "checked_at": "2026-10-13T13:21:45.090428+00:00",
-  "cna_product": null,
-  "cna_vendor": null,
-  "cvss_score": null,
-  "cvss_version": null,
-  "date_published": null,
-  "product": null,
-  "vendor": null
+  "checked_at": "2026-10-13T20:19:16.992191+00:00",
+  "cna_product": "Connect Secure",
+  "cna_vendor": "Ivanti",
+  "cvss_score": 8.6,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-13T15:31:07.757Z",
+  "product": "Connect Secure",
+  "vendor": "Ivanti"
  },
  "CVE-2026-105133": {
   "checked_at": "2026-10-09T17:51:41.380850+00:00",
@@ -51830,7 +51830,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-13T13:21:45.090428+00:00",
+  "checked_at": "2026-10-13T20:19:16.992191+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52000,7 +52000,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-13T13:21:45.090428+00:00",
+  "checked_at": "2026-10-13T20:19:16.992191+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52880,7 +52880,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-10-13T13:21:45.090428+00:00",
+  "checked_at": "2026-10-13T20:19:16.992191+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54548,6 +54548,16 @@
   "date_published": "2026-07-17T15:57:42.879Z",
   "product": "Switchvox SMB Edition",
   "vendor": "Sangoma"
+ },
+ "CVE-2026-96951": {
+  "checked_at": "2026-10-13T20:19:16.992191+00:00",
+  "cna_product": "Outlook.com; Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 23H2; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows 11 Version 26H2; Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "cna_vendor": "Microsoft",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-13T19:01:26.801Z",
+  "product": "Outlook.com; Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 23H2; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows 11 Version 26H2; Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2025; Windows Server 2025 (Server Core installation)",
+  "vendor": "Microsoft"
  },
  "CVE-2026-97359": {
   "checked_at": "2026-10-03T15:34:18.519426+00:00",
