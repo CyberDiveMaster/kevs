@@ -49820,7 +49820,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-104935": {
-  "checked_at": "2026-10-12T22:12:30.353616+00:00",
+  "checked_at": "2026-10-13T05:00:27.307859+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51830,7 +51830,7 @@
   "vendor": "premio"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-12T22:12:30.353616+00:00",
+  "checked_at": "2026-10-13T05:00:27.307859+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52000,7 +52000,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-12T22:12:30.353616+00:00",
+  "checked_at": "2026-10-13T05:00:27.307859+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52880,7 +52880,7 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-10-12T22:12:30.353616+00:00",
+  "checked_at": "2026-10-13T05:00:27.307859+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
