@@ -42879,6 +42879,16 @@
   "product": "astro",
   "vendor": "withastro"
  },
+ "CVE-2024-56337": {
+  "checked_at": "2026-10-14T14:16:16.861540+00:00",
+  "cna_product": "Apache Tomcat",
+  "cna_vendor": "Apache Software Foundation",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2024-12-20T15:28:54.738Z",
+  "product": "Apache Tomcat",
+  "vendor": "Apache Software Foundation"
+ },
  "CVE-2024-57040": {
   "checked_at": "2026-10-08T20:33:12.897595+00:00",
   "cna_product": "n/a",
@@ -52658,6 +52668,16 @@
   "date_published": "2026-04-14T15:38:30.311Z",
   "product": "FortiSandbox; FortiSandbox Cloud",
   "vendor": "Fortinet"
+ },
+ "CVE-2026-39949": {
+  "checked_at": "2026-10-14T14:16:16.861540+00:00",
+  "cna_product": null,
+  "cna_vendor": null,
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": null,
+  "product": null,
+  "vendor": null
  },
  "CVE-2026-39987": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
