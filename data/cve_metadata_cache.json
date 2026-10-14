@@ -30369,6 +30369,16 @@
   "product": "Chrome",
   "vendor": "Google"
  },
+ "CVE-2022-42699": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Easy WP SMTP",
+  "cna_vendor": "WPecommerce, Alexanderfoxc",
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2022-12-06T22:00:55.421Z",
+  "product": "Easy WP SMTP",
+  "vendor": "WPecommerce, Alexanderfoxc"
+ },
  "CVE-2022-42827": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
   "cna_product": "iOS and iPadOS",
@@ -33659,6 +33669,16 @@
   "product": "keepass",
   "vendor": "keepass"
  },
+ "CVE-2023-32798": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Simple Page Ordering",
+  "cna_vendor": "10up",
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2024-12-13T14:23:27.692Z",
+  "product": "Simple Page Ordering",
+  "vendor": "10up"
+ },
  "CVE-2023-33009": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "ATP series firmware; USG FLEX series firmware; USG FLEX 50(W) firmware; USG20(W)-VPN firmware; VPN series firmware; ZyWALL/USG series firmware",
@@ -34789,6 +34809,26 @@
   "product": "QTS; QuTS hero",
   "vendor": "QNAP Systems Inc."
  },
+ "CVE-2023-39306": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Fusion Builder",
+  "cna_vendor": "ThemeFusion",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2024-03-27T05:42:25.173Z",
+  "product": "Fusion Builder",
+  "vendor": "ThemeFusion"
+ },
+ "CVE-2023-39309": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Fusion Builder",
+  "cna_vendor": "ThemeFusion",
+  "cvss_score": 8.5,
+  "cvss_version": "3.1",
+  "date_published": "2024-03-28T06:43:18.618Z",
+  "product": "Fusion Builder",
+  "vendor": "ThemeFusion"
+ },
  "CVE-2023-39312": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Avada",
@@ -35108,6 +35148,16 @@
   "date_published": "2024-03-31T01:45:42.684Z",
   "product": "Sentry",
   "vendor": "Ivanti"
+ },
+ "CVE-2023-41735": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Email posts to subscribers",
+  "cna_vendor": "Gopi Ramasamy",
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2023-11-30T14:54:10.542Z",
+  "product": "Email posts to subscribers",
+  "vendor": "Gopi Ramasamy"
  },
  "CVE-2023-41763": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -36159,6 +36209,16 @@
   "product": "DAR-7000; DAR-8000",
   "vendor": "D-Link"
  },
+ "CVE-2023-51501": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Uncode - Creative & WooCommerce WordPress Theme",
+  "cna_vendor": "Undsgn",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2023-12-28T09:56:27.603Z",
+  "product": "Uncode - Creative & WooCommerce WordPress Theme",
+  "vendor": "Undsgn"
+ },
  "CVE-2023-51833": {
   "checked_at": "2026-10-08T20:33:12.897595+00:00",
   "cna_product": "n/a",
@@ -36449,6 +36509,16 @@
   "product": "Popup Builder",
   "vendor": "Unknown"
  },
+ "CVE-2023-6009": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "UserPro - Community and User Profile WordPress Plugin",
+  "cna_vendor": "n/a",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2023-11-22T15:33:37.741Z",
+  "product": "UserPro - Community and User Profile WordPress Plugin",
+  "vendor": "userproplugin"
+ },
  "CVE-2023-6023": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "vertaai/modeldb",
@@ -36469,6 +36539,16 @@
   "product": "h2oai/h2o-3",
   "vendor": "h2oai"
  },
+ "CVE-2023-6063": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "WP Fastest Cache",
+  "cna_vendor": "Unknown",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2023-12-04T21:29:41.536Z",
+  "product": "WP Fastest Cache",
+  "vendor": "Unknown"
+ },
  "CVE-2023-6114": {
   "checked_at": "2026-10-08T20:33:12.897595+00:00",
   "cna_product": "Duplicator; Duplicator Pro",
@@ -36488,6 +36568,16 @@
   "date_published": "2024-01-18T01:04:15.120Z",
   "product": "Citrix Session Recording",
   "vendor": "Cloud Software Group"
+ },
+ "CVE-2023-6214": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "HT Mega Addons for Elementor \u2013 Elementor Widgets & Template Builder",
+  "cna_vendor": "devitemsllc",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2024-05-02T16:52:07.346Z",
+  "product": "HT Mega Addons for Elementor \u2013 Elementor Widgets & Template Builder",
+  "vendor": "devitemsllc"
  },
  "CVE-2023-6266": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -36568,6 +36658,16 @@
   "date_published": "2023-12-15T10:59:46.387Z",
   "product": "BackupBliss \u2013 Backup & Migration with Free Cloud Storage",
   "vendor": "inisev"
+ },
+ "CVE-2023-6558": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Export and Import Users and Customers",
+  "cna_vendor": "webtoffee",
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2024-01-11T08:32:35.227Z",
+  "product": "Export and Import Users and Customers",
+  "vendor": "webtoffee"
  },
  "CVE-2023-6567": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -37419,6 +37519,16 @@
   "product": "CMS8000 Patient Monitor",
   "vendor": "Contec Health"
  },
+ "CVE-2024-12253": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Simple Ecommerce Shopping Cart Plugin- Sell products through Paypal",
+  "cna_vendor": "nshowketgmailcom",
+  "cvss_score": 5.4,
+  "cvss_version": "3.1",
+  "date_published": "2024-12-07T09:26:01.339Z",
+  "product": "Simple Ecommerce Shopping Cart Plugin- Sell products through Paypal",
+  "vendor": "nshowketgmailcom"
+ },
  "CVE-2024-12281": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Homey",
@@ -37569,6 +37679,16 @@
   "product": "Adifier System",
   "vendor": "spoonthemes"
  },
+ "CVE-2024-13377": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Gravity Forms",
+  "cna_vendor": "Gravity Forms",
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2025-01-17T09:36:38.486Z",
+  "product": "Gravity Forms",
+  "vendor": "Gravity Forms"
+ },
  "CVE-2024-13421": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Real Estate 7 WordPress",
@@ -37598,6 +37718,16 @@
   "date_published": "2025-02-18T04:21:20.833Z",
   "product": "1 Click Migration & Backup: Free WordPress Migration Plugin with Zero Downtime & Easy Clone",
   "vendor": "1clickmigration"
+ },
+ "CVE-2024-13693": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Enfold - Responsive Multi-Purpose Theme",
+  "cna_vendor": "Kriesi",
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-02-25T09:21:33.130Z",
+  "product": "Enfold - Responsive Multi-Purpose Theme",
+  "vendor": "Kriesi"
  },
  "CVE-2024-13744": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -37759,6 +37889,16 @@
   "product": "ScreenConnect",
   "vendor": "ConnectWise"
  },
+ "CVE-2024-1756": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "WooCommerce Customers Manager",
+  "cna_vendor": "Unknown",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2024-04-24T05:00:02.329Z",
+  "product": "WooCommerce Customers Manager",
+  "vendor": "Unknown"
+ },
  "CVE-2024-1781": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "X6000R AX3000",
@@ -37908,6 +38048,16 @@
   "date_published": "2024-03-18T11:43:28.473Z",
   "product": "ColdFusion",
   "vendor": "Adobe"
+ },
+ "CVE-2024-2087": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Brizy \u2013 Page Builder",
+  "cna_vendor": "themefusecom",
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2024-06-05T05:33:06.148Z",
+  "product": "Brizy \u2013 Page Builder",
+  "vendor": "themefusecom"
  },
  "CVE-2024-20953": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -38428,6 +38578,16 @@
   "date_published": "2024-01-29T22:41:39.584Z",
   "product": "aiohttp",
   "vendor": "aio-libs"
+ },
+ "CVE-2024-2347": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Astra",
+  "cna_vendor": "brainstormforce",
+  "cvss_score": 6.4,
+  "cvss_version": "3.1",
+  "date_published": "2024-04-09T18:59:31.932Z",
+  "product": "Astra",
+  "vendor": "brainstormforce"
  },
  "CVE-2024-23506": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -39469,6 +39629,16 @@
   "product": "Nexter Blocks",
   "vendor": "POSIMYTH"
  },
+ "CVE-2024-30492": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Import Export WordPress Users",
+  "cna_vendor": "WebToffee",
+  "cvss_score": 4.3,
+  "cvss_version": "3.1",
+  "date_published": "2024-03-29T15:35:25.162Z",
+  "product": "Import Export WordPress Users",
+  "vendor": "WebToffee"
+ },
  "CVE-2024-30503": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Mailster",
@@ -39599,6 +39769,16 @@
   "product": "5 Stars Rating Funnel",
   "vendor": "Saleswonder Team: Tobias"
  },
+ "CVE-2024-31377": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "WP Photo Album Plus",
+  "cna_vendor": "J.N. Breetvelt a.k.a. OpaJaap",
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2024-05-13T09:06:21.641Z",
+  "product": "WP Photo Album Plus",
+  "vendor": "J.N. Breetvelt a.k.a. OpaJaap"
+ },
  "CVE-2024-31750": {
   "checked_at": "2026-10-08T20:33:12.897595+00:00",
   "cna_product": "n/a",
@@ -39658,6 +39838,16 @@
   "date_published": "2024-04-22T00:00:00.000Z",
   "product": "n/a",
   "vendor": "n/a"
+ },
+ "CVE-2024-3242": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Brizy \u2013 Page Builder",
+  "cna_vendor": "themefusecom",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2024-07-18T08:33:03.613Z",
+  "product": "Brizy \u2013 Page Builder",
+  "vendor": "themefusecom"
  },
  "CVE-2024-32507": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -41089,6 +41279,16 @@
   "product": "micollab",
   "vendor": "mitel"
  },
+ "CVE-2024-4180": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "The Events Calendar",
+  "cna_vendor": "Unknown",
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2024-06-04T06:00:02.616Z",
+  "product": "The Events Calendar",
+  "vendor": "Unknown"
+ },
  "CVE-2024-41869": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Acrobat Reader",
@@ -42109,6 +42309,16 @@
   "product": "WP Query Console",
   "vendor": "Ajit Bohra"
  },
+ "CVE-2024-50550": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "LiteSpeed Cache",
+  "cna_vendor": "LiteSpeed Technologies",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2024-10-29T09:57:24.051Z",
+  "product": "LiteSpeed Cache",
+  "vendor": "LiteSpeed Technologies"
+ },
  "CVE-2024-5057": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Easy Digital Downloads",
@@ -42568,6 +42778,16 @@
   "date_published": "2024-06-20T06:00:04.044Z",
   "product": "HTML5 Video Player ",
   "vendor": "Unknown"
+ },
+ "CVE-2024-5544": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Media Library Assistant",
+  "cna_vendor": "dglingren",
+  "cvss_score": 6.1,
+  "cvss_version": "3.1",
+  "date_published": "2024-07-02T07:37:05.025Z",
+  "product": "Media Library Assistant",
+  "vendor": "dglingren"
  },
  "CVE-2024-55457": {
   "checked_at": "2026-10-08T20:33:12.897595+00:00",
@@ -43339,6 +43559,16 @@
   "product": "CSA (Cloud Services Appliance)",
   "vendor": "Ivanti"
  },
+ "CVE-2024-8275": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "The Events Calendar",
+  "cna_vendor": "stellarwp",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2024-09-25T04:30:28.690Z",
+  "product": "The Events Calendar",
+  "vendor": "stellarwp"
+ },
  "CVE-2024-8277": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "WooCommerce Photo Reviews Premium",
@@ -43619,6 +43849,16 @@
   "product": "CSA (Cloud Services Appliance)",
   "vendor": "Ivanti"
  },
+ "CVE-2024-9417": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Hash Form \u2013 Drag & Drop Form Builder",
+  "cna_vendor": "hashthemes",
+  "cvss_score": 6.1,
+  "cvss_version": "3.1",
+  "date_published": "2024-10-05T09:39:22.793Z",
+  "product": "Hash Form \u2013 Drag & Drop Form Builder",
+  "vendor": "hashthemes"
+ },
  "CVE-2024-9463": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Expedition",
@@ -43669,6 +43909,16 @@
   "product": "Time Clock Pro; Time Clock \u2013 A WordPress Employee & Volunteer Time Clock Plugin",
   "vendor": "Scott Paterson; scottpaterson"
  },
+ "CVE-2024-9634": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "GiveWP \u2013 Donation Plugin and Fundraising Platform",
+  "cna_vendor": "stellarwp",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2024-10-16T02:05:09.208Z",
+  "product": "GiveWP \u2013 Donation Plugin and Fundraising Platform",
+  "vendor": "stellarwp"
+ },
  "CVE-2024-9643": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "F3x36",
@@ -43718,6 +43968,16 @@
   "date_published": "2024-10-12T02:05:43.175Z",
   "product": "Bridge Core",
   "vendor": "QODE"
+ },
+ "CVE-2024-9893": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Nextend Social Login Pro",
+  "cna_vendor": "nextendweb",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2024-10-16T13:56:39.004Z",
+  "product": "Nextend Social Login Pro",
+  "vendor": "nextendweb"
  },
  "CVE-2024-9916": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -44009,6 +44269,16 @@
   "product": "Chrome",
   "vendor": "Google"
  },
+ "CVE-2025-10897": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "WooCommerce Designer Pro",
+  "cna_vendor": "JMA Plugins",
+  "cvss_score": 8.6,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-31T07:26:39.837Z",
+  "product": "WooCommerce Designer Pro",
+  "vendor": "JMA Plugins"
+ },
  "CVE-2025-1094": {
   "checked_at": "2026-10-08T20:33:12.897595+00:00",
   "cna_product": "PostgreSQL",
@@ -44078,6 +44348,16 @@
   "date_published": "2025-10-18T06:42:48.790Z",
   "product": "LearnPress \u2013 WordPress LMS Plugin for Create and Sell Online Courses",
   "vendor": "thimpress"
+ },
+ "CVE-2025-11427": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "WP Migrate Lite \u2013 Migration Made Easy",
+  "cna_vendor": "wpengine",
+  "cvss_score": 5.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-11-18T11:00:48.436Z",
+  "product": "WP Migrate Lite \u2013 Migration Made Easy",
+  "vendor": "wpengine"
  },
  "CVE-2025-11533": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -44189,6 +44469,16 @@
   "product": "WavePlayer",
   "vendor": "Unknown"
  },
+ "CVE-2025-12197": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "The Events Calendar",
+  "cna_vendor": "stellarwp",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-11-05T04:36:58.788Z",
+  "product": "The Events Calendar",
+  "vendor": "stellarwp"
+ },
  "CVE-2025-12352": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Gravity Forms",
@@ -44259,6 +44549,16 @@
   "product": "jsonpath-plus",
   "vendor": "n/a"
  },
+ "CVE-2025-13067": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Royal Addons for Elementor \u2013 Addons and Templates Kit for Elementor",
+  "cna_vendor": "wproyal",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-11T04:25:47.029Z",
+  "product": "Royal Addons for Elementor \u2013 Addons and Templates Kit for Elementor",
+  "vendor": "wproyal"
+ },
  "CVE-2025-1315": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "InWave Jobs",
@@ -44278,6 +44578,16 @@
   "date_published": "2025-03-04T23:36:59.724Z",
   "product": "IC-7100 IP Camera",
   "vendor": "Edimax"
+ },
+ "CVE-2025-13206": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "GiveWP \u2013 Donation Plugin and Fundraising Platform",
+  "cna_vendor": "stellarwp",
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2025-11-19T07:46:08.136Z",
+  "product": "GiveWP \u2013 Donation Plugin and Fundraising Platform",
+  "vendor": "stellarwp"
  },
  "CVE-2025-13223": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -44329,6 +44639,16 @@
   "product": "WP Directory Kit",
   "vendor": "listingthemes"
  },
+ "CVE-2025-13407": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Gravity Forms",
+  "cna_vendor": "Unknown",
+  "cvss_score": 6.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-24T06:00:04.578Z",
+  "product": "Gravity Forms",
+  "vendor": "Unknown"
+ },
  "CVE-2025-13486": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Advanced Custom Fields: Extended",
@@ -44339,6 +44659,16 @@
   "product": "Advanced Custom Fields: Extended",
   "vendor": "hwk-fr"
  },
+ "CVE-2025-13673": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Tutor LMS \u2013 eLearning and online course solution",
+  "cna_vendor": "themeum",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-28T07:25:35.002Z",
+  "product": "Tutor LMS \u2013 eLearning and online course solution",
+  "vendor": "themeum"
+ },
  "CVE-2025-13773": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Print Invoice & Delivery Notes for WooCommerce",
@@ -44348,6 +44678,16 @@
   "date_published": "2025-12-24T04:32:56.262Z",
   "product": "Print Invoice & Delivery Notes for WooCommerce",
   "vendor": "tychesoftwares"
+ },
+ "CVE-2025-13880": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "WP Social Ninja \u2013 Embed Social Feeds, User Reviews & Chat Widgets",
+  "cna_vendor": "adreastrian",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-17T04:31:31.240Z",
+  "product": "WP Social Ninja \u2013 Embed Social Feeds, User Reviews & Chat Widgets",
+  "vendor": "adreastrian"
  },
  "CVE-2025-13920": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -44368,6 +44708,16 @@
   "date_published": "2025-12-23T09:19:59.928Z",
   "product": "Premium Addons for Elementor \u2013 Powerful Elementor Templates & Widgets",
   "vendor": "leap13"
+ },
+ "CVE-2025-14169": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "FunnelKit \u2013 Funnel Builder for WooCommerce Checkout",
+  "cna_vendor": "amans2k",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-12T07:20:35.996Z",
+  "product": "FunnelKit \u2013 Funnel Builder for WooCommerce Checkout",
+  "vendor": "amans2k"
  },
  "CVE-2025-14174": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -44458,6 +44808,26 @@
   "date_published": "2025-12-19T00:01:55.722Z",
   "product": "Fireware OS",
   "vendor": "WatchGuard"
+ },
+ "CVE-2025-14736": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Frontend Admin by DynamiApps",
+  "cna_vendor": "shabti",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-09T06:34:51.712Z",
+  "product": "Frontend Admin by DynamiApps",
+  "vendor": "shabti"
+ },
+ "CVE-2025-14842": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Drag and Drop Multiple File Upload for Contact Form 7",
+  "cna_vendor": "glenwpcoder",
+  "cvss_score": 6.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-07T06:36:03.858Z",
+  "product": "Drag and Drop Multiple File Upload for Contact Form 7",
+  "vendor": "glenwpcoder"
  },
  "CVE-2025-14847": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -44568,6 +44938,16 @@
   "date_published": "2025-03-11T03:22:19.063Z",
   "product": "HUSKY \u2013 Products Filter Professional for WooCommerce",
   "vendor": "realmag777"
+ },
+ "CVE-2025-1702": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Ultimate Member \u2013 User Profile, Registration, Login, Member Directory, Content Restriction & Membership Plugin",
+  "cna_vendor": "ultimatemember",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-03-05T11:22:09.425Z",
+  "product": "Ultimate Member \u2013 User Profile, Registration, Login, Member Directory, Content Restriction & Membership Plugin",
+  "vendor": "ultimatemember"
  },
  "CVE-2025-1743": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -45418,6 +45798,16 @@
   "date_published": "2025-02-15T00:00:00.000Z",
   "product": "Enterphone MESH",
   "vendor": "Hirsch"
+ },
+ "CVE-2025-26936": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Fresh Framework",
+  "cna_vendor": "FRESHFACE",
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-03-10T14:34:39.328Z",
+  "product": "Fresh Framework",
+  "vendor": "FRESHFACE"
  },
  "CVE-2025-27007": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -47369,6 +47759,16 @@
   "product": "MagicINFO 9 Server",
   "vendor": "Samsung Electronics"
  },
+ "CVE-2025-46444": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Ads Pro",
+  "cna_vendor": "scripteo",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-23T12:43:47.879Z",
+  "product": "Ads Pro",
+  "vendor": "scripteo"
+ },
  "CVE-2025-46554": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "xwiki-platform",
@@ -47819,6 +48219,26 @@
   "product": "RealHomes",
   "vendor": "InspiryThemes"
  },
+ "CVE-2025-49924": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Wholesale Suite",
+  "cna_vendor": "Josh Kohlbach",
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-22T14:32:13.804Z",
+  "product": "Wholesale Suite",
+  "vendor": "Josh Kohlbach"
+ },
+ "CVE-2025-49926": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Kalium",
+  "cna_vendor": "Laborator",
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-22T14:32:14.208Z",
+  "product": "Kalium",
+  "vendor": "Laborator"
+ },
  "CVE-2025-50031": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "DB Backup",
@@ -47828,6 +48248,16 @@
   "date_published": "2025-08-14T10:34:05.698Z",
   "product": "DB Backup",
   "vendor": "syedamirhussain91"
+ },
+ "CVE-2025-5016": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Relevanssi Premium; Relevanssi \u2013 A Better Search",
+  "cna_vendor": "Relevanssi; comesio",
+  "cvss_score": 4.7,
+  "cvss_version": "3.1",
+  "date_published": "2025-05-31T03:26:42.241Z",
+  "product": "Relevanssi Premium; Relevanssi \u2013 A Better Search",
+  "vendor": "Relevanssi; comesio"
  },
  "CVE-2025-5086": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -49099,6 +49529,16 @@
   "product": "comfyui-manager",
   "vendor": "comfy"
  },
+ "CVE-2025-67911": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Newsletters",
+  "cna_vendor": "Tribulant Software",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-08T09:17:44.577Z",
+  "product": "Newsletters",
+  "vendor": "Tribulant Software"
+ },
  "CVE-2025-67945": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "MailerLite \u2013 WooCommerce integration",
@@ -49329,6 +49769,16 @@
   "product": "HT Contact Form \u2013 Drag & Drop Form Builder for WordPress",
   "vendor": "htplugins"
  },
+ "CVE-2025-7402": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Ads Pro Plugin - Multi-Purpose WordPress Advertising Manager",
+  "cna_vendor": "scripteo",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-11-24T04:36:40.730Z",
+  "product": "Ads Pro Plugin - Multi-Purpose WordPress Advertising Manager",
+  "vendor": "scripteo"
+ },
  "CVE-2025-7407": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "D6400",
@@ -49408,6 +49858,16 @@
   "date_published": "2025-07-16T07:11:02.974Z",
   "product": "VMG8825-T50K firmware",
   "vendor": "Zyxel"
+ },
+ "CVE-2025-7721": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "JoomSport \u2013 for Sports: Team & League, Football, Hockey & more",
+  "cna_vendor": "beardev",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-03T11:17:11.999Z",
+  "product": "JoomSport \u2013 for Sports: Team & League, Football, Hockey & more",
+  "vendor": "beardev"
  },
  "CVE-2025-7771": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -49889,6 +50349,16 @@
   "product": "UpdraftPlus: WP Backup & Migration Plugin",
   "vendor": "davidanderson"
  },
+ "CVE-2026-10818": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "WPForms Pro",
+  "cna_vendor": "WPForms",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-25T06:50:06.104Z",
+  "product": "WPForms Pro",
+  "vendor": "WPForms"
+ },
  "CVE-2026-1125": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "DIR-823X",
@@ -49939,6 +50409,16 @@
   "product": "Django",
   "vendor": "djangoproject"
  },
+ "CVE-2026-12077": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Dokan Pro",
+  "cna_vendor": "wedevs",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-25T03:42:21.333Z",
+  "product": "Dokan Pro",
+  "vendor": "wedevs"
+ },
  "CVE-2026-12227": {
   "checked_at": "2026-10-08T20:33:12.897595+00:00",
   "cna_product": "Visual Composer Website Builder",
@@ -49948,6 +50428,16 @@
   "date_published": "2026-09-24T09:27:45.876Z",
   "product": "Visual Composer Website Builder",
   "vendor": "visualcomposer"
+ },
+ "CVE-2026-12497": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Paid Membership Plugin, Ecommerce, User Registration Form, Login Form, User Profile & Restrict Content",
+  "cna_vendor": "Unknown",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-24T06:00:02.334Z",
+  "product": "Paid Membership Plugin, Ecommerce, User Registration Form, Login Form, User Profile & Restrict Content",
+  "vendor": "Unknown"
  },
  "CVE-2026-12569": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -49978,6 +50468,26 @@
   "date_published": "2026-01-29T21:31:17.041Z",
   "product": "Endpoint Manager Mobile",
   "vendor": "Ivanti"
+ },
+ "CVE-2026-13369": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Ninja Forms - File Uploads",
+  "cna_vendor": "SaturdayDrive",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-02T09:32:03.716Z",
+  "product": "Ninja Forms - File Uploads",
+  "vendor": "SaturdayDrive"
+ },
+ "CVE-2026-13389": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "webtoffee-cookie-consent",
+  "cna_vendor": "Unknown",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-02T06:00:13.865Z",
+  "product": "webtoffee-cookie-consent",
+  "vendor": "Unknown"
  },
  "CVE-2026-1340": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -50049,6 +50559,16 @@
   "product": "User Registration & Membership \u2013 Free & Paid Memberships, Subscriptions, Content Restriction, User Profile, Custom User Registration & Login Builder",
   "vendor": "wpeverest"
  },
+ "CVE-2026-15015": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "MountDev AI MCP Connector for WordPress",
+  "cna_vendor": "cascadiawebservices",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-23T09:33:59.123Z",
+  "product": "MountDev AI MCP Connector for WordPress",
+  "vendor": "cascadiawebservices"
+ },
  "CVE-2026-15039": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "giftware",
@@ -50078,6 +50598,16 @@
   "date_published": "2026-08-29T19:26:34.288Z",
   "product": "Custom User Registration Fields for WooCommerce",
   "vendor": "Addify"
+ },
+ "CVE-2026-15381": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "WP Go Maps",
+  "cna_vendor": "Unknown",
+  "cvss_score": 3.7,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-31T06:00:09.998Z",
+  "product": "WP Go Maps",
+  "vendor": "Unknown"
  },
  "CVE-2026-15409": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -50128,6 +50658,16 @@
   "date_published": "2026-02-26T01:24:14.199Z",
   "product": "WP Responsive Images",
   "vendor": "stuartbates"
+ },
+ "CVE-2026-15748": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Forminator Forms \u2013 Contact Form, Payment Form & Custom Form Builder",
+  "cna_vendor": "wpmudev",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-18T05:31:20.458Z",
+  "product": "Forminator Forms \u2013 Contact Form, Payment Form & Custom Form Builder",
+  "vendor": "wpmudev"
  },
  "CVE-2026-15780": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -50209,6 +50749,26 @@
   "product": "Quantum Security Management; Multi-Domain Security Management",
   "vendor": "checkpoint"
  },
+ "CVE-2026-16263": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "WP Maps",
+  "cna_vendor": "Unknown",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-07T06:00:14.183Z",
+  "product": "WP Maps",
+  "vendor": "Unknown"
+ },
+ "CVE-2026-1666": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Download Manager",
+  "cna_vendor": "codename065",
+  "cvss_score": 6.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-18T06:42:40.614Z",
+  "product": "Download Manager",
+  "vendor": "codename065"
+ },
  "CVE-2026-16723": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Fastjson",
@@ -50259,6 +50819,16 @@
   "product": "Remote Support(RS) & Privileged Remote Access(PRA)",
   "vendor": "BeyondTrust"
  },
+ "CVE-2026-18039": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Essential Addons for Elementor",
+  "cna_vendor": "Unknown",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-14T06:00:11.664Z",
+  "product": "Essential Addons for Elementor",
+  "vendor": "Unknown"
+ },
  "CVE-2026-18109": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "W3 Total Cache",
@@ -50279,6 +50849,26 @@
   "product": "Request a Quote for WooCommerce",
   "vendor": "Addify"
  },
+ "CVE-2026-1830": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Quick Playground",
+  "cna_vendor": "davidfcarr",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-09T03:25:57.200Z",
+  "product": "Quick Playground",
+  "vendor": "davidfcarr"
+ },
+ "CVE-2026-18315": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "TrueBooker \u2013 Appointment Booking and Scheduler System",
+  "cna_vendor": "themetechmount",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-19T18:27:41.648Z",
+  "product": "TrueBooker \u2013 Appointment Booking and Scheduler System",
+  "vendor": "themetechmount"
+ },
  "CVE-2026-18322": {
   "checked_at": "2026-09-24T23:43:28.092438+00:00",
   "cna_product": "Smart Popup by Supsystic",
@@ -50297,6 +50887,16 @@
   "cvss_version": "3.1",
   "date_published": "2026-08-12T06:00:17.317Z",
   "product": "Events Manager",
+  "vendor": "Unknown"
+ },
+ "CVE-2026-18391": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "WooCommerce Subscriptions",
+  "cna_vendor": "Unknown",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-12T06:00:17.487Z",
+  "product": "WooCommerce Subscriptions",
   "vendor": "Unknown"
  },
  "CVE-2026-18556": {
@@ -50438,6 +51038,16 @@
   "date_published": "2026-02-19T06:49:43.503Z",
   "product": "s2Member \u2013 Excellent for All Kinds of Memberships, Content Restriction Paywalls & Member Access Subscriptions",
   "vendor": "clavaque"
+ },
+ "CVE-2026-19949": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "All-in-One WP Migration and Backup",
+  "cna_vendor": "servmask",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-25T11:27:11.038Z",
+  "product": "All-in-One WP Migration and Backup",
+  "vendor": "servmask"
  },
  "CVE-2026-20029": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -50939,6 +51549,16 @@
   "product": "Inetutils",
   "vendor": "GNU"
  },
+ "CVE-2026-2413": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Ally \u2013 Web Accessibility & Usability",
+  "cna_vendor": "elemntor",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-11T04:25:46.393Z",
+  "product": "Ally \u2013 Web Accessibility & Usability",
+  "vendor": "elemntor"
+ },
  "CVE-2026-2441": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Chrome",
@@ -50968,6 +51588,16 @@
   "date_published": "2026-01-26T23:22:27.793Z",
   "product": "anything-llm",
   "vendor": "Mintplex-Labs"
+ },
+ "CVE-2026-24611": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "MetForm Pro",
+  "cna_vendor": "WPMet",
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-17T09:50:41.016Z",
+  "product": "MetForm Pro",
+  "vendor": "WPMet"
  },
  "CVE-2026-24858": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -51239,6 +51869,16 @@
   "product": "Ajax Search Lite",
   "vendor": "wpdreams"
  },
+ "CVE-2026-28165": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Digits",
+  "cna_vendor": "UnitedOver, LLC",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-24T11:54:47.057Z",
+  "product": "Digits",
+  "vendor": "UnitedOver, LLC"
+ },
  "CVE-2026-28318": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Serv-U",
@@ -51348,6 +51988,16 @@
   "date_published": "2026-06-10T08:28:20.635Z",
   "product": "Newsletters",
   "vendor": "contrid"
+ },
+ "CVE-2026-3045": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Appointment Booking Calendar \u2014 Simply Schedule Appointments Booking Plugin",
+  "cna_vendor": "croixhaug",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-13T07:23:38.549Z",
+  "product": "Appointment Booking Calendar \u2014 Simply Schedule Appointments Booking Plugin",
+  "vendor": "croixhaug"
  },
  "CVE-2026-3055": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -51499,6 +52149,16 @@
   "product": "GUARDIANWALL MailSuite (On-premises version); GUARDIANWALL Mail Security Cloud (SaaS version)",
   "vendor": "Canon Marketing Japan Inc."
  },
+ "CVE-2026-3279": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Enable jQuery Migrate Helper",
+  "cna_vendor": "clorith",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-27T06:46:15.453Z",
+  "product": "Enable jQuery Migrate Helper",
+  "vendor": "clorith"
+ },
  "CVE-2026-32882": {
   "checked_at": "2026-09-19T17:22:37.636211+00:00",
   "cna_product": "libheif",
@@ -51569,6 +52229,16 @@
   "product": "mesop",
   "vendor": "mesop-dev"
  },
+ "CVE-2026-3326": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Xstore",
+  "cna_vendor": "Unknown",
+  "cvss_score": 8.6,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-10T06:00:02.581Z",
+  "product": "Xstore",
+  "vendor": "Unknown"
+ },
  "CVE-2026-33478": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "AVideo",
@@ -51588,6 +52258,16 @@
   "date_published": "2026-03-24T13:14:39.647Z",
   "product": "langflow",
   "vendor": "langflow-ai"
+ },
+ "CVE-2026-3355": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Customer Reviews for WooCommerce",
+  "cna_vendor": "ivole",
+  "cvss_score": 6.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-16T06:44:53.276Z",
+  "product": "Customer Reviews for WooCommerce",
+  "vendor": "ivole"
  },
  "CVE-2026-33626": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -51799,6 +52479,16 @@
   "product": "Kali Forms \u2014 Contact Form & Drag-and-Drop Builder",
   "vendor": "wpchill"
  },
+ "CVE-2026-3629": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Import and export users and customers",
+  "cna_vendor": "carazo",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-21T22:24:17.648Z",
+  "product": "Import and export users and customers",
+  "vendor": "carazo"
+ },
  "CVE-2026-36356": {
   "checked_at": "2026-10-08T20:33:12.897595+00:00",
   "cna_product": "n/a",
@@ -51828,6 +52518,16 @@
   "date_published": "2026-03-12T02:22:36.468Z",
   "product": "My Sticky Bar \u2013 Floating Notification Bar & Sticky Header (formerly myStickymenu)",
   "vendor": "premio"
+ },
+ "CVE-2026-3830": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Product Filter for WooCommerce by WBW",
+  "cna_vendor": "Unknown",
+  "cvss_score": 8.6,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-13T06:00:13.287Z",
+  "product": "Product Filter for WooCommerce by WBW",
+  "vendor": "Unknown"
  },
  "CVE-2026-3836": {
   "checked_at": "2026-10-13T20:19:16.992191+00:00",
@@ -51899,6 +52599,16 @@
   "product": "vite; vite-plus",
   "vendor": "vitejs"
  },
+ "CVE-2026-39447": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Simply Schedule Appointments",
+  "cna_vendor": "NSquared",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-15T20:17:42.633Z",
+  "product": "Simply Schedule Appointments",
+  "vendor": "NSquared"
+ },
  "CVE-2026-39494": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Product Filter by WBW",
@@ -51959,6 +52669,16 @@
   "product": "Woocommerce Custom Product Addons Pro",
   "vendor": "acowebs"
  },
+ "CVE-2026-4003": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Users manager \u2013 PN",
+  "cna_vendor": "felixmartinez",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-08T03:36:08.200Z",
+  "product": "Users manager \u2013 PN",
+  "vendor": "felixmartinez"
+ },
  "CVE-2026-4020": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Gravity SMTP",
@@ -52008,6 +52728,16 @@
   "date_published": null,
   "product": null,
   "vendor": null
+ },
+ "CVE-2026-4106": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "HT Mega Addons for Elementor",
+  "cna_vendor": "Unknown",
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-23T06:00:06.084Z",
+  "product": "HT Mega Addons for Elementor",
+  "vendor": "Unknown"
  },
  "CVE-2026-41089": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -52129,6 +52859,16 @@
   "product": "litellm",
   "vendor": "BerriAI"
  },
+ "CVE-2026-4257": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Contact Form by Supsystic",
+  "cna_vendor": "supsysticcom",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-30T21:26:10.228Z",
+  "product": "Contact Form by Supsystic",
+  "vendor": "supsysticcom"
+ },
  "CVE-2026-42589": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "gotenberg",
@@ -52179,6 +52919,16 @@
   "product": "SliceWP",
   "vendor": "iova.mihai"
  },
+ "CVE-2026-42730": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "MasterStudy LMS",
+  "cna_vendor": "Stylemix",
+  "cvss_score": 8.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-27T09:49:04.330Z",
+  "product": "MasterStudy LMS",
+  "vendor": "Stylemix"
+ },
  "CVE-2026-42796": {
   "checked_at": "2026-09-19T12:49:38.645982+00:00",
   "cna_product": "Arelle",
@@ -52198,6 +52948,16 @@
   "date_published": "2026-05-14T17:00:36.515Z",
   "product": "Microsoft Exchange Server 2016 Cumulative Update 23; Microsoft Exchange Server 2019 Cumulative Update 14; Microsoft Exchange Server 2019 Cumulative Update 15; Microsoft Exchange Server Subscription Edition RTM",
   "vendor": "Microsoft"
+ },
+ "CVE-2026-4290": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "WP Travel Pro",
+  "cna_vendor": "WPTravel",
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-29T14:29:08.134Z",
+  "product": "WP Travel Pro",
+  "vendor": "WPTravel"
  },
  "CVE-2026-42945": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -52238,6 +52998,16 @@
   "date_published": "2026-05-11T06:26:45.838Z",
   "product": "Linux",
   "vendor": "Linux"
+ },
+ "CVE-2026-4394": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Gravity Forms",
+  "cna_vendor": "Gravity Forms",
+  "cvss_score": 6.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-07T23:25:28.066Z",
+  "product": "Gravity Forms",
+  "vendor": "Gravity Forms"
  },
  "CVE-2026-44338": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -52318,6 +53088,16 @@
   "date_published": "2026-05-12T00:12:35.452Z",
   "product": "arktype-adapter; eslint-plugin-router; eslint-plugin-start; history; nitro-v2-vite-plugin; react-router; react-router-devtools; react-router-ssr-query; react-start; react-start-client; react-start-rsc; react-start-server; router-cli; router-core; router-devtools; router-devtools-core; router-generator; router-plugin; router-ssr-query-core; router-utils; outer-vite-plugin; solid-router; solid-router-devtools; solid-router-ssr-query; solid-start; solid-start-client; solid-start-server; start-client-core; start-fn-stubs; start-plugin-core; start-server-core; start-static-server-functions; start-storage-context; valibot-adapter; virtual-file-routes; vue-router; vue-router-devtools; vue-router-ssr-query; vue-start; vue-start-client; vue-start-server; zod-adapter",
   "vendor": "@tanstack"
+ },
+ "CVE-2026-45435": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "WP Activity Log",
+  "cna_vendor": "Melapress",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-25T22:28:19.614Z",
+  "product": "WP Activity Log",
+  "vendor": "Melapress"
  },
  "CVE-2026-45444": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -52429,6 +53209,16 @@
   "product": "Funnel Builder for WooCommerce Checkout",
   "vendor": "FunnelKit"
  },
+ "CVE-2026-4798": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Avada (Fusion) Builder",
+  "cna_vendor": "themefusion",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-13T09:26:12.863Z",
+  "product": "Avada (Fusion) Builder",
+  "vendor": "themefusion"
+ },
  "CVE-2026-48027": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "nx-console",
@@ -52519,6 +53309,36 @@
   "product": "starlette",
   "vendor": "Kludex"
  },
+ "CVE-2026-4882": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "User Registration Advanced Fields",
+  "cna_vendor": "WPEverest",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-02T04:27:46.466Z",
+  "product": "User Registration Advanced Fields",
+  "vendor": "WPEverest"
+ },
+ "CVE-2026-4883": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Piotnet Forms",
+  "cna_vendor": "Piotnet",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-19T11:18:47.422Z",
+  "product": "Piotnet Forms",
+  "vendor": "Piotnet"
+ },
+ "CVE-2026-48839": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "WP Statistics",
+  "cna_vendor": "VeronaLabs",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-01T14:43:29.590Z",
+  "product": "WP Statistics",
+  "vendor": "VeronaLabs"
+ },
  "CVE-2026-48842": {
   "checked_at": "2026-09-21T19:40:22.390936+00:00",
   "cna_product": "Webmail",
@@ -52528,6 +53348,26 @@
   "date_published": "2026-05-25T19:06:37.434Z",
   "product": "Webmail",
   "vendor": "Roundcube"
+ },
+ "CVE-2026-4885": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Piotnet Addons For Elementor Pro",
+  "cna_vendor": "Piotnet",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-19T06:46:45.839Z",
+  "product": "Piotnet Addons For Elementor Pro",
+  "vendor": "Piotnet"
+ },
+ "CVE-2026-48866": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Gravity Forms",
+  "cna_vendor": "Rocketgenius Inc.",
+  "cvss_score": 9.6,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-01T14:39:47.235Z",
+  "product": "Gravity Forms",
+  "vendor": "Rocketgenius Inc."
  },
  "CVE-2026-48907": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -52559,6 +53399,16 @@
   "product": "iCagenda extension for Joomla",
   "vendor": "icagenda.com"
  },
+ "CVE-2026-48966": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Funnel Builder by FunnelKit",
+  "cna_vendor": "FunnelKit",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-15T20:19:07.824Z",
+  "product": "Funnel Builder by FunnelKit",
+  "vendor": "FunnelKit"
+ },
  "CVE-2026-48969": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Really Simple SSL",
@@ -52578,6 +53428,16 @@
   "date_published": "2026-06-29T14:34:07.407Z",
   "product": "Helix3 extension for Joomla",
   "vendor": "joomshaper.com"
+ },
+ "CVE-2026-49058": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "LoginPress Pro",
+  "cna_vendor": "LoginPress",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-17T09:51:18.531Z",
+  "product": "LoginPress Pro",
+  "vendor": "LoginPress"
  },
  "CVE-2026-49060": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -52599,6 +53459,16 @@
   "product": "JetEngine",
   "vendor": "Crocoblock"
  },
+ "CVE-2026-49772": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "The Events Calendar",
+  "cna_vendor": "Liquid Web / StellarWP",
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-16T09:04:02.573Z",
+  "product": "The Events Calendar",
+  "vendor": "Liquid Web / StellarWP"
+ },
  "CVE-2026-49777": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Product Slider Pro for WooCommerce",
@@ -52608,6 +53478,16 @@
   "date_published": "2026-06-05T08:59:53.320Z",
   "product": "Product Slider Pro for WooCommerce",
   "vendor": "ShapedPlugin, LLC"
+ },
+ "CVE-2026-49780": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Dokan",
+  "cna_vendor": "Dokan, Inc.",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-15T20:19:28.889Z",
+  "product": "Dokan",
+  "vendor": "Dokan, Inc."
  },
  "CVE-2026-49869": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -52709,6 +53589,16 @@
   "product": "WP Statistics \u2013 Simple, privacy-friendly Google Analytics alternative",
   "vendor": "veronalabs"
  },
+ "CVE-2026-52714": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "SEO Plugin by Squirrly SEO",
+  "cna_vendor": "SEO Squirrly",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-16T09:00:34.680Z",
+  "product": "SEO Plugin by Squirrly SEO",
+  "vendor": "SEO Squirrly"
+ },
  "CVE-2026-52806": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "gogs",
@@ -52738,6 +53628,16 @@
   "date_published": "2026-06-24T20:33:42.162Z",
   "product": "gogs",
   "vendor": "gogs"
+ },
+ "CVE-2026-5324": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Brizy \u2013 Page Builder",
+  "cna_vendor": "themefusecom",
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-02T08:27:05.238Z",
+  "product": "Brizy \u2013 Page Builder",
+  "vendor": "themefusecom"
  },
  "CVE-2026-53266": {
   "checked_at": "2026-09-18T17:48:00.503582+00:00",
@@ -52788,6 +53688,16 @@
   "date_published": "2026-06-24T21:13:25.461Z",
   "product": "siyuan",
   "vendor": "siyuan-note"
+ },
+ "CVE-2026-54188": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "JetEngine",
+  "cna_vendor": "Jetimpex Inc.",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-17T09:51:35.746Z",
+  "product": "JetEngine",
+  "vendor": "Jetimpex Inc."
  },
  "CVE-2026-54196": {
   "checked_at": "2026-09-16T13:58:29.344432+00:00",
@@ -52979,6 +53889,26 @@
   "product": "Drag and Drop Multiple File Upload for Contact Form 7",
   "vendor": "glenwpcoder"
  },
+ "CVE-2026-57345": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Internal Links Manager",
+  "cna_vendor": "Webraketen",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-02T11:15:07.465Z",
+  "product": "Internal Links Manager",
+  "vendor": "Webraketen"
+ },
+ "CVE-2026-5737": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Independent Analytics \u2013 WordPress Analytics Plugin",
+  "cna_vendor": "bensibley",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-28T03:27:26.594Z",
+  "product": "Independent Analytics \u2013 WordPress Analytics Plugin",
+  "vendor": "bensibley"
+ },
  "CVE-2026-57624": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Blocksy Companion Pro",
@@ -53008,6 +53938,16 @@
   "date_published": "2026-07-13T08:41:24.999Z",
   "product": "AcyMailing SMTP Newsletter",
   "vendor": "AcyMailing Newsletter Team"
+ },
+ "CVE-2026-57812": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Simply Schedule Appointments",
+  "cna_vendor": "NSquared",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-13T08:41:25.598Z",
+  "product": "Simply Schedule Appointments",
+  "vendor": "NSquared"
  },
  "CVE-2026-58138": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -53219,6 +54159,26 @@
   "product": "Elementor Website Builder",
   "vendor": "Elementor"
  },
+ "CVE-2026-6228": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Frontend Admin by DynamiApps",
+  "cna_vendor": "shabti",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-15T07:46:36.306Z",
+  "product": "Frontend Admin by DynamiApps",
+  "vendor": "shabti"
+ },
+ "CVE-2026-6279": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Avada (Fusion) Builder",
+  "cna_vendor": "themefusion",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-21T04:27:57.613Z",
+  "product": "Avada (Fusion) Builder",
+  "vendor": "themefusion"
+ },
  "CVE-2026-63030": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "WordPress",
@@ -53368,6 +54328,16 @@
   "date_published": "2026-08-12T15:14:04.906Z",
   "product": "artifactory",
   "vendor": "jfrog"
+ },
+ "CVE-2026-66439": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Advanced AJAX Product Filters",
+  "cna_vendor": "BeRocket",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-06T14:27:49.297Z",
+  "product": "Advanced AJAX Product Filters",
+  "vendor": "BeRocket"
  },
  "CVE-2026-66441": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -53528,6 +54498,16 @@
   "date_published": "2026-08-11T17:05:15.930Z",
   "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 23H2; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2025; Windows Server 2025 (Server Core installation)",
   "vendor": "Microsoft"
+ },
+ "CVE-2026-6895": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Wishlist Member",
+  "cna_vendor": "Wishlist Member",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-23T04:27:17.035Z",
+  "product": "Wishlist Member",
+  "vendor": "Wishlist Member"
  },
  "CVE-2026-69255": {
   "checked_at": "2026-09-15T23:22:23.297674+00:00",
@@ -53739,6 +54719,16 @@
   "product": "Adobe Commerce; Adobe Commerce B2B; Magento Open Source",
   "vendor": "Adobe"
  },
+ "CVE-2026-75927": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "User Role Editor \u2013 PublishPress Capabilities: Access Control and User Roles",
+  "cna_vendor": "publishpress",
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-09T07:40:56.043Z",
+  "product": "User Role Editor \u2013 PublishPress Capabilities: Access Control and User Roles",
+  "vendor": "publishpress"
+ },
  "CVE-2026-75949": {
   "checked_at": "2026-09-22T18:13:47.861822+00:00",
   "cna_product": "J-BusinessDirectory extension for Joomla",
@@ -53878,6 +54868,16 @@
   "date_published": "2026-09-12T07:39:15.542Z",
   "product": "The Events Calendar",
   "vendor": "stellarwp"
+ },
+ "CVE-2026-78175": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Tutor LMS \u2013 eLearning and online course solution",
+  "cna_vendor": "themeum",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-12T07:39:15.920Z",
+  "product": "Tutor LMS \u2013 eLearning and online course solution",
+  "vendor": "themeum"
  },
  "CVE-2026-79756": {
   "checked_at": "2026-09-22T13:50:36.656120+00:00",
@@ -54028,6 +55028,16 @@
   "date_published": "2026-05-15T07:30:29.287Z",
   "product": "DAEMON Tools Lite",
   "vendor": "AVB Disc Soft"
+ },
+ "CVE-2026-8441": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "WP Review Slider Pro",
+  "cna_vendor": "https://wpreviewslider.com/",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-02T09:32:03.304Z",
+  "product": "WP Review Slider Pro",
+  "vendor": "https://wpreviewslider.com/"
  },
  "CVE-2026-84434": {
   "checked_at": "2026-09-19T07:43:58.052771+00:00",
@@ -54229,6 +55239,16 @@
   "product": "N-central",
   "vendor": "N-able"
  },
+ "CVE-2026-86444": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "LearnPress",
+  "cna_vendor": "Unknown",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-16T06:00:14.986Z",
+  "product": "LearnPress",
+  "vendor": "Unknown"
+ },
  "CVE-2026-86538": {
   "checked_at": "2026-09-17T18:27:53.253360+00:00",
   "cna_product": "knowns",
@@ -54318,6 +55338,16 @@
   "date_published": "2026-09-10T19:14:17.508Z",
   "product": "OmniRoute",
   "vendor": "diegosouzapw"
+ },
+ "CVE-2026-8809": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "Advanced Custom Fields: Extended",
+  "cna_vendor": "hwk-fr",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-28T22:27:27.387Z",
+  "product": "Advanced Custom Fields: Extended",
+  "vendor": "hwk-fr"
  },
  "CVE-2026-88771": {
   "checked_at": "2026-09-27T18:36:30.995295+00:00",
@@ -54448,6 +55478,16 @@
   "date_published": "2026-07-11T06:50:33.051Z",
   "product": "W3 Total Cache",
   "vendor": "boldgrid"
+ },
+ "CVE-2026-9290": {
+  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "cna_product": "WP User Manager \u2013 User Profile Builder & Membership",
+  "cna_vendor": "wpusermanager",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-05T23:28:26.787Z",
+  "product": "WP User Manager \u2013 User Profile Builder & Membership",
+  "vendor": "wpusermanager"
  },
  "CVE-2026-93399": {
   "checked_at": "2026-09-28T20:41:33.331509+00:00",
