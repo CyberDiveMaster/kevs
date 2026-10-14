@@ -29630,7 +29630,7 @@
   "vendor": "Atlassian"
  },
  "CVE-2022-36883": {
-  "checked_at": "2026-10-07T20:06:14.594567+00:00",
+  "checked_at": "2026-10-14T23:36:17.479991+00:00",
   "cna_product": "Jenkins Git Plugin",
   "cna_vendor": "Jenkins project",
   "cvss_score": null,
@@ -50149,6 +50149,16 @@
   "product": "Cloud NGFW; PAN-OS; Prisma Access",
   "vendor": "Palo Alto Networks"
  },
+ "CVE-2026-0322": {
+  "checked_at": "2026-10-14T23:36:17.479991+00:00",
+  "cna_product": "Cloud NGFW; PAN-OS; Prisma Access",
+  "cna_vendor": "Palo Alto Networks",
+  "cvss_score": 8.6,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-14T17:26:52.448Z",
+  "product": "Cloud NGFW; PAN-OS; Prisma Access",
+  "vendor": "Palo Alto Networks"
+ },
  "CVE-2026-0625": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "DSL-2640B; DSL-2740R; DSL-2780B; DSL-526B; DSL-2640T; DSL-500; DSL-500G; DSL-502G; DIR-905L; DIR-600; DIR-608; DIR-610; DIR-611; DIR-615; DNS-320; DNS-325; DNS-345",
@@ -50278,6 +50288,16 @@
   "date_published": "2026-09-30T16:21:20.601Z",
   "product": "Zammad",
   "vendor": "Zammad GmbH"
+ },
+ "CVE-2026-103671": {
+  "checked_at": "2026-10-14T23:36:17.479991+00:00",
+  "cna_product": "AmazonPay V2 Plugin (4.0/4.1 series); AmazonPay V2 Plugin (4.2/4.3 series, Bundle Edition); AmazonPay V2 Plugin (4.2/4.3 series); AmazonPay Plugin (4.0 series)",
+  "cna_vendor": "EC-CUBE CO.,LTD.",
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-14T08:12:13.594Z",
+  "product": "AmazonPay V2 Plugin (4.0/4.1 series); AmazonPay V2 Plugin (4.2/4.3 series, Bundle Edition); AmazonPay V2 Plugin (4.2/4.3 series); AmazonPay Plugin (4.0 series)",
+  "vendor": "EC-CUBE CO.,LTD."
  },
  "CVE-2026-104286": {
   "checked_at": "2026-10-01T19:44:28.848675+00:00",
@@ -52670,7 +52690,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-14T14:16:16.861540+00:00",
+  "checked_at": "2026-10-14T23:36:17.479991+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53600,7 +53620,7 @@
   "vendor": "n/a"
  },
  "CVE-2026-51990": {
-  "checked_at": "2026-10-07T20:06:14.594567+00:00",
+  "checked_at": "2026-10-14T23:36:17.479991+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
