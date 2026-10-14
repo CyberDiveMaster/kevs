@@ -13840,7 +13840,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2018-8033": {
-  "checked_at": "2026-10-07T18:17:39.945892+00:00",
+  "checked_at": "2026-10-14T18:49:00.542025+00:00",
   "cna_product": "Apache OFBiz",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -49120,7 +49120,7 @@
   "vendor": "dlink"
  },
  "CVE-2025-60702": {
-  "checked_at": "2026-10-07T18:17:39.945892+00:00",
+  "checked_at": "2026-10-14T18:49:00.542025+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -52550,7 +52550,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-14T08:18:58.292019+00:00",
+  "checked_at": "2026-10-14T18:49:00.542025+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52750,7 +52750,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-14T08:18:58.292019+00:00",
+  "checked_at": "2026-10-14T18:49:00.542025+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53820,14 +53820,14 @@
   "vendor": "langflow-ai"
  },
  "CVE-2026-55786": {
-  "checked_at": "2026-10-14T08:18:58.292019+00:00",
-  "cna_product": null,
-  "cna_vendor": null,
-  "cvss_score": null,
-  "cvss_version": null,
-  "date_published": null,
-  "product": null,
-  "vendor": null
+  "checked_at": "2026-10-14T18:49:00.542025+00:00",
+  "cna_product": "flyto-core",
+  "cna_vendor": "flytohub",
+  "cvss_score": 8.4,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-14T18:14:39.210Z",
+  "product": "flyto-core",
+  "vendor": "flytohub"
  },
  "CVE-2026-56005": {
   "checked_at": "2026-10-02T09:15:32.462693+00:00",
@@ -54807,6 +54807,16 @@
   "cvss_version": "3.1",
   "date_published": "2026-09-30T13:04:32.095Z",
   "product": "Cisco Catalyst SD-WAN Manager",
+  "vendor": "Cisco"
+ },
+ "CVE-2026-76519": {
+  "checked_at": "2026-10-14T18:49:00.542025+00:00",
+  "cna_product": "Cisco Secure Email",
+  "cna_vendor": "Cisco",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-14T16:07:51.466Z",
+  "product": "Cisco Secure Email",
   "vendor": "Cisco"
  },
  "CVE-2026-76581": {
