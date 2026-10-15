@@ -52570,7 +52570,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-14T18:49:00.542025+00:00",
+  "checked_at": "2026-10-15T02:47:04.370198+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52770,7 +52770,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-14T18:49:00.542025+00:00",
+  "checked_at": "2026-10-15T02:47:04.370198+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
