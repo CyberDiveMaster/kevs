@@ -52580,7 +52580,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-15T02:47:04.370198+00:00",
+  "checked_at": "2026-10-15T13:51:19.297303+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52780,7 +52780,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-15T02:47:04.370198+00:00",
+  "checked_at": "2026-10-15T13:51:19.297303+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54118,6 +54118,16 @@
   "date_published": "2026-07-27T13:59:12.758Z",
   "product": "Product Feed Manager",
   "vendor": "RexTheme"
+ },
+ "CVE-2026-59774": {
+  "checked_at": "2026-10-15T13:51:19.297303+00:00",
+  "cna_product": "Gitea",
+  "cna_vendor": "Gitea",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-14T14:28:25.862Z",
+  "product": "Gitea",
+  "vendor": "Gitea"
  },
  "CVE-2026-59800": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
