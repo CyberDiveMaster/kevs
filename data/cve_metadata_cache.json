@@ -50319,6 +50319,16 @@
   "product": "Zammad",
   "vendor": "Zammad GmbH"
  },
+ "CVE-2026-102764": {
+  "checked_at": "2026-10-15T23:30:25.917277+00:00",
+  "cna_product": "Remote Support",
+  "cna_vendor": "BeyondTrust",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-15T20:30:32.240Z",
+  "product": "Remote Support",
+  "vendor": "BeyondTrust"
+ },
  "CVE-2026-103671": {
   "checked_at": "2026-10-14T23:36:17.479991+00:00",
   "cna_product": "AmazonPay V2 Plugin (4.0/4.1 series); AmazonPay V2 Plugin (4.2/4.3 series, Bundle Edition); AmazonPay V2 Plugin (4.2/4.3 series); AmazonPay Plugin (4.0 series)",
@@ -50438,6 +50448,16 @@
   "date_published": "2026-10-14T02:27:42.315Z",
   "product": "Collabora Online - Built-in CODE Server",
   "vendor": "Collabora"
+ },
+ "CVE-2026-111357": {
+  "checked_at": "2026-10-15T23:30:25.917277+00:00",
+  "cna_product": "Connect Secure",
+  "cna_vendor": "Ivanti",
+  "cvss_score": 7,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-15T20:56:58.045Z",
+  "product": "Connect Secure",
+  "vendor": "Ivanti"
  },
  "CVE-2026-1125": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
