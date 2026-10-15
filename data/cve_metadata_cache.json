@@ -49089,6 +49089,16 @@
   "product": "Red Hat Enterprise Linux 10; Red Hat Enterprise Linux 7 Extended Lifecycle Support; Red Hat Enterprise Linux 8; Red Hat Enterprise Linux 8.2 Advanced Update Support; Red Hat Enterprise Linux 8.4 Advanced Mission Critical Update Support; Red Hat Enterprise Linux 8.6 Advanced Mission Critical Update Support; Red Hat Enterprise Linux 8.6 Telecommunications Update Service; Red Hat Enterprise Linux 8.6 Update Services for SAP Solutions; Red Hat Enterprise Linux 8.8 Update Services for SAP Solutions; Red Hat Enterprise Linux 9; Red Hat Enterprise Linux 9.0 Update Services for SAP Solutions; Red Hat Enterprise Linux 9.2 Update Services for SAP Solutions; Red Hat Enterprise Linux 9.4 Extended Update Support",
   "vendor": "Red Hat"
  },
+ "CVE-2025-60205": {
+  "checked_at": "2026-10-15T07:55:33.017872+00:00",
+  "cna_product": "ThemeREX Addons",
+  "cna_vendor": "ThemeREX Group",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-17T09:50:10.405Z",
+  "product": "ThemeREX Addons",
+  "vendor": "ThemeREX Group"
+ },
  "CVE-2025-6068": {
   "checked_at": "2026-09-08T13:13:54.993396+00:00",
   "cna_product": "Gallery by FooGallery",
@@ -52690,7 +52700,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-14T23:36:17.479991+00:00",
+  "checked_at": "2026-10-15T07:55:33.017872+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
