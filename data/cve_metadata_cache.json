@@ -52120,7 +52120,7 @@
   "vendor": "NetScaler"
  },
  "CVE-2026-30633": {
-  "checked_at": "2026-10-09T00:55:54.350127+00:00",
+  "checked_at": "2026-10-16T02:43:32.798334+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -52770,7 +52770,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-15T18:31:46.174497+00:00",
+  "checked_at": "2026-10-16T02:43:32.798334+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
