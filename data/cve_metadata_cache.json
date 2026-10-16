@@ -7909,6 +7909,16 @@
   "product": "iartist_lite",
   "vendor": "qnap"
  },
+ "CVE-2015-7297": {
+  "checked_at": "2026-10-16T13:41:56.066341+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2015-10-29T20:00:00.000Z",
+  "product": "joomla\\!",
+  "vendor": "joomla"
+ },
  "CVE-2015-7450": {
   "checked_at": "2026-10-15T18:31:46.174497+00:00",
   "cna_product": "n/a",
@@ -52770,7 +52780,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-16T02:43:32.798334+00:00",
+  "checked_at": "2026-10-16T13:41:56.066341+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52859,6 +52869,26 @@
   "product": null,
   "vendor": null
  },
+ "CVE-2026-40477": {
+  "checked_at": "2026-10-16T13:41:56.066341+00:00",
+  "cna_product": "thymeleaf; org.thymeleaf:thymeleaf-spring5; org.thymeleaf:thymeleaf-spring6",
+  "cna_vendor": "thymeleaf",
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-17T21:53:47.271Z",
+  "product": "thymeleaf; org.thymeleaf:thymeleaf-spring5; org.thymeleaf:thymeleaf-spring6",
+  "vendor": "thymeleaf"
+ },
+ "CVE-2026-40478": {
+  "checked_at": "2026-10-16T13:41:56.066341+00:00",
+  "cna_product": "thymeleaf; org.thymeleaf:thymeleaf-spring5; org.thymeleaf:thymeleaf-spring6",
+  "cna_vendor": "thymeleaf",
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-17T21:57:01.560Z",
+  "product": "thymeleaf; org.thymeleaf:thymeleaf-spring5; org.thymeleaf:thymeleaf-spring6",
+  "vendor": "thymeleaf"
+ },
  "CVE-2026-4106": {
   "checked_at": "2026-10-14T00:04:37.640264+00:00",
   "cna_product": "HT Mega Addons for Elementor",
@@ -52908,6 +52938,16 @@
   "date_published": "2026-04-23T00:53:16.391Z",
   "product": "paperclip; @paperclipai/server",
   "vendor": "paperclipai"
+ },
+ "CVE-2026-41901": {
+  "checked_at": "2026-10-16T13:41:56.066341+00:00",
+  "cna_product": "thymeleaf",
+  "cna_vendor": "thymeleaf",
+  "cvss_score": 9,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-12T22:35:50.617Z",
+  "product": "thymeleaf",
+  "vendor": "thymeleaf"
  },
  "CVE-2026-41940": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
