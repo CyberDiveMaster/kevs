@@ -52670,7 +52670,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-17T02:34:28.676123+00:00",
+  "checked_at": "2026-10-17T12:38:46.006013+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52880,7 +52880,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-17T02:34:28.676123+00:00",
+  "checked_at": "2026-10-17T12:38:46.006013+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -55769,6 +55769,16 @@
   "product": "Online Scheduling and Appointment Booking System \u2013 Bookly",
   "vendor": "ladela"
  },
+ "CVE-2026-93485": {
+  "checked_at": "2026-10-17T12:38:46.006013+00:00",
+  "cna_product": "WordPress",
+  "cna_vendor": "Automattic",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-18T06:00:05.645Z",
+  "product": "WordPress",
+  "vendor": "Automattic"
+ },
  "CVE-2026-93616": {
   "checked_at": "2026-09-22T18:13:47.861822+00:00",
   "cna_product": "Quantum Security Management",
@@ -55828,6 +55838,16 @@
   "date_published": "2026-10-16T07:00:38.023Z",
   "product": "The Grid",
   "vendor": "Theme-one"
+ },
+ "CVE-2026-94177": {
+  "checked_at": "2026-10-17T12:38:46.006013+00:00",
+  "cna_product": "GamiPress",
+  "cna_vendor": "Ruben Garcia",
+  "cvss_score": 8.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-30T12:27:07.360Z",
+  "product": "GamiPress",
+  "vendor": "Ruben Garcia"
  },
  "CVE-2026-94503": {
   "checked_at": "2026-10-12T14:09:15.616227+00:00",
