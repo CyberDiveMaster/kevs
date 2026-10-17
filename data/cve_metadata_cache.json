@@ -51779,6 +51779,16 @@
   "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 22H3; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
   "vendor": "Microsoft"
  },
+ "CVE-2026-25243": {
+  "checked_at": "2026-10-17T22:49:30.361340+00:00",
+  "cna_product": "redis",
+  "cna_vendor": "redis",
+  "cvss_score": 7.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-05T16:44:57.306Z",
+  "product": "redis",
+  "vendor": "redis"
+ },
  "CVE-2026-25253": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "OpenClaw",
