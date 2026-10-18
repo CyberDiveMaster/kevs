@@ -49140,7 +49140,7 @@
   "vendor": "totolink"
  },
  "CVE-2025-60698": {
-  "checked_at": "2026-10-11T21:22:19.105411+00:00",
+  "checked_at": "2026-10-18T22:42:54.646593+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.3,
@@ -55908,6 +55908,46 @@
   "date_published": "2026-07-17T15:57:42.879Z",
   "product": "Switchvox SMB Edition",
   "vendor": "Sangoma"
+ },
+ "CVE-2026-96652": {
+  "checked_at": "2026-10-18T22:42:54.646593+00:00",
+  "cna_product": "Media Server",
+  "cna_vendor": "Plex",
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-23T16:06:15.517Z",
+  "product": "Media Server",
+  "vendor": "Plex"
+ },
+ "CVE-2026-96654": {
+  "checked_at": "2026-10-18T22:42:54.646593+00:00",
+  "cna_product": "Media Server",
+  "cna_vendor": "Plex",
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-23T16:06:35.821Z",
+  "product": "Media Server",
+  "vendor": "Plex"
+ },
+ "CVE-2026-96655": {
+  "checked_at": "2026-10-18T22:42:54.646593+00:00",
+  "cna_product": "Media Server",
+  "cna_vendor": "Plex",
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-23T16:06:53.133Z",
+  "product": "Media Server",
+  "vendor": "Plex"
+ },
+ "CVE-2026-96656": {
+  "checked_at": "2026-10-18T22:42:54.646593+00:00",
+  "cna_product": "Media Server",
+  "cna_vendor": "Plex",
+  "cvss_score": 8.6,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-23T16:07:10.048Z",
+  "product": "Media Server",
+  "vendor": "Plex"
  },
  "CVE-2026-96951": {
   "checked_at": "2026-10-13T20:19:16.992191+00:00",
