@@ -52389,6 +52389,16 @@
   "product": "Xstore",
   "vendor": "Unknown"
  },
+ "CVE-2026-33309": {
+  "checked_at": "2026-10-18T07:41:05.320044+00:00",
+  "cna_product": "langflow",
+  "cna_vendor": "langflow-ai",
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-24T12:49:16.276Z",
+  "product": "langflow",
+  "vendor": "langflow-ai"
+ },
  "CVE-2026-33478": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "AVideo",
