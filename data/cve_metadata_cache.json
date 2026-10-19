@@ -50519,6 +50519,16 @@
   "product": "Connect Secure",
   "vendor": "Ivanti"
  },
+ "CVE-2026-112247": {
+  "checked_at": "2026-10-19T20:07:07.623323+00:00",
+  "cna_product": "Five-in-One Safety Production Management Information System",
+  "cna_vendor": "Wuxi Wubang Security Software",
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-19T17:15:15.630Z",
+  "product": "Five-in-One Safety Production Management Information System",
+  "vendor": "Wuxi Wubang Security Software"
+ },
  "CVE-2026-1125": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "DIR-823X",
