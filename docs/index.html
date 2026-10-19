@@ -3,7 +3,17 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>KEV Cross-Catalog Viewer</title>
+
+  <!-- Proves ownership of this URL prefix to Google Search Console, which
+       is how the sitemap gets submitted and indexing requested. Must stay
+       in place: removing it un-verifies the property. -->
+  <meta name="google-site-verification" content="hh3LLVk915X9uakXYwwQI4HN3u9Y3BLXL_o_gDPvIO8" />
+  <!-- Brand name stays first so the tab and any bookmark still read as
+       this tool; the catalog names after the dash are what someone
+       actually types into a search box. og:title/twitter:title below
+       deliberately keep the short form -- a share card wants a name,
+       not a keyword list. -->
+  <title>KEV Cross-Catalog Viewer — CISA, ENISA, CIRCL, Previdian, VulnCheck Compared</title>
   <meta name="description" content="A free, serverless viewer that cross-references CISA, ENISA, CIRCL, Previdian, and VulnCheck Known Exploited Vulnerabilities catalogs -- filter and sort by CVE, CVSS, Active Since, vendor, and product.">
 
   <!-- Filtering/sorting rewrites the URL with a ?s= state param (see
@@ -69,6 +79,54 @@
     <span id="export-status"></span>
   </div>
   <div id="kev-table"></div>
+
+  <!-- The table itself is built by JavaScript, so to a crawler this page
+       would otherwise be a title and one line of subtitle. This section
+       is the only substantial indexable text on it -- and it earns its
+       place for readers too, since none of it is explained anywhere else
+       on the page. -->
+  <section id="about">
+    <h2>Why cross-reference five KEV catalogs?</h2>
+    <p>
+      Not every known exploited vulnerability appears in every catalog. CISA's KEV is the
+      list most organizations track, but ENISA, CIRCL, Previdian, and VulnCheck each publish
+      their own, built from different sources against different inclusion criteria. A CVE can
+      be flagged as exploited in one catalog weeks before it reaches another &mdash; or never
+      reach it at all. This page puts all five side by side, one row per CVE, so those gaps
+      are visible at a glance.
+    </p>
+
+    <h3>The five catalogs</h3>
+    <ul>
+      <li><strong>CISA KEV</strong> &mdash; the US federal catalog, and the one that sets
+        binding remediation deadlines for federal civilian agencies.</li>
+      <li><strong>ENISA EUVD</strong> &mdash; the EU Vulnerability Database's exploited list.
+        This column counts only ENISA's own EU-specific findings, not the entries it mirrors
+        from CISA.</li>
+      <li><strong>CIRCL</strong> &mdash; the Luxembourg CSIRT's catalog, likewise filtered to
+        its own original curation rather than the much larger set it mirrors from others.</li>
+      <li><strong>Previdian</strong> (formerly KEVIntel) &mdash; a threat-intelligence-sourced
+        catalog that frequently lists exploitation earliest.</li>
+      <li><strong>VulnCheck KEV</strong> &mdash; the broadest of the five, with coverage
+        reaching back to 1999 and often listing a CVE well before CISA does.</li>
+    </ul>
+
+    <h3>How to read the table</h3>
+    <p>
+      <strong>First Listed</strong> is the earliest date any included catalog added the CVE,
+      and the bold date marks which catalog got there first. <strong>Days</strong> counts from
+      the CVE's publication to that first listing; a negative value means a catalog flagged
+      exploitation before the CVE record itself was published. Every &#10003; links directly to
+      that catalog's own page for the CVE, so each claim here is one click from its source.
+      CVSS scores come from the official CVE Program record and EPSS from FIRST.org, shown with
+      its percentile and recent trend.
+    </p>
+    <p>
+      Catalog data refreshes every three hours and EPSS once daily. Filter, sort, and column
+      choices are encoded in the address bar, so any view you build can be shared as a link,
+      and Export CSV writes exactly the rows currently showing.
+    </p>
+  </section>
 
   <footer>
     <div id="share-links">
