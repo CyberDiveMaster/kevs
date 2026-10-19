@@ -50369,6 +50369,16 @@
   "product": "FortiMail",
   "vendor": "Fortinet"
  },
+ "CVE-2026-104736": {
+  "checked_at": "2026-10-19T16:06:57.679121+00:00",
+  "cna_product": "LearnPress \u2013 WordPress LMS Plugin for Create and Sell Online Courses",
+  "cna_vendor": "thimpress",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-17T03:43:28.046Z",
+  "product": "LearnPress \u2013 WordPress LMS Plugin for Create and Sell Online Courses",
+  "vendor": "thimpress"
+ },
  "CVE-2026-104935": {
   "checked_at": "2026-10-13T20:19:16.992191+00:00",
   "cna_product": "Connect Secure",
@@ -50488,6 +50498,16 @@
   "date_published": "2026-10-14T02:27:42.315Z",
   "product": "Collabora Online - Built-in CODE Server",
   "vendor": "Collabora"
+ },
+ "CVE-2026-110936": {
+  "checked_at": "2026-10-19T16:06:57.679121+00:00",
+  "cna_product": "Siemens Software Center",
+  "cna_vendor": "Siemens",
+  "cvss_score": 8.4,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-15T14:01:17.797Z",
+  "product": "Siemens Software Center",
+  "vendor": "Siemens"
  },
  "CVE-2026-111357": {
   "checked_at": "2026-10-15T23:30:25.917277+00:00",
@@ -52700,7 +52720,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-19T02:49:48.122070+00:00",
+  "checked_at": "2026-10-19T16:06:57.679121+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52830,7 +52850,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-19T02:49:48.122070+00:00",
+  "checked_at": "2026-10-19T16:06:57.679121+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52910,7 +52930,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-19T02:49:48.122070+00:00",
+  "checked_at": "2026-10-19T16:06:57.679121+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -56008,5 +56028,15 @@
   "date_published": "2026-10-10T04:26:48.734Z",
   "product": "Avada (Fusion) Builder",
   "vendor": "themefusion"
+ },
+ "CVE-2026-99999": {
+  "checked_at": "2026-10-19T16:06:57.679121+00:00",
+  "cna_product": "Linux",
+  "cna_vendor": "Linux",
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-15T12:19:22.784Z",
+  "product": "Linux",
+  "vendor": "Linux"
  }
 }
