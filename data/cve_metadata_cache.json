@@ -50469,6 +50469,16 @@
   "product": "MailOptin \u2013 Popup, Optin Forms & Email Newsletters for Mailchimp, HubSpot, AWeber Etc.",
   "vendor": "properfraction"
  },
+ "CVE-2026-110372": {
+  "checked_at": "2026-10-19T08:23:21.303838+00:00",
+  "cna_product": "OttoKit",
+  "cna_vendor": "Brainstorm Force",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-18T11:00:28.694Z",
+  "product": "OttoKit",
+  "vendor": "Brainstorm Force"
+ },
  "CVE-2026-110447": {
   "checked_at": "2026-10-14T08:18:58.292019+00:00",
   "cna_product": "Collabora Online - Built-in CODE Server",
@@ -54138,6 +54148,16 @@
   "date_published": "2026-06-25T17:29:31.795Z",
   "product": "OMGF Pro",
   "vendor": "Daan.dev"
+ },
+ "CVE-2026-57727": {
+  "checked_at": "2026-10-19T08:23:21.303838+00:00",
+  "cna_product": "Kirki",
+  "cna_vendor": "Themeum",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-13T08:41:24.850Z",
+  "product": "Kirki",
+  "vendor": "Themeum"
  },
  "CVE-2026-57739": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
