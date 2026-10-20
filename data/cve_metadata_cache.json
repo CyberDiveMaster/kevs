@@ -52730,7 +52730,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-19T16:06:57.679121+00:00",
+  "checked_at": "2026-10-20T02:59:55.337977+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52860,7 +52860,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-19T16:06:57.679121+00:00",
+  "checked_at": "2026-10-20T02:59:55.337977+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52940,7 +52940,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-19T16:06:57.679121+00:00",
+  "checked_at": "2026-10-20T02:59:55.337977+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
