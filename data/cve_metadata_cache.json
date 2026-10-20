@@ -55959,6 +55959,16 @@
   "product": "Switchvox SMB Edition",
   "vendor": "Sangoma"
  },
+ "CVE-2026-96331": {
+  "checked_at": "2026-10-20T18:37:59.994226+00:00",
+  "cna_product": "Ajax Search Pro",
+  "cna_vendor": "wpdreams",
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-09T10:00:21.324Z",
+  "product": "Ajax Search Pro",
+  "vendor": "wpdreams"
+ },
  "CVE-2026-96652": {
   "checked_at": "2026-10-18T22:42:54.646593+00:00",
   "cna_product": "Media Server",
@@ -56008,6 +56018,16 @@
   "date_published": "2026-10-13T19:01:26.801Z",
   "product": "Outlook.com; Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 23H2; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows 11 Version 26H2; Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2025; Windows Server 2025 (Server Core installation)",
   "vendor": "Microsoft"
+ },
+ "CVE-2026-97246": {
+  "checked_at": "2026-10-20T18:37:59.994226+00:00",
+  "cna_product": "ShortPixel Image Optimizer",
+  "cna_vendor": "ShortPixel",
+  "cvss_score": 4.9,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-30T12:28:04.695Z",
+  "product": "ShortPixel Image Optimizer",
+  "vendor": "ShortPixel"
  },
  "CVE-2026-97359": {
   "checked_at": "2026-10-03T15:34:18.519426+00:00",
