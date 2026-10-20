@@ -52730,7 +52730,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-20T02:59:55.337977+00:00",
+  "checked_at": "2026-10-20T14:02:17.222398+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52860,7 +52860,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-20T02:59:55.337977+00:00",
+  "checked_at": "2026-10-20T14:02:17.222398+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52940,7 +52940,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-20T02:59:55.337977+00:00",
+  "checked_at": "2026-10-20T14:02:17.222398+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53810,7 +53810,7 @@
   "vendor": "Tenda"
  },
  "CVE-2026-51886": {
-  "checked_at": "2026-10-13T13:21:45.090428+00:00",
+  "checked_at": "2026-10-20T14:02:17.222398+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
