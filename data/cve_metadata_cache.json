@@ -52940,7 +52940,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-21T08:12:19.970397+00:00",
+  "checked_at": "2026-10-21T14:18:22.786721+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53070,7 +53070,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-21T08:12:19.970397+00:00",
+  "checked_at": "2026-10-21T14:18:22.786721+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53150,7 +53150,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-21T08:12:19.970397+00:00",
+  "checked_at": "2026-10-21T14:18:22.786721+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53478,6 +53478,16 @@
   "date_published": "2026-05-08T13:35:44.521Z",
   "product": "PraisonAI",
   "vendor": "MervinPraison"
+ },
+ "CVE-2026-44373": {
+  "checked_at": "2026-10-21T14:18:22.786721+00:00",
+  "cna_product": "nitro; nitropack",
+  "cna_vendor": "nitrojs",
+  "cvss_score": 5.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-13T20:26:28.255Z",
+  "product": "nitro; nitropack",
+  "vendor": "nitrojs"
  },
  "CVE-2026-44742": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
