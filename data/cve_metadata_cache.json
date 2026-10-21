@@ -36710,7 +36710,7 @@
   "vendor": "Unknown"
  },
  "CVE-2023-6009": {
-  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "checked_at": "2026-10-21T02:55:01.427414+00:00",
   "cna_product": "UserPro - Community and User Profile WordPress Plugin",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -36740,7 +36740,7 @@
   "vendor": "h2oai"
  },
  "CVE-2023-6063": {
-  "checked_at": "2026-10-14T00:04:37.640264+00:00",
+  "checked_at": "2026-10-21T02:55:01.427414+00:00",
   "cna_product": "WP Fastest Cache",
   "cna_vendor": "Unknown",
   "cvss_score": null,
