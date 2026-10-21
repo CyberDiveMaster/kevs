@@ -48469,6 +48469,16 @@
   "product": "Kalium",
   "vendor": "Laborator"
  },
+ "CVE-2025-49931": {
+  "checked_at": "2026-10-21T19:05:18.391204+00:00",
+  "cna_product": "JetSearch",
+  "cna_vendor": "Crocoblock",
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-22T14:32:15.259Z",
+  "product": "JetSearch",
+  "vendor": "Crocoblock"
+ },
  "CVE-2025-50031": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "DB Backup",
