@@ -29820,7 +29820,7 @@
   "vendor": "Atlassian"
  },
  "CVE-2022-36883": {
-  "checked_at": "2026-10-14T23:36:17.479991+00:00",
+  "checked_at": "2026-10-21T23:52:24.252026+00:00",
   "cna_product": "Jenkins Git Plugin",
   "cna_vendor": "Jenkins project",
   "cvss_score": null,
@@ -52970,7 +52970,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-21T14:18:22.786721+00:00",
+  "checked_at": "2026-10-21T23:52:24.252026+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53100,7 +53100,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-21T14:18:22.786721+00:00",
+  "checked_at": "2026-10-21T23:52:24.252026+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53180,7 +53180,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-21T14:18:22.786721+00:00",
+  "checked_at": "2026-10-21T23:52:24.252026+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54070,7 +54070,7 @@
   "vendor": "n/a"
  },
  "CVE-2026-51990": {
-  "checked_at": "2026-10-14T23:36:17.479991+00:00",
+  "checked_at": "2026-10-21T23:52:24.252026+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
