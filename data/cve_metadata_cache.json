@@ -14020,7 +14020,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2018-8033": {
-  "checked_at": "2026-10-14T18:49:00.542025+00:00",
+  "checked_at": "2026-10-21T18:50:13.361956+00:00",
   "cna_product": "Apache OFBiz",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -49350,7 +49350,7 @@
   "vendor": "dlink"
  },
  "CVE-2025-60702": {
-  "checked_at": "2026-10-14T18:49:00.542025+00:00",
+  "checked_at": "2026-10-21T18:50:13.361956+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -50688,6 +50688,26 @@
   "date_published": "2026-10-16T04:27:01.480Z",
   "product": "MailOptin \u2013 Popup, Optin Forms & Email Newsletters for Mailchimp, HubSpot, AWeber Etc.",
   "vendor": "properfraction"
+ },
+ "CVE-2026-109618": {
+  "checked_at": "2026-10-21T18:50:13.361956+00:00",
+  "cna_product": "PHP",
+  "cna_vendor": "PHP Group",
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-21T13:48:34.845Z",
+  "product": "PHP",
+  "vendor": "PHP Group"
+ },
+ "CVE-2026-109619": {
+  "checked_at": "2026-10-21T18:50:13.361956+00:00",
+  "cna_product": "PHP",
+  "cna_vendor": "PHP Group",
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-21T13:54:43.866Z",
+  "product": "PHP",
+  "vendor": "PHP Group"
  },
  "CVE-2026-110372": {
   "checked_at": "2026-10-19T08:23:21.303838+00:00",
@@ -54758,6 +54778,16 @@
   "date_published": "2026-07-27T22:44:04.517Z",
   "product": "FormCraft",
   "vendor": "Subtle Web Inc"
+ },
+ "CVE-2026-65600": {
+  "checked_at": "2026-10-21T18:50:13.361956+00:00",
+  "cna_product": "traefik",
+  "cna_vendor": "traefik",
+  "cvss_score": 7.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-07-22T11:21:46.783Z",
+  "product": "traefik",
+  "vendor": "traefik"
  },
  "CVE-2026-65660": {
   "checked_at": "2026-09-24T13:58:16.152189+00:00",
