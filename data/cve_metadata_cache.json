@@ -41389,6 +41389,16 @@
   "product": "fogproject",
   "vendor": "FOGProject"
  },
+ "CVE-2024-39930": {
+  "checked_at": "2026-10-21T08:12:19.970397+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": 9.9,
+  "cvss_version": "3.1",
+  "date_published": "2024-07-04T00:00:00.000Z",
+  "product": "gogs",
+  "vendor": "gogs"
+ },
  "CVE-2024-4040": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "CrushFTP",
@@ -49809,6 +49819,16 @@
   "product": "LottieFiles",
   "vendor": "LottieFiles"
  },
+ "CVE-2025-68045": {
+  "checked_at": "2026-10-21T08:12:19.970397+00:00",
+  "cna_product": "WP Event Solution",
+  "cna_vendor": "Arraytics",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-16T09:00:29.079Z",
+  "product": "WP Event Solution",
+  "vendor": "Arraytics"
+ },
  "CVE-2025-68461": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Webmail",
@@ -52920,7 +52940,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-20T23:35:21.671009+00:00",
+  "checked_at": "2026-10-21T08:12:19.970397+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53050,7 +53070,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-20T23:35:21.671009+00:00",
+  "checked_at": "2026-10-21T08:12:19.970397+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53130,7 +53150,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-20T23:35:21.671009+00:00",
+  "checked_at": "2026-10-21T08:12:19.970397+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -55368,6 +55388,16 @@
   "date_published": "2026-09-12T07:39:15.920Z",
   "product": "Tutor LMS \u2013 eLearning and online course solution",
   "vendor": "themeum"
+ },
+ "CVE-2026-7873": {
+  "checked_at": "2026-10-21T08:12:19.970397+00:00",
+  "cna_product": "Langflow OSS",
+  "cna_vendor": "IBM",
+  "cvss_score": 9.9,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-30T19:13:16.331Z",
+  "product": "Langflow OSS",
+  "vendor": "IBM"
  },
  "CVE-2026-79756": {
   "checked_at": "2026-09-22T13:50:36.656120+00:00",
