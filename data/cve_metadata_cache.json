@@ -49739,6 +49739,16 @@
   "product": "Collaboration",
   "vendor": "Zimbra"
  },
+ "CVE-2025-66533": {
+  "checked_at": "2026-10-22T08:13:31.404746+00:00",
+  "cna_product": "GiveWP",
+  "cna_vendor": "Liquid Web / StellarWP",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-09T15:03:54.194Z",
+  "product": "GiveWP",
+  "vendor": "Liquid Web / StellarWP"
+ },
  "CVE-2025-66644": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "ArrayOS AG",
@@ -52970,7 +52980,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-21T23:52:24.252026+00:00",
+  "checked_at": "2026-10-22T08:13:31.404746+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53100,7 +53110,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-21T23:52:24.252026+00:00",
+  "checked_at": "2026-10-22T08:13:31.404746+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53180,7 +53190,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-21T23:52:24.252026+00:00",
+  "checked_at": "2026-10-22T08:13:31.404746+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
