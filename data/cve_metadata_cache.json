@@ -10889,6 +10889,46 @@
   "product": "Resin",
   "vendor": "Caucho Technology, Inc."
  },
+ "CVE-2017-20287": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "Javo Spot",
+  "cna_vendor": "Javo Themes",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:22.589Z",
+  "product": "Javo Spot",
+  "vendor": "Javo Themes"
+ },
+ "CVE-2017-20288": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "QCubed",
+  "cna_vendor": "QCubed",
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:23.289Z",
+  "product": "QCubed",
+  "vendor": "QCubed"
+ },
+ "CVE-2017-20289": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "Ad Widget",
+  "cna_vendor": "Broadstreet",
+  "cvss_score": 7.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:23.974Z",
+  "product": "Ad Widget",
+  "vendor": "Broadstreet"
+ },
+ "CVE-2017-20290": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "Discourse",
+  "cna_vendor": "Discourse",
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:24.711Z",
+  "product": "Discourse",
+  "vendor": "Discourse"
+ },
  "CVE-2017-2404": {
   "checked_at": "2026-10-15T18:31:46.174497+00:00",
   "cna_product": "n/a",
@@ -13518,6 +13558,26 @@
   "date_published": "2026-04-22T14:57:03.961Z",
   "product": "ThinkPHP",
   "vendor": "Thinkphp"
+ },
+ "CVE-2018-25438": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "Group-Office",
+  "cna_vendor": "Intermesh",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:25.404Z",
+  "product": "Group-Office",
+  "vendor": "Intermesh"
+ },
+ "CVE-2018-25439": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "MetInfo",
+  "cna_vendor": "MetInfo",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:26.044Z",
+  "product": "MetInfo",
+  "vendor": "MetInfo"
  },
  "CVE-2018-2628": {
   "checked_at": "2026-08-27T01:55:19.741285+00:00",
@@ -16478,6 +16538,26 @@
   "date_published": "2026-09-18T18:59:02.474Z",
   "product": "E-cology",
   "vendor": "Weaver Network Co., Ltd."
+ },
+ "CVE-2019-25778": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "SeaCMS",
+  "cna_vendor": "SeaCMS",
+  "cvss_score": 8.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:26.733Z",
+  "product": "SeaCMS",
+  "vendor": "SeaCMS"
+ },
+ "CVE-2019-25779": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "Diarise",
+  "cna_vendor": "WooThemes",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:27.435Z",
+  "product": "Diarise",
+  "vendor": "WooThemes"
  },
  "CVE-2019-2588": {
   "checked_at": "2026-10-15T20:46:33.489449+00:00",
@@ -20288,6 +20368,16 @@
   "date_published": "2026-10-02T18:38:24.013Z",
   "product": "e-Bridge",
   "vendor": "Weaver"
+ },
+ "CVE-2020-37284": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "Sickbeard",
+  "cna_vendor": "midgetspy",
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:28.307Z",
+  "product": "Sickbeard",
+  "vendor": "midgetspy"
  },
  "CVE-2020-3837": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
@@ -26459,6 +26549,56 @@
   "product": "CRM",
   "vendor": "Chanjet Information Technology Co., Ltd."
  },
+ "CVE-2021-48013": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "E-cology",
+  "cna_vendor": "Weaver Network Co., Ltd.",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:29.018Z",
+  "product": "E-cology",
+  "vendor": "Weaver Network Co., Ltd."
+ },
+ "CVE-2021-48014": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "FineReport",
+  "cna_vendor": "FanRuan",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:29.782Z",
+  "product": "FineReport",
+  "vendor": "FanRuan"
+ },
+ "CVE-2021-48015": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "JeeWMS",
+  "cna_vendor": "erzhongxmu",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:30.531Z",
+  "product": "JeeWMS",
+  "vendor": "erzhongxmu"
+ },
+ "CVE-2021-48016": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "DedeCMS",
+  "cna_vendor": "DedeCMS",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:31.176Z",
+  "product": "DedeCMS",
+  "vendor": "DedeCMS"
+ },
+ "CVE-2021-48017": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "BSCW Server",
+  "cna_vendor": "OrbiTeam",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:31.855Z",
+  "product": "BSCW Server",
+  "vendor": "OrbiTeam"
+ },
  "CVE-2022-0028": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
   "cna_product": "Cloud NGFW; PAN-OS; Prisma Access",
@@ -31418,6 +31558,56 @@
   "date_published": "2026-08-11T17:11:18.484Z",
   "product": "E-cology 9.0; E-cology 8.0",
   "vendor": "Weaver Network Co., Ltd."
+ },
+ "CVE-2022-51021": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "NotificationX",
+  "cna_vendor": "WPDeveloper",
+  "cvss_score": 8.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:32.517Z",
+  "product": "NotificationX",
+  "vendor": "WPDeveloper"
+ },
+ "CVE-2022-51022": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "YiShaAdmin",
+  "cna_vendor": "liukuo362573",
+  "cvss_score": 8.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:33.205Z",
+  "product": "YiShaAdmin",
+  "vendor": "liukuo362573"
+ },
+ "CVE-2022-51023": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "PHPOK",
+  "cna_vendor": "PHPOK",
+  "cvss_score": 8.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:33.897Z",
+  "product": "PHPOK",
+  "vendor": "PHPOK"
+ },
+ "CVE-2022-51024": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "Kavita",
+  "cna_vendor": "Kareadita",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:34.599Z",
+  "product": "Kavita",
+  "vendor": "Kareadita"
+ },
+ "CVE-2022-51025": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "WAPPLES",
+  "cna_vendor": "Penta Security Systems",
+  "cvss_score": 7.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:35.298Z",
+  "product": "WAPPLES",
+  "vendor": "Penta Security Systems"
  },
  "CVE-2023-0037": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -36618,6 +36808,16 @@
   "date_published": "2026-10-02T18:36:03.442Z",
   "product": "CVM",
   "vendor": "H3C"
+ },
+ "CVE-2023-54413": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "WPML Multilingual CMS",
+  "cna_vendor": "OnTheGoSystems",
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:35.997Z",
+  "product": "WPML Multilingual CMS",
+  "vendor": "OnTheGoSystems"
  },
  "CVE-2023-5559": {
   "checked_at": "2026-10-15T20:46:33.489449+00:00",
@@ -43258,6 +43458,36 @@
   "date_published": "2026-10-01T14:24:20.803Z",
   "product": "Multiple Multifunction Printers",
   "vendor": "Sharp Corporation; Toshiba Tec Corporation"
+ },
+ "CVE-2024-58393": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "Readymade Unilevel Ecommerce MLM",
+  "cna_vendor": "i-Netsolution",
+  "cvss_score": 8.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:36.699Z",
+  "product": "Readymade Unilevel Ecommerce MLM",
+  "vendor": "i-Netsolution"
+ },
+ "CVE-2024-58394": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "Retool",
+  "cna_vendor": "Retool",
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:37.409Z",
+  "product": "Retool",
+  "vendor": "Retool"
+ },
+ "CVE-2024-58396": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "CPAS Audit Management System",
+  "cna_vendor": "YouDataSum",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:38.109Z",
+  "product": "CPAS Audit Management System",
+  "vendor": "YouDataSum"
  },
  "CVE-2024-5889": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -50039,6 +50269,16 @@
   "product": "Flowise",
   "vendor": "Flowise"
  },
+ "CVE-2025-71434": {
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
+  "cna_product": "E-cology",
+  "cna_vendor": "Weaver Network Co., Ltd.",
+  "cvss_score": 8.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T10:57:38.815Z",
+  "product": "E-cology",
+  "vendor": "Weaver Network Co., Ltd."
+ },
  "CVE-2025-7340": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "HT Contact Form \u2013 Drag & Drop Form Builder for WordPress",
@@ -52980,7 +53220,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-22T08:13:31.404746+00:00",
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53110,7 +53350,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-22T08:13:31.404746+00:00",
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53190,7 +53430,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-22T08:13:31.404746+00:00",
+  "checked_at": "2026-10-22T14:17:52.113063+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
