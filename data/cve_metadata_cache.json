@@ -22889,6 +22889,16 @@
   "product": "PublishPress Capabilities \u2013 User Role Access, Editor Permissions, Admin Menus; PublishPress Capabilities Pro",
   "vendor": "Unknown"
  },
+ "CVE-2021-25036": {
+  "checked_at": "2026-10-23T08:14:04.469391+00:00",
+  "cna_product": "All in One SEO \u2013 Best WordPress SEO Plugin \u2013 Easily Improve SEO Rankings & Increase Traffic",
+  "cna_vendor": "Unknown",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2022-01-17T13:00:34.000Z",
+  "product": "All in One SEO \u2013 Best WordPress SEO Plugin \u2013 Easily Improve SEO Rankings & Increase Traffic",
+  "vendor": "Unknown"
+ },
  "CVE-2021-25037": {
   "checked_at": "2026-10-22T20:59:14.832043+00:00",
   "cna_product": "All in One SEO \u2013 Best WordPress SEO Plugin \u2013 Easily Improve SEO Rankings & Increase Traffic",
@@ -26989,6 +26999,16 @@
   "product": "Pricing Table Plugin",
   "vendor": "Unknown"
  },
+ "CVE-2022-0879": {
+  "checked_at": "2026-10-23T08:14:04.469391+00:00",
+  "cna_product": "Caldera Forms \u2013 More Than Contact Forms",
+  "cna_vendor": "Unknown",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2022-04-18T17:10:39.000Z",
+  "product": "Caldera Forms \u2013 More Than Contact Forms",
+  "vendor": "Unknown"
+ },
  "CVE-2022-0885": {
   "checked_at": "2026-10-22T20:59:14.832043+00:00",
   "cna_product": "Member Hero",
@@ -27948,6 +27968,16 @@
   "date_published": "2022-07-06T13:57:27.000Z",
   "product": "Endpoint Security",
   "vendor": "Elastic"
+ },
+ "CVE-2022-2373": {
+  "checked_at": "2026-10-23T08:14:04.469391+00:00",
+  "cna_product": "Simply Schedule Appointments \u2013 WordPress Booking Plugin",
+  "cna_vendor": "Unknown",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2022-08-29T17:15:35.000Z",
+  "product": "Simply Schedule Appointments \u2013 WordPress Booking Plugin",
+  "vendor": "Unknown"
  },
  "CVE-2022-23748": {
   "checked_at": "2026-10-22T20:59:14.832043+00:00",
@@ -53270,7 +53300,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-22T20:59:14.832043+00:00",
+  "checked_at": "2026-10-23T08:14:04.469391+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53400,7 +53430,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-22T20:59:14.832043+00:00",
+  "checked_at": "2026-10-23T08:14:04.469391+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53480,7 +53510,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-22T20:59:14.832043+00:00",
+  "checked_at": "2026-10-23T08:14:04.469391+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -56378,6 +56408,16 @@
   "date_published": "2026-05-20T18:20:52.863Z",
   "product": "Drupal core",
   "vendor": "Drupal"
+ },
+ "CVE-2026-90898": {
+  "checked_at": "2026-10-23T08:14:04.469391+00:00",
+  "cna_product": "Bifrost",
+  "cna_vendor": "maximhq",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-14T10:18:53.454Z",
+  "product": "Bifrost",
+  "vendor": "maximhq"
  },
  "CVE-2026-91136": {
   "checked_at": "2026-10-12T22:12:30.353616+00:00",
