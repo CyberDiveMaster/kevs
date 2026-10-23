@@ -51189,6 +51189,16 @@
   "product": "WPBot \u2013 AI ChatBot for Live Support, Lead Generation, AI Services",
   "vendor": "quantumcloud"
  },
+ "CVE-2026-13756": {
+  "checked_at": "2026-10-23T02:56:52.202171+00:00",
+  "cna_product": "WP Grid Builder",
+  "cna_vendor": "WP Grid Builder",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-11T01:29:19.566Z",
+  "product": "WP Grid Builder",
+  "vendor": "WP Grid Builder"
+ },
  "CVE-2026-1405": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Slider Future",
@@ -51489,6 +51499,16 @@
   "product": "VeloCloud Orchestrator On-Prem",
   "vendor": "Arista Networks"
  },
+ "CVE-2026-16947": {
+  "checked_at": "2026-10-23T02:56:52.202171+00:00",
+  "cna_product": "Total processing card payments for WooCommerce",
+  "cna_vendor": "Unknown",
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-29T06:00:19.359Z",
+  "product": "Total processing card payments for WooCommerce",
+  "vendor": "Unknown"
+ },
  "CVE-2026-1731": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Remote Support(RS) & Privileged Remote Access(PRA)",
@@ -51617,6 +51637,16 @@
   "cvss_version": "3.1",
   "date_published": "2026-08-21T06:00:16.993Z",
   "product": "Drag and Drop Multiple File Upload for Contact Form 7",
+  "vendor": "Unknown"
+ },
+ "CVE-2026-18789": {
+  "checked_at": "2026-10-23T02:56:52.202171+00:00",
+  "cna_product": "Ezoic",
+  "cna_vendor": "Unknown",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-12T06:00:17.906Z",
+  "product": "Ezoic",
   "vendor": "Unknown"
  },
  "CVE-2026-18884": {
@@ -52700,7 +52730,7 @@
   "vendor": "NetScaler"
  },
  "CVE-2026-30633": {
-  "checked_at": "2026-10-16T02:43:32.798334+00:00",
+  "checked_at": "2026-10-23T02:56:52.202171+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -54228,6 +54258,16 @@
   "date_published": "2026-06-17T09:51:24.031Z",
   "product": "JetEngine",
   "vendor": "Crocoblock"
+ },
+ "CVE-2026-49083": {
+  "checked_at": "2026-10-23T02:56:52.202171+00:00",
+  "cna_product": "LatePoint",
+  "cna_vendor": "LatePoint",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-15T20:19:17.107Z",
+  "product": "LatePoint",
+  "vendor": "LatePoint"
  },
  "CVE-2026-49772": {
   "checked_at": "2026-10-14T00:04:37.640264+00:00",
@@ -56018,6 +56058,16 @@
   "date_published": "2026-09-09T13:00:42.088Z",
   "product": "Quantum Security Gateway; Quantum Security Management",
   "vendor": "checkpoint"
+ },
+ "CVE-2026-85113": {
+  "checked_at": "2026-10-23T02:56:52.202171+00:00",
+  "cna_product": "GiveWP",
+  "cna_vendor": "Unknown",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-21T08:51:51.797Z",
+  "product": "GiveWP",
+  "vendor": "Unknown"
  },
  "CVE-2026-85520": {
   "checked_at": "2026-09-29T17:28:14.944507+00:00",
