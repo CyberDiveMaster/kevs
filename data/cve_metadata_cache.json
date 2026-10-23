@@ -8030,7 +8030,7 @@
   "vendor": "qnap"
  },
  "CVE-2015-7297": {
-  "checked_at": "2026-10-16T13:41:56.066341+00:00",
+  "checked_at": "2026-10-23T14:01:05.022149+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -45349,6 +45349,16 @@
   "product": "User Profile Builder",
   "vendor": "Unknown"
  },
+ "CVE-2025-15364": {
+  "checked_at": "2026-10-23T14:01:05.022149+00:00",
+  "cna_product": "Download Manager",
+  "cna_vendor": "codename065",
+  "cvss_score": 7.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-06T01:50:12.652Z",
+  "product": "Download Manager",
+  "vendor": "codename065"
+ },
  "CVE-2025-15403": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "RegistrationMagic \u2013 Custom Registration Forms, User Registration, Payment, and User Login",
@@ -50399,6 +50409,16 @@
   "product": "AC1206",
   "vendor": "Tenda"
  },
+ "CVE-2025-7634": {
+  "checked_at": "2026-10-23T14:01:05.022149+00:00",
+  "cna_product": "WP Travel Engine \u2013 Tour Booking Plugin \u2013 Tour Operator Software",
+  "cna_vendor": "wptravelengine",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-10-09T05:23:53.117Z",
+  "product": "WP Travel Engine \u2013 Tour Booking Plugin \u2013 Tour Operator Software",
+  "vendor": "wptravelengine"
+ },
  "CVE-2025-7673": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "VMG8825-T50K firmware",
@@ -50928,6 +50948,16 @@
   "date_published": "2026-10-05T20:46:18.854Z",
   "product": "langflow",
   "vendor": "langflow-ai"
+ },
+ "CVE-2026-106173": {
+  "checked_at": "2026-10-23T14:01:05.022149+00:00",
+  "cna_product": "FortiSIEM",
+  "cna_vendor": "Fortinet",
+  "cvss_score": 9.4,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-13T17:37:09.900Z",
+  "product": "FortiSIEM",
+  "vendor": "Fortinet"
  },
  "CVE-2026-106931": {
   "checked_at": "2026-10-15T20:46:33.489449+00:00",
@@ -53829,6 +53859,16 @@
   "product": "Gravity Forms",
   "vendor": "Gravity Forms"
  },
+ "CVE-2026-4406": {
+  "checked_at": "2026-10-23T14:01:05.022149+00:00",
+  "cna_product": "Gravity Forms",
+  "cna_vendor": "Gravity Forms",
+  "cvss_score": 4.7,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-07T23:25:27.669Z",
+  "product": "Gravity Forms",
+  "vendor": "Gravity Forms"
+ },
  "CVE-2026-44338": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "PraisonAI",
@@ -54658,6 +54698,16 @@
   "date_published": "2026-06-26T14:52:30.259Z",
   "product": "MapPress Maps for WordPress",
   "vendor": "chrisvrichardson"
+ },
+ "CVE-2026-56033": {
+  "checked_at": "2026-10-23T14:01:05.022149+00:00",
+  "cna_product": "Dokan Pro",
+  "cna_vendor": "Dokan Multivendor Plugin",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-26T14:52:36.222Z",
+  "product": "Dokan Pro",
+  "vendor": "Dokan Multivendor Plugin"
  },
  "CVE-2026-56155": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -56588,6 +56638,16 @@
   "date_published": "2026-09-22T06:39:41.379Z",
   "product": "Ninja Forms \u2013 Contact Form Builder with Calculators, Quizzes, Signatures & AI Form Builder",
   "vendor": "kstover"
+ },
+ "CVE-2026-94541": {
+  "checked_at": "2026-10-23T14:01:05.022149+00:00",
+  "cna_product": "WPMobile.App \u2013 Android and iOS App Builder",
+  "cna_vendor": "amauric",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-02T09:25:55.662Z",
+  "product": "WPMobile.App \u2013 Android and iOS App Builder",
+  "vendor": "amauric"
  },
  "CVE-2026-95675": {
   "checked_at": "2026-10-05T13:20:22.368013+00:00",
