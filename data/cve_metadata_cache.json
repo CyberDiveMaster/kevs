@@ -10369,6 +10369,16 @@
   "product": "helpdesk_mx",
   "vendor": "mirasvit"
  },
+ "CVE-2017-14537": {
+  "checked_at": "2026-10-23T18:37:50.701855+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2018-02-16T04:00:00.000Z",
+  "product": "trixbox",
+  "vendor": "netfortris"
+ },
  "CVE-2017-14723": {
   "checked_at": "2026-10-22T18:44:22.086291+00:00",
   "cna_product": "n/a",
@@ -17889,6 +17899,16 @@
   "product": "rconfig",
   "vendor": "rconfig"
  },
+ "CVE-2020-10549": {
+  "checked_at": "2026-10-23T18:37:50.701855+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2020-06-04T03:24:25.000Z",
+  "product": "rconfig",
+  "vendor": "rconfig"
+ },
  "CVE-2020-10621": {
   "checked_at": "2026-10-22T20:59:14.832043+00:00",
   "cna_product": "WebAccess/NMS",
@@ -22889,6 +22909,16 @@
   "product": "PublishPress Capabilities \u2013 User Role Access, Editor Permissions, Admin Menus; PublishPress Capabilities Pro",
   "vendor": "Unknown"
  },
+ "CVE-2021-25033": {
+  "checked_at": "2026-10-23T18:37:50.701855+00:00",
+  "cna_product": "WordPress Newsletter Plugin \u2013 Noptin",
+  "cna_vendor": "Unknown",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2022-02-14T09:20:45.000Z",
+  "product": "WordPress Newsletter Plugin \u2013 Noptin",
+  "vendor": "Unknown"
+ },
  "CVE-2021-25036": {
   "checked_at": "2026-10-23T08:14:04.469391+00:00",
   "cna_product": "All in One SEO \u2013 Best WordPress SEO Plugin \u2013 Easily Improve SEO Rankings & Increase Traffic",
@@ -25060,7 +25090,7 @@
   "vendor": "sunhillo"
  },
  "CVE-2021-36580": {
-  "checked_at": "2026-10-16T18:17:19.081744+00:00",
+  "checked_at": "2026-10-23T18:37:50.701855+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -25838,6 +25868,16 @@
   "date_published": "2021-10-05T08:40:12.000Z",
   "product": "Apache HTTP Server",
   "vendor": "Apache Software Foundation"
+ },
+ "CVE-2021-41826": {
+  "checked_at": "2026-10-23T18:37:50.701855+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2021-09-29T23:41:16.000Z",
+  "product": "placeos_authentication",
+  "vendor": "place"
  },
  "CVE-2021-4191": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
@@ -27090,7 +27130,7 @@
   "vendor": "Sophos"
  },
  "CVE-2022-1057": {
-  "checked_at": "2026-10-16T18:17:19.081744+00:00",
+  "checked_at": "2026-10-23T18:37:50.701855+00:00",
   "cna_product": "Pricing Deals for WooCommerce",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -29108,6 +29148,16 @@
   "date_published": "2022-04-19T00:00:00.000Z",
   "product": "consul",
   "vendor": "hashicorp"
+ },
+ "CVE-2022-29272": {
+  "checked_at": "2026-10-23T18:37:50.701855+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2022-06-29T00:58:52.000Z",
+  "product": "nagios_xi",
+  "vendor": "nagios"
  },
  "CVE-2022-29303": {
   "checked_at": "2026-10-22T20:59:14.832043+00:00",
@@ -52659,6 +52709,16 @@
   "product": "Digits",
   "vendor": "UnitedOver, LLC"
  },
+ "CVE-2026-28185": {
+  "checked_at": "2026-10-23T18:37:50.701855+00:00",
+  "cna_product": "Log in with Google",
+  "cna_vendor": "rtCamp",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-13T13:36:37.635Z",
+  "product": "Log in with Google",
+  "vendor": "rtCamp"
+ },
  "CVE-2026-28318": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Serv-U",
@@ -53330,7 +53390,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-23T08:14:04.469391+00:00",
+  "checked_at": "2026-10-23T18:37:50.701855+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53460,7 +53520,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-23T08:14:04.469391+00:00",
+  "checked_at": "2026-10-23T18:37:50.701855+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53540,7 +53600,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-23T08:14:04.469391+00:00",
+  "checked_at": "2026-10-23T18:37:50.701855+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
