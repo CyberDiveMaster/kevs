@@ -22349,6 +22349,16 @@
   "product": "Crafter CMS",
   "vendor": "Crafter Software"
  },
+ "CVE-2021-23337": {
+  "checked_at": "2026-10-24T13:03:18.001080+00:00",
+  "cna_product": "Lodash",
+  "cna_vendor": "n/a",
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2021-02-15T12:15:14.715Z",
+  "product": "Lodash",
+  "vendor": "lodash"
+ },
  "CVE-2021-23394": {
   "checked_at": "2026-10-22T20:59:14.832043+00:00",
   "cna_product": "studio-42/elfinder",
@@ -53390,7 +53400,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-24T02:53:40.141872+00:00",
+  "checked_at": "2026-10-24T13:03:18.001080+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53520,7 +53530,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-24T02:53:40.141872+00:00",
+  "checked_at": "2026-10-24T13:03:18.001080+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53600,7 +53610,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-24T02:53:40.141872+00:00",
+  "checked_at": "2026-10-24T13:03:18.001080+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
