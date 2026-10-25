@@ -49710,7 +49710,7 @@
   "vendor": "totolink"
  },
  "CVE-2025-60698": {
-  "checked_at": "2026-10-18T22:42:54.646593+00:00",
+  "checked_at": "2026-10-25T22:59:08.624079+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.3,
@@ -53430,7 +53430,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-25T13:30:48.090251+00:00",
+  "checked_at": "2026-10-25T22:59:08.624079+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53560,7 +53560,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-25T13:30:48.090251+00:00",
+  "checked_at": "2026-10-25T22:59:08.624079+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53640,7 +53640,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-25T13:30:48.090251+00:00",
+  "checked_at": "2026-10-25T22:59:08.624079+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
