@@ -28189,6 +28189,16 @@
   "product": "Transposh WordPress Translation",
   "vendor": "oferwald"
  },
+ "CVE-2022-24637": {
+  "checked_at": "2026-10-25T13:30:48.090251+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2022-03-18T00:00:00.000Z",
+  "product": "open_web_analytics",
+  "vendor": "openwebanalytics"
+ },
  "CVE-2022-24663": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
   "cna_product": "PHP Everywhere",
@@ -53420,7 +53430,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-25T02:46:31.372544+00:00",
+  "checked_at": "2026-10-25T13:30:48.090251+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53550,7 +53560,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-25T02:46:31.372544+00:00",
+  "checked_at": "2026-10-25T13:30:48.090251+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53630,7 +53640,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-25T02:46:31.372544+00:00",
+  "checked_at": "2026-10-25T13:30:48.090251+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
