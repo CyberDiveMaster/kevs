@@ -54249,6 +54249,16 @@
   "product": "ColdFusion 2025; ColdFusion 2023",
   "vendor": "Adobe"
  },
+ "CVE-2026-48356": {
+  "checked_at": "2026-10-25T17:47:13.961750+00:00",
+  "cna_product": "Adobe Commerce; Adobe Commerce B2B; Magento Open Source; Adobe Commerce Events",
+  "cna_vendor": "Adobe",
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-14T19:44:17.036Z",
+  "product": "Adobe Commerce; Adobe Commerce B2B; Magento Open Source; Adobe Commerce Events",
+  "vendor": "Adobe"
+ },
  "CVE-2026-48558": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "SimpleHelp",
