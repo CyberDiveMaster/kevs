@@ -42519,6 +42519,16 @@
   "product": "UD-LT1; UD-LT1/EX",
   "vendor": "I-O DATA DEVICE, INC."
  },
+ "CVE-2024-47167": {
+  "checked_at": "2026-10-26T15:43:36.525492+00:00",
+  "cna_product": "gradio",
+  "cna_vendor": "gradio-app",
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2024-10-10T21:47:29.389Z",
+  "product": "gradio",
+  "vendor": "gradio-app"
+ },
  "CVE-2024-47176": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "cups-browsed",
@@ -53440,7 +53450,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-26T08:23:31.241782+00:00",
+  "checked_at": "2026-10-26T15:43:36.525492+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53570,7 +53580,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-26T08:23:31.241782+00:00",
+  "checked_at": "2026-10-26T15:43:36.525492+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53650,7 +53660,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-26T08:23:31.241782+00:00",
+  "checked_at": "2026-10-26T15:43:36.525492+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
