@@ -52749,6 +52749,16 @@
   "product": "Digits",
   "vendor": "UnitedOver, LLC"
  },
+ "CVE-2026-28177": {
+  "checked_at": "2026-10-26T08:23:31.241782+00:00",
+  "cna_product": "Popup Maker",
+  "cna_vendor": "Code Atlantic LLC",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-06T14:27:14.561Z",
+  "product": "Popup Maker",
+  "vendor": "Code Atlantic LLC"
+ },
  "CVE-2026-28185": {
   "checked_at": "2026-10-23T18:37:50.701855+00:00",
   "cna_product": "Log in with Google",
@@ -53430,7 +53440,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-25T22:59:08.624079+00:00",
+  "checked_at": "2026-10-26T08:23:31.241782+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53560,7 +53570,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-25T22:59:08.624079+00:00",
+  "checked_at": "2026-10-26T08:23:31.241782+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53640,7 +53650,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-25T22:59:08.624079+00:00",
+  "checked_at": "2026-10-26T08:23:31.241782+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -55428,6 +55438,16 @@
   "date_published": "2026-08-20T12:06:57.691Z",
   "product": "TranslatePress",
   "vendor": "Cozmoslabs"
+ },
+ "CVE-2026-66592": {
+  "checked_at": "2026-10-26T08:23:31.241782+00:00",
+  "cna_product": "rtMedia for WordPress, BuddyPress and bbPress",
+  "cna_vendor": "rtCamp Inc.",
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-20T12:07:00.502Z",
+  "product": "rtMedia for WordPress, BuddyPress and bbPress",
+  "vendor": "rtCamp Inc."
  },
  "CVE-2026-66613": {
   "checked_at": "2026-09-10T17:48:33.413075+00:00",
