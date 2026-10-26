@@ -27279,6 +27279,16 @@
   "product": "RSVPMaker",
   "vendor": "davidfcarr"
  },
+ "CVE-2022-1471": {
+  "checked_at": "2026-10-26T22:11:21.070578+00:00",
+  "cna_product": "SnakeYAML",
+  "cna_vendor": "SnakeYAML",
+  "cvss_score": 8.3,
+  "cvss_version": "3.1",
+  "date_published": "2022-12-01T10:47:07.203Z",
+  "product": "SnakeYAML",
+  "vendor": "SnakeYAML"
+ },
  "CVE-2022-1529": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
   "cna_product": "Firefox ESR; Firefox; Firefox for Android; Thunderbird",
@@ -51219,6 +51229,16 @@
   "product": "Connect Secure",
   "vendor": "Ivanti"
  },
+ "CVE-2026-111497": {
+  "checked_at": "2026-10-26T22:11:21.070578+00:00",
+  "cna_product": "Brotli",
+  "cna_vendor": "Google",
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T13:35:41.975Z",
+  "product": "Brotli",
+  "vendor": "Google"
+ },
  "CVE-2026-112247": {
   "checked_at": "2026-10-19T20:07:07.623323+00:00",
   "cna_product": "Five-in-One Safety Production Management Information System",
@@ -53520,7 +53540,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-26T15:43:36.525492+00:00",
+  "checked_at": "2026-10-26T22:11:21.070578+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53650,7 +53670,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-26T15:43:36.525492+00:00",
+  "checked_at": "2026-10-26T22:11:21.070578+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53730,7 +53750,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-26T15:43:36.525492+00:00",
+  "checked_at": "2026-10-26T22:11:21.070578+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
