@@ -36669,6 +36669,16 @@
   "product": "AI Engine: ChatGPT Chatbot",
   "vendor": "Jordy Meow"
  },
+ "CVE-2023-51411": {
+  "checked_at": "2026-10-26T20:04:37.376598+00:00",
+  "cna_product": "Frontend Admin by DynamiApps",
+  "cna_vendor": "Shabti Kaplan",
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2023-12-29T13:50:21.393Z",
+  "product": "Frontend Admin by DynamiApps",
+  "vendor": "Shabti Kaplan"
+ },
  "CVE-2023-51467": {
   "checked_at": "2026-10-22T20:59:14.832043+00:00",
   "cna_product": "Apache OFBiz",
@@ -40667,6 +40677,16 @@
   "cvss_version": "3.1",
   "date_published": "2024-04-29T07:38:02.678Z",
   "product": "XStore Core",
+  "vendor": "8theme"
+ },
+ "CVE-2024-33563": {
+  "checked_at": "2026-10-26T20:04:37.376598+00:00",
+  "cna_product": "XStore",
+  "cna_vendor": "8theme",
+  "cvss_score": 7.6,
+  "cvss_version": "3.1",
+  "date_published": "2024-06-09T12:04:01.820Z",
+  "product": "XStore",
   "vendor": "8theme"
  },
  "CVE-2024-33571": {
@@ -44929,6 +44949,16 @@
   "product": "WP Migrate Lite \u2013 Migration Made Easy",
   "vendor": "wpengine"
  },
+ "CVE-2025-11452": {
+  "checked_at": "2026-10-26T20:04:37.376598+00:00",
+  "cna_product": "Asgaros Forum",
+  "cna_vendor": "asgaros",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-11-08T02:28:01.507Z",
+  "product": "Asgaros Forum",
+  "vendor": "asgaros"
+ },
  "CVE-2025-11533": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "WP Freeio",
@@ -45048,6 +45078,16 @@
   "date_published": "2025-11-05T04:36:58.788Z",
   "product": "The Events Calendar",
   "vendor": "stellarwp"
+ },
+ "CVE-2025-1232": {
+  "checked_at": "2026-10-26T20:04:37.376598+00:00",
+  "cna_product": "Site Reviews",
+  "cna_vendor": "Unknown",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-03-19T06:00:02.199Z",
+  "product": "Site Reviews",
+  "vendor": "Unknown"
  },
  "CVE-2025-12352": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -50959,6 +50999,16 @@
   "product": "Remote Support",
   "vendor": "BeyondTrust"
  },
+ "CVE-2026-103366": {
+  "checked_at": "2026-10-26T20:04:37.376598+00:00",
+  "cna_product": "Appointment Booking Plugin \u2013 LatePoint | Calendar & Scheduling for WordPress",
+  "cna_vendor": "latepoint",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-14T07:43:31.890Z",
+  "product": "Appointment Booking Plugin \u2013 LatePoint | Calendar & Scheduling for WordPress",
+  "vendor": "latepoint"
+ },
  "CVE-2026-103671": {
   "checked_at": "2026-10-14T23:36:17.479991+00:00",
   "cna_product": "AmazonPay V2 Plugin (4.0/4.1 series); AmazonPay V2 Plugin (4.2/4.3 series, Bundle Edition); AmazonPay V2 Plugin (4.2/4.3 series); AmazonPay Plugin (4.0 series)",
@@ -51198,6 +51248,16 @@
   "date_published": "2026-10-22T20:47:56.427Z",
   "product": "VeloCloud Orchestrator",
   "vendor": "Arista Networks"
+ },
+ "CVE-2026-11565": {
+  "checked_at": "2026-10-26T20:04:37.376598+00:00",
+  "cna_product": "Advanced File Manager",
+  "cna_vendor": "Unknown",
+  "cvss_score": 8.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-19T06:00:13.843Z",
+  "product": "Advanced File Manager",
+  "vendor": "Unknown"
  },
  "CVE-2026-11613": {
   "checked_at": "2026-09-10T13:16:41.576814+00:00",
@@ -51608,6 +51668,16 @@
   "date_published": "2026-08-07T06:00:14.183Z",
   "product": "WP Maps",
   "vendor": "Unknown"
+ },
+ "CVE-2026-16482": {
+  "checked_at": "2026-10-26T20:04:37.376598+00:00",
+  "cna_product": "rtMedia for WordPress, BuddyPress and bbPress",
+  "cna_vendor": "rtcamp",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-12T07:39:13.454Z",
+  "product": "rtMedia for WordPress, BuddyPress and bbPress",
+  "vendor": "rtcamp"
  },
  "CVE-2026-1666": {
   "checked_at": "2026-10-14T00:04:37.640264+00:00",
@@ -56019,6 +56089,16 @@
   "product": "dotCMS Core",
   "vendor": "dotCMS"
  },
+ "CVE-2026-81543": {
+  "checked_at": "2026-10-26T20:04:37.376598+00:00",
+  "cna_product": "Abandoned Cart Pro for WooCommerce",
+  "cna_vendor": "Tyche Softwares",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-05T07:38:15.360Z",
+  "product": "Abandoned Cart Pro for WooCommerce",
+  "vendor": "Tyche Softwares"
+ },
  "CVE-2026-81578": {
   "checked_at": "2026-08-28T14:48:23.177166+00:00",
   "cna_product": "PaperCut MF/NG",
@@ -56068,6 +56148,16 @@
   "date_published": "2026-08-28T11:45:25.388Z",
   "product": "PaperCut MF/NG",
   "vendor": "PaperCut"
+ },
+ "CVE-2026-82187": {
+  "checked_at": "2026-10-26T20:04:37.376598+00:00",
+  "cna_product": "Web to Print Online Designer",
+  "cna_vendor": "Unknown",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-21T06:00:14.012Z",
+  "product": "Web to Print Online Designer",
+  "vendor": "Unknown"
  },
  "CVE-2026-82222": {
   "checked_at": "2026-08-31T18:37:03.530021+00:00",
@@ -56669,6 +56759,16 @@
   "product": "WP User Manager \u2013 User Profile Builder & Membership",
   "vendor": "wpusermanager"
  },
+ "CVE-2026-92975": {
+  "checked_at": "2026-10-26T20:04:37.376598+00:00",
+  "cna_product": "Groundhogg \u2014 CRM, Newsletters, and Marketing Automation",
+  "cna_vendor": "trainingbusinesspros",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-10T05:31:03.178Z",
+  "product": "Groundhogg \u2014 CRM, Newsletters, and Marketing Automation",
+  "vendor": "trainingbusinesspros"
+ },
  "CVE-2026-93399": {
   "checked_at": "2026-09-28T20:41:33.331509+00:00",
   "cna_product": "Online Scheduling and Appointment Booking System \u2013 Bookly",
@@ -56758,6 +56858,16 @@
   "date_published": "2026-09-30T12:27:07.360Z",
   "product": "GamiPress",
   "vendor": "Ruben Garcia"
+ },
+ "CVE-2026-94238": {
+  "checked_at": "2026-10-26T20:04:37.376598+00:00",
+  "cna_product": "Loco Translate",
+  "cna_vendor": "Unknown",
+  "cvss_score": 6.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-03T06:00:27.699Z",
+  "product": "Loco Translate",
+  "vendor": "Unknown"
  },
  "CVE-2026-94503": {
   "checked_at": "2026-10-12T14:09:15.616227+00:00",
