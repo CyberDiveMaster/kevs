@@ -26719,6 +26719,16 @@
   "product": "kernel",
   "vendor": "linux"
  },
+ "CVE-2022-0208": {
+  "checked_at": "2026-10-27T17:14:09.478457+00:00",
+  "cna_product": "MapPress Maps for WordPress",
+  "cna_vendor": "Unknown",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2022-02-14T09:21:07.000Z",
+  "product": "MapPress Maps for WordPress",
+  "vendor": "Unknown"
+ },
  "CVE-2022-0218": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
   "cna_product": "WP HTML Mail",
@@ -50979,6 +50989,16 @@
   "product": "Mediawiki - ExternalData Extension",
   "vendor": "Wikimedia Foundation"
  },
+ "CVE-2026-101767": {
+  "checked_at": "2026-10-27T17:14:09.478457+00:00",
+  "cna_product": "Oracle Application Object Library",
+  "cna_vendor": "Oracle Corporation",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-20T21:22:48.577Z",
+  "product": "Oracle Application Object Library",
+  "vendor": "Oracle Corporation"
+ },
  "CVE-2026-102255": {
   "checked_at": "2026-10-09T09:54:25.716831+00:00",
   "cna_product": "SMA1000",
@@ -51259,6 +51279,16 @@
   "product": "Five-in-One Safety Production Management Information System",
   "vendor": "Wuxi Wubang Security Software"
  },
+ "CVE-2026-112353": {
+  "checked_at": "2026-10-27T17:14:09.478457+00:00",
+  "cna_product": "GFI KerioConnect",
+  "cna_vendor": "GFI USA, LLC",
+  "cvss_score": 6.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-27T16:10:08.568Z",
+  "product": "GFI KerioConnect",
+  "vendor": "GFI USA, LLC"
+ },
  "CVE-2026-1125": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "DIR-823X",
@@ -51268,6 +51298,16 @@
   "date_published": "2026-01-18T16:02:08.755Z",
   "product": "DIR-823X",
   "vendor": "D-Link"
+ },
+ "CVE-2026-114509": {
+  "checked_at": "2026-10-27T17:14:09.478457+00:00",
+  "cna_product": "framework",
+  "cna_vendor": "laravel",
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-21T21:49:29.486Z",
+  "product": "framework",
+  "vendor": "laravel"
  },
  "CVE-2026-114625": {
   "checked_at": "2026-10-22T20:59:14.832043+00:00",
@@ -51308,6 +51348,16 @@
   "date_published": "2026-06-08T23:27:31.298Z",
   "product": "Chrome",
   "vendor": "Google"
+ },
+ "CVE-2026-117601": {
+  "checked_at": "2026-10-27T17:14:09.478457+00:00",
+  "cna_product": "electrum",
+  "cna_vendor": "spesmilo",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-27T13:09:51.347Z",
+  "product": "electrum",
+  "vendor": "spesmilo"
  },
  "CVE-2026-11907": {
   "checked_at": "2026-09-10T17:48:33.413075+00:00",
@@ -52868,6 +52918,16 @@
   "date_published": "2026-08-24T11:54:47.057Z",
   "product": "Digits",
   "vendor": "UnitedOver, LLC"
+ },
+ "CVE-2026-28167": {
+  "checked_at": "2026-10-27T17:14:09.478457+00:00",
+  "cna_product": "Super Forms",
+  "cna_vendor": "WebRehab",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-24T11:54:48.479Z",
+  "product": "Super Forms",
+  "vendor": "WebRehab"
  },
  "CVE-2026-28177": {
   "checked_at": "2026-10-26T08:23:31.241782+00:00",
@@ -54680,7 +54740,7 @@
   "vendor": "Tenda"
  },
  "CVE-2026-51886": {
-  "checked_at": "2026-10-20T14:02:17.222398+00:00",
+  "checked_at": "2026-10-27T17:14:09.478457+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -55859,6 +55919,16 @@
   "product": "Spectra Gutenberg Blocks \u2013 Website Builder for the Block Editor",
   "vendor": "brainstormforce"
  },
+ "CVE-2026-7467": {
+  "checked_at": "2026-10-27T17:14:09.478457+00:00",
+  "cna_product": "Read More & Accordion",
+  "cna_vendor": "edmonparker",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-05-20T01:25:52.311Z",
+  "product": "Read More & Accordion",
+  "vendor": "edmonparker"
+ },
  "CVE-2026-7473": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "EOS",
@@ -56938,6 +57008,16 @@
   "date_published": "2026-10-02T09:25:55.662Z",
   "product": "WPMobile.App \u2013 Android and iOS App Builder",
   "vendor": "amauric"
+ },
+ "CVE-2026-95610": {
+  "checked_at": "2026-10-27T17:14:09.478457+00:00",
+  "cna_product": "UpSolution Core",
+  "cna_vendor": "UpSolution",
+  "cvss_score": 8.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-09T10:00:17.308Z",
+  "product": "UpSolution Core",
+  "vendor": "UpSolution"
  },
  "CVE-2026-95675": {
   "checked_at": "2026-10-05T13:20:22.368013+00:00",
