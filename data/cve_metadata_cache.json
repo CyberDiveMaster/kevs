@@ -46439,6 +46439,16 @@
   "product": "Fresh Framework",
   "vendor": "FRESHFACE"
  },
+ "CVE-2025-26986": {
+  "checked_at": "2026-10-27T03:18:48.213012+00:00",
+  "cna_product": "Pearl - Corporate Business",
+  "cna_vendor": "StylemixThemes",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2025-03-26T14:37:34.658Z",
+  "product": "Pearl - Corporate Business",
+  "vendor": "StylemixThemes"
+ },
  "CVE-2025-27007": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "OttoKit",
