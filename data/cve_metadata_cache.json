@@ -41529,6 +41529,16 @@
   "product": "Apache HTTP Server",
   "vendor": "Apache Software Foundation"
  },
+ "CVE-2024-3848": {
+  "checked_at": "2026-10-27T21:42:20.353120+00:00",
+  "cna_product": "mlflow/mlflow",
+  "cna_vendor": "mlflow",
+  "cvss_score": 7.5,
+  "cvss_version": "3.0",
+  "date_published": "2024-05-16T09:03:47.178Z",
+  "product": "mlflow/mlflow",
+  "vendor": "mlflow"
+ },
  "CVE-2024-38514": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "ChatGPT-Next-Web",
@@ -45158,6 +45168,16 @@
   "date_published": "2026-02-19T03:25:17.846Z",
   "product": "Tablesome Table \u2013 Contact Form DB \u2013 WPForms, CF7, Gravity, Forminator, Fluent",
   "vendor": "essekia"
+ },
+ "CVE-2025-12937": {
+  "checked_at": "2026-10-27T21:42:20.353120+00:00",
+  "cna_product": "ACF Flexible Layouts Manager",
+  "cna_vendor": "valentinpellegrin",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-11-18T08:27:34.186Z",
+  "product": "ACF Flexible Layouts Manager",
+  "vendor": "valentinpellegrin"
  },
  "CVE-2025-12974": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -51039,6 +51059,16 @@
   "product": "Remote Support",
   "vendor": "BeyondTrust"
  },
+ "CVE-2026-102785": {
+  "checked_at": "2026-10-27T21:42:20.353120+00:00",
+  "cna_product": "YOOtheme Pro extension for Joomla",
+  "cna_vendor": "yootheme.com",
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-22T12:36:43.196Z",
+  "product": "YOOtheme Pro extension for Joomla",
+  "vendor": "yootheme.com"
+ },
  "CVE-2026-103366": {
   "checked_at": "2026-10-26T20:04:37.376598+00:00",
   "cna_product": "Appointment Booking Plugin \u2013 LatePoint | Calendar & Scheduling for WordPress",
@@ -54938,6 +54968,16 @@
   "date_published": "2026-08-26T15:28:19.919Z",
   "product": "senaite.core",
   "vendor": "senaite"
+ },
+ "CVE-2026-54675": {
+  "checked_at": "2026-10-27T21:42:20.353120+00:00",
+  "cna_product": "security-reporting",
+  "cna_vendor": "FreePBX",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-28T17:40:21.519Z",
+  "product": "security-reporting",
+  "vendor": "FreePBX"
  },
  "CVE-2026-55040": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
