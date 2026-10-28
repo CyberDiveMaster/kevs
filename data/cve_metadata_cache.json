@@ -45459,6 +45459,16 @@
   "product": "CentreStack and TrioFox",
   "vendor": "Gladinet"
  },
+ "CVE-2025-14657": {
+  "checked_at": "2026-10-28T22:09:06.488215+00:00",
+  "cna_product": "Eventin \u2013 Event Calendar, Event Registration, Tickets & Booking (AI Powered)",
+  "cna_vendor": "arraytics",
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-09T07:22:12.728Z",
+  "product": "Eventin \u2013 Event Calendar, Event Registration, Tickets & Booking (AI Powered)",
+  "vendor": "arraytics"
+ },
  "CVE-2025-14733": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Fireware OS",
@@ -51119,6 +51129,16 @@
   "product": "AmazonPay V2 Plugin (4.0/4.1 series); AmazonPay V2 Plugin (4.2/4.3 series, Bundle Edition); AmazonPay V2 Plugin (4.2/4.3 series); AmazonPay Plugin (4.0 series)",
   "vendor": "EC-CUBE CO.,LTD."
  },
+ "CVE-2026-103688": {
+  "checked_at": "2026-10-28T22:09:06.488215+00:00",
+  "cna_product": "Checkout Files Upload for WooCommerce",
+  "cna_vendor": "Unknown",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-28T06:00:20.809Z",
+  "product": "Checkout Files Upload for WooCommerce",
+  "vendor": "Unknown"
+ },
  "CVE-2026-103895": {
   "checked_at": "2026-10-16T23:12:41.267646+00:00",
   "cna_product": "miniOrange OTP Login, Verification and SMS Notifications",
@@ -51188,6 +51208,16 @@
   "date_published": "2026-06-09T14:10:21.581Z",
   "product": "Sentry",
   "vendor": "ivanti"
+ },
+ "CVE-2026-10526": {
+  "checked_at": "2026-10-28T22:09:06.488215+00:00",
+  "cna_product": "EmbedPress",
+  "cna_vendor": "Unknown",
+  "cvss_score": 5.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-04T06:00:09.155Z",
+  "product": "EmbedPress",
+  "vendor": "Unknown"
  },
  "CVE-2026-105740": {
   "checked_at": "2026-10-11T19:07:18.816779+00:00",
@@ -52928,6 +52958,16 @@
   "date_published": "2026-02-18T21:10:36.987Z",
   "product": "MajorDoMo",
   "vendor": "sergejey"
+ },
+ "CVE-2026-27413": {
+  "checked_at": "2026-10-28T22:09:06.488215+00:00",
+  "cna_product": "Profile Builder Pro",
+  "cna_vendor": "Cozmoslabs",
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-19T05:28:13.373Z",
+  "product": "Profile Builder Pro",
+  "vendor": "Cozmoslabs"
  },
  "CVE-2026-27540": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -55968,6 +56008,16 @@
   "date_published": "2026-08-10T17:55:54.841Z",
   "product": "Metabase",
   "vendor": "Metabase"
+ },
+ "CVE-2026-73181": {
+  "checked_at": "2026-10-28T22:09:06.488215+00:00",
+  "cna_product": "Extra Product Options & Add-Ons for WooCommerce",
+  "cna_vendor": "ThemeComplete",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-18T14:00:00.719Z",
+  "product": "Extra Product Options & Add-Ons for WooCommerce",
+  "vendor": "ThemeComplete"
  },
  "CVE-2026-73343": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
