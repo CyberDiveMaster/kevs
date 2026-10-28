@@ -18509,6 +18509,16 @@
   "product": "Apache Unomi",
   "vendor": "Apache Software Foundation"
  },
+ "CVE-2020-13945": {
+  "checked_at": "2026-10-28T17:57:02.085344+00:00",
+  "cna_product": "Apache APISIX",
+  "cna_vendor": "Apache Software Foundation",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2020-12-07T19:04:52.000Z",
+  "product": "Apache APISIX",
+  "vendor": "Apache Software Foundation"
+ },
  "CVE-2020-13965": {
   "checked_at": "2026-10-22T20:59:14.832043+00:00",
   "cna_product": "n/a",
@@ -45519,6 +45529,16 @@
   "product": "User Profile Builder",
   "vendor": "Unknown"
  },
+ "CVE-2025-1514": {
+  "checked_at": "2026-10-28T17:57:02.085344+00:00",
+  "cna_product": "Active Products Tables for WooCommerce. Use constructor to create tables",
+  "cna_vendor": "realmag777",
+  "cvss_score": 7.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-03-26T08:21:51.303Z",
+  "product": "Active Products Tables for WooCommerce. Use constructor to create tables",
+  "vendor": "realmag777"
+ },
  "CVE-2025-15364": {
   "checked_at": "2026-10-23T14:01:05.022149+00:00",
   "cna_product": "Download Manager",
@@ -49389,6 +49409,16 @@
   "product": "Trend Micro Apex One",
   "vendor": "Trend Micro, Inc."
  },
+ "CVE-2025-54988": {
+  "checked_at": "2026-10-28T17:57:02.085344+00:00",
+  "cna_product": "Apache Tika PDF parser module",
+  "cna_vendor": "Apache Software Foundation",
+  "cvss_score": 8.4,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-20T20:08:49.481Z",
+  "product": "Apache Tika PDF parser module",
+  "vendor": "Apache Software Foundation"
+ },
  "CVE-2025-5504": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "X2000R",
@@ -51329,6 +51359,26 @@
   "product": "GFI KerioConnect",
   "vendor": "GFI USA, LLC"
  },
+ "CVE-2026-112356": {
+  "checked_at": "2026-10-28T17:57:02.085344+00:00",
+  "cna_product": "GFI KerioConnect",
+  "cna_vendor": "GFI USA, LLC",
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-28T15:26:52.847Z",
+  "product": "GFI KerioConnect",
+  "vendor": "GFI USA, LLC"
+ },
+ "CVE-2026-112357": {
+  "checked_at": "2026-10-28T17:57:02.085344+00:00",
+  "cna_product": "GFI KerioConnect",
+  "cna_vendor": "GFI USA, LLC",
+  "cvss_score": 8.5,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-28T15:32:47.972Z",
+  "product": "GFI KerioConnect",
+  "vendor": "GFI USA, LLC"
+ },
  "CVE-2026-1125": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "DIR-823X",
@@ -51408,6 +51458,16 @@
   "date_published": "2026-10-27T13:09:51.347Z",
   "product": "electrum",
   "vendor": "spesmilo"
+ },
+ "CVE-2026-118539": {
+  "checked_at": "2026-10-28T17:57:02.085344+00:00",
+  "cna_product": null,
+  "cna_vendor": null,
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": null,
+  "product": null,
+  "vendor": null
  },
  "CVE-2026-11907": {
   "checked_at": "2026-09-10T17:48:33.413075+00:00",
@@ -53969,6 +54029,16 @@
   "product": "paperclip; @paperclipai/server",
   "vendor": "paperclipai"
  },
+ "CVE-2026-41709": {
+  "checked_at": "2026-10-28T17:57:02.085344+00:00",
+  "cna_product": "Cloud Foundation; vSphere Foundation; ESX; Telco Cloud Platform",
+  "cna_vendor": "VMware",
+  "cvss_score": 2.7,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-30T12:45:02.292Z",
+  "product": "Cloud Foundation; vSphere Foundation; ESX; Telco Cloud Platform",
+  "vendor": "VMware"
+ },
  "CVE-2026-41901": {
   "checked_at": "2026-10-16T13:41:56.066341+00:00",
   "cna_product": "thymeleaf",
@@ -56508,6 +56578,16 @@
   "date_published": "2026-05-13T18:02:54.459Z",
   "product": "SOGo",
   "vendor": "Alinto SOGo"
+ },
+ "CVE-2026-84999": {
+  "checked_at": "2026-10-28T17:57:02.085344+00:00",
+  "cna_product": "Pie Register Premium",
+  "cna_vendor": "Pie Register",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-28T02:29:57.638Z",
+  "product": "Pie Register Premium",
+  "vendor": "Pie Register"
  },
  "CVE-2026-85046": {
   "checked_at": "2026-09-04T13:05:13.830993+00:00",
