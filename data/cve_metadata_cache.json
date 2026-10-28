@@ -41740,7 +41740,7 @@
   "vendor": "FOGProject"
  },
  "CVE-2024-39930": {
-  "checked_at": "2026-10-21T08:12:19.970397+00:00",
+  "checked_at": "2026-10-28T11:58:01.726717+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.9,
@@ -51219,6 +51219,16 @@
   "product": "WPForms Pro",
   "vendor": "WPForms"
  },
+ "CVE-2026-109432": {
+  "checked_at": "2026-10-28T11:58:01.726717+00:00",
+  "cna_product": "Camunda 7",
+  "cna_vendor": "Camunda",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-19T15:08:29.023Z",
+  "product": "Camunda 7",
+  "vendor": "Camunda"
+ },
  "CVE-2026-109515": {
   "checked_at": "2026-10-16T23:12:41.267646+00:00",
   "cna_product": "MailOptin \u2013 Popup, Optin Forms & Email Newsletters for Mailchimp, HubSpot, AWeber Etc.",
@@ -51378,6 +51388,16 @@
   "date_published": "2026-06-08T23:27:31.298Z",
   "product": "Chrome",
   "vendor": "Google"
+ },
+ "CVE-2026-116690": {
+  "checked_at": "2026-10-28T11:58:01.726717+00:00",
+  "cna_product": "mlflow",
+  "cna_vendor": "mlflow",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-27T19:42:35.798Z",
+  "product": "mlflow",
+  "vendor": "mlflow"
  },
  "CVE-2026-117601": {
   "checked_at": "2026-10-27T17:14:09.478457+00:00",
@@ -53650,7 +53670,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-28T03:34:15.750491+00:00",
+  "checked_at": "2026-10-28T11:58:01.726717+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53780,7 +53800,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-28T03:34:15.750491+00:00",
+  "checked_at": "2026-10-28T11:58:01.726717+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53870,7 +53890,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-28T03:34:15.750491+00:00",
+  "checked_at": "2026-10-28T11:58:01.726717+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -56628,6 +56648,16 @@
   "date_published": "2026-09-06T02:15:28.824Z",
   "product": "N-central",
   "vendor": "N-able"
+ },
+ "CVE-2026-86426": {
+  "checked_at": "2026-10-28T11:58:01.726717+00:00",
+  "cna_product": "librenms",
+  "cna_vendor": "librenms",
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-07T12:53:47.884Z",
+  "product": "librenms",
+  "vendor": "librenms"
  },
  "CVE-2026-86444": {
   "checked_at": "2026-10-14T00:04:37.640264+00:00",
