@@ -14090,7 +14090,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2018-8033": {
-  "checked_at": "2026-10-21T18:50:13.361956+00:00",
+  "checked_at": "2026-10-28T19:47:09.565643+00:00",
   "cna_product": "Apache OFBiz",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -49850,7 +49850,7 @@
   "vendor": "dlink"
  },
  "CVE-2025-60702": {
-  "checked_at": "2026-10-21T18:50:13.361956+00:00",
+  "checked_at": "2026-10-28T19:47:09.565643+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -53730,7 +53730,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-28T11:58:01.726717+00:00",
+  "checked_at": "2026-10-28T19:47:09.565643+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53860,7 +53860,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-28T11:58:01.726717+00:00",
+  "checked_at": "2026-10-28T19:47:09.565643+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53950,7 +53950,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-28T11:58:01.726717+00:00",
+  "checked_at": "2026-10-28T19:47:09.565643+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -56148,6 +56148,16 @@
   "date_published": "2026-08-19T06:37:55.093Z",
   "product": "TranslatePress \u2013 Translate Multilingual sites with AI Translation",
   "vendor": "cozmoslabs"
+ },
+ "CVE-2026-76418": {
+  "checked_at": "2026-10-28T19:47:09.565643+00:00",
+  "cna_product": null,
+  "cna_vendor": null,
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": null,
+  "product": null,
+  "vendor": null
  },
  "CVE-2026-76460": {
   "checked_at": "2026-09-17T02:55:57.888792+00:00",
