@@ -30090,7 +30090,7 @@
   "vendor": "Atlassian"
  },
  "CVE-2022-36883": {
-  "checked_at": "2026-10-21T23:52:24.252026+00:00",
+  "checked_at": "2026-10-29T03:55:26.960102+00:00",
   "cna_product": "Jenkins Git Plugin",
   "cna_vendor": "Jenkins project",
   "cvss_score": null,
@@ -35798,6 +35798,16 @@
   "date_published": "2023-08-09T03:36:13.639Z",
   "product": "FULL \u2013 Cliente",
   "vendor": "fullservices"
+ },
+ "CVE-2023-42442": {
+  "checked_at": "2026-10-29T03:55:26.960102+00:00",
+  "cna_product": "jumpserver",
+  "cna_vendor": "jumpserver",
+  "cvss_score": 8.2,
+  "cvss_version": "3.1",
+  "date_published": "2023-09-15T20:29:12.166Z",
+  "product": "jumpserver",
+  "vendor": "jumpserver"
  },
  "CVE-2023-42657": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -51490,7 +51500,7 @@
   "vendor": "spesmilo"
  },
  "CVE-2026-118539": {
-  "checked_at": "2026-10-28T17:57:02.085344+00:00",
+  "checked_at": "2026-10-29T03:55:26.960102+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53770,7 +53780,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-28T19:47:09.565643+00:00",
+  "checked_at": "2026-10-29T03:55:26.960102+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53900,7 +53910,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-28T19:47:09.565643+00:00",
+  "checked_at": "2026-10-29T03:55:26.960102+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53990,7 +54000,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-28T19:47:09.565643+00:00",
+  "checked_at": "2026-10-29T03:55:26.960102+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54920,7 +54930,7 @@
   "vendor": "n/a"
  },
  "CVE-2026-51990": {
-  "checked_at": "2026-10-21T23:52:24.252026+00:00",
+  "checked_at": "2026-10-29T03:55:26.960102+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -56200,14 +56210,14 @@
   "vendor": "cozmoslabs"
  },
  "CVE-2026-76418": {
-  "checked_at": "2026-10-28T19:47:09.565643+00:00",
-  "cna_product": null,
-  "cna_vendor": null,
-  "cvss_score": null,
-  "cvss_version": null,
-  "date_published": null,
-  "product": null,
-  "vendor": null
+  "checked_at": "2026-10-29T03:55:26.960102+00:00",
+  "cna_product": "Cisco Secure Firewall Adaptive Security Appliance (ASA) Software; Cisco Secure Firewall Threat Defense (FTD) Software",
+  "cna_vendor": "Cisco",
+  "cvss_score": 8.6,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-28T20:05:31.926Z",
+  "product": "Cisco Secure Firewall Adaptive Security Appliance (ASA) Software; Cisco Secure Firewall Threat Defense (FTD) Software",
+  "vendor": "Cisco"
  },
  "CVE-2026-76460": {
   "checked_at": "2026-09-17T02:55:57.888792+00:00",
