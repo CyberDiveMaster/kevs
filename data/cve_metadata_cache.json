@@ -23809,6 +23809,16 @@
   "product": "Requests",
   "vendor": "WordPress"
  },
+ "CVE-2021-3006": {
+  "checked_at": "2026-10-29T12:07:51.975956+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2021-01-03T05:49:30.000Z",
+  "product": "seal_finance",
+  "vendor": "seal_finance_project"
+ },
  "CVE-2021-3007": {
   "checked_at": "2026-10-22T20:59:14.832043+00:00",
   "cna_product": "n/a",
@@ -51500,7 +51510,7 @@
   "vendor": "spesmilo"
  },
  "CVE-2026-118539": {
-  "checked_at": "2026-10-29T03:55:26.960102+00:00",
+  "checked_at": "2026-10-29T12:07:51.975956+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53339,6 +53349,16 @@
   "product": "ChatBot",
   "vendor": "QuantumCloud"
  },
+ "CVE-2026-32557": {
+  "checked_at": "2026-10-29T12:07:51.975956+00:00",
+  "cna_product": "WooCommerce Appointments",
+  "cna_vendor": "BookingWP",
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-06T08:33:58.564Z",
+  "product": "WooCommerce Appointments",
+  "vendor": "BookingWP"
+ },
  "CVE-2026-32558": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Affiliate Pro - Affiliate Program for WooCommerce & WordPress",
@@ -53780,7 +53800,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-29T03:55:26.960102+00:00",
+  "checked_at": "2026-10-29T12:07:51.975956+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53910,7 +53930,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-29T03:55:26.960102+00:00",
+  "checked_at": "2026-10-29T12:07:51.975956+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54000,7 +54020,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-29T03:55:26.960102+00:00",
+  "checked_at": "2026-10-29T12:07:51.975956+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -56728,6 +56748,16 @@
   "date_published": "2026-09-25T13:53:50.933Z",
   "product": "Guardium Data Protection",
   "vendor": "IBM"
+ },
+ "CVE-2026-85688": {
+  "checked_at": "2026-10-29T12:07:51.975956+00:00",
+  "cna_product": "ten-framework",
+  "cna_vendor": "TEN-framework",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-04T14:32:33.110Z",
+  "product": "ten-framework",
+  "vendor": "TEN-framework"
  },
  "CVE-2026-85706": {
   "checked_at": "2026-09-14T08:59:10.739237+00:00",
