@@ -10400,7 +10400,7 @@
   "vendor": "mirasvit"
  },
  "CVE-2017-14537": {
-  "checked_at": "2026-10-23T18:37:50.701855+00:00",
+  "checked_at": "2026-10-30T19:37:05.507446+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17940,14 +17940,14 @@
   "vendor": "rconfig"
  },
  "CVE-2020-10549": {
-  "checked_at": "2026-10-23T18:37:50.701855+00:00",
+  "checked_at": "2026-10-30T19:37:05.507446+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2020-06-04T03:24:25.000Z",
-  "product": "rconfig",
-  "vendor": "rconfig"
+  "product": "n/a",
+  "vendor": "n/a"
  },
  "CVE-2020-10621": {
   "checked_at": "2026-10-29T22:01:40.845354+00:00",
@@ -22990,7 +22990,7 @@
   "vendor": "Unknown"
  },
  "CVE-2021-25033": {
-  "checked_at": "2026-10-23T18:37:50.701855+00:00",
+  "checked_at": "2026-10-30T19:37:05.507446+00:00",
   "cna_product": "WordPress Newsletter Plugin \u2013 Noptin",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -25180,14 +25180,14 @@
   "vendor": "sunhillo"
  },
  "CVE-2021-36580": {
-  "checked_at": "2026-10-23T18:37:50.701855+00:00",
+  "checked_at": "2026-10-30T19:37:05.507446+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-07-27T00:00:00.000Z",
-  "product": "icewarp_server",
-  "vendor": "icewarp"
+  "product": "n/a",
+  "vendor": "n/a"
  },
  "CVE-2021-36741": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
@@ -25960,14 +25960,14 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2021-41826": {
-  "checked_at": "2026-10-23T18:37:50.701855+00:00",
+  "checked_at": "2026-10-30T19:37:05.507446+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2021-09-29T23:41:16.000Z",
-  "product": "placeos_authentication",
-  "vendor": "place"
+  "product": "n/a",
+  "vendor": "n/a"
  },
  "CVE-2021-4191": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
@@ -27230,7 +27230,7 @@
   "vendor": "Sophos"
  },
  "CVE-2022-1057": {
-  "checked_at": "2026-10-23T18:37:50.701855+00:00",
+  "checked_at": "2026-10-30T19:37:05.507446+00:00",
   "cna_product": "Pricing Deals for WooCommerce",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -29270,14 +29270,14 @@
   "vendor": "hashicorp"
  },
  "CVE-2022-29272": {
-  "checked_at": "2026-10-23T18:37:50.701855+00:00",
+  "checked_at": "2026-10-30T19:37:05.507446+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2022-06-29T00:58:52.000Z",
-  "product": "nagios_xi",
-  "vendor": "nagios"
+  "product": "n/a",
+  "vendor": "n/a"
  },
  "CVE-2022-29303": {
   "checked_at": "2026-10-29T22:01:40.845354+00:00",
@@ -51658,6 +51658,16 @@
   "date_published": "2026-08-07T04:25:55.665Z",
   "product": "Stream \u2013 Activity Log & Audit Trail",
   "vendor": "xwp"
+ },
+ "CVE-2026-119977": {
+  "checked_at": "2026-10-30T19:37:05.507446+00:00",
+  "cna_product": null,
+  "cna_vendor": null,
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": null,
+  "product": null,
+  "vendor": null
  },
  "CVE-2026-1207": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
