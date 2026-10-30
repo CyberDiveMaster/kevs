@@ -3249,6 +3249,16 @@
   "product": "ProFTPD (Professional FTP Daemon)",
   "vendor": "ProFTPD Project"
  },
+ "CVE-2010-20125": {
+  "checked_at": "2026-10-30T17:36:54.568517+00:00",
+  "cna_product": "DedeCMS",
+  "cna_vendor": "DedeCMS",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-30T14:23:34.726Z",
+  "product": "DedeCMS",
+  "vendor": "DedeCMS"
+ },
  "CVE-2010-2035": {
   "checked_at": "2026-10-29T19:47:16.306216+00:00",
   "cna_product": "n/a",
@@ -7459,6 +7469,16 @@
   "product": "DotNetCMS",
   "vendor": "FooSun"
  },
+ "CVE-2015-20130": {
+  "checked_at": "2026-10-30T17:36:54.568517+00:00",
+  "cna_product": "Netsweeper",
+  "cna_vendor": "Netsweeper",
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-30T14:23:44.161Z",
+  "product": "Netsweeper",
+  "vendor": "Netsweeper"
+ },
  "CVE-2015-2051": {
   "checked_at": "2026-10-29T19:47:16.306216+00:00",
   "cna_product": "n/a",
@@ -8040,7 +8060,7 @@
   "vendor": "qnap"
  },
  "CVE-2015-7297": {
-  "checked_at": "2026-10-23T14:01:05.022149+00:00",
+  "checked_at": "2026-10-30T17:36:54.568517+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17308,6 +17328,16 @@
   "date_published": "2019-02-21T14:00:00.000Z",
   "product": "wavemarker_studio",
   "vendor": "wavemaker"
+ },
+ "CVE-2019-9041": {
+  "checked_at": "2026-10-30T17:36:54.568517+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2019-02-23T18:00:00.000Z",
+  "product": "zzzphp",
+  "vendor": "zzzcms"
  },
  "CVE-2019-9081": {
   "checked_at": "2026-10-29T22:01:40.845354+00:00",
@@ -47129,6 +47159,16 @@
   "product": "SAP NetWeaver (Visual Composer development server)",
   "vendor": "SAP_SE"
  },
+ "CVE-2025-31704": {
+  "checked_at": "2026-10-30T17:36:54.568517+00:00",
+  "cna_product": "Intelligent Connection Center",
+  "cna_vendor": "Dahua",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-30T10:25:46.561Z",
+  "product": "Intelligent Connection Center",
+  "vendor": "Dahua"
+ },
  "CVE-2025-31918": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Simple Business Directory Pro",
@@ -48218,6 +48258,16 @@
   "date_published": "2025-06-06T14:42:31.249Z",
   "product": "Revolution Pi webstatus",
   "vendor": "Kunbus"
+ },
+ "CVE-2025-41656": {
+  "checked_at": "2026-10-30T17:36:54.568517+00:00",
+  "cna_product": "IndustrialPI 4 with Firmware Bullseye",
+  "cna_vendor": "Pilz",
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-07-01T08:10:06.208Z",
+  "product": "IndustrialPI 4 with Firmware Bullseye",
+  "vendor": "Pilz"
  },
  "CVE-2025-4210": {
   "checked_at": "2026-10-29T22:01:40.845354+00:00",
@@ -51169,6 +51219,16 @@
   "product": "YOOtheme Pro extension for Joomla",
   "vendor": "yootheme.com"
  },
+ "CVE-2026-103039": {
+  "checked_at": "2026-10-30T17:36:54.568517+00:00",
+  "cna_product": "Gravity Forms",
+  "cna_vendor": "Gravity Forms",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-30T06:47:32.599Z",
+  "product": "Gravity Forms",
+  "vendor": "Gravity Forms"
+ },
  "CVE-2026-103366": {
   "checked_at": "2026-10-26T20:04:37.376598+00:00",
   "cna_product": "Appointment Booking Plugin \u2013 LatePoint | Calendar & Scheduling for WordPress",
@@ -51568,6 +51628,16 @@
   "date_published": "2026-10-27T13:09:51.347Z",
   "product": "electrum",
   "vendor": "spesmilo"
+ },
+ "CVE-2026-118527": {
+  "checked_at": "2026-10-30T17:36:54.568517+00:00",
+  "cna_product": null,
+  "cna_vendor": null,
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": null,
+  "product": null,
+  "vendor": null
  },
  "CVE-2026-118539": {
   "checked_at": "2026-10-30T09:26:52.480288+00:00",
@@ -53870,7 +53940,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-30T09:26:52.480288+00:00",
+  "checked_at": "2026-10-30T17:36:54.568517+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54000,7 +54070,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-30T09:26:52.480288+00:00",
+  "checked_at": "2026-10-30T17:36:54.568517+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54090,7 +54160,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-30T09:26:52.480288+00:00",
+  "checked_at": "2026-10-30T17:36:54.568517+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -55448,6 +55518,16 @@
   "date_published": "2026-07-13T08:41:25.602Z",
   "product": "MailOptin",
   "vendor": "properfraction"
+ },
+ "CVE-2026-58115": {
+  "checked_at": "2026-10-30T17:36:54.568517+00:00",
+  "cna_product": "SIMATIC IoT2050 Advanced",
+  "cna_vendor": "Siemens",
+  "cvss_score": 10,
+  "cvss_version": "4.0",
+  "date_published": "2026-08-11T12:20:24.045Z",
+  "product": "SIMATIC IoT2050 Advanced",
+  "vendor": "Siemens"
  },
  "CVE-2026-58138": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
