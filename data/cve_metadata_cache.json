@@ -20049,6 +20049,16 @@
   "product": "Cisco Adaptive Security Appliance (ASA) Software",
   "vendor": "Cisco"
  },
+ "CVE-2020-35847": {
+  "checked_at": "2026-10-30T09:26:52.480288+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2020-12-30T00:38:56.000Z",
+  "product": "cockpit",
+  "vendor": "agentejo"
+ },
  "CVE-2020-35945": {
   "checked_at": "2026-10-29T22:01:40.845354+00:00",
   "cna_product": "n/a",
@@ -22960,7 +22970,7 @@
   "vendor": "Unknown"
  },
  "CVE-2021-25036": {
-  "checked_at": "2026-10-23T08:14:04.469391+00:00",
+  "checked_at": "2026-10-30T09:26:52.480288+00:00",
   "cna_product": "All in One SEO \u2013 Best WordPress SEO Plugin \u2013 Easily Improve SEO Rankings & Increase Traffic",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -27100,7 +27110,7 @@
   "vendor": "Unknown"
  },
  "CVE-2022-0879": {
-  "checked_at": "2026-10-23T08:14:04.469391+00:00",
+  "checked_at": "2026-10-30T09:26:52.480288+00:00",
   "cna_product": "Caldera Forms \u2013 More Than Contact Forms",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -28080,7 +28090,7 @@
   "vendor": "Elastic"
  },
  "CVE-2022-2373": {
-  "checked_at": "2026-10-23T08:14:04.469391+00:00",
+  "checked_at": "2026-10-30T09:26:52.480288+00:00",
   "cna_product": "Simply Schedule Appointments \u2013 WordPress Booking Plugin",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -44969,6 +44979,16 @@
   "product": "7-Zip",
   "vendor": "7-Zip"
  },
+ "CVE-2025-11201": {
+  "checked_at": "2026-10-30T09:26:52.480288+00:00",
+  "cna_product": "MLflow",
+  "cna_vendor": "MLflow",
+  "cvss_score": 8.1,
+  "cvss_version": "3.0",
+  "date_published": "2025-10-29T19:37:10.690Z",
+  "product": "MLflow",
+  "vendor": "MLflow"
+ },
  "CVE-2025-11262": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Link Whisper Free",
@@ -51550,14 +51570,14 @@
   "vendor": "spesmilo"
  },
  "CVE-2026-118539": {
-  "checked_at": "2026-10-29T19:47:16.306216+00:00",
-  "cna_product": null,
-  "cna_vendor": null,
+  "checked_at": "2026-10-30T09:26:52.480288+00:00",
+  "cna_product": "Commerce Core",
+  "cna_vendor": "Drupal",
   "cvss_score": null,
   "cvss_version": null,
-  "date_published": null,
-  "product": null,
-  "vendor": null
+  "date_published": "2026-10-30T03:09:13.976Z",
+  "product": "Commerce Core",
+  "vendor": "Drupal"
  },
  "CVE-2026-11907": {
   "checked_at": "2026-09-10T17:48:33.413075+00:00",
@@ -53300,7 +53320,7 @@
   "vendor": "NetScaler"
  },
  "CVE-2026-30633": {
-  "checked_at": "2026-10-23T02:56:52.202171+00:00",
+  "checked_at": "2026-10-30T09:26:52.480288+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -53850,7 +53870,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-29T19:47:16.306216+00:00",
+  "checked_at": "2026-10-30T09:26:52.480288+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53980,7 +54000,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-29T19:47:16.306216+00:00",
+  "checked_at": "2026-10-30T09:26:52.480288+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54070,7 +54090,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-29T19:47:16.306216+00:00",
+  "checked_at": "2026-10-30T09:26:52.480288+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
