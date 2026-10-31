@@ -22420,7 +22420,7 @@
   "vendor": "Crafter Software"
  },
  "CVE-2021-23337": {
-  "checked_at": "2026-10-24T13:03:18.001080+00:00",
+  "checked_at": "2026-10-31T16:40:40.494508+00:00",
   "cna_product": "Lodash",
   "cna_vendor": "n/a",
   "cvss_score": 7.2,
@@ -32708,6 +32708,16 @@
   "date_published": "2023-02-27T00:00:00.000Z",
   "product": "iOS and iPadOS; Safari; macOS",
   "vendor": "Apple"
+ },
+ "CVE-2023-2356": {
+  "checked_at": "2026-10-31T16:40:40.494508+00:00",
+  "cna_product": "mlflow/mlflow",
+  "cna_vendor": "mlflow",
+  "cvss_score": 10,
+  "cvss_version": "3.0",
+  "date_published": "2023-04-28T00:00:00.000Z",
+  "product": "mlflow/mlflow",
+  "vendor": "mlflow"
  },
  "CVE-2023-2359": {
   "checked_at": "2026-10-29T22:01:40.845354+00:00",
@@ -50449,6 +50459,16 @@
   "product": "Booking Activities",
   "vendor": "Booking Activities Team"
  },
+ "CVE-2025-67964": {
+  "checked_at": "2026-10-31T16:40:40.494508+00:00",
+  "cna_product": "Homey Core",
+  "cna_vendor": "favethemes",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-22T16:51:58.200Z",
+  "product": "Homey Core",
+  "vendor": "favethemes"
+ },
  "CVE-2025-68043": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "LottieFiles",
@@ -51279,6 +51299,16 @@
   "product": "miniOrange OTP Login, Verification and SMS Notifications",
   "vendor": "cyberlord92"
  },
+ "CVE-2026-103898": {
+  "checked_at": "2026-10-31T16:40:40.494508+00:00",
+  "cna_product": "Wp Social Login and Register Social Counter",
+  "cna_vendor": "roxnor",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-31T07:46:52.815Z",
+  "product": "Wp Social Login and Register Social Counter",
+  "vendor": "roxnor"
+ },
  "CVE-2026-104286": {
   "checked_at": "2026-10-01T19:44:28.848675+00:00",
   "cna_product": "FortiMail",
@@ -51619,6 +51649,16 @@
   "product": "Chrome",
   "vendor": "Google"
  },
+ "CVE-2026-116512": {
+  "checked_at": "2026-10-31T16:40:40.494508+00:00",
+  "cna_product": "Project Manager \u2013 AI Powered Project Management, Task Management, Kanban Board & Time Tracker",
+  "cna_vendor": "wedevs",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-31T07:46:51.642Z",
+  "product": "Project Manager \u2013 AI Powered Project Management, Task Management, Kanban Board & Time Tracker",
+  "vendor": "wedevs"
+ },
  "CVE-2026-116690": {
   "checked_at": "2026-10-28T11:58:01.726717+00:00",
   "cna_product": "mlflow",
@@ -51668,6 +51708,16 @@
   "date_published": "2026-08-07T04:25:55.665Z",
   "product": "Stream \u2013 Activity Log & Audit Trail",
   "vendor": "xwp"
+ },
+ "CVE-2026-119096": {
+  "checked_at": "2026-10-31T16:40:40.494508+00:00",
+  "cna_product": "Uncanny Toolkit for LearnDash",
+  "cna_vendor": "uncannyowl",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-31T07:46:49.237Z",
+  "product": "Uncanny Toolkit for LearnDash",
+  "vendor": "uncannyowl"
  },
  "CVE-2026-119977": {
   "checked_at": "2026-10-31T11:33:18.858252+00:00",
