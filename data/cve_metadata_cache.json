@@ -11750,7 +11750,7 @@
   "vendor": "asus"
  },
  "CVE-2017-8917": {
-  "checked_at": "2026-10-24T17:32:18.031462+00:00",
+  "checked_at": "2026-10-31T18:41:38.708733+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -13130,7 +13130,7 @@
   "vendor": "teltonika"
  },
  "CVE-2018-18084": {
-  "checked_at": "2026-10-24T17:32:18.031462+00:00",
+  "checked_at": "2026-10-31T18:41:38.708733+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33810,7 +33810,7 @@
   "vendor": "cyberlord92"
  },
  "CVE-2023-29827": {
-  "checked_at": "2026-10-24T17:32:18.031462+00:00",
+  "checked_at": "2026-10-31T18:41:38.708733+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -36270,7 +36270,7 @@
   "vendor": "ndkdesign"
  },
  "CVE-2023-46359": {
-  "checked_at": "2026-10-24T17:32:18.031462+00:00",
+  "checked_at": "2026-10-31T18:41:38.708733+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -51680,7 +51680,7 @@
   "vendor": "spesmilo"
  },
  "CVE-2026-118527": {
-  "checked_at": "2026-10-31T11:33:18.858252+00:00",
+  "checked_at": "2026-10-31T18:41:38.708733+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54020,7 +54020,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-31T11:33:18.858252+00:00",
+  "checked_at": "2026-10-31T18:41:38.708733+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54150,7 +54150,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-31T11:33:18.858252+00:00",
+  "checked_at": "2026-10-31T18:41:38.708733+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54240,7 +54240,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-31T11:33:18.858252+00:00",
+  "checked_at": "2026-10-31T18:41:38.708733+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
