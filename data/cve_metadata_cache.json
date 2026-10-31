@@ -350,7 +350,7 @@
   "vendor": "ibm"
  },
  "CVE-2002-1717": {
-  "checked_at": "2026-10-23T23:42:56.533433+00:00",
+  "checked_at": "2026-10-31T03:41:33.661155+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -4280,7 +4280,7 @@
   "vendor": "microsoft"
  },
  "CVE-2012-0152": {
-  "checked_at": "2026-10-23T23:42:56.533433+00:00",
+  "checked_at": "2026-10-31T03:41:33.661155+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -4340,7 +4340,7 @@
   "vendor": "apache"
  },
  "CVE-2012-0432": {
-  "checked_at": "2026-10-23T23:42:56.533433+00:00",
+  "checked_at": "2026-10-31T03:41:33.661155+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -14590,7 +14590,7 @@
   "vendor": "Apache"
  },
  "CVE-2019-0230": {
-  "checked_at": "2026-10-23T23:42:56.533433+00:00",
+  "checked_at": "2026-10-31T03:41:33.661155+00:00",
   "cna_product": "Apache Struts",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -16100,7 +16100,7 @@
   "vendor": "dlink"
  },
  "CVE-2019-17662": {
-  "checked_at": "2026-10-23T23:42:56.533433+00:00",
+  "checked_at": "2026-10-31T03:41:33.661155+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -16840,7 +16840,7 @@
   "vendor": "revive-sas"
  },
  "CVE-2019-5513": {
-  "checked_at": "2026-10-23T23:42:56.533433+00:00",
+  "checked_at": "2026-10-31T03:41:33.661155+00:00",
   "cna_product": "VMware Horizon Connection Server",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -29100,7 +29100,7 @@
   "vendor": "reprisesoftware"
  },
  "CVE-2022-28368": {
-  "checked_at": "2026-10-23T23:42:56.533433+00:00",
+  "checked_at": "2026-10-31T03:41:33.661155+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -29600,7 +29600,7 @@
   "vendor": "vmware"
  },
  "CVE-2022-31675": {
-  "checked_at": "2026-10-23T23:42:56.533433+00:00",
+  "checked_at": "2026-10-31T03:41:33.661155+00:00",
   "cna_product": "VMware vRealize Operations",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34430,7 +34430,7 @@
   "vendor": "VMware"
  },
  "CVE-2023-34060": {
-  "checked_at": "2026-10-23T23:42:56.533433+00:00",
+  "checked_at": "2026-10-31T03:41:33.661155+00:00",
   "cna_product": "VMware Cloud Director Appliance (VCD Appliance)",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34570,7 +34570,7 @@
   "vendor": "Citrix"
  },
  "CVE-2023-34723": {
-  "checked_at": "2026-10-23T23:42:56.533433+00:00",
+  "checked_at": "2026-10-31T03:41:33.661155+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -51630,7 +51630,7 @@
   "vendor": "spesmilo"
  },
  "CVE-2026-118527": {
-  "checked_at": "2026-10-30T17:36:54.568517+00:00",
+  "checked_at": "2026-10-31T03:41:33.661155+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51660,7 +51660,7 @@
   "vendor": "xwp"
  },
  "CVE-2026-119977": {
-  "checked_at": "2026-10-30T19:37:05.507446+00:00",
+  "checked_at": "2026-10-31T03:41:33.661155+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53950,7 +53950,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-30T17:36:54.568517+00:00",
+  "checked_at": "2026-10-31T03:41:33.661155+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54080,7 +54080,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-30T17:36:54.568517+00:00",
+  "checked_at": "2026-10-31T03:41:33.661155+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54170,7 +54170,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-30T17:36:54.568517+00:00",
+  "checked_at": "2026-10-31T03:41:33.661155+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -55208,6 +55208,16 @@
   "date_published": "2026-06-26T20:54:08.282Z",
   "product": "kestra",
   "vendor": "kestra-io"
+ },
+ "CVE-2026-53595": {
+  "checked_at": "2026-10-31T03:41:33.661155+00:00",
+  "cna_product": "freescout",
+  "cna_vendor": "freescout-help-desk",
+  "cvss_score": 9.4,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-20T20:14:59.365Z",
+  "product": "freescout",
+  "vendor": "freescout-help-desk"
  },
  "CVE-2026-54066": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
