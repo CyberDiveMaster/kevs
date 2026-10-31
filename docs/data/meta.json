@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-31T03:43:03+00:00",
- "cve_count": 5760,
+ "generated_at": "2026-10-31T11:33:55+00:00",
+ "cve_count": 5762,
  "source_counts": {
   "cisa": 1766,
   "enisa": 82,
   "circl": 29,
-  "vulncheck": 5741,
-  "kevintel": 3101
+  "vulncheck": 5742,
+  "kevintel": 3102
  }
 }

@@ -49639,6 +49639,16 @@
   "product": "dir-868l_firmware",
   "vendor": "dlink"
  },
+ "CVE-2025-5569": {
+  "checked_at": "2026-10-31T11:33:18.858252+00:00",
+  "cna_product": "IdeaCMS",
+  "cna_vendor": "n/a",
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-06-04T05:31:51.903Z",
+  "product": "IdeaCMS",
+  "vendor": "ideacms"
+ },
  "CVE-2025-5571": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "DCS-932L",
@@ -51630,7 +51640,7 @@
   "vendor": "spesmilo"
  },
  "CVE-2026-118527": {
-  "checked_at": "2026-10-31T03:41:33.661155+00:00",
+  "checked_at": "2026-10-31T11:33:18.858252+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51660,14 +51670,14 @@
   "vendor": "xwp"
  },
  "CVE-2026-119977": {
-  "checked_at": "2026-10-31T03:41:33.661155+00:00",
-  "cna_product": null,
-  "cna_vendor": null,
-  "cvss_score": null,
-  "cvss_version": null,
-  "date_published": null,
-  "product": null,
-  "vendor": null
+  "checked_at": "2026-10-31T11:33:18.858252+00:00",
+  "cna_product": "WordPress",
+  "cna_vendor": "WordPress Foundation",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-31T05:33:07.059Z",
+  "product": "WordPress",
+  "vendor": "WordPress Foundation"
  },
  "CVE-2026-1207": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -53789,6 +53799,16 @@
   "product": "Acrobat DC; Acrobat Reader DC; Acrobat 2024",
   "vendor": "Adobe"
  },
+ "CVE-2026-34892": {
+  "checked_at": "2026-10-31T11:33:18.858252+00:00",
+  "cna_product": "Rank Math SEO",
+  "cna_vendor": "Rank Math SEO",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-15T20:17:37.428Z",
+  "product": "Rank Math SEO",
+  "vendor": "Rank Math SEO"
+ },
  "CVE-2026-34908": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "UniFi OS Server; UDM; UDM-Pro; UDM-SE; UDM-Pro-Max; UDM-Beast; EFG; UDW; UDR; UDR7; UDR-5G; Express 7; UNVR; UNVR-Pro; UNVR-Instant; UNVR-G2; UNVR-G2-Pro; ENVR; ENVR-Core; UNAS-2; UNAS-4; UNAS-Pro; UNAS-Pro-4; UNAS-Pro-8; UCKP; UCK; UCK-Enterprise; UCG-Ultra; UCG-Max; UCG-Fiber; UCG-Industrial",
@@ -53950,7 +53970,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-31T03:41:33.661155+00:00",
+  "checked_at": "2026-10-31T11:33:18.858252+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54080,7 +54100,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-31T03:41:33.661155+00:00",
+  "checked_at": "2026-10-31T11:33:18.858252+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54170,7 +54190,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-31T03:41:33.661155+00:00",
+  "checked_at": "2026-10-31T11:33:18.858252+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
