@@ -17859,6 +17859,16 @@
   "product": "dir-825_firmware",
   "vendor": "dlink"
  },
+ "CVE-2020-10220": {
+  "checked_at": "2026-11-01T03:48:36.685259+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2020-03-07T22:37:43.000Z",
+  "product": "rconfig",
+  "vendor": "rconfig"
+ },
  "CVE-2020-10221": {
   "checked_at": "2026-10-29T22:01:40.845354+00:00",
   "cna_product": "n/a",
@@ -51680,7 +51690,7 @@
   "vendor": "spesmilo"
  },
  "CVE-2026-118527": {
-  "checked_at": "2026-10-31T18:41:38.708733+00:00",
+  "checked_at": "2026-11-01T03:48:36.685259+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54020,7 +54030,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-10-31T18:41:38.708733+00:00",
+  "checked_at": "2026-11-01T03:48:36.685259+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54150,7 +54160,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-10-31T18:41:38.708733+00:00",
+  "checked_at": "2026-11-01T03:48:36.685259+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54240,7 +54250,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-10-31T18:41:38.708733+00:00",
+  "checked_at": "2026-11-01T03:48:36.685259+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
