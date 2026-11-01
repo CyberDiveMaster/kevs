@@ -49740,7 +49740,7 @@
   "vendor": "dify"
  },
  "CVE-2025-57231": {
-  "checked_at": "2026-10-25T08:01:56.395044+00:00",
+  "checked_at": "2026-11-01T12:30:19.180122+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 7.5,
@@ -51690,7 +51690,7 @@
   "vendor": "spesmilo"
  },
  "CVE-2026-118527": {
-  "checked_at": "2026-11-01T03:48:36.685259+00:00",
+  "checked_at": "2026-11-01T12:30:19.180122+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54030,7 +54030,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-01T03:48:36.685259+00:00",
+  "checked_at": "2026-11-01T12:30:19.180122+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54129,6 +54129,16 @@
   "product": "qinglong",
   "vendor": "whyour"
  },
+ "CVE-2026-39738": {
+  "checked_at": "2026-11-01T12:30:19.180122+00:00",
+  "cna_product": "FunnelKit Automations",
+  "cna_vendor": "Aman",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-30T18:30:34.923Z",
+  "product": "FunnelKit Automations",
+  "vendor": "Aman"
+ },
  "CVE-2026-39781": {
   "checked_at": "2026-10-15T18:31:46.174497+00:00",
   "cna_product": "Document Gallery",
@@ -54160,7 +54170,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-01T03:48:36.685259+00:00",
+  "checked_at": "2026-11-01T12:30:19.180122+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54250,7 +54260,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-01T03:48:36.685259+00:00",
+  "checked_at": "2026-11-01T12:30:19.180122+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
