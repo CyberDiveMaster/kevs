@@ -56799,6 +56799,16 @@
   "product": "PaperCut MF/NG",
   "vendor": "PaperCut"
  },
+ "CVE-2026-81648": {
+  "checked_at": "2026-11-02T22:51:43.509371+00:00",
+  "cna_product": "CryptoPayment Gateway",
+  "cna_vendor": "Unknown",
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-13T20:06:35.224Z",
+  "product": "CryptoPayment Gateway",
+  "vendor": "Unknown"
+ },
  "CVE-2026-81799": {
   "checked_at": "2026-11-02T10:25:56.176307+00:00",
   "cna_product": "Return Refund and Exchange For WooCommerce",
