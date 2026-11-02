@@ -51690,7 +51690,7 @@
   "vendor": "spesmilo"
  },
  "CVE-2026-118527": {
-  "checked_at": "2026-11-01T19:04:25.554546+00:00",
+  "checked_at": "2026-11-02T10:25:56.176307+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53299,6 +53299,16 @@
   "product": "Ajax Search Lite",
   "vendor": "wpdreams"
  },
+ "CVE-2026-28160": {
+  "checked_at": "2026-11-02T10:25:56.176307+00:00",
+  "cna_product": "VikRentCar",
+  "cna_vendor": "e4jvikwp",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-30T18:30:32.657Z",
+  "product": "VikRentCar",
+  "vendor": "e4jvikwp"
+ },
  "CVE-2026-28165": {
   "checked_at": "2026-10-14T00:04:37.640264+00:00",
   "cna_product": "Digits",
@@ -54030,7 +54040,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-01T19:04:25.554546+00:00",
+  "checked_at": "2026-11-02T10:25:56.176307+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54170,7 +54180,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-01T19:04:25.554546+00:00",
+  "checked_at": "2026-11-02T10:25:56.176307+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54260,7 +54270,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-01T19:04:25.554546+00:00",
+  "checked_at": "2026-11-02T10:25:56.176307+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54808,6 +54818,16 @@
   "date_published": "2026-05-19T14:00:55.318Z",
   "product": "Funnel Builder for WooCommerce Checkout",
   "vendor": "FunnelKit"
+ },
+ "CVE-2026-47670": {
+  "checked_at": "2026-11-02T10:25:56.176307+00:00",
+  "cna_product": "dbgate",
+  "cna_vendor": "dbgate",
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2026-07-23T19:12:00.882Z",
+  "product": "dbgate",
+  "vendor": "dbgate"
  },
  "CVE-2026-4798": {
   "checked_at": "2026-10-14T00:04:37.640264+00:00",
@@ -56728,6 +56748,16 @@
   "date_published": "2026-08-28T11:39:45.402Z",
   "product": "PaperCut MF/NG",
   "vendor": "PaperCut"
+ },
+ "CVE-2026-81799": {
+  "checked_at": "2026-11-02T10:25:56.176307+00:00",
+  "cna_product": "Return Refund and Exchange For WooCommerce",
+  "cna_vendor": "WP Swings",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-10T14:23:47.342Z",
+  "product": "Return Refund and Exchange For WooCommerce",
+  "vendor": "WP Swings"
  },
  "CVE-2026-8181": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
