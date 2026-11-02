@@ -37839,6 +37839,16 @@
   "product": "Tutor LMS \u2013 eLearning and online course solution",
   "vendor": "themeum"
  },
+ "CVE-2024-10441": {
+  "checked_at": "2026-11-02T21:16:32.651278+00:00",
+  "cna_product": "DiskStation Manager (DSM); BeeStation OS (BSM)",
+  "cna_vendor": "Synology",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-03-19T02:09:56.387Z",
+  "product": "DiskStation Manager (DSM); BeeStation OS (BSM)",
+  "vendor": "Synology"
+ },
  "CVE-2024-10571": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Chartify \u2013 WordPress Chart Plugin",
@@ -39408,6 +39418,16 @@
   "date_published": "2024-05-28T18:22:19.401Z",
   "product": "Check Point Quantum Gateway, Spark Gateway and CloudGuard Network",
   "vendor": "checkpoint"
+ },
+ "CVE-2024-2544": {
+  "checked_at": "2026-11-02T21:16:32.651278+00:00",
+  "cna_product": "Popup Builder \u2013 Create highly converting, mobile friendly marketing popups.",
+  "cna_vendor": "popupbuilder",
+  "cvss_score": 7.4,
+  "cvss_version": "3.1",
+  "date_published": "2024-06-15T02:01:57.798Z",
+  "product": "Popup Builder \u2013 Create highly converting, mobile friendly marketing popups.",
+  "vendor": "popupbuilder"
  },
  "CVE-2024-25461": {
   "checked_at": "2026-10-29T22:01:40.845354+00:00",
@@ -51499,6 +51519,16 @@
   "product": "PHP",
   "vendor": "PHP Group"
  },
+ "CVE-2026-109936": {
+  "checked_at": "2026-11-02T21:16:32.651278+00:00",
+  "cna_product": "Otter Blocks",
+  "cna_vendor": "Unknown",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-23T06:00:18.103Z",
+  "product": "Otter Blocks",
+  "vendor": "Unknown"
+ },
  "CVE-2026-110372": {
   "checked_at": "2026-10-19T08:23:21.303838+00:00",
   "cna_product": "OttoKit",
@@ -51669,6 +51699,16 @@
   "product": "Project Manager \u2013 AI Powered Project Management, Task Management, Kanban Board & Time Tracker",
   "vendor": "wedevs"
  },
+ "CVE-2026-116548": {
+  "checked_at": "2026-11-02T21:16:32.651278+00:00",
+  "cna_product": "VikRentCar Car Rental Management System",
+  "cna_vendor": "e4jvikwp",
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-31T06:44:22.444Z",
+  "product": "VikRentCar Car Rental Management System",
+  "vendor": "e4jvikwp"
+ },
  "CVE-2026-116690": {
   "checked_at": "2026-10-28T11:58:01.726717+00:00",
   "cna_product": "mlflow",
@@ -51690,7 +51730,7 @@
   "vendor": "spesmilo"
  },
  "CVE-2026-118527": {
-  "checked_at": "2026-11-02T10:25:56.176307+00:00",
+  "checked_at": "2026-11-02T21:16:32.651278+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52417,6 +52457,16 @@
   "cvss_version": "3.1",
   "date_published": "2026-03-23T06:00:04.026Z",
   "product": "trx_addons",
+  "vendor": "Unknown"
+ },
+ "CVE-2026-19842": {
+  "checked_at": "2026-11-02T21:16:32.651278+00:00",
+  "cna_product": "SAML Single Sign On",
+  "cna_vendor": "Unknown",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-19T06:00:21.841Z",
+  "product": "SAML Single Sign On",
   "vendor": "Unknown"
  },
  "CVE-2026-1994": {
@@ -54040,7 +54090,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-02T10:25:56.176307+00:00",
+  "checked_at": "2026-11-02T21:16:32.651278+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54180,7 +54230,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-02T10:25:56.176307+00:00",
+  "checked_at": "2026-11-02T21:16:32.651278+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54270,7 +54320,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-02T10:25:56.176307+00:00",
+  "checked_at": "2026-11-02T21:16:32.651278+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -57168,6 +57218,16 @@
   "date_published": "2026-09-07T23:03:17.221Z",
   "product": "knowns",
   "vendor": "knowns-dev"
+ },
+ "CVE-2026-86596": {
+  "checked_at": "2026-11-02T21:16:32.651278+00:00",
+  "cna_product": null,
+  "cna_vendor": null,
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": null,
+  "product": null,
+  "vendor": null
  },
  "CVE-2026-86950": {
   "checked_at": "2026-09-28T20:41:33.331509+00:00",
