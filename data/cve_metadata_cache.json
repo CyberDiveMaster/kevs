@@ -11479,6 +11479,16 @@
   "product": "uc-httpd",
   "vendor": "xiongmaitech"
  },
+ "CVE-2017-7615": {
+  "checked_at": "2026-11-03T04:56:12.898438+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2017-04-16T14:45:00.000Z",
+  "product": "mantisbt",
+  "vendor": "mantisbt"
+ },
  "CVE-2017-7659": {
   "checked_at": "2026-10-29T19:47:16.306216+00:00",
   "cna_product": "Apache HTTP Server",
@@ -51730,7 +51740,7 @@
   "vendor": "spesmilo"
  },
  "CVE-2026-118527": {
-  "checked_at": "2026-11-02T21:16:32.651278+00:00",
+  "checked_at": "2026-11-03T04:56:12.898438+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54090,7 +54100,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-02T21:16:32.651278+00:00",
+  "checked_at": "2026-11-03T04:56:12.898438+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54230,7 +54240,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-02T21:16:32.651278+00:00",
+  "checked_at": "2026-11-03T04:56:12.898438+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54320,7 +54330,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-02T21:16:32.651278+00:00",
+  "checked_at": "2026-11-03T04:56:12.898438+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -56879,6 +56889,16 @@
   "product": "GiveWP",
   "vendor": "Liquid Web / StellarWP"
  },
+ "CVE-2026-82244": {
+  "checked_at": "2026-11-03T04:56:12.898438+00:00",
+  "cna_product": "server",
+  "cna_vendor": "budibase",
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2026-08-28T10:49:31.426Z",
+  "product": "server",
+  "vendor": "budibase"
+ },
  "CVE-2026-82329": {
   "checked_at": "2026-09-01T08:12:21.010791+00:00",
   "cna_product": "artifactory",
@@ -57230,14 +57250,14 @@
   "vendor": "knowns-dev"
  },
  "CVE-2026-86596": {
-  "checked_at": "2026-11-02T21:16:32.651278+00:00",
-  "cna_product": null,
-  "cna_vendor": null,
-  "cvss_score": null,
-  "cvss_version": null,
-  "date_published": null,
-  "product": null,
-  "vendor": null
+  "checked_at": "2026-11-03T04:56:12.898438+00:00",
+  "cna_product": "s2Member \u2013 Excellent for All Kinds of Memberships, Content Restriction Paywalls & Member Access Subscriptions",
+  "cna_vendor": "clavaque",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-11-02T21:30:23.199Z",
+  "product": "s2Member \u2013 Excellent for All Kinds of Memberships, Content Restriction Paywalls & Member Access Subscriptions",
+  "vendor": "clavaque"
  },
  "CVE-2026-86950": {
   "checked_at": "2026-09-28T20:41:33.331509+00:00",
