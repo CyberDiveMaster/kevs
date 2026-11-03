@@ -8159,6 +8159,16 @@
   "product": "vbulletin",
   "vendor": "vbulletin"
  },
+ "CVE-2015-7857": {
+  "checked_at": "2026-11-03T20:35:13.199892+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2015-10-29T20:00:00.000Z",
+  "product": "joomla\\!",
+  "vendor": "joomla"
+ },
  "CVE-2015-7858": {
   "checked_at": "2026-10-29T19:47:16.306216+00:00",
   "cna_product": "n/a",
@@ -26830,7 +26840,7 @@
   "vendor": "linux"
  },
  "CVE-2022-0208": {
-  "checked_at": "2026-10-27T17:14:09.478457+00:00",
+  "checked_at": "2026-11-03T20:35:13.199892+00:00",
   "cna_product": "MapPress Maps for WordPress",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -43719,6 +43729,16 @@
   "product": "CSMP iSecure Center",
   "vendor": "Hikvision"
  },
+ "CVE-2024-58351": {
+  "checked_at": "2026-11-03T20:35:13.199892+00:00",
+  "cna_product": "Flowise",
+  "cna_vendor": "Flowise",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-20T15:21:55.759Z",
+  "product": "Flowise",
+  "vendor": "Flowise"
+ },
  "CVE-2024-58352": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Landry Office Automation (OA)",
@@ -51479,6 +51499,16 @@
   "product": "smart-post-show-pro; Real Testimonials Pro; Product Slider for WooCommerce Pro",
   "vendor": "Unknown"
  },
+ "CVE-2026-107441": {
+  "checked_at": "2026-11-03T20:35:13.199892+00:00",
+  "cna_product": "GS1900-24E firmware; GS1900-8 firmware; GS1900-8HP firmware; GS1900-10HP firmware; GS1900-16 firmware; GS1900-24 firmware; GS1900-24EP firmware; GS1900-HPv2 firmware; GS1900-48 firmware; GS1900-48HPv2 firmware",
+  "cna_vendor": "Zyxel",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-11-03T01:41:52.029Z",
+  "product": "GS1900-24E firmware; GS1900-8 firmware; GS1900-8HP firmware; GS1900-10HP firmware; GS1900-16 firmware; GS1900-24 firmware; GS1900-24EP firmware; GS1900-HPv2 firmware; GS1900-48 firmware; GS1900-48HPv2 firmware",
+  "vendor": "Zyxel"
+ },
  "CVE-2026-10795": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "UpdraftPlus: WP Backup & Migration Plugin",
@@ -51608,6 +51638,16 @@
   "date_published": "2026-10-19T17:15:15.630Z",
   "product": "Five-in-One Safety Production Management Information System",
   "vendor": "Wuxi Wubang Security Software"
+ },
+ "CVE-2026-112313": {
+  "checked_at": "2026-11-03T20:35:13.199892+00:00",
+  "cna_product": "ACF Extended",
+  "cna_vendor": "ACF Extended",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-22T10:00:12.776Z",
+  "product": "ACF Extended",
+  "vendor": "ACF Extended"
  },
  "CVE-2026-112353": {
   "checked_at": "2026-10-27T17:14:09.478457+00:00",
@@ -51750,14 +51790,14 @@
   "vendor": "spesmilo"
  },
  "CVE-2026-118527": {
-  "checked_at": "2026-11-03T13:27:58.222942+00:00",
-  "cna_product": null,
-  "cna_vendor": null,
-  "cvss_score": null,
-  "cvss_version": null,
-  "date_published": null,
-  "product": null,
-  "vendor": null
+  "checked_at": "2026-11-03T20:35:13.199892+00:00",
+  "cna_product": "Connect Secure",
+  "cna_vendor": "Ivanti",
+  "cvss_score": 4.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-11-03T14:53:28.232Z",
+  "product": "Connect Secure",
+  "vendor": "Ivanti"
  },
  "CVE-2026-118539": {
   "checked_at": "2026-10-30T09:26:52.480288+00:00",
@@ -51798,6 +51838,26 @@
   "date_published": "2026-10-31T05:33:07.059Z",
   "product": "WordPress",
   "vendor": "WordPress Foundation"
+ },
+ "CVE-2026-120203": {
+  "checked_at": "2026-11-03T20:35:13.199892+00:00",
+  "cna_product": "ShowDoc",
+  "cna_vendor": "ShowDoc",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-31T17:25:52.170Z",
+  "product": "ShowDoc",
+  "vendor": "ShowDoc"
+ },
+ "CVE-2026-120534": {
+  "checked_at": "2026-11-03T20:35:13.199892+00:00",
+  "cna_product": "Advanced Custom Fields: Extended PRO",
+  "cna_vendor": "ACF Extended",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-11-03T04:43:09.501Z",
+  "product": "Advanced Custom Fields: Extended PRO",
+  "vendor": "ACF Extended"
  },
  "CVE-2026-1207": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -54110,7 +54170,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-03T13:27:58.222942+00:00",
+  "checked_at": "2026-11-03T20:35:13.199892+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54250,7 +54310,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-03T13:27:58.222942+00:00",
+  "checked_at": "2026-11-03T20:35:13.199892+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54350,7 +54410,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-03T13:27:58.222942+00:00",
+  "checked_at": "2026-11-03T20:35:13.199892+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -55280,7 +55340,7 @@
   "vendor": "Tenda"
  },
  "CVE-2026-51886": {
-  "checked_at": "2026-10-27T17:14:09.478457+00:00",
+  "checked_at": "2026-11-03T20:35:13.199892+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -55538,6 +55598,16 @@
   "date_published": "2026-06-23T16:17:52.168Z",
   "product": "langflow",
   "vendor": "langflow-ai"
+ },
+ "CVE-2026-55500": {
+  "checked_at": "2026-11-03T20:35:13.199892+00:00",
+  "cna_product": "9router",
+  "cna_vendor": "decolua",
+  "cvss_score": 9.9,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-10T15:28:27.620Z",
+  "product": "9router",
+  "vendor": "decolua"
  },
  "CVE-2026-55786": {
   "checked_at": "2026-10-14T18:49:00.542025+00:00",
