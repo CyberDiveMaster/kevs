@@ -22789,6 +22789,16 @@
   "product": "Poll, Survey, Questionnaire and Voting system",
   "vendor": "wpdevart"
  },
+ "CVE-2021-24472": {
+  "checked_at": "2026-11-03T13:27:58.222942+00:00",
+  "cna_product": "QT KenthaRadio; OnAir2",
+  "cna_vendor": "QantumThemes",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2021-08-02T10:32:13.000Z",
+  "product": "QT KenthaRadio; OnAir2",
+  "vendor": "QantumThemes"
+ },
  "CVE-2021-24498": {
   "checked_at": "2026-10-29T22:01:40.845354+00:00",
   "cna_product": "Calendar Event Multi View",
@@ -51740,7 +51750,7 @@
   "vendor": "spesmilo"
  },
  "CVE-2026-118527": {
-  "checked_at": "2026-11-03T04:56:12.898438+00:00",
+  "checked_at": "2026-11-03T13:27:58.222942+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54100,7 +54110,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-03T04:56:12.898438+00:00",
+  "checked_at": "2026-11-03T13:27:58.222942+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54240,7 +54250,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-03T04:56:12.898438+00:00",
+  "checked_at": "2026-11-03T13:27:58.222942+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54319,6 +54329,16 @@
   "product": "gotenberg",
   "vendor": "gotenberg"
  },
+ "CVE-2026-4035": {
+  "checked_at": "2026-11-03T13:27:58.222942+00:00",
+  "cna_product": "mlflow/mlflow",
+  "cna_vendor": "mlflow",
+  "cvss_score": 7.7,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-03T07:18:08.512Z",
+  "product": "mlflow/mlflow",
+  "vendor": "mlflow"
+ },
  "CVE-2026-40466": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Apache ActiveMQ Broker; Apache ActiveMQ All; Apache ActiveMQ",
@@ -54330,7 +54350,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-03T04:56:12.898438+00:00",
+  "checked_at": "2026-11-03T13:27:58.222942+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
