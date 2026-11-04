@@ -12370,7 +12370,7 @@
   "vendor": "axis"
  },
  "CVE-2018-10735": {
-  "checked_at": "2026-10-28T03:34:15.750491+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -12380,7 +12380,7 @@
   "vendor": "nagios"
  },
  "CVE-2018-10736": {
-  "checked_at": "2026-10-28T03:34:15.750491+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -12780,7 +12780,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2018-13980": {
-  "checked_at": "2026-10-28T03:34:15.750491+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -18580,7 +18580,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2020-13945": {
-  "checked_at": "2026-10-28T17:57:02.085344+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": "Apache APISIX",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -23350,7 +23350,7 @@
   "vendor": "Dream Security Co.,Ltd"
  },
  "CVE-2021-26746": {
-  "checked_at": "2026-10-28T03:34:15.750491+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23980,7 +23980,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2021-30134": {
-  "checked_at": "2026-10-28T03:34:15.750491+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.1,
@@ -29040,7 +29040,7 @@
   "vendor": "synacor"
  },
  "CVE-2022-27927": {
-  "checked_at": "2026-10-28T03:34:15.750491+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -29390,7 +29390,7 @@
   "vendor": "tenda"
  },
  "CVE-2022-30047": {
-  "checked_at": "2026-10-28T03:34:15.750491+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -29740,17 +29740,17 @@
   "vendor": "online_fire_reporting_system_project"
  },
  "CVE-2022-32024": {
-  "checked_at": "2026-10-28T03:34:15.750491+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2022-06-02T15:50:38.000Z",
-  "product": "car_rental_management_system",
-  "vendor": "car_rental_management_system_project"
+  "product": "n/a",
+  "vendor": "n/a"
  },
  "CVE-2022-32025": {
-  "checked_at": "2026-10-28T03:34:15.750491+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -29760,7 +29760,7 @@
   "vendor": "car_rental_management_system_project"
  },
  "CVE-2022-32026": {
-  "checked_at": "2026-10-28T03:34:15.750491+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -29770,7 +29770,7 @@
   "vendor": "car_rental_management_system_project"
  },
  "CVE-2022-32028": {
-  "checked_at": "2026-10-28T03:34:15.750491+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34560,7 +34560,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2023-34545": {
-  "checked_at": "2026-10-28T03:34:15.750491+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -37180,7 +37180,7 @@
   "vendor": "Unknown"
  },
  "CVE-2023-6009": {
-  "checked_at": "2026-10-28T03:34:15.750491+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": "UserPro - Community and User Profile WordPress Plugin",
   "cna_vendor": "n/a",
   "cvss_score": 8.8,
@@ -37210,7 +37210,7 @@
   "vendor": "h2oai"
  },
  "CVE-2023-6063": {
-  "checked_at": "2026-10-28T03:34:15.750491+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": "WP Fastest Cache",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -39380,7 +39380,7 @@
   "vendor": "JetBrains"
  },
  "CVE-2024-24112": {
-  "checked_at": "2026-10-28T03:34:15.750491+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -39698,6 +39698,16 @@
   "date_published": "2024-05-18T07:38:32.798Z",
   "product": "Fluent Forms \u2013 Customizable Contact Forms, Survey, Quiz, & Conversational Form Builder",
   "vendor": "techjewel"
+ },
+ "CVE-2024-27834": {
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
+  "cna_product": "Safari; iOS and iPadOS; macOS; tvOS; watchOS",
+  "cna_vendor": "Apple",
+  "cvss_score": 5.5,
+  "cvss_version": "3.1",
+  "date_published": "2024-05-13T23:00:50.836Z",
+  "product": "Safari; iOS and iPadOS; macOS; tvOS; watchOS",
+  "vendor": "Apple"
  },
  "CVE-2024-27954": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -41900,7 +41910,7 @@
   "vendor": "FOGProject"
  },
  "CVE-2024-39930": {
-  "checked_at": "2026-10-28T11:58:01.726717+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.9,
@@ -49039,6 +49049,16 @@
   "product": "panel",
   "vendor": "pterodactyl"
  },
+ "CVE-2025-49387": {
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
+  "cna_product": "Drag and Drop File Upload for Elementor Forms",
+  "cna_vendor": "add-ons.org",
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-28T12:37:13.181Z",
+  "product": "Drag and Drop File Upload for Elementor Forms",
+  "vendor": "add-ons.org"
+ },
  "CVE-2025-49493": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "CloudTest",
@@ -50040,7 +50060,7 @@
   "vendor": "fooplugins"
  },
  "CVE-2025-60687": {
-  "checked_at": "2026-10-28T03:34:15.750491+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
@@ -51279,6 +51299,16 @@
   "product": "SMA1000",
   "vendor": "SonicWall"
  },
+ "CVE-2026-102435": {
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
+  "cna_product": "Ultra Addons for Contact Form 7",
+  "cna_vendor": "themefic",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-11-02T19:31:31.082Z",
+  "product": "Ultra Addons for Contact Form 7",
+  "vendor": "themefic"
+ },
  "CVE-2026-102489": {
   "checked_at": "2026-09-30T19:35:06.316874+00:00",
   "cna_product": "Zammad",
@@ -51539,6 +51569,16 @@
   "product": "Camunda 7",
   "vendor": "Camunda"
  },
+ "CVE-2026-109447": {
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
+  "cna_product": "User Profile Builder \u2013 Beautiful User Registration Forms, User Profiles & User Role Editor",
+  "cna_vendor": "cozmoslabs",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-16T05:30:24.704Z",
+  "product": "User Profile Builder \u2013 Beautiful User Registration Forms, User Profiles & User Role Editor",
+  "vendor": "cozmoslabs"
+ },
  "CVE-2026-109515": {
   "checked_at": "2026-10-16T23:12:41.267646+00:00",
   "cna_product": "MailOptin \u2013 Popup, Optin Forms & Email Newsletters for Mailchimp, HubSpot, AWeber Etc.",
@@ -51709,6 +51749,16 @@
   "product": "VeloCloud Orchestrator",
   "vendor": "Arista Networks"
  },
+ "CVE-2026-11556": {
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
+  "cna_product": "F451",
+  "cna_vendor": "Tenda",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-08T18:00:15.317Z",
+  "product": "F451",
+  "vendor": "Tenda"
+ },
  "CVE-2026-11565": {
   "checked_at": "2026-10-26T20:04:37.376598+00:00",
   "cna_product": "Advanced File Manager",
@@ -51718,6 +51768,16 @@
   "date_published": "2026-08-19T06:00:13.843Z",
   "product": "Advanced File Manager",
   "vendor": "Unknown"
+ },
+ "CVE-2026-115732": {
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
+  "cna_product": "Puppet Enterprise",
+  "cna_vendor": "Perforce",
+  "cvss_score": 9,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-03T20:38:24.169Z",
+  "product": "Puppet Enterprise",
+  "vendor": "Perforce"
  },
  "CVE-2026-115886": {
   "checked_at": "2026-10-29T19:47:16.306216+00:00",
@@ -53119,6 +53179,16 @@
   "product": "MetForm Pro",
   "vendor": "WPMet"
  },
+ "CVE-2026-24849": {
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
+  "cna_product": "openemr",
+  "cna_vendor": "openemr",
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-25T01:44:30.584Z",
+  "product": "openemr",
+  "vendor": "openemr"
+ },
  "CVE-2026-24858": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "FortiWeb; FortiNAC-F; FortiOS; FortiAnalyzer; FortiProxy; FortiManager",
@@ -54170,7 +54240,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-03T20:35:13.199892+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54310,7 +54380,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-03T20:35:13.199892+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54410,7 +54480,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-03T20:35:13.199892+00:00",
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54478,6 +54548,16 @@
   "date_published": "2026-04-22T23:57:54.075Z",
   "product": "rclone",
   "vendor": "rclone"
+ },
+ "CVE-2026-4162": {
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
+  "cna_product": "Gravity SMTP",
+  "cna_vendor": "RocketGenius",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-10T09:25:56.478Z",
+  "product": "Gravity SMTP",
+  "vendor": "RocketGenius"
  },
  "CVE-2026-41679": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -56649,6 +56729,16 @@
   "product": "Adobe Commerce; Adobe Commerce B2B; Magento Open Source",
   "vendor": "Adobe"
  },
+ "CVE-2026-75807": {
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
+  "cna_product": "SAML Single Sign On \u2013 SSO Login",
+  "cna_vendor": "cyberlord92",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-29T17:25:48.408Z",
+  "product": "SAML Single Sign On \u2013 SSO Login",
+  "vendor": "cyberlord92"
+ },
  "CVE-2026-75927": {
   "checked_at": "2026-10-14T00:04:37.640264+00:00",
   "cna_product": "User Role Editor \u2013 PublishPress Capabilities: Access Control and User Roles",
@@ -57208,6 +57298,16 @@
   "date_published": "2026-09-21T08:51:51.797Z",
   "product": "GiveWP",
   "vendor": "Unknown"
+ },
+ "CVE-2026-85200": {
+  "checked_at": "2026-11-04T19:14:05.616874+00:00",
+  "cna_product": "GEO my WP",
+  "cna_vendor": "ninjew",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-12T07:39:14.056Z",
+  "product": "GEO my WP",
+  "vendor": "ninjew"
  },
  "CVE-2026-85520": {
   "checked_at": "2026-09-29T17:28:14.944507+00:00",
