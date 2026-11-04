@@ -14140,7 +14140,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2018-8033": {
-  "checked_at": "2026-10-28T19:47:09.565643+00:00",
+  "checked_at": "2026-11-04T20:53:41.821469+00:00",
   "cna_product": "Apache OFBiz",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -48339,6 +48339,26 @@
   "product": "AK-SM 8xxA Series",
   "vendor": "Danfoss"
  },
+ "CVE-2025-41451": {
+  "checked_at": "2026-11-04T20:53:41.821469+00:00",
+  "cna_product": "AK-SM8xxA Series",
+  "cna_vendor": "Danfoss",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-22T02:40:46.216Z",
+  "product": "AK-SM8xxA Series",
+  "vendor": "Danfoss"
+ },
+ "CVE-2025-41452": {
+  "checked_at": "2026-11-04T20:53:41.821469+00:00",
+  "cna_product": "AK-SM8xxA Series",
+  "cna_vendor": "Danfoss",
+  "cvss_score": 6.8,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-22T02:40:53.563Z",
+  "product": "AK-SM8xxA Series",
+  "vendor": "Danfoss"
+ },
  "CVE-2025-41646": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Revolution Pi webstatus",
@@ -50080,7 +50100,7 @@
   "vendor": "dlink"
  },
  "CVE-2025-60702": {
-  "checked_at": "2026-10-28T19:47:09.565643+00:00",
+  "checked_at": "2026-11-04T20:53:41.821469+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 6.5,
