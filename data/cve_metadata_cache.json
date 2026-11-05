@@ -23910,7 +23910,7 @@
   "vendor": "WordPress"
  },
  "CVE-2021-3006": {
-  "checked_at": "2026-10-29T12:07:51.975956+00:00",
+  "checked_at": "2026-11-05T19:21:21.204496+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26148,6 +26148,16 @@
   "date_published": "2021-12-07T21:10:49.000Z",
   "product": "central_authentication_service",
   "vendor": "apereo"
+ },
+ "CVE-2021-42911": {
+  "checked_at": "2026-11-05T19:21:21.204496+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2022-03-29T19:30:16.000Z",
+  "product": "vigor2960_firmware",
+  "vendor": "draytek"
  },
  "CVE-2021-42912": {
   "checked_at": "2026-10-29T22:01:40.845354+00:00",
@@ -43589,6 +43599,16 @@
   "product": "appsmith",
   "vendor": "appsmith"
  },
+ "CVE-2024-56000": {
+  "checked_at": "2026-11-05T19:21:21.204496+00:00",
+  "cna_product": "K Elements",
+  "cna_vendor": "SeventhQueen",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-02-18T19:54:27.556Z",
+  "product": "K Elements",
+  "vendor": "SeventhQueen"
+ },
  "CVE-2024-56064": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "WP SuperBackup",
@@ -46678,6 +46698,16 @@
   "date_published": "2025-03-10T14:34:39.328Z",
   "product": "Fresh Framework",
   "vendor": "FRESHFACE"
+ },
+ "CVE-2025-26966": {
+  "checked_at": "2026-11-05T19:21:21.204496+00:00",
+  "cna_product": "PrivateContent",
+  "cna_vendor": "Aldo Latino",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-02-25T14:17:57.838Z",
+  "product": "PrivateContent",
+  "vendor": "Aldo Latino"
  },
  "CVE-2025-26986": {
   "checked_at": "2026-10-27T03:18:48.213012+00:00",
@@ -51689,6 +51719,16 @@
   "product": "Connect Secure",
   "vendor": "Ivanti"
  },
+ "CVE-2026-111411": {
+  "checked_at": "2026-11-05T19:21:21.204496+00:00",
+  "cna_product": "FunnelKit Automations",
+  "cna_vendor": "Aman",
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-28T13:00:13.279Z",
+  "product": "FunnelKit Automations",
+  "vendor": "Aman"
+ },
  "CVE-2026-111497": {
   "checked_at": "2026-10-26T22:11:21.070578+00:00",
   "cna_product": "Brotli",
@@ -51918,6 +51958,16 @@
   "date_published": "2026-10-31T07:46:49.237Z",
   "product": "Uncanny Toolkit for LearnDash",
   "vendor": "uncannyowl"
+ },
+ "CVE-2026-119163": {
+  "checked_at": "2026-11-05T19:21:21.204496+00:00",
+  "cna_product": "FunnelKit Automations \u2013 Email Marketing Automation and CRM for WordPress & WooCommerce",
+  "cna_vendor": "teamfunnelkit",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-31T06:44:15.350Z",
+  "product": "FunnelKit Automations \u2013 Email Marketing Automation and CRM for WordPress & WooCommerce",
+  "vendor": "teamfunnelkit"
  },
  "CVE-2026-119977": {
   "checked_at": "2026-10-31T11:33:18.858252+00:00",
@@ -54280,7 +54330,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-05T10:11:58.039303+00:00",
+  "checked_at": "2026-11-05T19:21:21.204496+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54420,7 +54470,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-05T10:11:58.039303+00:00",
+  "checked_at": "2026-11-05T19:21:21.204496+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54520,7 +54570,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-05T10:11:58.039303+00:00",
+  "checked_at": "2026-11-05T19:21:21.204496+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
