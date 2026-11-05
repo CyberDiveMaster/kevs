@@ -30200,7 +30200,7 @@
   "vendor": "Atlassian"
  },
  "CVE-2022-36883": {
-  "checked_at": "2026-10-29T03:55:26.960102+00:00",
+  "checked_at": "2026-11-05T10:11:58.039303+00:00",
   "cna_product": "Jenkins Git Plugin",
   "cna_vendor": "Jenkins project",
   "cvss_score": null,
@@ -51369,6 +51369,16 @@
   "product": "YOOtheme Pro extension for Joomla",
   "vendor": "yootheme.com"
  },
+ "CVE-2026-102895": {
+  "checked_at": "2026-11-05T10:11:58.039303+00:00",
+  "cna_product": "gpustack",
+  "cna_vendor": "gpustack",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-11-04T21:16:59.842Z",
+  "product": "gpustack",
+  "vendor": "gpustack"
+ },
  "CVE-2026-103039": {
   "checked_at": "2026-10-30T17:36:54.568517+00:00",
   "cna_product": "Gravity Forms",
@@ -54270,7 +54280,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-05T01:14:56.948144+00:00",
+  "checked_at": "2026-11-05T10:11:58.039303+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54410,7 +54420,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-05T01:14:56.948144+00:00",
+  "checked_at": "2026-11-05T10:11:58.039303+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54510,7 +54520,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-05T01:14:56.948144+00:00",
+  "checked_at": "2026-11-05T10:11:58.039303+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -55460,7 +55470,7 @@
   "vendor": "n/a"
  },
  "CVE-2026-51990": {
-  "checked_at": "2026-10-29T03:55:26.960102+00:00",
+  "checked_at": "2026-11-05T10:11:58.039303+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": 9.8,
@@ -56658,6 +56668,16 @@
   "date_published": "2026-08-13T15:19:42.195Z",
   "product": "Collaboration",
   "vendor": "Zimbra"
+ },
+ "CVE-2026-73996": {
+  "checked_at": "2026-11-05T10:11:58.039303+00:00",
+  "cna_product": "Masteriyo - LMS",
+  "cna_vendor": "ThemeGrill",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-18T14:00:41.020Z",
+  "product": "Masteriyo - LMS",
+  "vendor": "ThemeGrill"
  },
  "CVE-2026-74232": {
   "checked_at": "2026-08-28T23:38:33.869066+00:00",
