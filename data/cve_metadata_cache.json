@@ -51929,6 +51929,16 @@
   "product": "ShowDoc",
   "vendor": "ShowDoc"
  },
+ "CVE-2026-120422": {
+  "checked_at": "2026-11-05T01:14:56.948144+00:00",
+  "cna_product": "Sogou Input Method",
+  "cna_vendor": "Sogou",
+  "cvss_score": 8.9,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-04T10:06:13.119Z",
+  "product": "Sogou Input Method",
+  "vendor": "Sogou"
+ },
  "CVE-2026-120534": {
   "checked_at": "2026-11-03T20:35:13.199892+00:00",
   "cna_product": "Advanced Custom Fields: Extended PRO",
@@ -54260,7 +54270,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-04T19:14:05.616874+00:00",
+  "checked_at": "2026-11-05T01:14:56.948144+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54400,7 +54410,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-04T19:14:05.616874+00:00",
+  "checked_at": "2026-11-05T01:14:56.948144+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54500,7 +54510,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-04T19:14:05.616874+00:00",
+  "checked_at": "2026-11-05T01:14:56.948144+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
