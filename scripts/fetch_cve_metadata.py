@@ -7,14 +7,16 @@ CVE_API_ORG, and CVE_API_USER to use one once available (header names
 are inferred from public CVE Services docs and unverified against a
 real account; adjust if they turn out wrong).
 
-Many CNA records (especially ones assigned by "mitre" itself as a
-fallback for reporters without their own CNA) leave vendor/product as a
-literal "n/a" placeholder rather than filling in structured `affected`
-data -- roughly 40% of this project's dataset as of 2026-08. When that
-happens, NVD's own curated CPE data is used as a fallback (the first
-cpeMatch entry's vendor/product), via services.nvd.nist.gov -- also
-rate-limited (5/30s unauthenticated; set NVD_API_KEY, a free instant
-signup unlike CVE Services, for 50/30s).
+Vendor / Product are NOT primarily taken from here: the viewer shows
+VulnCheck KEV's names (see fetch_vulncheck.py) and uses this module's
+cna_vendor/cna_product only for the few CVEs VulnCheck lacks a name for.
+The reason is that many CNA records (especially ones assigned by "mitre"
+itself as a fallback for reporters without their own CNA) leave
+vendor/product as a literal "n/a" placeholder rather than filling in
+structured `affected` data -- roughly 40% of this project's dataset.
+Until 2026-11 those gaps were filled from NVD's CPE data instead; that
+lookup is gone, and cache entries written back then still carry unused
+"vendor"/"product" keys holding the old displayed value.
 
 Results are cached in data/cve_metadata_cache.json (committed to the
 repo) so a run only has to fetch CVEs newly added to a KEV catalog since
@@ -23,14 +25,19 @@ many NEW lookups it performs (CVE_METADATA_MAX_PER_RUN) so an initial
 backfill of several thousand CVEs spreads across a few scheduled runs
 instead of blowing past GitHub Actions' 6-hour job limit.
 
-A cache entry is NOT permanent as long as its CNA-provided vendor/product
-is missing or "n/a": every RECHECK_INTERVAL it re-asks cve.org first (in
-case the CNA has since filled in real data -- cna_vendor/cna_product
-track what cve.org itself said, separately from the displayed
-vendor/product, so a later real CNA value always wins over an older NVD
-fallback), and only re-tries the NVD fallback if cve.org is still
-lacking. date_published/cvss_score missing entirely (most often a CVE
-still "RESERVED" and not yet published) is retried the same way.
+A cache entry is NOT permanent while date_published/cvss_score is missing
+(most often a CVE still "RESERVED" and not yet published, or an old one
+whose record never got a CVSS score): it is re-asked every
+RECHECK_INTERVAL. The same goes for a missing or "n/a" CNA
+vendor/product, but only for the CVEs the caller says it needs names for
+(`names_needed`) -- nearly every "n/a" record is named by VulnCheck anyway.
+
+Lookups also stop once CVE_METADATA_MAX_MINUTES have gone by; whatever is
+left waits for the next run. Without that, a run is all-or-nothing, which
+is what stalled the workflow from 2026-11-05: ~2,600 weekly re-checks had
+drifted onto the same day, and at 6s apiece the job hit its 240-minute
+timeout before it could save a single one -- so the next run faced the
+same 2,600, and so on for over a week.
 """
 import datetime
 import json
@@ -44,8 +51,11 @@ from http_util import USER_AGENT
 
 CVE_RE = re.compile(r"^CVE-(\d{4})-(\d{4,7})$")
 CVE_BASE_URL = "https://cveawg.mitre.org/api/cve"
-NVD_BASE_URL = "https://services.nvd.nist.gov/rest/json/cves/2.0"
 DEFAULT_MAX_PER_RUN = 5000
+# Half the workflow's 240-minute timeout: room for a slow cve.org and for
+# the rest of the build, and ~1,200 lookups per run at the unauthenticated
+# rate.
+DEFAULT_MAX_MINUTES = 120
 RECHECK_INTERVAL = datetime.timedelta(days=7)
 
 # A CVE that's still missing a date_published is usually one a KEV catalog
@@ -83,15 +93,6 @@ def _cve_auth_headers():
 def _cve_min_interval_seconds():
     # 5 req/30s unauthenticated, 50 req/30s with a CVE Services API key.
     return 30 / 50 if _cve_auth_headers() else 30 / 5
-
-
-def _nvd_auth_headers():
-    key = os.environ.get("NVD_API_KEY")
-    return {"apiKey": key} if key else {}
-
-
-def _nvd_min_interval_seconds():
-    return 30 / 50 if os.environ.get("NVD_API_KEY") else 30 / 5
 
 
 def _pick_cvss(metrics_lists):
@@ -140,38 +141,17 @@ def _fetch_cve_record(cve_id):
     return date_published, cvss_score, cvss_version, "; ".join(vendors) or None, "; ".join(products) or None
 
 
-def _fetch_nvd_vendor_product(cve_id):
-    """First cpeMatch entry's vendor/product from NVD's own CPE data, or
-    (None, None) if NVD has nothing usable (transient failure, no
-    configurations, or a wildcard-only match)."""
-    headers = {"User-Agent": USER_AGENT, **_nvd_auth_headers()}
-    try:
-        resp = requests.get(NVD_BASE_URL, params={"cveId": cve_id}, headers=headers, timeout=30)
-        resp.raise_for_status()
-        data = resp.json()
-    except requests.RequestException:
-        return None, None
-
-    for vuln in data.get("vulnerabilities") or []:
-        for config in vuln.get("cve", {}).get("configurations") or []:
-            for node in config.get("nodes", []):
-                for match in node.get("cpeMatch", []):
-                    parts = match.get("criteria", "").split(":")
-                    if len(parts) <= 4:
-                        continue
-                    vendor, product = parts[3], parts[4]
-                    if vendor and vendor != "*":
-                        return vendor, (product if product and product != "*" else None)
-    return None, None
-
-
 def _is_placeholder(value):
     return value is None or value == "n/a"
 
 
-def _is_incomplete(entry):
+def _is_incomplete(cve_id, entry, names_needed):
+    """names_needed: the CVE IDs whose vendor/product the caller actually
+    takes from here, or None for all of them."""
     if entry.get("date_published") is None or entry.get("cvss_score") is None:
         return True
+    if names_needed is not None and cve_id not in names_needed:
+        return False
     return _is_placeholder(entry.get("cna_vendor")) or _is_placeholder(entry.get("cna_product"))
 
 
@@ -196,14 +176,14 @@ def _recheck_interval(cve_id, entry, now):
     return RECHECK_INTERVAL
 
 
-def _needs_recheck(cve_id, entry, now):
-    # Entries cached before cna_vendor/cna_product existed (pre-NVD-fallback)
-    # were never evaluated against the current logic at all -- force one
-    # fresh check regardless of checked_at, rather than making them wait
-    # out a RECHECK_INTERVAL they were never actually subject to.
+def _needs_recheck(cve_id, entry, now, names_needed):
+    # Entries cached before cna_vendor/cna_product existed were never
+    # evaluated against the current logic at all -- force one fresh check
+    # regardless of checked_at, rather than making them wait out a
+    # RECHECK_INTERVAL they were never actually subject to.
     if "cna_vendor" not in entry or "cna_product" not in entry:
         return True
-    if not _is_incomplete(entry):
+    if not _is_incomplete(cve_id, entry, names_needed):
         return False
     checked_at = entry.get("checked_at")
     if not checked_at:
@@ -229,21 +209,35 @@ def save_cache(path, cache):
         f.write("\n")
 
 
-def ensure_metadata(cve_ids, cache_path, max_per_run=None):
+def ensure_metadata(cve_ids, cache_path, names_needed=None, max_per_run=None):
+    """names_needed: CVE IDs whose vendor/product the caller will take from
+    this cache (the rest get theirs elsewhere), so only these are worth
+    re-asking cve.org about while it still says "n/a". None = all."""
     if max_per_run is None:
         max_per_run = int(os.environ.get("CVE_METADATA_MAX_PER_RUN", DEFAULT_MAX_PER_RUN))
     cve_min_interval = _cve_min_interval_seconds()
-    nvd_min_interval = _nvd_min_interval_seconds()
     now = datetime.datetime.now(datetime.timezone.utc)
 
     cache = load_cache(cache_path)
-    due = [c for c in cve_ids if CVE_RE.match(c) and (c not in cache or _needs_recheck(c, cache[c], now))]
+    due = [
+        c for c in cve_ids
+        if CVE_RE.match(c) and (c not in cache or _needs_recheck(c, cache[c], now, names_needed))
+    ]
+    # Never-seen CVEs first (stable sort, so ID order is kept within each
+    # group): a newly listed CVE with no date at all matters more than a
+    # re-check that will most likely change nothing, and either cap below
+    # may cut the list short.
+    due.sort(key=lambda c: c in cache)
     due = due[:max_per_run]
+    budget_seconds = 60 * float(os.environ.get("CVE_METADATA_MAX_MINUTES", DEFAULT_MAX_MINUTES))
+    started_at = time.monotonic()
 
     fetched = 0
     last_cve_request_at = 0.0
-    last_nvd_request_at = 0.0
-    for cve_id in due:
+    for done, cve_id in enumerate(due):
+        if time.monotonic() - started_at > budget_seconds:
+            print(f"  time budget reached; {len(due) - done} lookup(s) left for the next run")
+            break
         elapsed = time.monotonic() - last_cve_request_at
         if elapsed < cve_min_interval:
             time.sleep(cve_min_interval - elapsed)
@@ -254,25 +248,10 @@ def ensure_metadata(cve_ids, cache_path, max_per_run=None):
             continue  # transient failure -- leave uncached (or stale), retry next run
         date_published, cvss_score, cvss_version, cna_vendor, cna_product = result
 
-        vendor, product = cna_vendor, cna_product
-        if _is_placeholder(cna_vendor) or _is_placeholder(cna_product):
-            elapsed = time.monotonic() - last_nvd_request_at
-            if elapsed < nvd_min_interval:
-                time.sleep(nvd_min_interval - elapsed)
-            last_nvd_request_at = time.monotonic()
-
-            nvd_vendor, nvd_product = _fetch_nvd_vendor_product(cve_id)
-            if _is_placeholder(cna_vendor) and nvd_vendor:
-                vendor = nvd_vendor
-            if _is_placeholder(cna_product) and nvd_product:
-                product = nvd_product
-
         cache[cve_id] = {
             "date_published": date_published,
             "cvss_score": cvss_score,
             "cvss_version": cvss_version,
-            "vendor": vendor,
-            "product": product,
             "cna_vendor": cna_vendor,
             "cna_product": cna_product,
             "checked_at": now.isoformat(),

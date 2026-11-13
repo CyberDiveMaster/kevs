@@ -1,7 +1,8 @@
 """Orchestrator: fetch all 5 KEV catalogs, take their union, look up
-Date Published / CVSS / Vendor / Product for every CVE from the official
-CVE Program record, and export docs/data/kevs.json + meta.json for the
-static Tabulator viewer.
+Date Published / CVSS for every CVE from the official CVE Program record,
+name its Vendor / Product from VulnCheck KEV (the CVE Program record only
+where VulnCheck has none), and export docs/data/kevs.json + meta.json for
+the static Tabulator viewer.
 
 Any single source failing raises and aborts the whole build (non-zero
 exit) rather than silently exporting a partial dataset -- a transient
@@ -53,8 +54,19 @@ def main():
     all_cve_ids = sorted(set(cisa) | set(enisa) | set(circl) | set(vulncheck) | set(kevintel))
     print(f"Union: {len(all_cve_ids)} unique CVEs")
 
-    print("Resolving CVE metadata (Date Published / CVSS / Vendor / Product)...")
-    metadata, fetched = ensure_metadata(all_cve_ids, CACHE_PATH)
+    # Vendor / Product come from VulnCheck wherever it has both. cve.org's
+    # own names only matter for the handful of CVEs where it doesn't, so
+    # those are the only ones worth re-asking cve.org about while its
+    # record still says "n/a".
+    names_needed = {
+        c for c in all_cve_ids
+        if not (c in vulncheck and vulncheck[c]["vendor"] and vulncheck[c]["product"])
+    }
+    print(f"Vendor/Product: VulnCheck names {len(all_cve_ids) - len(names_needed)} CVEs, "
+          f"{len(names_needed)} fall back to cve.org")
+
+    print("Resolving CVE metadata (Date Published / CVSS / fallback Vendor / Product)...")
+    metadata, fetched = ensure_metadata(all_cve_ids, CACHE_PATH, names_needed=names_needed)
     print(f"  fetched {fetched} new record(s), {len(metadata)} cached total")
 
     # EPSS only changes once/day (FIRST.org publishes ~13:30 UTC) -- only
@@ -74,12 +86,13 @@ def main():
     for cve_id in all_cve_ids:
         enisa_entry = enisa.get(cve_id)
         circl_entry = circl.get(cve_id)
+        vulncheck_entry = vulncheck.get(cve_id) or {}
         catalog_dates = {
             "cisa_added": cisa.get(cve_id),
             "enisa_added": enisa_entry["date_added"] if enisa_entry else None,
             "circl_added": circl_entry["date_added"] if circl_entry else None,
             "kevintel_added": kevintel.get(cve_id),
-            "vulncheck_added": vulncheck.get(cve_id),
+            "vulncheck_added": vulncheck_entry.get("date_added"),
         }
         present_dates = [d for d in catalog_dates.values() if d]
         active_since = min(present_dates) if present_dates else None
@@ -97,21 +110,11 @@ def main():
                 datetime.date.fromisoformat(active_since)
                 - datetime.date.fromisoformat(date_published[:10])
             ).days
-        vendor, product = meta.get("vendor"), meta.get("product")
-        # cna_vendor/cna_product are only absent for cache entries from
-        # before the NVD fallback existed -- treat "key genuinely missing"
-        # as "unknown, not NVD" rather than mistaking every pre-migration
-        # CNA-sourced value (the vast majority of the cache) for an NVD one.
-        # Once such an entry is (re)fetched, the key always exists (as a
-        # real value or explicit None), so this self-corrects over time.
-        vendor_from_nvd = (
-            vendor is not None and "cna_vendor" in meta
-            and meta["cna_vendor"] in (None, "n/a")
-        )
-        product_from_nvd = (
-            product is not None and "cna_product" in meta
-            and meta["cna_product"] in (None, "n/a")
-        )
+        # Per field, not per row: VulnCheck occasionally has a vendor but
+        # no product. The cve.org value is passed through as-is, so a CNA
+        # that wrote a literal "n/a" still shows as "n/a".
+        vendor = vulncheck_entry.get("vendor") or meta.get("cna_vendor")
+        product = vulncheck_entry.get("product") or meta.get("cna_product")
         epss_entry = epss_data.get(cve_id) or {}
         rows.append({
             "cve_id": cve_id,
@@ -127,9 +130,7 @@ def main():
             "epss_trend_delta": epss_entry.get("trend_delta"),
             "epss_deltas": epss_entry.get("deltas") or {},
             "vendor": vendor,
-            "vendor_from_nvd": vendor_from_nvd,
             "product": product,
-            "product_from_nvd": product_from_nvd,
             "active_since": active_since,
             "days_to_active": days_to_active,
             "enisa_id": enisa_entry["enisa_id"] if enisa_entry else None,

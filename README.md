@@ -77,7 +77,7 @@ LinkedInの共有エンドポイントはURL以外のパラメータを受け付
 必要な登録制なので、未認証運用が既定。一度取得した内容は
 `data/cve_metadata_cache.json` にキャッシュし、次回以降は新規CVEのみ
 追加取得する。1回の実行で新規取得するCVE数は `CVE_METADATA_MAX_PER_RUN`
-(既定5000件。CVE Services/NVD双方のAPIキー認証済みなら和集合全体を
+(既定5000件。CVE ServicesのAPIキー認証済みなら和集合全体を
 1回でカバーできる想定)で上限を設けている。未認証運用の場合は現状
 (和集合約5,200件)の初回バックフィルが1回では終わらず、3時間おきの
 定期実行に自然に分散される点に注意。GitHub Actionsの1ジョブ6時間上限
@@ -92,16 +92,36 @@ CVE Servicesのアカウントを取得できた場合は、Secretsに以下の3
 - `CVE_API_ORG`
 - `CVE_API_USER`
 
-**Vendor/Productの"n/a"問題とNVDフォールバック:** cve.orgのCNAレコードは
-約4割が vendor/product を "n/a" のまま(特に担当CNAが具体的な報告元を持たず
-「mitre」が汎用的に受け付けたレコードに多い)。この場合、NVD
-( `services.nvd.nist.gov` )のCPEデータ(先頭の一致のみ採用)で補完する。
-NVDも別途レート制限があるが、CVE Servicesと違い**誰でも即時に無料APIキーを
-自己発行できる**ので、`NVD_API_KEY` を発行して登録することを推奨。
-補完した値はViewer上でVendor/Product列に薄い「NVD」ヒントタグを表示して
-区別する。cve.org側のCNAレコードが後日更新されて実データが入った場合は、
-7日ごとの再チェック(既存のnullフィールド再チェックの仕組みを流用)で
-自動的にcve.org側の値へ差し替わる。
+**Vendor/Productの取得元はVulnCheck KEV:** Vendor/Product列は、VulnCheck
+KEVの各エントリが持つ `vendorProject` / `product` をそのまま表示する
+(すでに取得している全件バックアップに含まれるので追加の通信は無い)。
+VulnCheck KEVは和集合の99%以上を掲載しており、2026-11-13の実測では
+5,899件中5,896件(CISA未掲載の4,120件に限っても4,117件)で両方が
+埋まっていた。Vendorは1社1表記に揃っている(大文字小文字の揺れ0件)。
+VulnCheckに掲載が無い、または値が空のCVE(十数件)だけ、項目単位で
+cve.orgのCNAレコードの値にフォールバックする。
+
+cve.orgを主にしない理由は、CNAレコードの約4割が vendor/product を "n/a"
+のままにしているため(特に担当CNAが具体的な報告元を持たず「mitre」が
+汎用的に受け付けたレコードに多い)。2026-11まではこの穴をNVD
+( `services.nvd.nist.gov` )のCPEデータで埋めていたが、廃止した。
+理由は3つ: (1) cve.org由来とNVD由来で表記が混在し(Microsoft /
+microsoft / Microsoft Corporation)、Vendorフィルタで取りこぼしが出ていた、
+(2) NVD側のCPE付与が縮小傾向にある、(3) cve.orgへの7日ごとの再確認
+("n/a" のVendor/ProductとCVSS欠落、あわせて約2,600件)が同じ日に集中し、
+待ち時間だけで240分のタイムアウトを超えて、2026-11-05から自動更新が
+毎回打ち切られていた(何も保存されないので次回も同じ件数になる)。
+現在は、Vendor/Product目的の再確認をフォールバックが実際に必要なCVE
+だけに絞り、さらにcve.orgへの照会に使う時間に上限
+(`CVE_METADATA_MAX_MINUTES`、既定120分)を設けている。上限に達したら
+そこまでの結果を保存して公開まで進み、残りは次回の実行に回す
+(初めて見るCVEを先に照会する)。
+
+注意点: CISA未掲載分のVulnCheckの値は半分ほどがCPE風の小文字表記
+(`debian` / `debian_linux`)で、Productは1つの文字列にまとめられている
+(cve.orgのように複数製品を列挙しない)。なお
+`data/cve_metadata_cache.json` の古いエントリには、当時の表示値を入れた
+`vendor` / `product` キーが残っているが、現在は参照していない。
 
 ### EPSS(悪用予測スコア)
 
@@ -157,8 +177,6 @@ CVSS Scoreの右にEPSS列を追加(FIRST.org、`epss.empiricalsecurity.com/epss
    CVE ServicesのAPIキーを取得できた場合は、追加で以下3つも登録する
    (任意。未登録なら未認証のまま動作する):
    - `CVE_API_KEY` / `CVE_API_ORG` / `CVE_API_USER`
-   NVD APIキー(無料・即時発行)も登録推奨:
-   - `NVD_API_KEY`
 3. リポジトリの Settings → Pages で、Source を `Deploy from a branch`、
    Branch を `main` / `/docs` に設定。
 4. Actions タブから `Update KEV data` を手動実行(workflow_dispatch)して
