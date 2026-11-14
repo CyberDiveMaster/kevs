@@ -41523,6 +41523,14 @@
   "product": "Hash Form \u2013 Drag & Drop Form Builder",
   "vendor": "hashthemes"
  },
+ "CVE-2024-9441": {
+  "checked_at": "2026-11-14T19:24:21.632426+00:00",
+  "cna_product": "eMerge e3-Series",
+  "cna_vendor": "Linear",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2024-10-02T18:50:10.938Z"
+ },
  "CVE-2024-9463": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Expedition",
@@ -48823,6 +48831,14 @@
   "product": "GFI KerioConnect",
   "vendor": "GFI USA, LLC"
  },
+ "CVE-2026-112359": {
+  "checked_at": "2026-11-14T19:24:21.632426+00:00",
+  "cna_product": "WPMobile.App",
+  "cna_vendor": "Amauri.IO",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-23T08:00:10.686Z"
+ },
  "CVE-2026-1125": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "DIR-823X",
@@ -49074,6 +49090,14 @@
   "cvss_score": 6.5,
   "cvss_version": "3.1",
   "date_published": "2026-10-30T03:09:13.976Z"
+ },
+ "CVE-2026-118635": {
+  "checked_at": "2026-11-14T19:24:21.632426+00:00",
+  "cna_product": "GeoDirectory \u2013 WP Business Directory Plugin and Classified Listings Directory",
+  "cna_vendor": "paoltaia",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-30T17:15:27.562Z"
  },
  "CVE-2026-11907": {
   "checked_at": "2026-09-10T17:48:33.413075+00:00",
@@ -49444,6 +49468,14 @@
   "date_published": "2026-01-29T21:33:11.768Z",
   "product": "Endpoint Manager Mobile",
   "vendor": "Ivanti"
+ },
+ "CVE-2026-13423": {
+  "checked_at": "2026-11-14T19:24:21.632426+00:00",
+  "cna_product": "Streamit",
+  "cna_vendor": "Unknown",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-29T06:00:02.283Z"
  },
  "CVE-2026-1357": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -51794,7 +51826,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-14T12:50:45.679108+00:00",
+  "checked_at": "2026-11-14T19:24:21.632426+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51891,6 +51923,14 @@
   "product": "qinglong",
   "vendor": "whyour"
  },
+ "CVE-2026-39732": {
+  "checked_at": "2026-11-14T19:24:21.632426+00:00",
+  "cna_product": "Transliterator",
+  "cna_vendor": "INTINITUM FORM",
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-30T18:30:33.419Z"
+ },
  "CVE-2026-39738": {
   "checked_at": "2026-11-01T12:30:19.180122+00:00",
   "cna_product": "FunnelKit Automations",
@@ -51940,7 +51980,7 @@
   "date_published": "2026-05-20T01:25:47.803Z"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-14T12:50:45.679108+00:00",
+  "checked_at": "2026-11-14T19:24:21.632426+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52038,7 +52078,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-14T12:50:45.679108+00:00",
+  "checked_at": "2026-11-14T19:24:21.632426+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53241,6 +53281,14 @@
   "cvss_version": "3.1",
   "date_published": "2026-06-26T14:52:20.469Z"
  },
+ "CVE-2026-54831": {
+  "checked_at": "2026-11-14T19:24:21.632426+00:00",
+  "cna_product": "GeoDirectory",
+  "cna_vendor": "AyeCode Ltd",
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-26T14:52:22.424Z"
+ },
  "CVE-2026-54836": {
   "checked_at": "2026-10-29T19:47:16.306216+00:00",
   "cna_product": "YMC Filter",
@@ -53617,6 +53665,14 @@
   "product": "Cloud Foundation; vSphere Foundation; vCenter; Telco Cloud Infrastructure; Telco Cloud Platform",
   "vendor": "VMware"
  },
+ "CVE-2026-59514": {
+  "checked_at": "2026-11-14T19:24:21.632426+00:00",
+  "cna_product": "Buddyboss Platform",
+  "cna_vendor": "BuddyBoss",
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-23T11:18:15.675Z"
+ },
  "CVE-2026-59553": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Product Feed Manager",
@@ -53734,6 +53790,22 @@
   "date_published": "2026-08-13T13:36:45.984Z",
   "product": "SAML SP Single Sign On",
   "vendor": "miniOrange"
+ },
+ "CVE-2026-61991": {
+  "checked_at": "2026-11-14T19:24:21.632426+00:00",
+  "cna_product": "AjaxLoadMore Cache",
+  "cna_vendor": "Ajax Load More",
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-29T15:24:08.677Z"
+ },
+ "CVE-2026-62031": {
+  "checked_at": "2026-11-14T19:24:21.632426+00:00",
+  "cna_product": "uListing",
+  "cna_vendor": "StylemixThemes",
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-10T19:35:31.204Z"
  },
  "CVE-2026-62032": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
