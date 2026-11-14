@@ -48205,6 +48205,14 @@
   "product": "Ninja Forms - File Uploads",
   "vendor": "SaturdayDrive"
  },
+ "CVE-2026-0766": {
+  "checked_at": "2026-11-14T04:32:04.940204+00:00",
+  "cna_product": null,
+  "cna_vendor": null,
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2026-01-23T03:28:35.773Z"
+ },
  "CVE-2026-0768": {
   "checked_at": "2026-08-29T17:48:45.994201+00:00",
   "cna_product": "Langflow",
@@ -51778,7 +51786,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-14T04:32:04.940204+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51924,7 +51932,7 @@
   "date_published": "2026-05-20T01:25:47.803Z"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-14T04:32:04.940204+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52022,7 +52030,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-14T04:32:04.940204+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
