@@ -51557,6 +51557,14 @@
   "product": "CMS",
   "vendor": "MaxSite"
  },
+ "CVE-2026-34151": {
+  "checked_at": "2026-11-14T12:50:45.679108+00:00",
+  "cna_product": "xwiki-platform",
+  "cna_vendor": "xwiki",
+  "cvss_score": 8.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-09-14T17:12:18.814Z"
+ },
  "CVE-2026-34197": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Apache ActiveMQ Broker; Apache ActiveMQ All; Apache ActiveMQ",
@@ -51786,7 +51794,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-14T04:32:04.940204+00:00",
+  "checked_at": "2026-11-14T12:50:45.679108+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51932,7 +51940,7 @@
   "date_published": "2026-05-20T01:25:47.803Z"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-14T04:32:04.940204+00:00",
+  "checked_at": "2026-11-14T12:50:45.679108+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52030,7 +52038,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-14T04:32:04.940204+00:00",
+  "checked_at": "2026-11-14T12:50:45.679108+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -54934,6 +54942,14 @@
   "date_published": "2026-09-03T16:31:44.890Z",
   "product": "Mail Mint",
   "vendor": "WPFunnels"
+ },
+ "CVE-2026-84761": {
+  "checked_at": "2026-11-14T12:50:45.679108+00:00",
+  "cna_product": "LiteSpeed Cache",
+  "cna_vendor": "Hai Zheng / Lite Speed Cache",
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-03T16:31:47.490Z"
  },
  "CVE-2026-84813": {
   "checked_at": "2026-09-08T18:01:29.345380+00:00",
