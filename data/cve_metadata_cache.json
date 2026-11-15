@@ -49435,6 +49435,14 @@
   "product": "Windchill PDMLink; FlexPLM",
   "vendor": "PTC"
  },
+ "CVE-2026-125795": {
+  "checked_at": "2026-11-15T19:55:07.822636+00:00",
+  "cna_product": "Estatik",
+  "cna_vendor": "Estatik",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-11-15T15:09:10.294Z"
+ },
  "CVE-2026-125883": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
   "cna_product": "N-central",
@@ -54380,6 +54388,14 @@
   "date_published": "2026-08-18T14:00:00.719Z",
   "product": "Extra Product Options & Add-Ons for WooCommerce",
   "vendor": "ThemeComplete"
+ },
+ "CVE-2026-73186": {
+  "checked_at": "2026-11-15T19:55:07.822636+00:00",
+  "cna_product": "Enable Media Replace",
+  "cna_vendor": "ShortPixel",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-30T18:30:39.660Z"
  },
  "CVE-2026-73343": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
