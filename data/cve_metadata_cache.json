@@ -35167,6 +35167,14 @@
   "product": "Endpoint Manager",
   "vendor": "Ivanti"
  },
+ "CVE-2024-13320": {
+  "checked_at": "2026-11-15T18:22:21.984909+00:00",
+  "cna_product": "CURCY - WooCommerce Multi Currency - Currency Switcher",
+  "cna_vendor": "villatheme",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-03-07T06:40:04.043Z"
+ },
  "CVE-2024-13365": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Login Security, FireWall, Malware removal by CleanTalk",
@@ -49153,6 +49161,14 @@
   "cvss_version": "3.1",
   "date_published": "2026-11-11T06:00:10.545Z"
  },
+ "CVE-2026-119618": {
+  "checked_at": "2026-11-15T18:22:21.984909+00:00",
+  "cna_product": "Apache HTTP Server",
+  "cna_vendor": "Apache Software Foundation",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-11-11T14:54:08.155Z"
+ },
  "CVE-2026-119714": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
   "cna_product": "My Calendar - Accessible Event Manager",
@@ -49252,6 +49268,14 @@
   "date_published": "2026-06-25T03:42:21.333Z",
   "product": "Dokan Pro",
   "vendor": "wedevs"
+ },
+ "CVE-2026-121653": {
+  "checked_at": "2026-11-15T18:22:21.984909+00:00",
+  "cna_product": "Endpoint Manager",
+  "cna_vendor": "ivanti",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-11-10T15:28:19.820Z"
  },
  "CVE-2026-12227": {
   "checked_at": "2026-10-08T20:33:12.897595+00:00",
@@ -49556,6 +49580,14 @@
   "date_published": "2026-02-19T04:36:09.197Z",
   "product": "Slider Future",
   "vendor": "franchidesign"
+ },
+ "CVE-2026-14307": {
+  "checked_at": "2026-11-15T18:22:21.984909+00:00",
+  "cna_product": "geotargetingwp",
+  "cna_vendor": "Unknown",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-30T06:00:18.078Z"
  },
  "CVE-2026-14359": {
   "checked_at": "2026-09-09T17:56:06.063158+00:00",
@@ -51842,7 +51874,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-15T10:16:54.283422+00:00",
+  "checked_at": "2026-11-15T18:22:21.984909+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51996,7 +52028,7 @@
   "date_published": "2026-05-20T01:25:47.803Z"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-15T10:16:54.283422+00:00",
+  "checked_at": "2026-11-15T18:22:21.984909+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52094,7 +52126,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-15T10:16:54.283422+00:00",
+  "checked_at": "2026-11-15T18:22:21.984909+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
