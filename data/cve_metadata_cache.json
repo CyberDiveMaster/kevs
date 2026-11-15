@@ -32623,6 +32623,14 @@
   "product": "OA",
   "vendor": "Tongda"
  },
+ "CVE-2023-41662": {
+  "checked_at": "2026-11-15T00:37:47.847831+00:00",
+  "cna_product": "WP-dTree",
+  "cna_vendor": "Ulf Benjaminsson",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2023-09-29T13:39:29.119Z"
+ },
  "CVE-2023-4169": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "RG-EW1200G",
@@ -49411,6 +49419,14 @@
   "cvss_version": "4.0",
   "date_published": "2026-11-10T21:19:11.273Z"
  },
+ "CVE-2026-126173": {
+  "checked_at": "2026-11-15T00:37:47.847831+00:00",
+  "cna_product": "AutomatorWP Webhooks",
+  "cna_vendor": "AutomatorWP",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-11-14T04:46:10.057Z"
+ },
  "CVE-2026-126537": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
   "cna_product": "Ninja Forms - File Uploads",
@@ -53348,6 +53364,14 @@
   "date_published": "2026-07-10T15:28:27.620Z",
   "product": "9router",
   "vendor": "decolua"
+ },
+ "CVE-2026-55559": {
+  "checked_at": "2026-11-15T00:37:47.847831+00:00",
+  "cna_product": "yamcs",
+  "cna_vendor": "yamcs",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-28T17:22:07.633Z"
  },
  "CVE-2026-55786": {
   "checked_at": "2026-10-14T18:49:00.542025+00:00",
