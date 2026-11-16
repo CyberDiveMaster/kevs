@@ -49231,6 +49231,14 @@
   "cvss_version": "4.0",
   "date_published": "2026-11-02T14:29:06.068Z"
  },
+ "CVE-2026-120468": {
+  "checked_at": "2026-11-16T00:37:45.037949+00:00",
+  "cna_product": "AcyMailing extension for Joomla",
+  "cna_vendor": "Datasolution",
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-12T18:00:37.079Z"
+ },
  "CVE-2026-120531": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
   "cna_product": "Subscribe2 \u2013 Form, Email Subscribers & Newsletters",
@@ -51882,7 +51890,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-15T18:22:21.984909+00:00",
+  "checked_at": "2026-11-16T00:37:45.037949+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52036,7 +52044,7 @@
   "date_published": "2026-05-20T01:25:47.803Z"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-15T18:22:21.984909+00:00",
+  "checked_at": "2026-11-16T00:37:45.037949+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52134,7 +52142,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-15T18:22:21.984909+00:00",
+  "checked_at": "2026-11-16T00:37:45.037949+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
