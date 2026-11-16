@@ -38645,6 +38645,14 @@
   "product": "Atarim",
   "vendor": "Vito Peleg"
  },
+ "CVE-2024-38795": {
+  "checked_at": "2026-11-16T10:30:45.871482+00:00",
+  "cna_product": "ListingPro",
+  "cna_vendor": "Emraan Cheema",
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2024-08-29T14:08:46.179Z"
+ },
  "CVE-2024-38812": {
   "checked_at": "2026-10-29T22:01:40.845354+00:00",
   "cna_product": "VMware vCenter Server; VMware Cloud Foundation",
@@ -49459,6 +49467,14 @@
   "cvss_version": "4.0",
   "date_published": "2026-11-10T21:19:11.273Z"
  },
+ "CVE-2026-126081": {
+  "checked_at": "2026-11-16T10:30:45.871482+00:00",
+  "cna_product": "rails",
+  "cna_vendor": "rails",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-11-10T21:06:31.425Z"
+ },
  "CVE-2026-126173": {
   "checked_at": "2026-11-15T00:37:47.847831+00:00",
   "cna_product": "AutomatorWP Webhooks",
@@ -51890,7 +51906,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-16T00:37:45.037949+00:00",
+  "checked_at": "2026-11-16T10:30:45.871482+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52044,7 +52060,7 @@
   "date_published": "2026-05-20T01:25:47.803Z"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-16T00:37:45.037949+00:00",
+  "checked_at": "2026-11-16T10:30:45.871482+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52142,7 +52158,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-16T00:37:45.037949+00:00",
+  "checked_at": "2026-11-16T10:30:45.871482+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53248,6 +53264,14 @@
   "cvss_score": 9.8,
   "cvss_version": "3.1",
   "date_published": "2026-06-23T18:17:18.936Z"
+ },
+ "CVE-2026-53995": {
+  "checked_at": "2026-11-16T10:30:45.871482+00:00",
+  "cna_product": "mlflow",
+  "cna_vendor": "mlflow",
+  "cvss_score": 8.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-19T21:05:16.530Z"
  },
  "CVE-2026-54066": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -55874,6 +55898,14 @@
   "date_published": "2026-10-10T07:41:43.527Z",
   "product": "Appointment Booking Plugin \u2013 LatePoint | Calendar & Scheduling for WordPress",
   "vendor": "latepoint"
+ },
+ "CVE-2026-96822": {
+  "checked_at": "2026-11-16T10:30:45.871482+00:00",
+  "cna_product": "Books Gallery",
+  "cna_vendor": "Hossni Mubarak",
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-30T12:27:35.569Z"
  },
  "CVE-2026-96834": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
