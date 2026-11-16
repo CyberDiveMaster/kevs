@@ -49351,6 +49351,14 @@
   "cvss_version": "3.1",
   "date_published": "2026-11-09T06:00:29.165Z"
  },
+ "CVE-2026-124004": {
+  "checked_at": "2026-11-16T21:31:30.082098+00:00",
+  "cna_product": "XWEB EVO",
+  "cna_vendor": "Copeland",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-12T19:41:02.897Z"
+ },
  "CVE-2026-124010": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
   "cna_product": "XWEB EVO",
@@ -49688,6 +49696,14 @@
   "cvss_score": 6.5,
   "cvss_version": "3.1",
   "date_published": "2026-10-31T11:28:43.836Z"
+ },
+ "CVE-2026-15360": {
+  "checked_at": "2026-11-16T21:31:30.082098+00:00",
+  "cna_product": "Ajax Load More",
+  "cna_vendor": "Unknown",
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-05T06:00:12.225Z"
  },
  "CVE-2026-15369": {
   "checked_at": "2026-09-01T00:19:10.130515+00:00",
@@ -51906,7 +51922,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-16T10:30:45.871482+00:00",
+  "checked_at": "2026-11-16T21:31:30.082098+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52060,7 +52076,7 @@
   "date_published": "2026-05-20T01:25:47.803Z"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-16T10:30:45.871482+00:00",
+  "checked_at": "2026-11-16T21:31:30.082098+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52158,7 +52174,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-16T10:30:45.871482+00:00",
+  "checked_at": "2026-11-16T21:31:30.082098+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -55256,6 +55272,14 @@
   "date_published": "2026-09-04T14:32:33.110Z",
   "product": "ten-framework",
   "vendor": "TEN-framework"
+ },
+ "CVE-2026-85705": {
+  "checked_at": "2026-11-16T21:31:30.082098+00:00",
+  "cna_product": "Location Manager",
+  "cna_vendor": "AyeCode Ltd",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-18T07:40:05.690Z"
  },
  "CVE-2026-85706": {
   "checked_at": "2026-09-14T08:59:10.739237+00:00",
