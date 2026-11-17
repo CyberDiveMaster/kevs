@@ -15915,6 +15915,14 @@
   "cvss_version": null,
   "date_published": "2020-05-21T22:52:55.000Z"
  },
+ "CVE-2020-10666": {
+  "checked_at": "2026-11-17T18:02:44.019596+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2021-05-31T11:40:41.000Z"
+ },
  "CVE-2020-10684": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
   "cna_product": "Ansible",
@@ -47375,6 +47383,14 @@
   "product": "FortiSIEM",
   "vendor": "Fortinet"
  },
+ "CVE-2025-64188": {
+  "checked_at": "2026-11-17T18:02:44.019596+00:00",
+  "cna_product": "Soledad",
+  "cna_vendor": "PenciDesign",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-18T07:22:10.139Z"
+ },
  "CVE-2025-64328": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "filestore",
@@ -48008,6 +48024,14 @@
   "date_published": "2025-08-08T11:11:41.842Z",
   "product": "WinRAR",
   "vendor": "win.rar GmbH"
+ },
+ "CVE-2025-8105": {
+  "checked_at": "2026-11-17T18:02:44.019596+00:00",
+  "cna_product": "Soledad",
+  "cna_vendor": "pencidesign",
+  "cvss_score": 7.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-08-16T11:11:24.459Z"
  },
  "CVE-2025-8110": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -48765,6 +48789,14 @@
   "cvss_version": "4.0",
   "date_published": "2026-10-14T18:15:11.641Z"
  },
+ "CVE-2026-110618": {
+  "checked_at": "2026-11-17T18:02:44.019596+00:00",
+  "cna_product": "SmsForwarder",
+  "cna_vendor": "pppscn",
+  "cvss_score": 8.6,
+  "cvss_version": "4.0",
+  "date_published": "2026-10-14T14:16:56.635Z"
+ },
  "CVE-2026-110628": {
   "checked_at": "2026-11-13T20:57:44.251184+00:00",
   "cna_product": "kan",
@@ -49325,6 +49357,14 @@
   "cvss_version": "3.1",
   "date_published": "2026-11-10T15:28:19.820Z"
  },
+ "CVE-2026-121684": {
+  "checked_at": "2026-11-17T18:02:44.019596+00:00",
+  "cna_product": "Soledad",
+  "cna_vendor": "pencidesign",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-11-17T04:43:47.529Z"
+ },
  "CVE-2026-12227": {
   "checked_at": "2026-10-08T20:33:12.897595+00:00",
   "cna_product": "Visual Composer Website Builder",
@@ -49481,6 +49521,14 @@
   "product": "Paid Membership Plugin, Ecommerce, User Registration Form, Login Form, User Profile & Restrict Content",
   "vendor": "Unknown"
  },
+ "CVE-2026-125160": {
+  "checked_at": "2026-11-17T18:02:44.019596+00:00",
+  "cna_product": "TYPO3 CMS",
+  "cna_vendor": "TYPO3",
+  "cvss_score": 6.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-17T11:11:10.151Z"
+ },
  "CVE-2026-125350": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
   "cna_product": "Chrome",
@@ -49506,6 +49554,14 @@
   "cvss_score": 9.8,
   "cvss_version": "3.1",
   "date_published": "2026-11-15T15:09:10.294Z"
+ },
+ "CVE-2026-125882": {
+  "checked_at": "2026-11-17T18:02:44.019596+00:00",
+  "cna_product": "N-central",
+  "cna_vendor": "N-able",
+  "cvss_score": 8.6,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-10T21:25:23.173Z"
  },
  "CVE-2026-125883": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
@@ -49566,6 +49622,14 @@
   "date_published": "2026-01-29T21:31:17.041Z",
   "product": "Endpoint Manager Mobile",
   "vendor": "Ivanti"
+ },
+ "CVE-2026-129448": {
+  "checked_at": "2026-11-17T18:02:44.019596+00:00",
+  "cna_product": "Apache Roller",
+  "cna_vendor": "Apache Software Foundation",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-11-17T11:03:49.685Z"
  },
  "CVE-2026-13369": {
   "checked_at": "2026-10-14T00:04:37.640264+00:00",
@@ -50104,6 +50168,14 @@
   "date_published": "2026-08-05T04:25:25.641Z",
   "product": "Smart Popup by Supsystic",
   "vendor": "supsysticcom"
+ },
+ "CVE-2026-18351": {
+  "checked_at": "2026-11-17T18:02:44.019596+00:00",
+  "cna_product": "Drag and Drop File Upload for Elementor Forms",
+  "cna_vendor": "addonsorg",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-10T01:26:54.181Z"
  },
  "CVE-2026-18366": {
   "checked_at": "2026-08-31T18:37:03.530021+00:00",
@@ -51395,6 +51467,14 @@
   "product": "n/a",
   "vendor": "n/a"
  },
+ "CVE-2026-30820": {
+  "checked_at": "2026-11-17T18:02:44.019596+00:00",
+  "cna_product": "Flowise",
+  "cna_vendor": "FlowiseAI",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-03-07T05:07:44.381Z"
+ },
  "CVE-2026-30849": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
   "cna_product": "mantisbt",
@@ -51970,7 +52050,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-17T06:04:08.917807+00:00",
+  "checked_at": "2026-11-17T18:02:44.019596+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52124,7 +52204,7 @@
   "date_published": "2026-05-20T01:25:47.803Z"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-17T06:04:08.917807+00:00",
+  "checked_at": "2026-11-17T18:02:44.019596+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52222,7 +52302,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-17T06:04:08.917807+00:00",
+  "checked_at": "2026-11-17T18:02:44.019596+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52408,6 +52488,14 @@
   "date_published": "2026-05-08T03:35:16.758Z",
   "product": "litellm",
   "vendor": "BerriAI"
+ },
+ "CVE-2026-42381": {
+  "checked_at": "2026-11-17T18:02:44.019596+00:00",
+  "cna_product": "Funnel Builder by FunnelKit",
+  "cna_vendor": "FunnelKit",
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-15T20:18:32.706Z"
  },
  "CVE-2026-4257": {
   "checked_at": "2026-10-14T00:04:37.640264+00:00",
@@ -53090,6 +53178,14 @@
   "date_published": "2026-06-15T20:19:17.107Z",
   "product": "LatePoint",
   "vendor": "LatePoint"
+ },
+ "CVE-2026-49769": {
+  "checked_at": "2026-11-17T18:02:44.019596+00:00",
+  "cna_product": "wpForo Forum",
+  "cna_vendor": "Tomdever",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-06-15T20:19:25.631Z"
  },
  "CVE-2026-49772": {
   "checked_at": "2026-10-14T00:04:37.640264+00:00",
