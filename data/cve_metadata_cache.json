@@ -7391,6 +7391,14 @@
   "cvss_version": null,
   "date_published": "2017-01-03T00:00:00.000Z"
  },
+ "CVE-2016-10134": {
+  "checked_at": "2026-11-17T06:04:08.917807+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2017-02-16T18:00:00.000Z"
+ },
  "CVE-2016-10174": {
   "checked_at": "2026-10-29T19:47:16.306216+00:00",
   "cna_product": "n/a",
@@ -17842,6 +17850,14 @@
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2020-12-30T00:38:56.000Z"
+ },
+ "CVE-2020-35848": {
+  "checked_at": "2026-11-17T06:04:08.917807+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2020-12-30T00:39:05.000Z"
  },
  "CVE-2020-35945": {
   "checked_at": "2026-10-29T22:01:40.845354+00:00",
@@ -35405,6 +35421,14 @@
   "product": "ScreenConnect",
   "vendor": "ConnectWise"
  },
+ "CVE-2024-1728": {
+  "checked_at": "2026-11-17T06:04:08.917807+00:00",
+  "cna_product": "gradio-app/gradio",
+  "cna_vendor": "gradio-app",
+  "cvss_score": 7.5,
+  "cvss_version": "3.0",
+  "date_published": "2024-04-10T17:07:56.020Z"
+ },
  "CVE-2024-1756": {
   "checked_at": "2026-10-14T00:04:37.640264+00:00",
   "cna_product": "WooCommerce Customers Manager",
@@ -36350,6 +36374,14 @@
   "date_published": "2024-02-20T09:26:10.743Z",
   "product": "Portal; DXP",
   "vendor": "Liferay"
+ },
+ "CVE-2024-25641": {
+  "checked_at": "2026-11-17T06:04:08.917807+00:00",
+  "cna_product": "cacti",
+  "cna_vendor": "Cacti",
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2024-05-13T13:28:58.808Z"
  },
  "CVE-2024-25735": {
   "checked_at": "2026-10-29T22:01:40.845354+00:00",
@@ -49351,6 +49383,14 @@
   "cvss_version": "3.1",
   "date_published": "2026-11-09T06:00:29.165Z"
  },
+ "CVE-2026-124002": {
+  "checked_at": "2026-11-17T06:04:08.917807+00:00",
+  "cna_product": "XWEB EVO",
+  "cna_vendor": "Copeland",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-12T19:34:26.958Z"
+ },
  "CVE-2026-124004": {
   "checked_at": "2026-11-16T21:31:30.082098+00:00",
   "cna_product": "XWEB EVO",
@@ -49498,6 +49538,14 @@
   "cvss_score": 9.1,
   "cvss_version": "3.1",
   "date_published": "2026-11-11T12:34:45.417Z"
+ },
+ "CVE-2026-126777": {
+  "checked_at": "2026-11-17T06:04:08.917807+00:00",
+  "cna_product": "Traccar",
+  "cna_vendor": "Traccar",
+  "cvss_score": 9.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-11T18:41:09.011Z"
  },
  "CVE-2026-1277": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -51922,7 +51970,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-16T21:31:30.082098+00:00",
+  "checked_at": "2026-11-17T06:04:08.917807+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52076,7 +52124,7 @@
   "date_published": "2026-05-20T01:25:47.803Z"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-16T21:31:30.082098+00:00",
+  "checked_at": "2026-11-17T06:04:08.917807+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52174,7 +52222,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-16T21:31:30.082098+00:00",
+  "checked_at": "2026-11-17T06:04:08.917807+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
