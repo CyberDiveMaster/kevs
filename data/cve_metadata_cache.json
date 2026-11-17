@@ -34881,6 +34881,14 @@
   "product": "EKP",
   "vendor": "Landray"
  },
+ "CVE-2024-11289": {
+  "checked_at": "2026-11-17T22:34:35.183656+00:00",
+  "cna_product": "Soledad",
+  "cna_vendor": "pencidesign",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2024-12-06T09:22:59.584Z"
+ },
  "CVE-2024-11303": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "JetPort 5601",
@@ -42020,6 +42028,14 @@
   "date_published": "2025-09-24T16:17:11.576Z",
   "product": "Chrome",
   "vendor": "Google"
+ },
+ "CVE-2025-10656": {
+  "checked_at": "2026-11-17T22:34:35.183656+00:00",
+  "cna_product": "Spreadsheet Price Changer for WooCommerce and WP E-commerce \u2013 Light",
+  "cna_vendor": "holest",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-07-29T08:32:35.881Z"
  },
  "CVE-2025-10897": {
   "checked_at": "2026-10-14T00:04:37.640264+00:00",
@@ -49179,6 +49195,14 @@
   "cvss_version": "3.1",
   "date_published": "2026-10-30T03:09:13.976Z"
  },
+ "CVE-2026-118628": {
+  "checked_at": "2026-11-17T22:34:35.183656+00:00",
+  "cna_product": "MLflow",
+  "cna_vendor": "MLflow",
+  "cvss_score": 8.2,
+  "cvss_version": "3.0",
+  "date_published": "2026-11-03T23:46:07.128Z"
+ },
  "CVE-2026-118635": {
   "checked_at": "2026-11-14T19:24:21.632426+00:00",
   "cna_product": "GeoDirectory \u2013 WP Business Directory Plugin and Classified Listings Directory",
@@ -49503,6 +49527,22 @@
   "cvss_version": "4.0",
   "date_published": "2026-11-08T13:15:41.704Z"
  },
+ "CVE-2026-124469": {
+  "checked_at": "2026-11-17T22:34:35.183656+00:00",
+  "cna_product": "openemr",
+  "cna_vendor": "openemr",
+  "cvss_score": 9.4,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-08T13:15:53.279Z"
+ },
+ "CVE-2026-124488": {
+  "checked_at": "2026-11-17T22:34:35.183656+00:00",
+  "cna_product": "openemr",
+  "cna_vendor": "openemr",
+  "cvss_score": 8.6,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-08T13:16:05.757Z"
+ },
  "CVE-2026-124490": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
   "cna_product": "openemr",
@@ -49586,6 +49626,14 @@
   "cvss_score": 9.8,
   "cvss_version": "3.1",
   "date_published": "2026-11-14T04:46:10.057Z"
+ },
+ "CVE-2026-126443": {
+  "checked_at": "2026-11-17T22:34:35.183656+00:00",
+  "cna_product": "openemr",
+  "cna_vendor": "openemr",
+  "cvss_score": 7.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-13T09:35:18.169Z"
  },
  "CVE-2026-126537": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
@@ -51542,6 +51590,14 @@
   "date_published": "2026-04-14T16:57:36.996Z",
   "product": "Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 23H2; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows 11 version 26H1; Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2025; Windows Server 2025 (Server Core installation)",
   "vendor": "Microsoft"
+ },
+ "CVE-2026-32238": {
+  "checked_at": "2026-11-17T22:34:35.183656+00:00",
+  "cna_product": "openemr",
+  "cna_vendor": "openemr",
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-03-19T19:30:53.616Z"
  },
  "CVE-2026-32255": {
   "checked_at": "2026-09-18T13:19:22.623265+00:00",
@@ -56152,6 +56208,14 @@
   "date_published": "2026-10-10T04:26:48.734Z",
   "product": "Avada (Fusion) Builder",
   "vendor": "themefusion"
+ },
+ "CVE-2026-97881": {
+  "checked_at": "2026-11-17T22:34:35.183656+00:00",
+  "cna_product": "Apache TomEE",
+  "cna_vendor": "Apache Software Foundation",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-11-10T15:32:37.309Z"
  },
  "CVE-2026-99999": {
   "checked_at": "2026-10-19T16:06:57.679121+00:00",
