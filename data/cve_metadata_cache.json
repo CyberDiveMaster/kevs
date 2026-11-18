@@ -55623,6 +55623,14 @@
   "product": "artifactory",
   "vendor": "jfrog"
  },
+ "CVE-2026-82384": {
+  "checked_at": "2026-11-18T22:15:00.163754+00:00",
+  "cna_product": "Apache Roller",
+  "cna_vendor": "Apache Software Foundation",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-28T07:47:43.768Z"
+ },
  "CVE-2026-82845": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
   "cna_product": "Masteriyo LMS",
