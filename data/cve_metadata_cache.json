@@ -31957,6 +31957,14 @@
   "product": "PM23/43; PC23/43, PD43; PM42; PX4ie/6ie; PX45/65; PD45, PX240; PX940; PM45; RP2f/RP4f",
   "vendor": "Honeywell"
  },
+ "CVE-2023-37170": {
+  "checked_at": "2026-11-18T10:59:00.833163+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2023-07-07T00:00:00.000Z"
+ },
  "CVE-2023-3722": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Aura Device Services",
@@ -49479,6 +49487,14 @@
   "cvss_version": "4.0",
   "date_published": "2026-11-12T20:05:59.683Z"
  },
+ "CVE-2026-124015": {
+  "checked_at": "2026-11-18T10:59:00.833163+00:00",
+  "cna_product": "XWEB EVO",
+  "cna_vendor": "Copeland",
+  "cvss_score": 8.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-12T20:07:32.288Z"
+ },
  "CVE-2026-124194": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
   "cna_product": "Microsoft 365 Apps for Enterprise; Microsoft Office LTSC 2021; Microsoft Office LTSC 2024",
@@ -52106,7 +52122,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-18T02:41:52.601089+00:00",
+  "checked_at": "2026-11-18T10:59:00.833163+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52260,7 +52276,7 @@
   "date_published": "2026-05-20T01:25:47.803Z"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-18T02:41:52.601089+00:00",
+  "checked_at": "2026-11-18T10:59:00.833163+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52358,7 +52374,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-18T02:41:52.601089+00:00",
+  "checked_at": "2026-11-18T10:59:00.833163+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
