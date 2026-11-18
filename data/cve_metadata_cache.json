@@ -2697,6 +2697,14 @@
   "product": "DedeCMS",
   "vendor": "DedeCMS"
  },
+ "CVE-2010-20126": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Virtual Keyboard plugin for SquirrelMail",
+  "cna_vendor": "Daniel K. Imori",
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:23.770Z"
+ },
  "CVE-2010-2035": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
   "cna_product": "n/a",
@@ -3888,6 +3896,22 @@
   "date_published": "2026-10-20T20:31:20.810Z",
   "product": "SocialFit",
   "vendor": "\u0141ukasz Wi\u0119cek"
+ },
+ "CVE-2012-20007": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "ThinkPHP",
+  "cna_vendor": "TopThink",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:23.052Z"
+ },
+ "CVE-2012-20008": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "openSIS",
+  "cna_vendor": "OS4ED",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:22.352Z"
  },
  "CVE-2012-2034": {
   "checked_at": "2026-10-29T19:47:16.306216+00:00",
@@ -7712,6 +7736,22 @@
   "date_published": "2026-10-20T20:31:29.589Z",
   "product": "nano NXT",
   "vendor": "EyeLock"
+ },
+ "CVE-2016-20105": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Lucee Server",
+  "cna_vendor": "Lucee",
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:21.661Z"
+ },
+ "CVE-2016-20106": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "NVRmini 2",
+  "cna_vendor": "NUUO",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:21.010Z"
  },
  "CVE-2016-2386": {
   "checked_at": "2026-10-29T19:47:16.306216+00:00",
@@ -11961,6 +12001,22 @@
   "product": "MetInfo",
   "vendor": "MetInfo"
  },
+ "CVE-2018-25442": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "UEditor",
+  "cna_vendor": "Baidu",
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:20.265Z"
+ },
+ "CVE-2018-25443": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "UEditor",
+  "cna_vendor": "Baidu",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:19.600Z"
+ },
  "CVE-2018-2628": {
   "checked_at": "2026-08-27T01:55:19.741285+00:00",
   "cna_product": "WebLogic Server",
@@ -14652,6 +14708,46 @@
   "date_published": "2026-10-22T10:57:27.435Z",
   "product": "Diarise",
   "vendor": "WooThemes"
+ },
+ "CVE-2019-25782": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "ThinkPHP",
+  "cna_vendor": "TopThink",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:18.909Z"
+ },
+ "CVE-2019-25783": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Tiny Tiny RSS",
+  "cna_vendor": "Tiny Tiny RSS",
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:18.203Z"
+ },
+ "CVE-2019-25784": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "FineCMS",
+  "cna_vendor": "dayrui",
+  "cvss_score": 8.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:17.521Z"
+ },
+ "CVE-2019-25785": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "FineReport",
+  "cna_vendor": "FanRuan",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:16.677Z"
+ },
+ "CVE-2019-25786": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "gnuboard5",
+  "cna_vendor": "SIR (gnuboard)",
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:15.993Z"
  },
  "CVE-2019-2588": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
@@ -18236,6 +18332,14 @@
   "date_published": "2026-10-22T10:57:28.307Z",
   "product": "Sickbeard",
   "vendor": "midgetspy"
+ },
+ "CVE-2020-37290": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Kiwi TCMS",
+  "cna_vendor": "Kiwi TCMS",
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:15.311Z"
  },
  "CVE-2020-3837": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
@@ -24111,6 +24215,62 @@
   "product": "BSCW Server",
   "vendor": "OrbiTeam"
  },
+ "CVE-2021-48021": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Chamilo LMS",
+  "cna_vendor": "Chamilo",
+  "cvss_score": 8.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:14.477Z"
+ },
+ "CVE-2021-48022": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Rocket.Chat",
+  "cna_vendor": "Rocket.Chat",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:13.795Z"
+ },
+ "CVE-2021-48023": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "E-cology",
+  "cna_vendor": "Weaver Network Co., Ltd.",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:13.115Z"
+ },
+ "CVE-2021-48025": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "OpenSNS",
+  "cna_vendor": "Jiaxing Xiangtian Information Technology",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:12.433Z"
+ },
+ "CVE-2021-48026": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Zhongqing Naboo Education Cloud Platform",
+  "cna_vendor": "Beijing Zhongqing Modern Technology",
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:11.753Z"
+ },
+ "CVE-2021-48027": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "OTOBO",
+  "cna_vendor": "Rother OSS",
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:11.074Z"
+ },
+ "CVE-2021-48028": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Open Journal Systems",
+  "cna_vendor": "Public Knowledge Project",
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:10.385Z"
+ },
  "CVE-2022-0028": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
   "cna_product": "Cloud NGFW; PAN-OS; Prisma Access",
@@ -28838,6 +28998,78 @@
   "date_published": "2026-10-22T10:57:35.298Z",
   "product": "WAPPLES",
   "vendor": "Penta Security Systems"
+ },
+ "CVE-2022-51027": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "MeterSphere",
+  "cna_vendor": "FIT2CLOUD",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:09.696Z"
+ },
+ "CVE-2022-51028": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "CmsEasy",
+  "cna_vendor": "CmsEasy",
+  "cvss_score": 8.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:08.989Z"
+ },
+ "CVE-2022-51029": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Synway SMG Gateway Management Software",
+  "cna_vendor": "Synway Information Engineering Co., Ltd.",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:08.279Z"
+ },
+ "CVE-2022-51030": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "QiboCMS",
+  "cna_vendor": "Qibosoft",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:07.602Z"
+ },
+ "CVE-2022-51031": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "PMB",
+  "cna_vendor": "PMB Services",
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:06.924Z"
+ },
+ "CVE-2022-51032": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "reddit-top-rss",
+  "cna_vendor": "johnwarne",
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:06.258Z"
+ },
+ "CVE-2022-51033": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "JoomBri Careers",
+  "cna_vendor": "JoomBri",
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:05.595Z"
+ },
+ "CVE-2022-51034": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Reservoir Safety Supervision Platform",
+  "cna_vendor": "Tangshan Pingsheng Electronic Technology Development Co., Ltd.",
+  "cvss_score": 8.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:04.935Z"
+ },
+ "CVE-2022-51035": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Senayan Library Management System",
+  "cna_vendor": "SLiMS",
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:04.241Z"
  },
  "CVE-2023-0037": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -33959,6 +34191,62 @@
   "product": "WPML Multilingual CMS",
   "vendor": "OnTheGoSystems"
  },
+ "CVE-2023-54416": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Tiki Wiki CMS Groupware",
+  "cna_vendor": "Tiki Software Community Association",
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:03.482Z"
+ },
+ "CVE-2023-54417": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "nuxt",
+  "cna_vendor": "Nuxt",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:02.785Z"
+ },
+ "CVE-2023-54418": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "nuxt",
+  "cna_vendor": "Nuxt",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:02.094Z"
+ },
+ "CVE-2023-54419": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "nginxWebUI",
+  "cna_vendor": "cym1102",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:01.446Z"
+ },
+ "CVE-2023-54420": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "LiveBOS",
+  "cna_vendor": "Fujian Apex Software Co., Ltd.",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:00.786Z"
+ },
+ "CVE-2023-54421": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "phpLDAPadmin",
+  "cna_vendor": "phpLDAPadmin",
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:35:00.095Z"
+ },
+ "CVE-2023-54422": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "iDocView",
+  "cna_vendor": "iDocView",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:34:59.422Z"
+ },
  "CVE-2023-5559": {
   "checked_at": "2026-11-13T20:57:44.251184+00:00",
   "cna_product": "10Web Booster",
@@ -35106,6 +35394,14 @@
   "date_published": "2024-12-18T20:23:57.909Z",
   "product": "Remote Support(RS) & Privileged Remote Access(PRA)",
   "vendor": "BeyondTrust"
+ },
+ "CVE-2024-12719": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Iptanus File Upload",
+  "cna_vendor": "nickboss",
+  "cvss_score": 4.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-01-07T09:22:14.971Z"
  },
  "CVE-2024-12802": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -38899,6 +39195,14 @@
   "product": "VMG4325-B10A firmware",
   "vendor": "Zyxel"
  },
+ "CVE-2024-41107": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Apache CloudStack",
+  "cna_vendor": "Apache Software Foundation",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2024-07-19T10:19:53.995Z"
+ },
  "CVE-2024-41700": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Barix SIP Client Web Management Interface UI",
@@ -40764,6 +41068,30 @@
   "date_published": "2026-10-22T10:57:38.109Z",
   "product": "CPAS Audit Management System",
   "vendor": "YouDataSum"
+ },
+ "CVE-2024-58401": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Bagisto",
+  "cna_vendor": "Webkul",
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:34:58.732Z"
+ },
+ "CVE-2024-58402": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Azon Dominator",
+  "cna_vendor": "DevWebister",
+  "cvss_score": 8.8,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:34:58.044Z"
+ },
+ "CVE-2024-58403": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "AnyShare",
+  "cna_vendor": "Shanghai Aishu Information Technology Co., Ltd.",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:34:57.361Z"
  },
  "CVE-2024-58406": {
   "checked_at": "2026-11-13T20:57:44.251184+00:00",
@@ -47091,6 +47419,14 @@
   "product": "Red Hat Enterprise Linux 10; Red Hat Enterprise Linux 7 Extended Lifecycle Support; Red Hat Enterprise Linux 8; Red Hat Enterprise Linux 8.2 Advanced Update Support; Red Hat Enterprise Linux 8.4 Advanced Mission Critical Update Support; Red Hat Enterprise Linux 8.6 Advanced Mission Critical Update Support; Red Hat Enterprise Linux 8.6 Telecommunications Update Service; Red Hat Enterprise Linux 8.6 Update Services for SAP Solutions; Red Hat Enterprise Linux 8.8 Update Services for SAP Solutions; Red Hat Enterprise Linux 9; Red Hat Enterprise Linux 9.0 Update Services for SAP Solutions; Red Hat Enterprise Linux 9.2 Update Services for SAP Solutions; Red Hat Enterprise Linux 9.4 Extended Update Support",
   "vendor": "Red Hat"
  },
+ "CVE-2025-60202": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Favorites",
+  "cna_vendor": "Kyle Phillips",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-11-06T15:55:03.303Z"
+ },
  "CVE-2025-60205": {
   "checked_at": "2026-10-15T07:55:33.017872+00:00",
   "cna_product": "ThemeREX Addons",
@@ -48969,6 +49305,14 @@
   "cvss_version": "3.1",
   "date_published": "2026-10-22T10:00:12.735Z"
  },
+ "CVE-2026-112838": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "VikRentCar",
+  "cna_vendor": "e4jvikwp",
+  "cvss_score": 7.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-23T08:00:10.440Z"
+ },
  "CVE-2026-114432": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
   "cna_product": "Contact Form 7",
@@ -49004,6 +49348,14 @@
   "cvss_score": 8.6,
   "cvss_version": "3.1",
   "date_published": "2026-11-08T02:31:48.387Z"
+ },
+ "CVE-2026-114938": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Oracle Java SE; Oracle GraalVM for JDK; Oracle GraalVM Enterprise Edition",
+  "cna_vendor": "Oracle Corporation",
+  "cvss_score": 8.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-11-17T21:32:03.183Z"
  },
  "CVE-2026-11556": {
   "checked_at": "2026-11-04T19:14:05.616874+00:00",
@@ -49659,6 +50011,46 @@
   "cvss_version": "3.1",
   "date_published": "2026-11-11T12:34:45.417Z"
  },
+ "CVE-2026-126751": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Retool",
+  "cna_vendor": "Retool",
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:34:56.727Z"
+ },
+ "CVE-2026-126752": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Dagu",
+  "cna_vendor": "dagu-org",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:34:56.020Z"
+ },
+ "CVE-2026-126753": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "LimeSurvey",
+  "cna_vendor": "LimeSurvey",
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:34:55.291Z"
+ },
+ "CVE-2026-126754": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "cPanel & WHM",
+  "cna_vendor": "cPanel, L.L.C.",
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:34:54.591Z"
+ },
+ "CVE-2026-126755": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "ArangoDB",
+  "cna_vendor": "ArangoDB",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:34:53.889Z"
+ },
  "CVE-2026-126777": {
   "checked_at": "2026-11-17T06:04:08.917807+00:00",
   "cna_product": "Traccar",
@@ -49960,6 +50352,14 @@
   "date_published": "2026-02-26T01:24:14.199Z",
   "product": "WP Responsive Images",
   "vendor": "stuartbates"
+ },
+ "CVE-2026-1560": {
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "cna_product": "Custom Block Builder \u2013 Lazy Blocks",
+  "cna_vendor": "nko",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-11T08:26:27.556Z"
  },
  "CVE-2026-15748": {
   "checked_at": "2026-10-14T00:04:37.640264+00:00",
@@ -52122,7 +52522,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-18T10:59:00.833163+00:00",
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52276,7 +52676,7 @@
   "date_published": "2026-05-20T01:25:47.803Z"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-18T10:59:00.833163+00:00",
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52374,7 +52774,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-18T10:59:00.833163+00:00",
+  "checked_at": "2026-11-18T19:51:23.987394+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
