@@ -785,6 +785,14 @@
   "cvss_version": null,
   "date_published": "2006-05-08T23:00:00.000Z"
  },
+ "CVE-2006-2437": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2006-05-17T10:00:00.000Z"
+ },
  "CVE-2006-2492": {
   "checked_at": "2026-10-29T19:47:16.306216+00:00",
   "cna_product": "n/a",
@@ -802,6 +810,14 @@
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2006-05-22T23:00:00.000Z"
+ },
+ "CVE-2006-2863": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2006-06-06T20:03:00.000Z"
  },
  "CVE-2006-3059": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
@@ -1760,6 +1776,14 @@
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2008-12-05T11:00:00.000Z"
+ },
+ "CVE-2008-6465": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2009-03-13T10:00:00.000Z"
  },
  "CVE-2008-6668": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
@@ -11901,6 +11925,14 @@
   "product": "File Manager",
   "vendor": "mndpsingh287"
  },
+ "CVE-2018-25113": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "PACS Web Server",
+  "cna_vendor": "Dicoogle Project",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-23T13:50:31.369Z"
+ },
  "CVE-2018-25114": {
   "checked_at": "2026-08-27T01:55:19.741285+00:00",
   "cna_product": "Online Merchant",
@@ -11971,6 +12003,14 @@
   "product": "NVMS-9000",
   "vendor": "Shenzhen TVT Digital Technology Co., Ltd."
  },
+ "CVE-2018-25138": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "FLIR AX8 Thermal Camera",
+  "cna_vendor": "FLIR Systems",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-12-24T19:27:46.730Z"
+ },
  "CVE-2018-25270": {
   "checked_at": "2026-08-27T01:55:19.741285+00:00",
   "cna_product": "ThinkPHP",
@@ -11980,6 +12020,14 @@
   "date_published": "2026-04-22T14:57:03.961Z",
   "product": "ThinkPHP",
   "vendor": "Thinkphp"
+ },
+ "CVE-2018-25374": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "MedDream PACS Server Premium",
+  "cna_vendor": "Softneta",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-25T14:15:18.585Z"
  },
  "CVE-2018-25438": {
   "checked_at": "2026-10-22T14:17:52.113063+00:00",
@@ -13423,6 +13471,14 @@
   "product": "Jira Server and Data Center",
   "vendor": "Atlassian"
  },
+ "CVE-2019-11616": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2019-04-30T19:40:23.000Z"
+ },
  "CVE-2019-11634": {
   "checked_at": "2026-10-29T19:47:16.306216+00:00",
   "cna_product": "n/a",
@@ -14669,6 +14725,14 @@
   "product": "A8-V5 Collaborative Management Software; A8+ Collaborative Management Software",
   "vendor": "Seeyon Internet Software"
  },
+ "CVE-2019-25760": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "Easy Shop",
+  "cna_vendor": "Joomtech",
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-19T17:42:01.424Z"
+ },
  "CVE-2019-25765": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
   "cna_product": "ASP-CMS",
@@ -15310,6 +15374,14 @@
   "date_published": "2019-02-17T04:00:00.000Z",
   "product": "manageengine_servicedesk_plus",
   "vendor": "zohocorp"
+ },
+ "CVE-2019-8412": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2019-02-17T19:00:00.000Z"
  },
  "CVE-2019-8442": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
@@ -17145,6 +17217,14 @@
   "cvss_version": null,
   "date_published": "2021-10-06T21:33:58.000Z"
  },
+ "CVE-2020-21993": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2021-04-28T14:46:26.000Z"
+ },
  "CVE-2020-22165": {
   "checked_at": "2026-11-13T20:57:44.251184+00:00",
   "cna_product": "n/a",
@@ -17204,6 +17284,14 @@
   "date_published": "2023-01-20T00:00:00.000Z",
   "product": "r310_firmware",
   "vendor": "ruckuswireless"
+ },
+ "CVE-2020-22983": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2022-05-13T12:31:11.000Z"
  },
  "CVE-2020-23575": {
   "checked_at": "2026-11-13T20:57:44.251184+00:00",
@@ -18293,6 +18381,38 @@
   "product": "AccessAlly",
   "vendor": "ACCESSALLY, INC."
  },
+ "CVE-2020-36893": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "i-Media Server Digital Signage",
+  "cna_vendor": "EIBIZ Co.,Ltd.",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-12-10T20:52:52.187Z"
+ },
+ "CVE-2020-36896": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "QiHang Media Web Digital Signage",
+  "cna_vendor": "Shenzhen Xingmeng Qihang Media Co., Ltd.Guangzhou Hefeng Automation Technology Co., Ltd.",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-12-10T20:55:02.794Z"
+ },
+ "CVE-2020-36899": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "QiHang Media Web Digital Signage",
+  "cna_vendor": "Shenzhen Xingmeng Qihang Media Co., Ltd. Guangzhou Hefeng Automation Technology Co., Ltd.",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-12-10T21:03:57.079Z"
+ },
+ "CVE-2020-36970": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "PMB Services",
+  "cna_vendor": "PMB Services",
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2026-01-28T17:35:11.195Z"
+ },
  "CVE-2020-37123": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
   "cna_product": "Pinger",
@@ -18312,6 +18432,14 @@
   "date_published": "2026-02-11T20:37:32.275Z",
   "product": "Voyager",
   "vendor": "The Control Group"
+ },
+ "CVE-2020-37219": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "com_fabrik",
+  "cna_vendor": "Fabrikar",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-13T14:22:31.533Z"
  },
  "CVE-2020-37278": {
   "checked_at": "2026-10-02T19:27:39.107484+00:00",
@@ -18880,6 +19008,14 @@
   "date_published": "2020-10-28T12:47:13.000Z",
   "product": "Pulse Connect Secure / Pulse Policy Secure",
   "vendor": "ivanti"
+ },
+ "CVE-2020-8264": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "https://github.com/rails/rails",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2021-01-06T21:02:35.000Z"
  },
  "CVE-2020-8269": {
   "checked_at": "2026-11-13T20:57:44.251184+00:00",
@@ -21579,6 +21715,14 @@
   "cvss_version": null,
   "date_published": "2021-01-05T04:37:24.000Z"
  },
+ "CVE-2021-3029": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2021-01-07T13:55:26.000Z"
+ },
  "CVE-2021-30461": {
   "checked_at": "2026-11-13T20:57:44.251184+00:00",
   "cna_product": "n/a",
@@ -24145,6 +24289,38 @@
   "product": "control_panel",
   "vendor": "vestacp"
  },
+ "CVE-2021-47706": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "COMMAX Biometric Access Control System",
+  "cna_vendor": "COMMAX Co., Ltd.",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-12-09T20:37:44.232Z"
+ },
+ "CVE-2021-47715": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "Hasura GraphQL",
+  "cna_vendor": "Hasura",
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2025-12-22T21:35:25.534Z"
+ },
+ "CVE-2021-47748": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "GraphQL",
+  "cna_vendor": "Hasura",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-01-21T17:27:31.545Z"
+ },
+ "CVE-2021-47776": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "Umbraco",
+  "cna_vendor": "umbraco",
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2026-01-15T15:52:13.737Z"
+ },
  "CVE-2021-47795": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
   "cna_product": "GeoVision Geowebserver",
@@ -26265,6 +26441,14 @@
   "product": "Windows 10 Version 1809; Windows Server 2019; Windows Server 2019 (Server Core installation); Windows 10 Version 1909; Windows 10 Version 21H1; Windows Server 2022; Windows 10 Version 20H2; Windows Server version 20H2; Windows 11 version 21H2; Windows 10 Version 21H2; Windows 10 Version 1507; Windows 10 Version 1607; Windows Server 2016; Windows Server 2016 (Server Core installation); Windows 7; Windows 7 Service Pack 1; Windows 8.1; Windows Server 2008 Service Pack 2; Windows Server 2008 Service Pack 2 (Server Core installation); Windows Server 2008  Service Pack 2; Windows Server 2008 R2 Service Pack 1; Windows Server 2008 R2 Service Pack 1 (Server Core installation); Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation)",
   "vendor": "Microsoft"
  },
+ "CVE-2022-26960": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2022-03-21T16:52:38.000Z"
+ },
  "CVE-2022-27002": {
   "checked_at": "2026-11-13T20:57:44.251184+00:00",
   "cna_product": "n/a",
@@ -27743,6 +27927,14 @@
   "product": "a860r_firmware",
   "vendor": "totolink"
  },
+ "CVE-2022-40494": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2022-10-06T00:00:00.000Z"
+ },
  "CVE-2022-4050": {
   "checked_at": "2026-08-27T04:39:21.021388+00:00",
   "cna_product": "JoomSport",
@@ -28908,6 +29100,14 @@
   "date_published": "2026-08-07T14:39:50.666Z",
   "product": "E-cology 9.0",
   "vendor": "Weaver Network Co., Ltd."
+ },
+ "CVE-2022-50792": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "Impact/Pulse/First; Impact/Pulse Eco; BigVoice4; BigVoice2; Stream; WM2",
+  "cna_vendor": "SOUND4 Ltd.; Kantar Media",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-12-30T22:41:37.875Z"
  },
  "CVE-2022-50973": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -31877,6 +32077,14 @@
   "product": "Microsoft 365 Apps for Enterprise; Microsoft Office LTSC 2021; Microsoft Office 2019; Microsoft Outlook 2016; Microsoft Outlook 2013; Microsoft Outlook 2013 Service Pack 1",
   "vendor": "Microsoft"
  },
+ "CVE-2023-3554": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "GZ Forum Script",
+  "cna_vendor": "GZ Scripts",
+  "cvss_score": 3.5,
+  "cvss_version": "3.1",
+  "date_published": "2023-07-08T12:00:05.148Z"
+ },
  "CVE-2023-35674": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Android",
@@ -32266,6 +32474,14 @@
   "date_published": "2023-07-12T09:26:18.652Z",
   "product": "Apache RocketMQ",
   "vendor": "Apache Software Foundation"
+ },
+ "CVE-2023-37600": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2023-07-20T00:00:00.000Z"
  },
  "CVE-2023-37679": {
   "checked_at": "2026-11-13T20:57:44.251184+00:00",
@@ -32744,6 +32960,14 @@
   "cvss_score": null,
   "cvss_version": null,
   "date_published": "2023-08-28T00:00:00.000Z"
+ },
+ "CVE-2023-40829": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2023-10-12T00:00:00.000Z"
  },
  "CVE-2023-41011": {
   "checked_at": "2026-11-13T20:57:44.251184+00:00",
@@ -34100,6 +34324,22 @@
   "date_published": "2025-10-22T00:00:00.000Z",
   "product": "CSMP iSecure Center",
   "vendor": "Hikvision"
+ },
+ "CVE-2023-53982": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "PMB",
+  "cna_vendor": "Sigb",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-12-23T19:34:11.262Z"
+ },
+ "CVE-2023-54357": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "Joomla! com_booking component",
+  "cna_vendor": "Artio",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-19T17:52:06.684Z"
  },
  "CVE-2023-54359": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -39135,6 +39375,14 @@
   "product": "gogs",
   "vendor": "gogs"
  },
+ "CVE-2024-40117": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2024-07-26T00:00:00.000Z"
+ },
  "CVE-2024-4040": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "CrushFTP",
@@ -42819,6 +43067,14 @@
   "cvss_version": "3.1",
   "date_published": "2025-12-02T08:24:54.808Z"
  },
+ "CVE-2025-1359": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "SIAM",
+  "cna_vendor": "SIAM Industria de Automa\u00e7\u00e3o e Monitoramento",
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-02-16T20:00:05.893Z"
+ },
  "CVE-2025-13673": {
   "checked_at": "2026-10-14T00:04:37.640264+00:00",
   "cna_product": "Tutor LMS \u2013 eLearning and online course solution",
@@ -43057,6 +43313,14 @@
   "product": "Active Products Tables for WooCommerce. Use constructor to create tables",
   "vendor": "realmag777"
  },
+ "CVE-2025-15153": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "PbootCMS",
+  "cna_vendor": "n/a",
+  "cvss_score": 6.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-12-28T20:32:07.587Z"
+ },
  "CVE-2025-15345": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
   "cna_product": "MapGeo \u2013 Interactive Geo Maps",
@@ -43064,6 +43328,14 @@
   "cvss_score": 6.1,
   "cvss_version": "3.1",
   "date_published": "2026-05-14T05:30:29.901Z"
+ },
+ "CVE-2025-1536": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "Multi-Service Intelligent Gateway",
+  "cna_vendor": "Raisecom",
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2025-02-21T14:31:04.960Z"
  },
  "CVE-2025-15364": {
   "checked_at": "2026-10-23T14:01:05.022149+00:00",
@@ -43655,6 +43927,14 @@
   "product": "FortiOS",
   "vendor": "Fortinet"
  },
+ "CVE-2025-24489": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "INFINITT PACS System Manager",
+  "cna_vendor": "INFINITT Healthcare",
+  "cvss_score": 5.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-21T19:44:18.551Z"
+ },
  "CVE-2025-24752": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Essential Addons for Elementor",
@@ -44174,6 +44454,14 @@
   "date_published": "2025-03-09T12:09:58.619Z",
   "product": "Apache Camel",
   "vendor": "Apache Software Foundation"
+ },
+ "CVE-2025-27721": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "INFINITT PACS System Manager",
+  "cna_vendor": "INFINITT Healthcare",
+  "cvss_score": 8.7,
+  "cvss_version": "4.0",
+  "date_published": "2025-08-21T19:33:03.503Z"
  },
  "CVE-2025-2775": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -45142,6 +45430,14 @@
   "date_published": "2025-07-01T14:44:22.913Z",
   "product": "DVR devices",
   "vendor": "AVTECH"
+ },
+ "CVE-2025-34053": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "IP camera, DVR, and NVR devices",
+  "cna_vendor": "AVTECH",
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2025-07-01T14:45:02.858Z"
  },
  "CVE-2025-34054": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -47881,6 +48177,14 @@
   "product": "GiveWP",
   "vendor": "Liquid Web / StellarWP"
  },
+ "CVE-2025-66571": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "UNA CMS",
+  "cna_vendor": "Unknown",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2025-12-04T20:43:52.499Z"
+ },
  "CVE-2025-66644": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "ArrayOS AG",
@@ -50086,6 +50390,14 @@
   "cvss_score": 9.8,
   "cvss_version": "3.1",
   "date_published": "2026-11-17T11:03:49.685Z"
+ },
+ "CVE-2026-130583": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "Authorize.net CIM Pro extension for Magento 2",
+  "cna_vendor": "Rootways",
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-17T13:52:17.643Z"
  },
  "CVE-2026-13369": {
   "checked_at": "2026-10-14T00:04:37.640264+00:00",
@@ -52313,6 +52625,14 @@
   "product": "panel",
   "vendor": "Ctrlpanel-gg"
  },
+ "CVE-2026-34411": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "Appsmith",
+  "cna_vendor": "Appsmith",
+  "cvss_score": 6.9,
+  "cvss_version": "4.0",
+  "date_published": "2026-03-27T16:24:16.385Z"
+ },
  "CVE-2026-34424": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Smart Slider 3 Pro for WordPress; Smart Slider 3 Pro for Joomla",
@@ -52522,7 +52842,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52676,7 +52996,7 @@
   "date_published": "2026-05-20T01:25:47.803Z"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -52774,7 +53094,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-18T19:51:23.987394+00:00",
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -55308,6 +55628,14 @@
   "date_published": "2026-09-14T16:09:07.839Z",
   "product": "Cisco Secure Email",
   "vendor": "Cisco"
+ },
+ "CVE-2026-76466": {
+  "checked_at": "2026-11-19T02:11:19.169886+00:00",
+  "cna_product": "Cisco TelePresence Video Communication Server (VCS) Expressway",
+  "cna_vendor": "Cisco",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-21T16:14:19.225Z"
  },
  "CVE-2026-7649": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
