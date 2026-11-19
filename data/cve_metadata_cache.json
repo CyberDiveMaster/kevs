@@ -18871,6 +18871,14 @@
   "product": "opensmtpd",
   "vendor": "openbsd"
  },
+ "CVE-2020-7471": {
+  "checked_at": "2026-11-19T19:51:39.687616+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2020-02-03T11:59:20.000Z"
+ },
  "CVE-2020-7796": {
   "checked_at": "2026-10-29T22:01:40.845354+00:00",
   "cna_product": "n/a",
@@ -49921,6 +49929,14 @@
   "product": "FunnelKit Automations \u2013 Email Marketing Automation and CRM for WordPress & WooCommerce",
   "vendor": "teamfunnelkit"
  },
+ "CVE-2026-119220": {
+  "checked_at": "2026-11-19T19:51:39.687616+00:00",
+  "cna_product": "Dokan: AI Powered WooCommerce Multivendor Marketplace Solution \u2013 Build Your Own Amazon, eBay, Etsy",
+  "cna_vendor": "dokaninc",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-11-18T11:30:40.157Z"
+ },
  "CVE-2026-119529": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
   "cna_product": "Gravity Forms",
@@ -50071,6 +50087,14 @@
   "product": "Visual Composer Website Builder",
   "vendor": "visualcomposer"
  },
+ "CVE-2026-123007": {
+  "checked_at": "2026-11-19T19:51:39.687616+00:00",
+  "cna_product": "NGINX Plus; NGINX Open Source",
+  "cna_vendor": "F5",
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-18T15:23:29.008Z"
+ },
  "CVE-2026-123039": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
   "cna_product": "Quantum Security Gateway; Quantum Security Management",
@@ -50118,6 +50142,14 @@
   "cvss_score": 9.8,
   "cvss_version": "3.1",
   "date_published": "2026-11-09T06:00:29.165Z"
+ },
+ "CVE-2026-123890": {
+  "checked_at": "2026-11-19T19:51:39.687616+00:00",
+  "cna_product": "VMware vCenter; Telco Cloud Platform; Telco Cloud Infrastructure",
+  "cna_vendor": "VMware",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-11-19T14:02:38.017Z"
  },
  "CVE-2026-124002": {
   "checked_at": "2026-11-17T06:04:08.917807+00:00",
@@ -52850,7 +52882,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-19T11:01:01.961831+00:00",
+  "checked_at": "2026-11-19T19:51:39.687616+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53004,7 +53036,7 @@
   "date_published": "2026-05-20T01:25:47.803Z"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-19T11:01:01.961831+00:00",
+  "checked_at": "2026-11-19T19:51:39.687616+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53102,7 +53134,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-19T11:01:01.961831+00:00",
+  "checked_at": "2026-11-19T19:51:39.687616+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53524,6 +53556,14 @@
   "date_published": "2026-06-09T22:27:01.735Z",
   "product": "Backup and Replication",
   "vendor": "Veeam"
+ },
+ "CVE-2026-45140": {
+  "checked_at": "2026-11-19T19:51:39.687616+00:00",
+  "cna_product": "chamilo-lms",
+  "cna_vendor": "chamilo",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-17T20:11:52.462Z"
  },
  "CVE-2026-45247": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -53978,6 +54018,14 @@
   "date_published": "2026-06-15T20:19:17.107Z",
   "product": "LatePoint",
   "vendor": "LatePoint"
+ },
+ "CVE-2026-49468": {
+  "checked_at": "2026-11-19T19:51:39.687616+00:00",
+  "cna_product": "litellm",
+  "cna_vendor": "BerriAI",
+  "cvss_score": 9.5,
+  "cvss_version": "4.0",
+  "date_published": "2026-06-22T20:37:14.494Z"
  },
  "CVE-2026-49769": {
   "checked_at": "2026-11-17T18:02:44.019596+00:00",
