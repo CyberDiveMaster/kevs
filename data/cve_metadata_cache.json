@@ -14931,6 +14931,14 @@
   "product": "WhatsApp for Android; WhatsApp Business for Android; WhatsApp for iOS; WhatsApp Business for iOS; WhatsApp for Windows Phone; WhatsApp for Tizen",
   "vendor": "Facebook"
  },
+ "CVE-2019-3912": {
+  "checked_at": "2026-11-20T10:49:38.250974+00:00",
+  "cna_product": "LabKey Server Community Edition",
+  "cna_vendor": "Tenable",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2019-01-30T20:00:00.000Z"
+ },
  "CVE-2019-3914": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
   "cna_product": "Fios Quantum Gateway (G1100)",
@@ -32227,6 +32235,14 @@
   "product": "Windows 11 version 22H3; Windows Server 2022, 23H2 Edition (Server Core installation); Windows 11 Version 23H2; Windows 10 Version 1809; Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows 11 version 21H2; Windows 10 Version 21H2; Windows 11 version 22H2; Windows 10 Version 22H2; Windows 10 Version 1507; Windows 10 Version 1607; Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2008 Service Pack 2; Windows Server 2008 Service Pack 2 (Server Core installation); Windows Server 2008  Service Pack 2; Windows Server 2008 R2 Service Pack 1; Windows Server 2008 R2 Service Pack 1 (Server Core installation); Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation)",
   "vendor": "Microsoft"
  },
+ "CVE-2023-3643": {
+  "checked_at": "2026-11-20T10:49:38.250974+00:00",
+  "cna_product": "Boss Mini",
+  "cna_vendor": "n/a",
+  "cvss_score": 7.3,
+  "cvss_version": "3.1",
+  "date_published": "2023-07-12T17:31:03.036Z"
+ },
  "CVE-2023-36529": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Houzez - Real Estate WordPress Theme",
@@ -34686,6 +34702,14 @@
   "date_published": "2023-11-30T15:17:14.959Z",
   "product": "my_calendar",
   "vendor": "joedolson"
+ },
+ "CVE-2023-6380": {
+  "checked_at": "2026-11-20T10:49:38.250974+00:00",
+  "cna_product": "Open CMS",
+  "cna_vendor": "Alkacon",
+  "cvss_score": 6.1,
+  "cvss_version": "3.1",
+  "date_published": "2023-12-13T10:54:35.693Z"
  },
  "CVE-2023-6448": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -42658,6 +42682,14 @@
   "date_published": "2025-11-19T21:16:49.635Z",
   "product": "7-Zip",
   "vendor": "7-Zip"
+ },
+ "CVE-2025-11141": {
+  "checked_at": "2026-11-20T10:49:38.250974+00:00",
+  "cna_product": "NBR2100G-E",
+  "cna_vendor": "Ruijie",
+  "cvss_score": 5.1,
+  "cvss_version": "4.0",
+  "date_published": "2025-09-29T04:32:05.924Z"
  },
  "CVE-2025-11201": {
   "checked_at": "2026-10-30T09:26:52.480288+00:00",
@@ -52882,7 +52914,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-20T01:59:17.927472+00:00",
+  "checked_at": "2026-11-20T10:49:38.250974+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53036,7 +53068,7 @@
   "date_published": "2026-05-20T01:25:47.803Z"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-20T01:59:17.927472+00:00",
+  "checked_at": "2026-11-20T10:49:38.250974+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53134,7 +53166,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-20T01:59:17.927472+00:00",
+  "checked_at": "2026-11-20T10:49:38.250974+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -55854,6 +55886,14 @@
   "date_published": "2026-06-30T19:13:16.331Z",
   "product": "Langflow OSS",
   "vendor": "IBM"
+ },
+ "CVE-2026-79748": {
+  "checked_at": "2026-11-20T10:49:38.250974+00:00",
+  "cna_product": "mcphub",
+  "cna_vendor": "samanhappy",
+  "cvss_score": 9.9,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-31T17:55:08.740Z"
  },
  "CVE-2026-79756": {
   "checked_at": "2026-09-22T13:50:36.656120+00:00",
