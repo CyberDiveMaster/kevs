@@ -4,7 +4,7 @@ on:
   schedule:
     # Every 3 hours -- comfortably ahead of CISA's own twice-daily
     # (05:00 / 15:00 US Central) update cadence, and frequent enough to
-    # capture VulnCheck/KEVIntel's early-warning listings same-day.
+    # capture VulnCheck's early-warning listings same-day.
     - cron: "0 */3 * * *"
     # EPSS-refresh run -- 14:30 UTC, an hour after FIRST.org's own daily
     # publish (~13:30 UTC). EPSS only changes once/day, so this is the
@@ -60,7 +60,6 @@ jobs:
       - name: Build KEV dataset
         env:
           VULNCHECK_API_KEY: ${{ secrets.VULNCHECK_API_KEY }}
-          KEVINTEL_API_KEY: ${{ secrets.KEVINTEL_API_KEY }}
           # Optional -- unset until a CVE Services (CNA-sponsored) account
           # exists. Leaving these empty just keeps cve.org lookups on the
           # slower unauthenticated rate limit.

@@ -1,6 +1,6 @@
 # kevs
 
-CISA / ENISA(EUVD) / CIRCL / Previdian(旧KEVIntel) / VulnCheck の5つのKEV(Known Exploited
+CISA / ENISA(EUVD) / CIRCL / VulnCheck の4つのKEV(Known Exploited
 Vulnerabilities)カタログを横断し、いずれか1つにでも掲載されているCVEを
 一覧で確認できる軽量ビューワー。サーバ不要(GitHub Actions + GitHub Pages +
 クライアントサイドJSのみ)。
@@ -50,7 +50,16 @@ LinkedInの共有エンドポイントはURL以外のパラメータを受け付
 | ENISA (EUVD) | `/api/kev/dump` を1回取得(全件ダンプ) | 不要 |
 | CIRCL | `vulnerability.circl.lu/api/kev/` をページング取得 | 不要 |
 | VulnCheck | `/v3/backup/vulncheck-kev` で全件バックアップzipのURLを取得しダウンロード | APIキー(Bearer) |
-| Previdian(旧KEVIntel、`kevintel.com`は`previdian.com`へリダイレクト) | `/api/v2/kevs` をページング取得(無料枠) | APIキー(`X-API-Token`) |
+
+**Previdian(旧KEVIntel)は2026-11-25に対象から外した:** 当初は5つ目の
+カタログとして掲載していたが、Previdianが2026-11-19に規約を改定して
+無料枠を閉じ、このプロジェクトのAPIキーが属していたアカウントも削除
+された。以後 `/api/v2/kevs` は401を返し、1つでも取得に失敗すると
+ビルド全体を中断する仕様のため、2026-11-20から自動更新が止まっていた。
+外した時点(6,095件)での影響は、Previdianにしか載っていない14件が
+表から消え、Previdianが単独で最初に掲載していた253件のFirst Listedが
+遅い日付に変わる、というもの。`scripts/fetch_kevintel.py` は残してあるが
+呼び出していない。
 
 **ENISA・CIRCLの掲載判定について:** どちらも「自前のKEVカタログ」を謳って
 いるが、実データはCISA KEV(および他カタログ)を丸ごと自社DBに取り込んで
@@ -64,12 +73,12 @@ LinkedInの共有エンドポイントはURL以外のパラメータを受け付
   であるエントリのみ対象(サーバー側の `vulnerability_lookup_origin`
   フィルタで絞り込み)。`cisa-kev` / `kevintel` / `shadowserver` /
   `enisa-cnw-kev` からのミラーは対象外(これらだけでCIRCLの生データの
-  大半を占める。特にShadowserverは今回の5カタログに含まれない別ソース)。
+  大半を占める。特にShadowserverは今回の4カタログに含まれない別ソース)。
   → 実質20件弱程度。
 
 ### Date Published / CVSS Score / Vendor / Product の補完
 
-上記5カタログのどれかに挙がった時点で、cve.org の公式API
+上記4カタログのどれかに挙がった時点で、cve.org の公式API
 ( `cveawg.mitre.org/api/cve/{id}` )から直接取得して補完する。読み取り
 アクセス自体は認証不要だが、レート制限が厳しい(未認証: 30秒5リクエスト
 ≒ 毎分10件、CVE Services APIキー保有時: 30秒50リクエスト)。CVE Services
@@ -127,7 +136,7 @@ microsoft / Microsoft Corporation)、Vendorフィルタで取りこぼしが出�
 
 CVSS Scoreの右にEPSS列を追加(FIRST.org、`epss.empiricalsecurity.com/epss_scores-current.csv.gz`
 のバルクCSVを1回取得し、和集合に該当するCVEだけを抽出)。EPSSは1日1回
-(UTC 13:30頃)しか更新されないため、他4カタログと違い**3時間おきには
+(UTC 13:30頃)しか更新されないため、KEVカタログと違い**3時間おきには
 再取得しない**。GitHub Actionsのスケジュールに専用のcronエントリ
 (`30 14 * * *`、UTC 14:30 = FIRST.org更新の1時間後)を追加してあり、
 このタイミング(または手動実行時)だけ `REFRESH_EPSS=true` として
@@ -156,9 +165,9 @@ CVSS Scoreの右にEPSS列を追加(FIRST.org、`epss.empiricalsecurity.com/epss
 ## 仕組み
 
 1. **`.github/workflows/kev-sync.yml`**(3時間おき、GitHub Actionsが自動実行)
-   `scripts/build.py` が5カタログすべてを取得 → 全体の和集合を取り、
+   `scripts/build.py` が4カタログすべてを取得 → 全体の和集合を取り、
    未キャッシュのCVEのみcve.orgから補完 → 各CVEについて
-   5カタログ中もっとも早い掲載日を `active_since` として算出 →
+   4カタログ中もっとも早い掲載日を `active_since` として算出 →
    `docs/data/kevs.json` / `meta.json` を書き出し → 差分があればコミット
    (これがそのままGitHub Pagesの更新になる)。
    いずれかのカタログの取得に失敗した場合はビルド全体を中断し(既存の
@@ -170,10 +179,9 @@ CVSS Scoreの右にEPSS列を追加(FIRST.org、`epss.empiricalsecurity.com/epss
 ## セットアップ手順
 
 1. このフォルダをGitHubに `kevs` という Public リポジトリとしてpush。
-2. リポジトリの Settings → Secrets and variables → Actions で、以下の
-   2つをSecretとして登録する(**コード中には一切書かない**):
+2. リポジトリの Settings → Secrets and variables → Actions で、以下を
+   Secretとして登録する(**コード中には一切書かない**):
    - `VULNCHECK_API_KEY`
-   - `KEVINTEL_API_KEY`
    CVE ServicesのAPIキーを取得できた場合は、追加で以下3つも登録する
    (任意。未登録なら未認証のまま動作する):
    - `CVE_API_KEY` / `CVE_API_ORG` / `CVE_API_USER`
@@ -185,7 +193,7 @@ CVSS Scoreの右にEPSS列を追加(FIRST.org、`epss.empiricalsecurity.com/epss
 
 ## 各カタログ列の表示について
 
-- CISA / ENISA / CIRCL / Previdian は匿名で閲覧できる公開ページへのリンク
+- CISA / ENISA / CIRCL は匿名で閲覧できる公開ページへのリンク
   (ENISAは `/vulnerability/{EUVD-ID}` 形式。実URLでHTTP 200を確認済みだが
   中身はReact SPAのためブラウザでの最終確認はしていない)。
 - VulnCheck のリンク先(`console.vulncheck.com`)は無料アカウントでの

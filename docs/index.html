@@ -13,8 +13,8 @@
        actually types into a search box. og:title/twitter:title below
        deliberately keep the short form -- a share card wants a name,
        not a keyword list. -->
-  <title>KEV Cross-Catalog Viewer — CISA, ENISA, CIRCL, Previdian, VulnCheck Compared</title>
-  <meta name="description" content="A free, serverless viewer that cross-references CISA, ENISA, CIRCL, Previdian, and VulnCheck Known Exploited Vulnerabilities catalogs -- filter and sort by CVE, CVSS, Active Since, vendor, and product.">
+  <title>KEV Cross-Catalog Viewer — CISA, ENISA, CIRCL, VulnCheck Compared</title>
+  <meta name="description" content="A free, serverless viewer that cross-references CISA, ENISA, CIRCL, and VulnCheck Known Exploited Vulnerabilities catalogs -- filter and sort by CVE, CVSS, Active Since, vendor, and product.">
 
   <!-- Filtering/sorting rewrites the URL with a ?s= state param (see
        app.js), so the same content is reachable at unlimited URLs -- this
@@ -27,11 +27,11 @@
        text via the share links' own URL params (see app.js). -->
   <meta property="og:type" content="website">
   <meta property="og:title" content="KEV Cross-Catalog Viewer">
-  <meta property="og:description" content="Compare Known Exploited Vulnerabilities coverage across CISA, ENISA, CIRCL, Previdian, and VulnCheck.">
+  <meta property="og:description" content="Compare Known Exploited Vulnerabilities coverage across CISA, ENISA, CIRCL, and VulnCheck.">
   <meta property="og:url" content="https://cyberdivemaster.github.io/kevs/">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="KEV Cross-Catalog Viewer">
-  <meta name="twitter:description" content="Compare Known Exploited Vulnerabilities coverage across CISA, ENISA, CIRCL, Previdian, and VulnCheck.">
+  <meta name="twitter:description" content="Compare Known Exploited Vulnerabilities coverage across CISA, ENISA, CIRCL, and VulnCheck.">
 
   <script type="application/ld+json">
   {
@@ -39,7 +39,7 @@
     "@type": "WebApplication",
     "name": "KEV Cross-Catalog Viewer",
     "url": "https://cyberdivemaster.github.io/kevs/",
-    "description": "Cross-references the CISA, ENISA (EUVD), CIRCL, Previdian, and VulnCheck Known Exploited Vulnerabilities catalogs, showing per-CVE which catalogs list it, which listed it first, and how many days after publication.",
+    "description": "Cross-references the CISA, ENISA (EUVD), CIRCL, and VulnCheck Known Exploited Vulnerabilities catalogs, showing per-CVE which catalogs list it, which listed it first, and how many days after publication.",
     "applicationCategory": "SecurityApplication",
     "operatingSystem": "Any (web browser)",
     "isAccessibleForFree": true,
@@ -60,7 +60,7 @@
   <header>
     <div>
       <h1>KEV Cross-Catalog Viewer</h1>
-      <p id="subtitle">Compare Known Exploited Vulnerabilities coverage across CISA, ENISA, CIRCL, Previdian, and VulnCheck.</p>
+      <p id="subtitle">Compare Known Exploited Vulnerabilities coverage across CISA, ENISA, CIRCL, and VulnCheck.</p>
     </div>
     <div id="header-right">
       <div id="status">Loading...</div>
@@ -86,17 +86,17 @@
        place for readers too, since none of it is explained anywhere else
        on the page. -->
   <section id="about">
-    <h2>Why cross-reference five KEV catalogs?</h2>
+    <h2>Why cross-reference four KEV catalogs?</h2>
     <p>
       Not every known exploited vulnerability appears in every catalog. CISA's KEV is the
-      list most organizations track, but ENISA, CIRCL, Previdian, and VulnCheck each publish
+      list most organizations track, but ENISA, CIRCL, and VulnCheck each publish
       their own, built from different sources against different inclusion criteria. A CVE can
       be flagged as exploited in one catalog weeks before it reaches another &mdash; or never
-      reach it at all. This page puts all five side by side, one row per CVE, so those gaps
+      reach it at all. This page puts all four side by side, one row per CVE, so those gaps
       are visible at a glance.
     </p>
 
-    <h3>The five catalogs</h3>
+    <h3>The four catalogs</h3>
     <ul>
       <li><strong>CISA KEV</strong> &mdash; the US federal catalog, and the one that sets
         binding remediation deadlines for federal civilian agencies.</li>
@@ -105,9 +105,7 @@
         from CISA.</li>
       <li><strong>CIRCL</strong> &mdash; the Luxembourg CSIRT's catalog, likewise filtered to
         its own original curation rather than the much larger set it mirrors from others.</li>
-      <li><strong>Previdian</strong> (formerly KEVIntel) &mdash; a threat-intelligence-sourced
-        catalog that frequently lists exploitation earliest.</li>
-      <li><strong>VulnCheck KEV</strong> &mdash; the broadest of the five, with coverage
+      <li><strong>VulnCheck KEV</strong> &mdash; the broadest of the four, with coverage
         reaching back to 1999 and often listing a CVE well before CISA does.</li>
     </ul>
 

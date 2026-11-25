@@ -1,4 +1,11 @@
-"""Fetch Previdian's free KEV catalog (previdian.com, formerly
+"""NOT USED since 2026-11-25 -- build.py no longer imports this module.
+Previdian closed its free tier (terms rewritten 2026-11-19) and deleted
+the account this project's key belonged to, so every request answered
+401 and, because one failed source aborts the build, the whole site
+stopped updating from 2026-11-20. Kept only in case access is ever
+arranged again; re-adding it also needs the column back in docs/js/app.js.
+
+Fetch Previdian's free KEV catalog (previdian.com, formerly
 kevintel.com -- KEVIntel rebranded; the old domain still works but
 redirects, so this uses the current one directly).
 

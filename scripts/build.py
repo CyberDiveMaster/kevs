@@ -1,4 +1,4 @@
-"""Orchestrator: fetch all 5 KEV catalogs, take their union, look up
+"""Orchestrator: fetch all 4 KEV catalogs, take their union, look up
 Date Published / CVSS for every CVE from the official CVE Program record,
 name its Vendor / Product from VulnCheck KEV (the CVE Program record only
 where VulnCheck has none), and export docs/data/kevs.json + meta.json for
@@ -20,7 +20,6 @@ import fetch_cisa
 import fetch_circl
 import fetch_enisa
 import fetch_epss
-import fetch_kevintel
 import fetch_vulncheck
 from fetch_cve_metadata import ensure_metadata
 
@@ -47,11 +46,7 @@ def main():
     vulncheck = fetch_vulncheck.fetch()
     print(f"  {len(vulncheck)} CVEs")
 
-    print("Fetching KEVIntel...")
-    kevintel = fetch_kevintel.fetch()
-    print(f"  {len(kevintel)} CVEs")
-
-    all_cve_ids = sorted(set(cisa) | set(enisa) | set(circl) | set(vulncheck) | set(kevintel))
+    all_cve_ids = sorted(set(cisa) | set(enisa) | set(circl) | set(vulncheck))
     print(f"Union: {len(all_cve_ids)} unique CVEs")
 
     # Vendor / Product come from VulnCheck wherever it has both. cve.org's
@@ -91,7 +86,6 @@ def main():
             "cisa_added": cisa.get(cve_id),
             "enisa_added": enisa_entry["date_added"] if enisa_entry else None,
             "circl_added": circl_entry["date_added"] if circl_entry else None,
-            "kevintel_added": kevintel.get(cve_id),
             "vulncheck_added": vulncheck_entry.get("date_added"),
         }
         present_dates = [d for d in catalog_dates.values() if d]
@@ -99,7 +93,7 @@ def main():
 
         meta = metadata.get(cve_id, {})
         date_published = meta.get("date_published")
-        # Static baseline (all 5 catalogs included) for CSV export -- the
+        # Static baseline (all 4 catalogs included) for CSV export -- the
         # viewer recomputes this live from whichever catalogs are still
         # included when one is excluded via its header x button, same as
         # active_since itself. Can be negative: a catalog sometimes lists
@@ -151,7 +145,6 @@ def main():
             "enisa": len(enisa),
             "circl": len(circl),
             "vulncheck": len(vulncheck),
-            "kevintel": len(kevintel),
         },
     }
     with open(os.path.join(DOCS_DATA_DIR, "meta.json"), "w", encoding="utf-8") as f:
