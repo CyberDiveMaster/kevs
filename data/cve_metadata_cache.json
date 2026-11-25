@@ -17234,7 +17234,7 @@
   "date_published": "2020-08-21T14:52:22.000Z"
  },
  "CVE-2020-2096": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Jenkins Gitlab Hook Plugin",
   "cna_vendor": "Jenkins project",
   "cvss_score": null,
@@ -17242,7 +17242,7 @@
   "date_published": "2020-01-15T15:15:26.000Z"
  },
  "CVE-2020-21224": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17250,7 +17250,7 @@
   "date_published": "2021-02-22T15:00:07.000Z"
  },
  "CVE-2020-21650": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17266,7 +17266,7 @@
   "date_published": "2021-04-28T14:46:26.000Z"
  },
  "CVE-2020-22165": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17274,7 +17274,7 @@
   "date_published": "2021-06-22T14:14:45.000Z"
  },
  "CVE-2020-22208": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17282,7 +17282,7 @@
   "date_published": "2021-06-16T17:42:16.000Z"
  },
  "CVE-2020-22209": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17290,7 +17290,7 @@
   "date_published": "2021-06-16T17:48:05.000Z"
  },
  "CVE-2020-22211": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17298,7 +17298,7 @@
   "date_published": "2021-06-16T17:56:37.000Z"
  },
  "CVE-2020-22623": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17334,7 +17334,7 @@
   "date_published": "2022-05-13T12:31:11.000Z"
  },
  "CVE-2020-23575": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17342,7 +17342,7 @@
   "date_published": "2021-05-10T22:24:06.000Z"
  },
  "CVE-2020-23814": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17350,7 +17350,7 @@
   "date_published": "2020-09-03T16:58:11.000Z"
  },
  "CVE-2020-23972": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17366,7 +17366,7 @@
   "date_published": "2020-08-24T13:02:04.000Z"
  },
  "CVE-2020-24217": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17374,7 +17374,7 @@
   "date_published": "2020-10-06T13:05:36.000Z"
  },
  "CVE-2020-24219": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17402,7 +17402,7 @@
   "vendor": "Trend Micro"
  },
  "CVE-2020-24581": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17430,7 +17430,7 @@
   "vendor": "krpano"
  },
  "CVE-2020-24914": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17438,7 +17438,7 @@
   "date_published": "2021-03-04T12:33:26.000Z"
  },
  "CVE-2020-24949": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17496,7 +17496,7 @@
   "vendor": "QNAP Systems Inc."
  },
  "CVE-2020-25206": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17524,7 +17524,7 @@
   "vendor": "sophos"
  },
  "CVE-2020-25494": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17532,7 +17532,7 @@
   "date_published": "2020-12-18T14:27:09.000Z"
  },
  "CVE-2020-25499": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17560,7 +17560,7 @@
   "vendor": "Oracle Corporation"
  },
  "CVE-2020-25540": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17598,7 +17598,7 @@
   "vendor": "SAP SE"
  },
  "CVE-2020-26876": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17606,7 +17606,7 @@
   "date_published": "2020-10-07T16:56:25.000Z"
  },
  "CVE-2020-26878": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17614,7 +17614,7 @@
   "date_published": "2020-10-26T19:13:47.000Z"
  },
  "CVE-2020-26879": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17632,7 +17632,7 @@
   "vendor": "netgear"
  },
  "CVE-2020-26948": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17640,7 +17640,7 @@
   "date_published": "2020-10-10T20:12:31.000Z"
  },
  "CVE-2020-27387": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17648,7 +17648,7 @@
   "date_published": "2020-11-05T01:18:12.000Z"
  },
  "CVE-2020-27481": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17656,7 +17656,7 @@
   "date_published": "2020-11-12T13:47:40.000Z"
  },
  "CVE-2020-27615": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17714,7 +17714,7 @@
   "vendor": "Apple"
  },
  "CVE-2020-27982": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17732,7 +17732,7 @@
   "vendor": "sonarsource"
  },
  "CVE-2020-28034": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17740,7 +17740,7 @@
   "date_published": "2020-10-31T00:59:35.000Z"
  },
  "CVE-2020-28185": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17748,7 +17748,7 @@
   "date_published": "2020-12-24T14:26:55.000Z"
  },
  "CVE-2020-28188": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17766,7 +17766,7 @@
   "vendor": "wpbakery"
  },
  "CVE-2020-28653": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17794,7 +17794,7 @@
   "vendor": "php"
  },
  "CVE-2020-29047": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17802,7 +17802,7 @@
   "date_published": "2021-03-03T17:15:29.000Z"
  },
  "CVE-2020-29227": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17810,7 +17810,7 @@
   "date_published": "2020-12-14T13:24:20.000Z"
  },
  "CVE-2020-29279": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17818,7 +17818,7 @@
   "date_published": "2020-12-02T21:08:44.000Z"
  },
  "CVE-2020-29390": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17856,7 +17856,7 @@
   "vendor": "zyxel"
  },
  "CVE-2020-29597": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17944,7 +17944,7 @@
   "vendor": "Cisco"
  },
  "CVE-2020-35131": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17952,7 +17952,7 @@
   "date_published": "2021-01-08T16:09:06.000Z"
  },
  "CVE-2020-35234": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17960,7 +17960,7 @@
   "date_published": "2020-12-14T02:21:44.000Z"
  },
  "CVE-2020-35235": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17988,7 +17988,7 @@
   "vendor": "tenda"
  },
  "CVE-2020-35476": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -17996,7 +17996,7 @@
   "date_published": "2020-12-16T00:00:00.000Z"
  },
  "CVE-2020-35580": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -18014,7 +18014,7 @@
   "vendor": "Cisco"
  },
  "CVE-2020-35665": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -18032,7 +18032,7 @@
   "vendor": "Cisco"
  },
  "CVE-2020-35713": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -18040,7 +18040,7 @@
   "date_published": "2020-12-26T00:47:04.000Z"
  },
  "CVE-2020-35714": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -18048,7 +18048,7 @@
   "date_published": "2020-12-26T00:46:45.000Z"
  },
  "CVE-2020-35729": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -18076,7 +18076,7 @@
   "vendor": "Cisco"
  },
  "CVE-2020-35847": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -18084,7 +18084,7 @@
   "date_published": "2020-12-30T00:38:56.000Z"
  },
  "CVE-2020-35848": {
-  "checked_at": "2026-11-17T06:04:08.917807+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -18118,7 +18118,7 @@
   "date_published": "2021-01-01T03:27:33.000Z"
  },
  "CVE-2020-35962": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -18126,7 +18126,7 @@
   "date_published": "2021-01-03T06:55:42.000Z"
  },
  "CVE-2020-36112": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -18174,7 +18174,7 @@
   "vendor": "QNAP Systems Inc."
  },
  "CVE-2020-36333": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -18660,7 +18660,7 @@
   "vendor": "Spring by VMware"
  },
  "CVE-2020-5412": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Spring Cloud Netflix",
   "cna_vendor": "Spring by VMware",
   "cvss_score": null,
@@ -18698,7 +18698,7 @@
   "vendor": "plex"
  },
  "CVE-2020-5766": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "SRS Simple Hits Counter Plugin for WordPress",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -18706,7 +18706,7 @@
   "date_published": "2020-07-13T14:20:33.000Z"
  },
  "CVE-2020-5775": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Instructure Canvas Learning Management System (LMS)",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -18714,7 +18714,7 @@
   "date_published": "2020-08-21T17:36:56.000Z"
  },
  "CVE-2020-5776": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "MAGMI",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -18752,7 +18752,7 @@
   "vendor": "f5"
  },
  "CVE-2020-6008": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "LifterLMS Wordpress Plugin",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -18838,7 +18838,7 @@
   "vendor": "Google"
  },
  "CVE-2020-6453": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Chrome",
   "cna_vendor": "Google",
   "cvss_score": null,
@@ -18886,7 +18886,7 @@
   "vendor": "webfactoryltd"
  },
  "CVE-2020-7136": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Smart Update Manager (SUM)",
   "cna_vendor": "Hewlett Packard Enterprise",
   "cvss_score": null,
@@ -18894,7 +18894,7 @@
   "date_published": "2020-04-30T19:17:53.000Z"
  },
  "CVE-2020-7209": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "LinuxKI",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -18950,7 +18950,7 @@
   "vendor": "liferay"
  },
  "CVE-2020-7980": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -18958,7 +18958,7 @@
   "date_published": "2020-01-25T18:44:51.000Z"
  },
  "CVE-2020-8115": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "https://github.com/revive-adserver/revive-adserver",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -18966,7 +18966,7 @@
   "date_published": "2020-02-04T19:08:57.000Z"
  },
  "CVE-2020-8163": {
-  "checked_at": "2026-11-13T13:46:52.223000+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "https://github.com/rails/rails",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -18974,7 +18974,7 @@
   "date_published": "2020-07-02T18:35:12.000Z"
  },
  "CVE-2020-8191": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Citrix ADC, Citrix Gateway, Citrix SDWAN WAN-OP",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -18992,7 +18992,7 @@
   "vendor": "citrix"
  },
  "CVE-2020-8194": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Citrix ADC, Citrix Gateway, Citrix SDWAN WAN-OP",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19020,7 +19020,7 @@
   "vendor": "citrix"
  },
  "CVE-2020-8209": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Citrix XenMobile Server",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19066,7 +19066,7 @@
   "date_published": "2021-01-06T21:02:35.000Z"
  },
  "CVE-2020-8269": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Citrix Virtual Apps and Desktops",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19074,7 +19074,7 @@
   "date_published": "2020-11-16T00:35:24.000Z"
  },
  "CVE-2020-8270": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Citrix Virtual Apps and Desktops",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19082,7 +19082,7 @@
   "date_published": "2020-11-16T00:35:35.000Z"
  },
  "CVE-2020-8283": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Citrix Virtual Apps and Desktops",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19118,7 +19118,7 @@
   "vendor": "Trend Micro"
  },
  "CVE-2020-8497": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19166,7 +19166,7 @@
   "vendor": "eyesofnetwork"
  },
  "CVE-2020-8656": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19184,7 +19184,7 @@
   "vendor": "eyesofnetwork"
  },
  "CVE-2020-8813": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19202,7 +19202,7 @@
   "vendor": "pi-hole"
  },
  "CVE-2020-8949": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19210,7 +19210,7 @@
   "date_published": "2020-02-12T18:21:16.000Z"
  },
  "CVE-2020-8958": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19218,7 +19218,7 @@
   "date_published": "2020-07-15T20:13:32.000Z"
  },
  "CVE-2020-8982": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19226,7 +19226,7 @@
   "date_published": "2020-05-07T13:55:59.000Z"
  },
  "CVE-2020-9020": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19234,7 +19234,7 @@
   "date_published": "2020-02-17T03:03:49.000Z"
  },
  "CVE-2020-9043": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19252,7 +19252,7 @@
   "vendor": "ZyXEL"
  },
  "CVE-2020-9314": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19260,7 +19260,7 @@
   "date_published": "2020-05-10T22:23:34.000Z"
  },
  "CVE-2020-9344": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19268,7 +19268,7 @@
   "date_published": "2020-03-20T02:18:43.000Z"
  },
  "CVE-2020-9374": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19286,7 +19286,7 @@
   "vendor": "dlink"
  },
  "CVE-2020-9459": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19294,7 +19294,7 @@
   "date_published": "2020-02-28T20:51:53.000Z"
  },
  "CVE-2020-9480": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Apache Spark",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -19302,7 +19302,7 @@
   "date_published": "2020-06-23T21:50:51.000Z"
  },
  "CVE-2020-9496": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Apache OFBiz",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19310,7 +19310,7 @@
   "date_published": "2020-07-15T15:39:31.000Z"
  },
  "CVE-2020-9514": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19348,7 +19348,7 @@
   "vendor": "Adobe"
  },
  "CVE-2020-9757": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19356,7 +19356,7 @@
   "date_published": "2020-03-04T16:03:22.000Z"
  },
  "CVE-2020-9771": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "macOS",
   "cna_vendor": "Apple",
   "cvss_score": null,
@@ -19404,7 +19404,7 @@
   "vendor": "Apple"
  },
  "CVE-2020-9870": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "iOS; macOS; tvOS",
   "cna_vendor": "Apple",
   "cvss_score": null,
@@ -19422,7 +19422,7 @@
   "vendor": "Apple"
  },
  "CVE-2020-9910": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "iOS; tvOS; watchOS; Safari; iTunes for Windows; iCloud for Windows; iCloud for Windows (Legacy)",
   "cna_vendor": "Apple",
   "cvss_score": null,
@@ -19440,7 +19440,7 @@
   "vendor": "Apple"
  },
  "CVE-2021-0027": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -19558,7 +19558,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2021-1765": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "macOS",
   "cna_vendor": "Apple",
   "cvss_score": null,
@@ -19586,7 +19586,7 @@
   "vendor": "Apple"
  },
  "CVE-2021-1801": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "iOS and iPadOS; macOS",
   "cna_vendor": "Apple",
   "cvss_score": null,
@@ -19742,7 +19742,7 @@
   "vendor": "buffalo"
  },
  "CVE-2021-20091": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Buffalo WSR-2533DHPL2, Buffalo WSR-2533DHP3",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19750,7 +19750,7 @@
   "date_published": "2021-04-29T14:29:09.000Z"
  },
  "CVE-2021-20092": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Buffalo WSR-2533DHPL2, Buffalo WSR-2533DHP3",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19778,7 +19778,7 @@
   "vendor": "draytek"
  },
  "CVE-2021-20166": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Netgear RAX43",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19786,7 +19786,7 @@
   "date_published": "2021-12-30T21:31:16.000Z"
  },
  "CVE-2021-20167": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Netgear RAX43",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -19794,7 +19794,7 @@
   "date_published": "2021-12-30T21:31:17.000Z"
  },
  "CVE-2021-20617": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "acmailer and acmailer DB",
   "cna_vendor": "Seeds Co.,Ltd.",
   "cvss_score": null,
@@ -19802,7 +19802,7 @@
   "date_published": "2021-01-14T08:20:16.000Z"
  },
  "CVE-2021-20655": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "FileZen",
   "cna_vendor": "Soliton Systems K.K.",
   "cvss_score": null,
@@ -19810,7 +19810,7 @@
   "date_published": "2021-02-17T02:05:30.000Z"
  },
  "CVE-2021-20837": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Movable Type",
   "cna_vendor": "Six Apart Ltd.",
   "cvss_score": null,
@@ -19998,7 +19998,7 @@
   "vendor": "Dell"
  },
  "CVE-2021-21745": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "MF971R",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -20086,7 +20086,7 @@
   "vendor": "vmware"
  },
  "CVE-2021-21978": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "VMware View Planner",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -20094,7 +20094,7 @@
   "date_published": "2021-03-03T17:44:25.000Z"
  },
  "CVE-2021-21980": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "VMware vCenter Server and VMware Cloud Foundation",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -20102,7 +20102,7 @@
   "date_published": "2021-11-24T16:32:43.000Z"
  },
  "CVE-2021-21983": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "VMware vRealize Operations",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -20140,7 +20140,7 @@
   "vendor": "vmware"
  },
  "CVE-2021-22053": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Spring Cloud Netflix",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -20158,7 +20158,7 @@
   "vendor": "vmware"
  },
  "CVE-2021-22122": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Fortinet FortiWeb",
   "cna_vendor": "Fortinet",
   "cvss_score": null,
@@ -20256,7 +20256,7 @@
   "vendor": "rockwellautomation"
  },
  "CVE-2021-22707": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "EVlink City (EVC1S22P4 / EVC1S7P4 all versions prior to R8 V3.4.0.1), EVlink Parking (EVW2 / EVF2 / EV.2 all versions prior to R8 V3.4.0.1), and EVlink Smart Wallbox (EVB1A all versions prior to R8 V3.4.0.1 )",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -20274,7 +20274,7 @@
   "vendor": "schneider-electric"
  },
  "CVE-2021-22873": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "https://github.com/revive-adserver/revive-adserver",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -20322,7 +20322,7 @@
   "vendor": "ivanti"
  },
  "CVE-2021-22911": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Rocket.Chat server",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -20420,7 +20420,7 @@
   "vendor": "McAfee,LLC"
  },
  "CVE-2021-23957": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Firefox",
   "cna_vendor": "Mozilla",
   "cvss_score": null,
@@ -20428,7 +20428,7 @@
   "date_published": "2021-02-26T02:08:50.000Z"
  },
  "CVE-2021-24139": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Photo Gallery by 10Web",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20436,7 +20436,7 @@
   "date_published": "2021-03-18T14:57:49.000Z"
  },
  "CVE-2021-24164": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Ninja Forms Contact Form \u2013 The Drag and Drop Form Builder for WordPress",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20444,7 +20444,7 @@
   "date_published": "2021-04-05T18:27:43.000Z"
  },
  "CVE-2021-24170": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "User Profile Picture",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20452,7 +20452,7 @@
   "date_published": "2021-04-05T18:27:44.000Z"
  },
  "CVE-2021-24175": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "The Plus Addons for Elementor Page Builder",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20460,7 +20460,7 @@
   "date_published": "2021-04-05T18:27:44.000Z"
  },
  "CVE-2021-24182": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Tutor LMS \u2013 eLearning and online course solution",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20468,7 +20468,7 @@
   "date_published": "2021-04-05T18:27:45.000Z"
  },
  "CVE-2021-24183": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Tutor LMS \u2013 eLearning and online course solution",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20476,7 +20476,7 @@
   "date_published": "2021-04-05T18:27:45.000Z"
  },
  "CVE-2021-24184": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Tutor LMS \u2013 eLearning and online course solution",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20484,7 +20484,7 @@
   "date_published": "2021-04-05T18:27:45.000Z"
  },
  "CVE-2021-24186": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Tutor LMS \u2013 eLearning and online course solution",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20492,7 +20492,7 @@
   "date_published": "2021-04-05T18:27:45.000Z"
  },
  "CVE-2021-24202": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Elementor Website Builder",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20500,7 +20500,7 @@
   "date_published": "2021-04-05T18:27:46.000Z"
  },
  "CVE-2021-24204": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Elementor Website Builder",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20508,7 +20508,7 @@
   "date_published": "2021-04-05T18:27:46.000Z"
  },
  "CVE-2021-24205": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Elementor Website Builder",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20516,7 +20516,7 @@
   "date_published": "2021-04-05T18:27:46.000Z"
  },
  "CVE-2021-24206": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Elementor Website Builder",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20524,7 +20524,7 @@
   "date_published": "2021-04-05T18:27:46.000Z"
  },
  "CVE-2021-24209": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "WP Super Cache",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20532,7 +20532,7 @@
   "date_published": "2021-04-05T18:27:46.000Z"
  },
  "CVE-2021-24212": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "WooCommerce Help Scout",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20548,7 +20548,7 @@
   "date_published": "2021-04-12T14:01:19.000Z"
  },
  "CVE-2021-24219": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Thrive Optimize; Thrive Comments; Thrive Headline Optimizer; Thrive Leads; Thrive Ultimatum; Thrive Quiz Builder; Thrive Apprentice; Thrive Visual Editor; Thrive Dashboard; Thrive Ovation; Thrive Clever Widgets; Rise by Thrive Themes; Ignition by Thrive Themes; Luxe by Thrive Themes; FocusBlog by Thrive Themes; Minus by Thrive Themes; Squared by Thrive Themes; Voice; Performag by Thrive Themes; Pressive by Thrive Themes; Storied by Thrive Themes; Thrive Themes Builder",
   "cna_vendor": "Thrive Themes",
   "cvss_score": null,
@@ -20556,7 +20556,7 @@
   "date_published": "2021-04-12T14:02:35.000Z"
  },
  "CVE-2021-24220": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Rise by Thrive Themes; Luxe by Thrive Themes; Minus by Thrive Themes; Ignition by Thrive Themes; FocusBlog by Thrive Themes; Squared by Thrive Themes; Voice; Performag by Thrive Themes; Pressive by Thrive Themes; Storied by Thrive Themes",
   "cna_vendor": "Thrive Themes",
   "cvss_score": null,
@@ -20564,7 +20564,7 @@
   "date_published": "2021-04-12T14:03:12.000Z"
  },
  "CVE-2021-24227": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Patreon WordPress",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20572,7 +20572,7 @@
   "date_published": "2021-04-12T14:05:13.000Z"
  },
  "CVE-2021-24240": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Business Hours Pro",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20580,7 +20580,7 @@
   "date_published": "2021-04-22T21:00:51.000Z"
  },
  "CVE-2021-24258": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Elements Kit Lite; Elements Kit Pro",
   "cna_vendor": "Wpmet",
   "cvss_score": null,
@@ -20588,7 +20588,7 @@
   "date_published": "2021-05-05T18:28:46.000Z"
  },
  "CVE-2021-24278": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Redirection for Contact Form 7",
   "cna_vendor": "Query Solutions",
   "cvss_score": null,
@@ -20596,7 +20596,7 @@
   "date_published": "2021-05-14T11:38:17.000Z"
  },
  "CVE-2021-24284": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Kaswara Modern VC Addons",
   "cna_vendor": "SayenThemes",
   "cvss_score": null,
@@ -20604,7 +20604,7 @@
   "date_published": "2021-05-14T11:38:17.000Z"
  },
  "CVE-2021-24285": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Car Seller - Auto Classifieds Script",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20612,7 +20612,7 @@
   "date_published": "2021-05-14T11:38:17.000Z"
  },
  "CVE-2021-24290": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Store Locator Plus for WordPress",
   "cna_vendor": "Store Locator Plus\u00ae",
   "cvss_score": null,
@@ -20620,7 +20620,7 @@
   "date_published": "2021-05-17T16:48:53.000Z"
  },
  "CVE-2021-24295": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Spam protection, AntiSpam, FireWall by CleanTalk",
   "cna_vendor": "\u0421leanTalk",
   "cvss_score": null,
@@ -20628,7 +20628,7 @@
   "date_published": "2021-05-17T16:48:53.000Z"
  },
  "CVE-2021-24311": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "External Media",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20636,7 +20636,7 @@
   "date_published": "2021-06-01T11:33:29.000Z"
  },
  "CVE-2021-24353": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Simple 301 Redirects by BetterLinks",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20644,7 +20644,7 @@
   "date_published": "2021-06-14T13:37:13.000Z"
  },
  "CVE-2021-24370": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Fancy Product Designer",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20652,7 +20652,7 @@
   "date_published": "2021-06-21T00:00:00.000Z"
  },
  "CVE-2021-24442": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Poll, Survey, Questionnaire and Voting system",
   "cna_vendor": "wpdevart",
   "cvss_score": null,
@@ -20660,7 +20660,7 @@
   "date_published": "2021-07-12T19:21:04.000Z"
  },
  "CVE-2021-24472": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "QT KenthaRadio; OnAir2",
   "cna_vendor": "QantumThemes",
   "cvss_score": null,
@@ -20668,7 +20668,7 @@
   "date_published": "2021-08-02T10:32:13.000Z"
  },
  "CVE-2021-24498": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Calendar Event Multi View",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20676,7 +20676,7 @@
   "date_published": "2021-08-02T10:32:28.000Z"
  },
  "CVE-2021-24499": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Workreap",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20684,7 +20684,7 @@
   "date_published": "2021-08-09T00:00:00.000Z"
  },
  "CVE-2021-24527": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "User Registration & User Profile \u2013 Profile Builder",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20692,7 +20692,7 @@
   "date_published": "2021-08-16T10:48:27.000Z"
  },
  "CVE-2021-24644": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Images to WebP",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20700,7 +20700,7 @@
   "date_published": "2021-11-23T19:16:03.000Z"
  },
  "CVE-2021-24647": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Registration Forms \u2013 User profile, Content Restriction, Spam Protection, Payment Gateways, Invitation Codes",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20708,7 +20708,7 @@
   "date_published": "2021-11-08T17:34:57.000Z"
  },
  "CVE-2021-24654": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "User Registration \u2013 Custom Registration Form, Login And User Profile For WordPress",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20716,7 +20716,7 @@
   "date_published": "2021-10-04T11:20:17.000Z"
  },
  "CVE-2021-24666": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Podlove Podcast Publisher",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20724,7 +20724,7 @@
   "date_published": "2021-09-27T15:25:36.000Z"
  },
  "CVE-2021-24750": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "WP Visitor Statistics (Real Time Traffic)",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20732,7 +20732,7 @@
   "date_published": "2021-12-21T08:45:29.000Z"
  },
  "CVE-2021-24755": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "myCred \u2013 Points, Rewards, Gamification, Ranks, Badges & Loyalty Plugin",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20740,7 +20740,7 @@
   "date_published": "2021-11-29T08:25:35.000Z"
  },
  "CVE-2021-24762": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Perfect Survey",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20748,7 +20748,7 @@
   "date_published": "2022-02-01T12:21:23.000Z"
  },
  "CVE-2021-24827": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Asgaros Forum",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20756,7 +20756,7 @@
   "date_published": "2021-11-08T17:35:27.000Z"
  },
  "CVE-2021-24876": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Registrations for the Events Calendar \u2013 Event Registration Plugin",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20764,7 +20764,7 @@
   "date_published": "2021-11-29T08:25:43.000Z"
  },
  "CVE-2021-24878": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "SupportCandy \u2013 Helpdesk & Support Ticket System",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20772,7 +20772,7 @@
   "date_published": "2022-02-07T15:47:10.000Z"
  },
  "CVE-2021-24915": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Contest Gallery \u2013 Photo Contest Plugin for WordPress",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20780,7 +20780,7 @@
   "date_published": "2021-11-29T08:25:50.000Z"
  },
  "CVE-2021-24918": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Smash Balloon Social Post Feed",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20788,7 +20788,7 @@
   "date_published": "2021-11-29T08:25:51.000Z"
  },
  "CVE-2021-24931": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Secure Copy Content Protection and Content Locking",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20796,7 +20796,7 @@
   "date_published": "2021-12-06T15:55:34.000Z"
  },
  "CVE-2021-24943": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Registrations for the Events Calendar \u2013 Event Registration Plugin",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20804,7 +20804,7 @@
   "date_published": "2021-12-06T15:55:39.000Z"
  },
  "CVE-2021-24946": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Modern Events Calendar Lite",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20812,7 +20812,7 @@
   "date_published": "2021-12-13T10:41:25.000Z"
  },
  "CVE-2021-24969": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "WordPress Download Manager",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20820,7 +20820,7 @@
   "date_published": "2021-12-27T10:33:21.000Z"
  },
  "CVE-2021-24981": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Directorist \u2013 Business Directory Plugin",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20828,7 +20828,7 @@
   "date_published": "2021-12-21T08:45:40.000Z"
  },
  "CVE-2021-25003": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "WPCargo Track & Trace",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20836,7 +20836,7 @@
   "date_published": "2022-03-14T14:41:11.000Z"
  },
  "CVE-2021-25032": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "PublishPress Capabilities \u2013 User Role Access, Editor Permissions, Admin Menus; PublishPress Capabilities Pro",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20844,7 +20844,7 @@
   "date_published": "2022-01-10T00:00:00.000Z"
  },
  "CVE-2021-25033": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "WordPress Newsletter Plugin \u2013 Noptin",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20852,7 +20852,7 @@
   "date_published": "2022-02-14T09:20:45.000Z"
  },
  "CVE-2021-25036": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "All in One SEO \u2013 Best WordPress SEO Plugin \u2013 Easily Improve SEO Rankings & Increase Traffic",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20860,7 +20860,7 @@
   "date_published": "2022-01-17T13:00:34.000Z"
  },
  "CVE-2021-25037": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "All in One SEO \u2013 Best WordPress SEO Plugin \u2013 Easily Improve SEO Rankings & Increase Traffic",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20868,7 +20868,7 @@
   "date_published": "2022-01-17T13:00:36.000Z"
  },
  "CVE-2021-25076": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "WP User Frontend \u2013 Membership, Profile, Registration & Post Submission Plugin for WordPress",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20876,7 +20876,7 @@
   "date_published": "2022-01-24T08:01:24.000Z"
  },
  "CVE-2021-25082": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Popup Builder \u2013 Create highly converting, mobile friendly marketing popups.",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20884,7 +20884,7 @@
   "date_published": "2022-02-21T10:45:51.000Z"
  },
  "CVE-2021-25094": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Tatsu",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20892,7 +20892,7 @@
   "date_published": "2022-04-25T15:50:46.000Z"
  },
  "CVE-2021-25114": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Paid Memberships Pro",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -20900,7 +20900,7 @@
   "date_published": "2022-02-07T15:47:24.000Z"
  },
  "CVE-2021-25281": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -20908,7 +20908,7 @@
   "date_published": "2021-02-27T00:00:00.000Z"
  },
  "CVE-2021-25282": {
-  "checked_at": "2026-11-13T13:46:52.223000+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21036,7 +21036,7 @@
   "vendor": "Samsung Mobile"
  },
  "CVE-2021-25646": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Apache Druid",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -21044,7 +21044,7 @@
   "date_published": "2021-01-29T19:15:12.000Z"
  },
  "CVE-2021-25864": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21052,7 +21052,7 @@
   "date_published": "2021-01-26T07:09:07.000Z"
  },
  "CVE-2021-25899": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21060,7 +21060,7 @@
   "date_published": "2021-04-23T20:49:37.000Z"
  },
  "CVE-2021-26072": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Confluence Server; Confluence Data Center",
   "cna_vendor": "Atlassian",
   "cvss_score": null,
@@ -21098,7 +21098,7 @@
   "vendor": "Atlassian"
  },
  "CVE-2021-26294": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21106,7 +21106,7 @@
   "date_published": "2021-03-07T03:42:34.000Z"
  },
  "CVE-2021-26295": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Apache OFBiz",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -21144,7 +21144,7 @@
   "vendor": "Dream Security Co.,Ltd"
  },
  "CVE-2021-26746": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21222,7 +21222,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2021-26920": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Apache Druid",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -21320,7 +21320,7 @@
   "vendor": "DD-WRT"
  },
  "CVE-2021-27162": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21328,7 +21328,7 @@
   "date_published": "2021-02-10T18:37:12.000Z"
  },
  "CVE-2021-27358": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21356,7 +21356,7 @@
   "vendor": "trustedfirmware"
  },
  "CVE-2021-27670": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21364,7 +21364,7 @@
   "date_published": "2021-02-25T00:01:31.000Z"
  },
  "CVE-2021-27691": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21372,7 +21372,7 @@
   "date_published": "2021-04-15T23:14:46.000Z"
  },
  "CVE-2021-27692": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21380,7 +21380,7 @@
   "date_published": "2021-04-15T23:14:32.000Z"
  },
  "CVE-2021-27850": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Apache Tapestry",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -21458,7 +21458,7 @@
   "vendor": "veritas"
  },
  "CVE-2021-27931": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21466,7 +21466,7 @@
   "date_published": "2021-03-03T19:38:12.000Z"
  },
  "CVE-2021-27964": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21474,7 +21474,7 @@
   "date_published": "2021-03-05T01:37:20.000Z"
  },
  "CVE-2021-28149": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21482,7 +21482,7 @@
   "date_published": "2021-05-06T15:12:30.000Z"
  },
  "CVE-2021-28150": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21490,7 +21490,7 @@
   "date_published": "2021-05-06T15:12:09.000Z"
  },
  "CVE-2021-28151": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21498,7 +21498,7 @@
   "date_published": "2021-05-06T15:11:50.000Z"
  },
  "CVE-2021-28152": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21616,7 +21616,7 @@
   "vendor": "QNAP Systems Inc."
  },
  "CVE-2021-29003": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21624,7 +21624,7 @@
   "date_published": "2021-04-13T05:40:12.000Z"
  },
  "CVE-2021-29203": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "HPE Edgeline Infrastructure Management Software",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21672,7 +21672,7 @@
   "vendor": "WordPress"
  },
  "CVE-2021-3006": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21680,7 +21680,7 @@
   "date_published": "2021-01-03T05:49:30.000Z"
  },
  "CVE-2021-3007": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21728,7 +21728,7 @@
   "vendor": "kaseya"
  },
  "CVE-2021-30128": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Apache OFBiz",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -21756,7 +21756,7 @@
   "vendor": "MERIT LILIN ENT.CO.,LTD."
  },
  "CVE-2021-3018": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21780,7 +21780,7 @@
   "date_published": "2021-01-07T13:55:26.000Z"
  },
  "CVE-2021-30461": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21788,7 +21788,7 @@
   "date_published": "2021-05-29T13:02:12.000Z"
  },
  "CVE-2021-30497": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -21806,7 +21806,7 @@
   "vendor": "Google"
  },
  "CVE-2021-30538": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Chrome",
   "cna_vendor": "Google",
   "cvss_score": null,
@@ -22118,7 +22118,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2021-3122": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -22126,7 +22126,7 @@
   "date_published": "2021-02-07T19:45:03.000Z"
  },
  "CVE-2021-31250": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -22154,7 +22154,7 @@
   "vendor": "sudo_project"
  },
  "CVE-2021-31589": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -22172,7 +22172,7 @@
   "vendor": "hitachi"
  },
  "CVE-2021-31728": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -22190,7 +22190,7 @@
   "vendor": "tenda"
  },
  "CVE-2021-31805": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Apache Struts",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -22258,7 +22258,7 @@
   "vendor": "asus"
  },
  "CVE-2021-32172": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -22266,7 +22266,7 @@
   "date_published": "2021-10-07T10:18:09.000Z"
  },
  "CVE-2021-3223": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -22274,7 +22274,7 @@
   "date_published": "2021-01-26T05:58:52.000Z"
  },
  "CVE-2021-32305": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -22282,7 +22282,7 @@
   "date_published": "2021-05-18T16:11:10.000Z"
  },
  "CVE-2021-32478": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "moodle",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -22340,7 +22340,7 @@
   "vendor": "Gerapy"
  },
  "CVE-2021-3287": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -22348,7 +22348,7 @@
   "date_published": "2021-04-22T12:58:00.000Z"
  },
  "CVE-2021-3297": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -22356,7 +22356,7 @@
   "date_published": "2021-01-26T07:11:41.000Z"
  },
  "CVE-2021-33035": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Apache OpenOffice",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -22384,7 +22384,7 @@
   "vendor": "dahuasecurity"
  },
  "CVE-2021-33357": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -22472,7 +22472,7 @@
   "vendor": "Geutebr\u00fcck"
  },
  "CVE-2021-33558": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -22480,7 +22480,7 @@
   "date_published": "2021-05-27T00:00:00.000Z"
  },
  "CVE-2021-33564": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -22548,7 +22548,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2021-34187": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -22556,7 +22556,7 @@
   "date_published": "2021-06-28T15:35:57.000Z"
  },
  "CVE-2021-34427": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Eclipse BIRT",
   "cna_vendor": "The Eclipse Foundation",
   "cvss_score": null,
@@ -22764,7 +22764,7 @@
   "vendor": "Commvault"
  },
  "CVE-2021-35064": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -22812,7 +22812,7 @@
   "vendor": "SolarWinds"
  },
  "CVE-2021-35327": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -22890,7 +22890,7 @@
   "vendor": "Motorola"
  },
  "CVE-2021-35941": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -22918,7 +22918,7 @@
   "vendor": "Dell"
  },
  "CVE-2021-36356": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -22936,7 +22936,7 @@
   "vendor": "sunhillo"
  },
  "CVE-2021-36580": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -22964,7 +22964,7 @@
   "vendor": "Trend Micro"
  },
  "CVE-2021-36749": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Apache Druid",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -22972,7 +22972,7 @@
   "date_published": "2021-09-24T09:30:11.000Z"
  },
  "CVE-2021-36754": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23040,7 +23040,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2021-3708": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "DSL-2750U",
   "cna_vendor": "D-Link",
   "cvss_score": null,
@@ -23048,7 +23048,7 @@
   "date_published": "2021-08-16T04:55:13.000Z"
  },
  "CVE-2021-37291": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23076,7 +23076,7 @@
   "vendor": "zohocorp"
  },
  "CVE-2021-37538": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23084,7 +23084,7 @@
   "date_published": "2021-08-24T12:45:07.000Z"
  },
  "CVE-2021-37580": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Apache ShenYu Admin",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -23142,7 +23142,7 @@
   "vendor": "Google"
  },
  "CVE-2021-38153": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Apache Kafka",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -23150,7 +23150,7 @@
   "date_published": "2021-09-22T09:05:11.000Z"
  },
  "CVE-2021-38154": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23228,7 +23228,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2021-38702": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23316,7 +23316,7 @@
   "vendor": "OptinMonster"
  },
  "CVE-2021-39509": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23444,7 +23444,7 @@
   "vendor": "dlink"
  },
  "CVE-2021-40684": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23462,7 +23462,7 @@
   "vendor": "RegistrationMagic"
  },
  "CVE-2021-40822": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23470,7 +23470,7 @@
   "date_published": "2022-05-01T23:17:25.000Z"
  },
  "CVE-2021-40856": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23488,7 +23488,7 @@
   "vendor": "aviatrix"
  },
  "CVE-2021-40875": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23546,7 +23546,7 @@
   "vendor": "metabase"
  },
  "CVE-2021-41285": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23604,7 +23604,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2021-41419": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23612,7 +23612,7 @@
   "date_published": "2022-07-17T23:23:21.000Z"
  },
  "CVE-2021-41506": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23620,7 +23620,7 @@
   "date_published": "2022-06-30T12:43:54.000Z"
  },
  "CVE-2021-41569": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23628,7 +23628,7 @@
   "date_published": "2021-11-19T17:14:10.000Z"
  },
  "CVE-2021-41649": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23636,7 +23636,7 @@
   "date_published": "2021-10-01T13:51:05.000Z"
  },
  "CVE-2021-41653": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23674,7 +23674,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2021-41826": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23692,7 +23692,7 @@
   "vendor": "GitLab"
  },
  "CVE-2021-41951": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23710,7 +23710,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2021-42063": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "SAP Knowledge Warehouse",
   "cna_vendor": "SAP SE",
   "cvss_score": null,
@@ -23718,7 +23718,7 @@
   "date_published": "2021-12-14T15:44:11.000Z"
  },
  "CVE-2021-42071": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23806,7 +23806,7 @@
   "vendor": "legalweb"
  },
  "CVE-2021-42567": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23814,7 +23814,7 @@
   "date_published": "2021-12-07T21:10:49.000Z"
  },
  "CVE-2021-42911": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23822,7 +23822,7 @@
   "date_published": "2022-03-29T19:30:16.000Z"
  },
  "CVE-2021-42912": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23830,7 +23830,7 @@
   "date_published": "2021-12-16T16:54:08.000Z"
  },
  "CVE-2021-43163": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23866,7 +23866,7 @@
   "date_published": "2023-03-02T18:28:41.764Z"
  },
  "CVE-2021-43287": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23904,7 +23904,7 @@
   "vendor": "flothemesplugins"
  },
  "CVE-2021-43711": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -24182,7 +24182,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2021-44868": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -24190,7 +24190,7 @@
   "date_published": "2022-02-17T15:44:16.000Z"
  },
  "CVE-2021-44892": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -24208,7 +24208,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2021-45092": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -24244,7 +24244,7 @@
   "vendor": "dlink"
  },
  "CVE-2021-45420": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -24252,7 +24252,7 @@
   "date_published": "2022-02-14T13:08:52.000Z"
  },
  "CVE-2021-45422": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -24260,7 +24260,7 @@
   "date_published": "2022-01-13T18:15:03.000Z"
  },
  "CVE-2021-45461": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -24288,7 +24288,7 @@
   "vendor": "netgear"
  },
  "CVE-2021-45837": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -24296,7 +24296,7 @@
   "date_published": "2022-04-25T00:00:00.000Z"
  },
  "CVE-2021-45967": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -24304,7 +24304,7 @@
   "date_published": "2022-03-18T05:00:35.000Z"
  },
  "CVE-2021-46229": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -24312,7 +24312,7 @@
   "date_published": "2022-02-04T01:33:34.000Z"
  },
  "CVE-2021-46379": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -24320,7 +24320,7 @@
   "date_published": "2022-03-04T15:02:26.000Z"
  },
  "CVE-2021-46381": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -24328,7 +24328,7 @@
   "date_published": "2022-03-04T15:24:50.000Z"
  },
  "CVE-2021-46417": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -24336,7 +24336,7 @@
   "date_published": "2022-04-07T10:55:09.000Z"
  },
  "CVE-2021-46422": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -24344,7 +24344,7 @@
   "date_published": "2022-04-27T11:04:00.000Z"
  },
  "CVE-2021-46442": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -24550,7 +24550,7 @@
   "vendor": "LiteSpeed Technologies"
  },
  "CVE-2022-0142": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Visual Form Builder",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24558,7 +24558,7 @@
   "date_published": "2022-04-12T11:15:23.000Z"
  },
  "CVE-2022-0169": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Photo Gallery by 10Web \u2013 Mobile-Friendly Image Gallery",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24576,7 +24576,7 @@
   "vendor": "linux"
  },
  "CVE-2022-0208": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "MapPress Maps for WordPress",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24594,7 +24594,7 @@
   "vendor": "codemiq"
  },
  "CVE-2022-0288": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Ad Inserter \u2013 Ad Manager & AdSense Ads; Ad Inserter Pro",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24612,7 +24612,7 @@
   "vendor": "Zyxel"
  },
  "CVE-2022-0346": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "XML Sitemap Generator for Google",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24620,7 +24620,7 @@
   "date_published": "2022-05-23T07:15:21.000Z"
  },
  "CVE-2022-0412": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "TI WooCommerce Wishlist; TI WooCommerce Wishlist Pro",
   "cna_vendor": "TemplateInvaders",
   "cvss_score": null,
@@ -24628,7 +24628,7 @@
   "date_published": "2022-02-28T09:06:56.000Z"
  },
  "CVE-2022-0429": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "WP Cerber Security, Anti-spam & Malware Scan",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24636,7 +24636,7 @@
   "date_published": "2022-03-07T08:16:37.000Z"
  },
  "CVE-2022-0434": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Page View Count",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24644,7 +24644,7 @@
   "date_published": "2022-03-07T08:16:39.000Z"
  },
  "CVE-2022-0441": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "MasterStudy LMS \u2013 WordPress LMS Plugin",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24652,7 +24652,7 @@
   "date_published": "2022-03-07T08:16:43.000Z"
  },
  "CVE-2022-0456": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Chrome",
   "cna_vendor": "Google",
   "cvss_score": null,
@@ -24690,7 +24690,7 @@
   "vendor": "Atlassian"
  },
  "CVE-2022-0541": {
-  "checked_at": "2026-11-13T13:46:52.223000+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "flo-launch",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24708,7 +24708,7 @@
   "vendor": "Debian"
  },
  "CVE-2022-0591": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "FormCraft",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24716,7 +24716,7 @@
   "date_published": "2022-03-21T18:55:48.000Z"
  },
  "CVE-2022-0592": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "MapSVG",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24734,7 +24734,7 @@
   "vendor": "Google"
  },
  "CVE-2022-0633": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "UpdraftPlus WordPress Backup Plugin (Free); UpdraftPlus WordPress Backup Plugin (Premium)",
   "cna_vendor": "UpdraftPlus",
   "cvss_score": null,
@@ -24752,7 +24752,7 @@
   "vendor": "Cozmoslabs"
  },
  "CVE-2022-0656": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Web To Print Shop : uDraw",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24760,7 +24760,7 @@
   "date_published": "2022-04-25T15:51:03.000Z"
  },
  "CVE-2022-0679": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Narnoo Distributor",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24768,7 +24768,7 @@
   "date_published": "2022-03-28T17:23:14.000Z"
  },
  "CVE-2022-0732": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Copy9; FoneTracker; iSpyoo; GuestSpy; TheSpyApp; ExactSpy; SecondClone; The Truth Spy; MxSpy",
   "cna_vendor": "1Byte",
   "cvss_score": null,
@@ -24776,7 +24776,7 @@
   "date_published": "2022-02-24T16:10:11.015Z"
  },
  "CVE-2022-0747": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Infographic Maker \u2013 iList",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24784,7 +24784,7 @@
   "date_published": "2022-03-21T18:56:03.000Z"
  },
  "CVE-2022-0760": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Simple Link Directory",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24792,7 +24792,7 @@
   "date_published": "2022-03-21T18:56:05.000Z"
  },
  "CVE-2022-0769": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Users Ultra Membership, Users Community and Member Profiles With PayPal Integration Plugin",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24800,7 +24800,7 @@
   "date_published": "2022-04-25T15:51:08.000Z"
  },
  "CVE-2022-0781": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Nirweb support",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24808,7 +24808,7 @@
   "date_published": "2022-05-23T07:15:22.000Z"
  },
  "CVE-2022-0784": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Title Experiments Free",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24816,7 +24816,7 @@
   "date_published": "2022-03-28T17:23:21.000Z"
  },
  "CVE-2022-0785": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Daily Prayer Time",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24824,7 +24824,7 @@
   "date_published": "2022-04-18T17:10:38.000Z"
  },
  "CVE-2022-0786": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "KiviCare \u2013 Clinic & Patient Management System (EHR)",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24832,7 +24832,7 @@
   "date_published": "2022-06-13T12:41:32.000Z"
  },
  "CVE-2022-0826": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "WP Video Gallery",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24840,7 +24840,7 @@
   "date_published": "2022-05-09T16:50:35.000Z"
  },
  "CVE-2022-0827": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Bestbooks",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24848,7 +24848,7 @@
   "date_published": "2022-06-13T12:41:35.000Z"
  },
  "CVE-2022-0846": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "SpeakOut! Email Petitions",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24866,7 +24866,7 @@
   "vendor": "linux"
  },
  "CVE-2022-0867": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Pricing Table Plugin",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24874,7 +24874,7 @@
   "date_published": "2022-05-16T14:30:29.000Z"
  },
  "CVE-2022-0879": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Caldera Forms \u2013 More Than Contact Forms",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24882,7 +24882,7 @@
   "date_published": "2022-04-18T17:10:39.000Z"
  },
  "CVE-2022-0885": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Member Hero",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24890,7 +24890,7 @@
   "date_published": "2022-06-13T12:41:39.000Z"
  },
  "CVE-2022-0948": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Order Listener for WooCommerce \u2013 Play Sounds Instantly on New Orders",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24898,7 +24898,7 @@
   "date_published": "2022-05-09T16:50:41.000Z"
  },
  "CVE-2022-0952": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Sitemap by click5",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24916,7 +24916,7 @@
   "vendor": "linux"
  },
  "CVE-2022-1006": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Advanced Booking Calendar",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24924,7 +24924,7 @@
   "date_published": "2022-04-11T14:41:04.000Z"
  },
  "CVE-2022-1020": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Product Table for WooCommerce (wooproducttable)",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24952,7 +24952,7 @@
   "vendor": "Sophos"
  },
  "CVE-2022-1057": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Pricing Deals for WooCommerce",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24990,7 +24990,7 @@
   "vendor": "Rockwell Automation"
  },
  "CVE-2022-1221": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Gwyn's Imagemap Selector",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -24998,7 +24998,7 @@
   "date_published": "2022-05-23T07:15:29.000Z"
  },
  "CVE-2022-1281": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Photo Gallery by 10Web \u2013 Mobile-Friendly Image Gallery",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -25026,7 +25026,7 @@
   "vendor": "Google"
  },
  "CVE-2022-1386": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Fusion Builder",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -25044,7 +25044,7 @@
   "vendor": "F5"
  },
  "CVE-2022-1390": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Admin Word Count Column",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -25052,7 +25052,7 @@
   "date_published": "2022-04-25T15:51:24.000Z"
  },
  "CVE-2022-1391": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Cab fare calculator",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -25100,7 +25100,7 @@
   "vendor": "Mozilla"
  },
  "CVE-2022-1574": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "HTML2WP",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -25128,7 +25128,7 @@
   "vendor": "ArtBees"
  },
  "CVE-2022-1703": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "SMA100",
   "cna_vendor": "SonicWall",
   "cvss_score": null,
@@ -25166,7 +25166,7 @@
   "vendor": "camptocamp"
  },
  "CVE-2022-1903": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "ARMember \u2013 Membership Plugin, Content Restriction, Member Levels, User Profile & User signup",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -25174,7 +25174,7 @@
   "date_published": "2022-06-27T08:58:19.000Z"
  },
  "CVE-2022-1916": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Active Products Tables for WooCommerce. Professional products tables for WooCommerce store",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -25182,7 +25182,7 @@
   "date_published": "2022-06-27T08:58:38.000Z"
  },
  "CVE-2022-1950": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Youzify \u2013 BuddyPress Community, User Profile, Social Network & Membership Plugin for WordPress",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -25190,7 +25190,7 @@
   "date_published": "2022-08-01T12:49:04.000Z"
  },
  "CVE-2022-1952": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Free Booking Plugin for Hotels, Restaurant and Car Rental \u2013 eaSYNC",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -25498,7 +25498,7 @@
   "vendor": "Samsung Mobile"
  },
  "CVE-2022-22274": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "SonicOS",
   "cna_vendor": "SonicWall",
   "cvss_score": null,
@@ -25506,7 +25506,7 @@
   "date_published": "2022-03-25T23:05:09.000Z"
  },
  "CVE-2022-22279": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "SonicWall SRA/SMA100",
   "cna_vendor": "SonicWall",
   "cvss_score": null,
@@ -25584,7 +25584,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2022-22897": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -25632,7 +25632,7 @@
   "vendor": "vmware"
  },
  "CVE-2022-2295": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Chrome",
   "cna_vendor": "Google",
   "cvss_score": null,
@@ -25650,7 +25650,7 @@
   "vendor": "vmware"
  },
  "CVE-2022-22956": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "VMware Workspace ONE Access",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -25658,7 +25658,7 @@
   "date_published": "2022-04-13T00:00:00.000Z"
  },
  "CVE-2022-22957": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "VMware Workspace ONE Access, Identity Manager and vRealize Automation.",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -25696,7 +25696,7 @@
   "vendor": "vmware"
  },
  "CVE-2022-22972": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "VMware Workspace ONE Access, Identity Manager and vRealize Automation",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -25734,7 +25734,7 @@
   "vendor": "Zabbix"
  },
  "CVE-2022-2314": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "VR Calendar",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -25752,7 +25752,7 @@
   "vendor": "watchguard"
  },
  "CVE-2022-23178": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -25770,7 +25770,7 @@
   "vendor": "nuuo"
  },
  "CVE-2022-23347": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -25788,7 +25788,7 @@
   "vendor": "cedargate"
  },
  "CVE-2022-23714": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Endpoint Security",
   "cna_vendor": "Elastic",
   "cvss_score": null,
@@ -25796,7 +25796,7 @@
   "date_published": "2022-07-06T13:57:27.000Z"
  },
  "CVE-2022-2373": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Simply Schedule Appointments \u2013 WordPress Booking Plugin",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -25814,7 +25814,7 @@
   "vendor": "audinate"
  },
  "CVE-2022-2376": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Directorist \u2013 WordPress Business Directory Plugin with Classified Ads Listings",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -25832,7 +25832,7 @@
   "vendor": "node-ipc_project"
  },
  "CVE-2022-2383": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Feed Them Social \u2013 for Twitter feed, Youtube and more",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -25840,7 +25840,7 @@
   "date_published": "2022-08-22T15:02:27.000Z"
  },
  "CVE-2022-23900": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -25878,7 +25878,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2022-2414": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Dogtag PKI",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -25886,7 +25886,7 @@
   "date_published": "2022-07-29T18:58:57.000Z"
  },
  "CVE-2022-24260": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -25894,7 +25894,7 @@
   "date_published": "2022-02-04T16:10:29.000Z"
  },
  "CVE-2022-24288": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Apache Airflow",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -25952,7 +25952,7 @@
   "vendor": "oferwald"
  },
  "CVE-2022-24637": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26080,7 +26080,7 @@
   "vendor": "WAVLINK"
  },
  "CVE-2022-24934": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26088,7 +26088,7 @@
   "date_published": "2022-03-23T21:19:54.000Z"
  },
  "CVE-2022-24989": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26106,7 +26106,7 @@
   "vendor": "terra-master"
  },
  "CVE-2022-25060": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26114,7 +26114,7 @@
   "date_published": "2022-02-25T19:38:56.000Z"
  },
  "CVE-2022-25064": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26122,7 +26122,7 @@
   "date_published": "2022-02-25T19:38:59.000Z"
  },
  "CVE-2022-25075": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26130,7 +26130,7 @@
   "date_published": "2022-02-22T22:44:07.000Z"
  },
  "CVE-2022-25076": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26138,7 +26138,7 @@
   "date_published": "2022-02-22T22:44:07.000Z"
  },
  "CVE-2022-25077": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26146,7 +26146,7 @@
   "date_published": "2022-02-22T22:44:08.000Z"
  },
  "CVE-2022-25078": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26154,7 +26154,7 @@
   "date_published": "2022-02-22T22:44:08.000Z"
  },
  "CVE-2022-25079": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26162,7 +26162,7 @@
   "date_published": "2022-02-22T22:44:09.000Z"
  },
  "CVE-2022-25080": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26170,7 +26170,7 @@
   "date_published": "2022-02-22T22:44:10.000Z"
  },
  "CVE-2022-25081": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26178,7 +26178,7 @@
   "date_published": "2022-02-22T22:44:10.000Z"
  },
  "CVE-2022-25082": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26186,7 +26186,7 @@
   "date_published": "2022-02-22T22:44:11.000Z"
  },
  "CVE-2022-25083": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26194,7 +26194,7 @@
   "date_published": "2022-02-22T22:44:12.000Z"
  },
  "CVE-2022-25084": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26202,7 +26202,7 @@
   "date_published": "2022-02-22T22:44:12.000Z"
  },
  "CVE-2022-25134": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26210,7 +26210,7 @@
   "date_published": "2022-02-18T23:09:19.000Z"
  },
  "CVE-2022-25237": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26218,7 +26218,7 @@
   "date_published": "2022-05-27T16:48:43.000Z"
  },
  "CVE-2022-25322": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26226,7 +26226,7 @@
   "date_published": "2022-02-18T16:58:09.000Z"
  },
  "CVE-2022-25335": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26244,7 +26244,7 @@
   "vendor": "n/a"
  },
  "CVE-2022-25485": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26252,7 +26252,7 @@
   "date_published": "2022-03-15T17:41:10.000Z"
  },
  "CVE-2022-25486": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26260,7 +26260,7 @@
   "date_published": "2022-03-15T17:41:02.000Z"
  },
  "CVE-2022-25487": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26268,7 +26268,7 @@
   "date_published": "2022-03-15T17:40:55.000Z"
  },
  "CVE-2022-25488": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26276,7 +26276,7 @@
   "date_published": "2022-03-15T17:40:48.000Z"
  },
  "CVE-2022-25497": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26284,7 +26284,7 @@
   "date_published": "2022-03-15T17:31:35.000Z"
  },
  "CVE-2022-2551": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Duplicator \u2013 WordPress Migration Plugin",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -26340,7 +26340,7 @@
   "vendor": "mitel"
  },
  "CVE-2022-26186": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26348,7 +26348,7 @@
   "date_published": "2022-03-22T20:13:16.000Z"
  },
  "CVE-2022-26187": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26356,7 +26356,7 @@
   "date_published": "2022-03-22T20:13:17.000Z"
  },
  "CVE-2022-26210": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26434,7 +26434,7 @@
   "vendor": "veeam"
  },
  "CVE-2022-26504": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26530,7 +26530,7 @@
   "date_published": "2022-03-21T16:52:38.000Z"
  },
  "CVE-2022-27002": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26538,7 +26538,7 @@
   "date_published": "2022-03-15T21:56:33.000Z"
  },
  "CVE-2022-27226": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26546,7 +26546,7 @@
   "date_published": "2022-03-19T03:04:03.000Z"
  },
  "CVE-2022-27228": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26614,7 +26614,7 @@
   "vendor": "synacor"
  },
  "CVE-2022-27927": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26622,7 +26622,7 @@
   "date_published": "2022-04-19T12:32:00.000Z"
  },
  "CVE-2022-28005": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26630,7 +26630,7 @@
   "date_published": "2022-05-06T00:00:00.000Z"
  },
  "CVE-2022-28054": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26638,7 +26638,7 @@
   "date_published": "2022-05-02T13:33:57.000Z"
  },
  "CVE-2022-28079": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26646,7 +26646,7 @@
   "date_published": "2022-05-05T15:31:57.000Z"
  },
  "CVE-2022-28219": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26674,7 +26674,7 @@
   "vendor": "Mozilla"
  },
  "CVE-2022-28290": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "WordPress Country Selector Plugin",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26682,7 +26682,7 @@
   "date_published": "2022-04-25T16:31:01.000Z"
  },
  "CVE-2022-28363": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26690,7 +26690,7 @@
   "date_published": "2022-04-09T16:26:45.000Z"
  },
  "CVE-2022-28365": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26698,7 +26698,7 @@
   "date_published": "2022-04-09T00:00:00.000Z"
  },
  "CVE-2022-28368": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26736,7 +26736,7 @@
   "vendor": "zohocorp"
  },
  "CVE-2022-28906": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26744,7 +26744,7 @@
   "date_published": "2022-05-10T13:16:58.000Z"
  },
  "CVE-2022-28907": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26752,7 +26752,7 @@
   "date_published": "2022-05-10T13:16:59.000Z"
  },
  "CVE-2022-28908": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26760,7 +26760,7 @@
   "date_published": "2022-05-10T13:16:59.000Z"
  },
  "CVE-2022-28912": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26768,7 +26768,7 @@
   "date_published": "2022-05-10T13:17:02.000Z"
  },
  "CVE-2022-28956": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26776,7 +26776,7 @@
   "date_published": "2022-05-18T11:50:42.000Z"
  },
  "CVE-2022-28987": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26784,7 +26784,7 @@
   "date_published": "2022-05-20T02:10:39.000Z"
  },
  "CVE-2022-29007": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26792,7 +26792,7 @@
   "date_published": "2022-05-11T13:08:01.000Z"
  },
  "CVE-2022-29013": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26800,7 +26800,7 @@
   "date_published": "2022-06-08T23:28:57.000Z"
  },
  "CVE-2022-29014": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26808,7 +26808,7 @@
   "date_published": "2022-06-08T23:43:15.000Z"
  },
  "CVE-2022-29078": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26816,7 +26816,7 @@
   "date_published": "2022-04-25T14:13:32.000Z"
  },
  "CVE-2022-29081": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26824,7 +26824,7 @@
   "date_published": "2022-04-28T19:16:57.000Z"
  },
  "CVE-2022-2915": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "SMA100",
   "cna_vendor": "SonicWall",
   "cvss_score": null,
@@ -26832,7 +26832,7 @@
   "date_published": "2022-08-26T20:30:15.000Z"
  },
  "CVE-2022-29153": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26840,7 +26840,7 @@
   "date_published": "2022-04-19T00:00:00.000Z"
  },
  "CVE-2022-29272": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26858,7 +26858,7 @@
   "vendor": "contec"
  },
  "CVE-2022-29383": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26896,7 +26896,7 @@
   "vendor": "mitel"
  },
  "CVE-2022-2958": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "BadgeOS",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -26904,7 +26904,7 @@
   "date_published": "2022-09-19T14:01:05.000Z"
  },
  "CVE-2022-30023": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26912,7 +26912,7 @@
   "date_published": "2022-06-16T14:28:27.000Z"
  },
  "CVE-2022-30047": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26920,7 +26920,7 @@
   "date_published": "2022-05-11T17:36:40.000Z"
  },
  "CVE-2022-30075": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -26978,7 +26978,7 @@
   "vendor": "Google"
  },
  "CVE-2022-30425": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27006,7 +27006,7 @@
   "vendor": "Google"
  },
  "CVE-2022-30777": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27074,7 +27074,7 @@
   "vendor": "netwrix"
  },
  "CVE-2022-31208": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27082,7 +27082,7 @@
   "date_published": "2022-07-17T22:36:18.000Z"
  },
  "CVE-2022-3124": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Frontend File Manager Plugin",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -27090,7 +27090,7 @@
   "date_published": "2022-10-03T13:45:25.000Z"
  },
  "CVE-2022-3125": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Frontend File Manager Plugin",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -27098,7 +27098,7 @@
   "date_published": "2022-10-03T13:45:26.000Z"
  },
  "CVE-2022-31374": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27106,7 +27106,7 @@
   "date_published": "2022-06-21T13:00:38.000Z"
  },
  "CVE-2022-31446": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27124,7 +27124,7 @@
   "vendor": "iThemes"
  },
  "CVE-2022-31499": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27132,7 +27132,7 @@
   "date_published": "2022-08-25T22:09:38.000Z"
  },
  "CVE-2022-31656": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "VMware Workspace ONE Access, Identity Manager and vRealize Automation",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27140,7 +27140,7 @@
   "date_published": "2022-08-05T15:07:24.000Z"
  },
  "CVE-2022-31675": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "VMware vRealize Operations",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27188,7 +27188,7 @@
   "vendor": "vmware"
  },
  "CVE-2022-31793": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27216,7 +27216,7 @@
   "vendor": "netgate"
  },
  "CVE-2022-31847": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27224,7 +27224,7 @@
   "date_published": "2022-06-14T13:09:58.000Z"
  },
  "CVE-2022-31984": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27232,7 +27232,7 @@
   "date_published": "2022-06-01T18:06:30.000Z"
  },
  "CVE-2022-32024": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27240,7 +27240,7 @@
   "date_published": "2022-06-02T15:50:38.000Z"
  },
  "CVE-2022-32025": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27248,7 +27248,7 @@
   "date_published": "2022-06-02T15:49:30.000Z"
  },
  "CVE-2022-32026": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27256,7 +27256,7 @@
   "date_published": "2022-06-02T15:44:51.000Z"
  },
  "CVE-2022-32028": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27274,7 +27274,7 @@
   "vendor": "Sophos"
  },
  "CVE-2022-32409": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27322,7 +27322,7 @@
   "vendor": "Apple"
  },
  "CVE-2022-32993": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27360,7 +27360,7 @@
   "vendor": "Hancom"
  },
  "CVE-2022-34121": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27388,7 +27388,7 @@
   "vendor": "ideasToCode"
  },
  "CVE-2022-34305": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Apache Tomcat",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -27416,7 +27416,7 @@
   "vendor": "biplob018"
  },
  "CVE-2022-34538": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27474,7 +27474,7 @@
   "vendor": "Unknown"
  },
  "CVE-2022-34918": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27492,7 +27492,7 @@
   "vendor": "zohocorp"
  },
  "CVE-2022-35413": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27500,7 +27500,7 @@
   "date_published": "2022-09-13T22:00:24.000Z"
  },
  "CVE-2022-35526": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27508,7 +27508,7 @@
   "date_published": "2022-08-09T19:43:41.000Z"
  },
  "CVE-2022-35555": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27516,7 +27516,7 @@
   "date_published": "2022-08-11T16:35:18.000Z"
  },
  "CVE-2022-35653": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Moodle",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27534,7 +27534,7 @@
   "vendor": "GitLab"
  },
  "CVE-2022-35733": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "UNIMO Technology digital video recorders UDR-JA1004/JA1008/JA1016 and UDR-JA1016",
   "cna_vendor": "UNIMO Technology Co., Ltd",
   "cvss_score": null,
@@ -27582,7 +27582,7 @@
   "vendor": "glpi-project"
  },
  "CVE-2022-36267": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27610,7 +27610,7 @@
   "vendor": "zkoss"
  },
  "CVE-2022-36553": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27618,7 +27618,7 @@
   "date_published": "2022-08-29T22:46:17.000Z"
  },
  "CVE-2022-36559": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27626,7 +27626,7 @@
   "date_published": "2022-08-29T22:46:21.000Z"
  },
  "CVE-2022-36560": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27634,7 +27634,7 @@
   "date_published": "2022-08-29T22:46:22.000Z"
  },
  "CVE-2022-36642": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27652,7 +27652,7 @@
   "vendor": "Atlassian"
  },
  "CVE-2022-36883": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Jenkins Git Plugin",
   "cna_vendor": "Jenkins project",
   "cvss_score": null,
@@ -27710,7 +27710,7 @@
   "vendor": "dlink"
  },
  "CVE-2022-37061": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27718,7 +27718,7 @@
   "date_published": "2022-08-18T00:00:00.000Z"
  },
  "CVE-2022-37129": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27726,7 +27726,7 @@
   "date_published": "2022-08-31T22:44:57.000Z"
  },
  "CVE-2022-37153": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27744,7 +27744,7 @@
   "vendor": "Google"
  },
  "CVE-2022-37299": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27752,7 +27752,7 @@
   "date_published": "2022-09-09T14:10:07.000Z"
  },
  "CVE-2022-37450": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27760,7 +27760,7 @@
   "date_published": "2022-08-05T20:30:46.000Z"
  },
  "CVE-2022-37661": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27818,7 +27818,7 @@
   "vendor": "jegtheme"
  },
  "CVE-2022-38130": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Keysight Technologies Sensor Management Server",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27836,7 +27836,7 @@
   "vendor": "arm"
  },
  "CVE-2022-38296": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27844,7 +27844,7 @@
   "date_published": "2022-09-12T20:43:51.000Z"
  },
  "CVE-2022-38511": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27932,7 +27932,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2022-39960": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -27940,7 +27940,7 @@
   "date_published": "2022-09-17T17:49:35.000Z"
  },
  "CVE-2022-39986": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -28084,7 +28084,7 @@
   "vendor": "Fortinet"
  },
  "CVE-2022-40734": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -28102,7 +28102,7 @@
   "vendor": "mitel"
  },
  "CVE-2022-40769": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -28120,7 +28120,7 @@
   "vendor": "dlink"
  },
  "CVE-2022-40843": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -28328,7 +28328,7 @@
   "vendor": "Collne Inc."
  },
  "CVE-2022-42045": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -28486,7 +28486,7 @@
   "vendor": "Apple"
  },
  "CVE-2022-42889": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Apache Commons Text",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -29370,7 +29370,7 @@
   "vendor": "Unknown"
  },
  "CVE-2023-0159": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Extensive VC Addons for WPBakery page builder",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -29448,7 +29448,7 @@
   "vendor": "TRENDnet"
  },
  "CVE-2023-0656": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "SonicOS",
   "cna_vendor": "SonicWall",
   "cvss_score": null,
@@ -29606,7 +29606,7 @@
   "vendor": "tp-link"
  },
  "CVE-2023-1434": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -30134,7 +30134,7 @@
   "vendor": "sugarcrm"
  },
  "CVE-2023-23063": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -30260,7 +30260,7 @@
   "vendor": "mlflow"
  },
  "CVE-2023-2359": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Slider Revolution",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -30308,7 +30308,7 @@
   "vendor": "GamiPress"
  },
  "CVE-2023-24055": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -30376,7 +30376,7 @@
   "vendor": "Citrix"
  },
  "CVE-2023-24733": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -30624,7 +30624,7 @@
   "vendor": "stagil"
  },
  "CVE-2023-26258": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -30702,7 +30702,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2023-26469": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -30740,7 +30740,7 @@
   "vendor": "abus"
  },
  "CVE-2023-26775": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -30828,7 +30828,7 @@
   "vendor": "rbaskets"
  },
  "CVE-2023-27240": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -30976,7 +30976,7 @@
   "vendor": "tshirtecommerce"
  },
  "CVE-2023-2796": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "EventON",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -31014,7 +31014,7 @@
   "vendor": "Weaver"
  },
  "CVE-2023-28121": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "WooCommerce Payments WordPress Plugin",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -31092,7 +31092,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2023-28343": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -31100,7 +31100,7 @@
   "date_published": "2023-03-14T00:00:00.000Z"
  },
  "CVE-2023-28365": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "UniFi Network application",
   "cna_vendor": "Ubiquiti Inc.",
   "cvss_score": null,
@@ -31178,7 +31178,7 @@
   "vendor": "Zyxel"
  },
  "CVE-2023-2877": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Formidable Forms",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -31216,7 +31216,7 @@
   "vendor": "3cx"
  },
  "CVE-2023-29218": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -31504,7 +31504,7 @@
   "vendor": "trustwallet"
  },
  "CVE-2023-3139": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Protect WP Admin",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -31522,7 +31522,7 @@
   "vendor": "cassianetworks"
  },
  "CVE-2023-31465": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -31914,7 +31914,7 @@
   "vendor": "Chamilo"
  },
  "CVE-2023-33831": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -31952,7 +31952,7 @@
   "vendor": "VMware"
  },
  "CVE-2023-34060": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "VMware Cloud Director Appliance (VCD Appliance)",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -31980,7 +31980,7 @@
   "vendor": "SonicWall"
  },
  "CVE-2023-34132": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "GMS; Analytics",
   "cna_vendor": "SonicWall",
   "cvss_score": null,
@@ -32028,7 +32028,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2023-34545": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32036,7 +32036,7 @@
   "date_published": "2023-08-09T00:00:00.000Z"
  },
  "CVE-2023-34598": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32044,7 +32044,7 @@
   "date_published": "2023-06-29T00:00:00.000Z"
  },
  "CVE-2023-3460": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Ultimate Member",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -32052,7 +32052,7 @@
   "date_published": "2023-07-04T07:23:28.852Z"
  },
  "CVE-2023-34659": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32080,7 +32080,7 @@
   "vendor": "Citrix"
  },
  "CVE-2023-34723": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32088,7 +32088,7 @@
   "date_published": "2023-08-25T00:00:00.000Z"
  },
  "CVE-2023-34960": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32116,7 +32116,7 @@
   "vendor": "progress"
  },
  "CVE-2023-35042": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32192,7 +32192,7 @@
   "vendor": "Google"
  },
  "CVE-2023-35708": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32200,7 +32200,7 @@
   "date_published": "2023-06-16T00:00:00.000Z"
  },
  "CVE-2023-35813": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32298,7 +32298,7 @@
   "vendor": "Ruijie"
  },
  "CVE-2023-36144": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32484,7 +32484,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2023-36934": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32502,7 +32502,7 @@
   "vendor": "Honeywell"
  },
  "CVE-2023-37170": {
-  "checked_at": "2026-11-18T10:59:00.833163+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32588,7 +32588,7 @@
   "date_published": "2023-07-20T00:00:00.000Z"
  },
  "CVE-2023-37679": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32646,7 +32646,7 @@
   "vendor": "Microsoft"
  },
  "CVE-2023-38192": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32654,7 +32654,7 @@
   "date_published": "2023-10-21T00:00:00.000Z"
  },
  "CVE-2023-38198": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32732,7 +32732,7 @@
   "vendor": "openbsd"
  },
  "CVE-2023-38433": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "IP-HE950E; IP-HE950D; IP-HE900E; IP-HE900D; IP-900E / IP-920E; IP-900D / IP-900\u2161D / IP-920D; IP-90; IP-9610",
   "cna_vendor": "Fujitsu Limited ",
   "cvss_score": null,
@@ -32760,7 +32760,7 @@
   "vendor": "Apple"
  },
  "CVE-2023-38646": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32778,7 +32778,7 @@
   "vendor": "zohocorp"
  },
  "CVE-2023-38817": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32826,7 +32826,7 @@
   "vendor": "zkteco"
  },
  "CVE-2023-39026": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32854,7 +32854,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2023-39276": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "SonicOS",
   "cna_vendor": "SonicWall",
   "cvss_score": null,
@@ -32862,7 +32862,7 @@
   "date_published": "2023-10-17T22:04:34.956Z"
  },
  "CVE-2023-39277": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "SonicOS",
   "cna_vendor": "SonicWall",
   "cvss_score": null,
@@ -32870,7 +32870,7 @@
   "date_published": "2023-10-17T22:08:55.318Z"
  },
  "CVE-2023-39278": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "SonicOS",
   "cna_vendor": "SonicWall",
   "cvss_score": null,
@@ -32878,7 +32878,7 @@
   "date_published": "2023-10-17T22:12:29.594Z"
  },
  "CVE-2023-39279": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "SonicOS",
   "cna_vendor": "SonicWall",
   "cvss_score": null,
@@ -32886,7 +32886,7 @@
   "date_published": "2023-10-17T22:15:00.711Z"
  },
  "CVE-2023-39280": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "SonicOS",
   "cna_vendor": "SonicWall",
   "cvss_score": null,
@@ -32964,7 +32964,7 @@
   "vendor": "ASUS"
  },
  "CVE-2023-39796": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -32972,7 +32972,7 @@
   "date_published": "2023-11-10T00:00:00.000Z"
  },
  "CVE-2023-39910": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33050,7 +33050,7 @@
   "vendor": "Exactly WWW"
  },
  "CVE-2023-40711": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33058,7 +33058,7 @@
   "date_published": "2023-08-20T00:00:00.000Z"
  },
  "CVE-2023-40748": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33074,7 +33074,7 @@
   "date_published": "2023-10-12T00:00:00.000Z"
  },
  "CVE-2023-41011": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33102,7 +33102,7 @@
   "vendor": "Apple"
  },
  "CVE-2023-41109": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33190,7 +33190,7 @@
   "vendor": "ASUS"
  },
  "CVE-2023-41599": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33198,7 +33198,7 @@
   "date_published": "2023-09-19T00:00:00.000Z"
  },
  "CVE-2023-41642": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33444,7 +33444,7 @@
   "vendor": "Apple"
  },
  "CVE-2023-43177": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33562,7 +33562,7 @@
   "vendor": "Adobe"
  },
  "CVE-2023-44467": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33650,7 +33650,7 @@
   "vendor": "Acronis"
  },
  "CVE-2023-45311": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33698,7 +33698,7 @@
   "vendor": "Helix"
  },
  "CVE-2023-45852": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33706,7 +33706,7 @@
   "date_published": "2023-10-14T00:00:00.000Z"
  },
  "CVE-2023-45878": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33724,7 +33724,7 @@
   "vendor": "wpmudev"
  },
  "CVE-2023-46229": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33762,7 +33762,7 @@
   "vendor": "hardy-barth"
  },
  "CVE-2023-46574": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -33870,7 +33870,7 @@
   "vendor": "sysaid"
  },
  "CVE-2023-47248": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "PyArrow",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -33948,7 +33948,7 @@
   "vendor": "anyscale"
  },
  "CVE-2023-48084": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34026,7 +34026,7 @@
   "vendor": "openbsd"
  },
  "CVE-2023-49070": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Apache OFBiz",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -34134,7 +34134,7 @@
   "vendor": "hit-reach"
  },
  "CVE-2023-50164": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Apache Struts",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -34182,7 +34182,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2023-50428": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34220,7 +34220,7 @@
   "vendor": "D-Link"
  },
  "CVE-2023-50917": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -34238,7 +34238,7 @@
   "vendor": "gl-inet"
  },
  "CVE-2023-50968": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Apache OFBiz",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -34274,7 +34274,7 @@
   "date_published": "2023-12-29T13:47:39.376Z"
  },
  "CVE-2023-51467": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Apache OFBiz",
   "cna_vendor": "Apache Software Foundation",
   "cvss_score": null,
@@ -34412,7 +34412,7 @@
   "vendor": "Tongda"
  },
  "CVE-2023-5360": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Royal Elementor Addons and Templates",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -34592,7 +34592,7 @@
   "date_published": "2026-11-18T15:34:59.422Z"
  },
  "CVE-2023-5559": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "10Web Booster",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -34660,7 +34660,7 @@
   "vendor": "Cloud Software Group"
  },
  "CVE-2023-5970": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "SMA100",
   "cna_vendor": "SonicWall",
   "cvss_score": null,
@@ -34724,7 +34724,7 @@
   "vendor": "h2oai"
  },
  "CVE-2023-6063": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "WP Fastest Cache",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -34732,7 +34732,7 @@
   "date_published": "2023-12-04T21:29:41.536Z"
  },
  "CVE-2023-6114": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Duplicator; Duplicator Pro",
   "cna_vendor": "Unknown",
   "cvss_score": null,
@@ -35008,7 +35008,7 @@
   "vendor": "Douglas Wilson"
  },
  "CVE-2023-7102": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Barracuda ESG Appliance",
   "cna_vendor": "Barracuda Networks Inc.",
   "cvss_score": null,
@@ -37152,7 +37152,7 @@
   "vendor": "instawp"
  },
  "CVE-2024-26987": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "Linux",
   "cna_vendor": "Linux",
   "cvss_score": null,
@@ -37658,7 +37658,7 @@
   "vendor": "telesquare"
  },
  "CVE-2024-29291": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -41284,7 +41284,7 @@
   "vendor": "netgear"
  },
  "CVE-2024-57049": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -42032,6 +42032,14 @@
   "date_published": "2024-09-11T08:31:05.071Z",
   "product": "WooCommerce Photo Reviews Premium",
   "vendor": "villatheme"
+ },
+ "CVE-2024-8289": {
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
+  "cna_product": "MultiVendorX \u2013 WooCommerce Multivendor Marketplace Solutions",
+  "cna_vendor": "wcmp",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2024-09-04T08:30:38.531Z"
  },
  "CVE-2024-8316": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -44714,7 +44722,7 @@
   "vendor": "totolink"
  },
  "CVE-2025-2825": {
-  "checked_at": "2026-11-13T20:57:44.251184+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -48625,6 +48633,14 @@
   "cvss_version": "3.1",
   "date_published": "2026-02-03T00:00:00.000Z"
  },
+ "CVE-2025-69983": {
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": 8.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-02-03T00:00:00.000Z"
+ },
  "CVE-2025-69985": {
   "checked_at": "2026-10-29T22:01:40.845354+00:00",
   "cna_product": "n/a",
@@ -49174,7 +49190,7 @@
   "vendor": "SaturdayDrive"
  },
  "CVE-2026-0766": {
-  "checked_at": "2026-11-14T04:32:04.940204+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -49374,6 +49390,14 @@
   "date_published": "2026-10-14T07:43:31.890Z",
   "product": "Appointment Booking Plugin \u2013 LatePoint | Calendar & Scheduling for WordPress",
   "vendor": "latepoint"
+ },
+ "CVE-2026-103406": {
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
+  "cna_product": "Session Smart Conductor",
+  "cna_vendor": "Juniper Networks",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-28T16:35:53.323Z"
  },
  "CVE-2026-103671": {
   "checked_at": "2026-10-14T23:36:17.479991+00:00",
@@ -50323,6 +50347,14 @@
   "product": "Django",
   "vendor": "djangoproject"
  },
+ "CVE-2026-120705": {
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
+  "cna_product": null,
+  "cna_vendor": null,
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": null
+ },
  "CVE-2026-12077": {
   "checked_at": "2026-10-14T00:04:37.640264+00:00",
   "cna_product": "Dokan Pro",
@@ -50446,6 +50478,14 @@
   "cvss_score": 9.3,
   "cvss_version": "4.0",
   "date_published": "2026-11-12T19:41:02.897Z"
+ },
+ "CVE-2026-124007": {
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
+  "cna_product": "XWEB EVO",
+  "cna_vendor": "Copeland",
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-12T19:48:39.316Z"
  },
  "CVE-2026-124010": {
   "checked_at": "2026-11-13T13:46:52.223000+00:00",
@@ -50691,6 +50731,14 @@
   "cvss_version": "4.0",
   "date_published": "2026-11-20T14:42:03.946Z"
  },
+ "CVE-2026-127057": {
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
+  "cna_product": "AK-SC 355; AK-SM 800",
+  "cna_vendor": "Danfoss",
+  "cvss_score": 9.9,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-20T10:52:24.467Z"
+ },
  "CVE-2026-1277": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "URL Shortify \u2013 Simple and Easy URL Shortener",
@@ -50727,6 +50775,14 @@
   "cvss_version": "3.1",
   "date_published": "2026-11-20T13:00:09.812Z"
  },
+ "CVE-2026-129243": {
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
+  "cna_product": null,
+  "cna_vendor": null,
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": null
+ },
  "CVE-2026-129289": {
   "checked_at": "2026-11-25T06:53:14.909720+00:00",
   "cna_product": "PHP",
@@ -50758,6 +50814,14 @@
   "cvss_score": 10,
   "cvss_version": "4.0",
   "date_published": "2026-11-24T13:48:12.692Z"
+ },
+ "CVE-2026-129968": {
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
+  "cna_product": "LiteSpeed Cache Plugin for Prestashop",
+  "cna_vendor": "LiteSpeed Technologies",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-25T12:55:44.308Z"
  },
  "CVE-2026-130583": {
   "checked_at": "2026-11-19T02:11:19.169886+00:00",
@@ -50792,7 +50856,7 @@
   "date_published": "2026-11-19T01:29:12.970Z"
  },
  "CVE-2026-132165": {
-  "checked_at": "2026-11-25T06:53:14.909720+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -50806,6 +50870,14 @@
   "cvss_score": 7.1,
   "cvss_version": "4.0",
   "date_published": "2026-11-18T15:50:17.080Z"
+ },
+ "CVE-2026-133335": {
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
+  "cna_product": "VirtueMart extension for Joomla",
+  "cna_vendor": "virtuemart.net",
+  "cvss_score": 9.2,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-25T11:12:25.075Z"
  },
  "CVE-2026-133469": {
   "checked_at": "2026-11-25T06:53:14.909720+00:00",
@@ -53282,7 +53354,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-20T10:49:38.250974+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53444,7 +53516,7 @@
   "date_published": "2026-06-24T22:41:04.777Z"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-20T10:49:38.250974+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53542,7 +53614,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-20T10:49:38.250974+00:00",
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53608,6 +53680,14 @@
   "date_published": "2026-04-22T23:57:54.075Z",
   "product": "rclone",
   "vendor": "rclone"
+ },
+ "CVE-2026-41492": {
+  "checked_at": "2026-11-25T16:38:42.678112+00:00",
+  "cna_product": "dgraph",
+  "cna_vendor": "dgraph-io",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-04-24T18:29:40.555Z"
  },
  "CVE-2026-4162": {
   "checked_at": "2026-11-04T19:14:05.616874+00:00",
