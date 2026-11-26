@@ -54341,6 +54341,22 @@
   "cvss_version": "3.1",
   "date_published": "2026-07-16T16:13:19.767Z"
  },
+ "CVE-2026-47884": {
+  "checked_at": "2026-11-26T01:26:11.470658+00:00",
+  "cna_product": "Spring Framework",
+  "cna_vendor": "Spring",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-27T05:21:32.920Z"
+ },
+ "CVE-2026-47892": {
+  "checked_at": "2026-11-26T01:26:11.470658+00:00",
+  "cna_product": "Spring Framework",
+  "cna_vendor": "Spring",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-27T05:21:40.168Z"
+ },
  "CVE-2026-4798": {
   "checked_at": "2026-10-14T00:04:37.640264+00:00",
   "cna_product": "Avada (Fusion) Builder",
@@ -56826,6 +56842,14 @@
   "date_published": "2026-09-08T19:29:33.630Z",
   "product": "ScreenConnect",
   "vendor": "ConnectWise"
+ },
+ "CVE-2026-84939": {
+  "checked_at": "2026-11-26T01:26:11.470658+00:00",
+  "cna_product": "Apache FreeMarker",
+  "cna_vendor": "Apache Software Foundation",
+  "cvss_score": 9.1,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-10T05:07:24.045Z"
  },
  "CVE-2026-8496": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
