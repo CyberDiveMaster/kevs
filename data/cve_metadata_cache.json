@@ -18920,7 +18920,7 @@
   "vendor": "openbsd"
  },
  "CVE-2020-7471": {
-  "checked_at": "2026-11-19T19:51:39.687616+00:00",
+  "checked_at": "2026-11-26T20:48:49.094749+00:00",
   "cna_product": "n/a",
   "cna_vendor": "n/a",
   "cvss_score": null,
@@ -23733,6 +23733,14 @@
   "cvss_version": null,
   "date_published": "2021-10-07T16:15:14.000Z"
  },
+ "CVE-2021-42235": {
+  "checked_at": "2026-11-26T20:48:49.094749+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2022-05-04T16:56:50.000Z"
+ },
  "CVE-2021-42237": {
   "checked_at": "2026-10-29T22:01:40.845354+00:00",
   "cna_product": "n/a",
@@ -26380,6 +26388,14 @@
   "date_published": "2022-03-27T00:00:00.000Z",
   "product": "dir-820l_firmware",
   "vendor": "dlink"
+ },
+ "CVE-2022-26289": {
+  "checked_at": "2026-11-26T20:48:49.094749+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2022-03-23T23:24:55.000Z"
  },
  "CVE-2022-26318": {
   "checked_at": "2026-10-29T22:01:40.845354+00:00",
@@ -38139,6 +38155,30 @@
   "product": "n/a",
   "vendor": "n/a"
  },
+ "CVE-2024-32281": {
+  "checked_at": "2026-11-26T20:48:49.094749+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2024-04-17T00:00:00.000Z"
+ },
+ "CVE-2024-32292": {
+  "checked_at": "2026-11-26T20:48:49.094749+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2024-04-17T00:00:00.000Z"
+ },
+ "CVE-2024-32314": {
+  "checked_at": "2026-11-26T20:48:49.094749+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": 3.8,
+  "cvss_version": "3.1",
+  "date_published": "2024-04-17T00:00:00.000Z"
+ },
  "CVE-2024-3242": {
   "checked_at": "2026-10-14T00:04:37.640264+00:00",
   "cna_product": "Brizy \u2013 Page Builder",
@@ -38677,6 +38717,14 @@
   "product": "micollab",
   "vendor": "mitel"
  },
+ "CVE-2024-35340": {
+  "checked_at": "2026-11-26T20:48:49.094749+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": 8.6,
+  "cvss_version": "3.1",
+  "date_published": "2024-05-24T14:50:56.175Z"
+ },
  "CVE-2024-35679": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "GiveWP",
@@ -39046,6 +39094,14 @@
   "date_published": "2025-07-07T00:00:00.000Z",
   "product": "gnuboard",
   "vendor": "sir"
+ },
+ "CVE-2024-37843": {
+  "checked_at": "2026-11-26T20:48:49.094749+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2024-06-25T00:00:00.000Z"
  },
  "CVE-2024-37929": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -40296,6 +40352,14 @@
   "date_published": "2024-11-04T00:00:00.000Z",
   "product": "vigor3900_firmware",
   "vendor": "draytek"
+ },
+ "CVE-2024-46048": {
+  "checked_at": "2026-11-26T20:48:49.094749+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": 8.8,
+  "cvss_version": "3.1",
+  "date_published": "2024-09-13T00:00:00.000Z"
  },
  "CVE-2024-4610": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -50380,7 +50444,7 @@
   "vendor": "djangoproject"
  },
  "CVE-2026-120705": {
-  "checked_at": "2026-11-26T11:46:59.205806+00:00",
+  "checked_at": "2026-11-26T20:48:49.094749+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -50808,7 +50872,15 @@
   "date_published": "2026-11-20T13:00:09.812Z"
  },
  "CVE-2026-129243": {
-  "checked_at": "2026-11-26T11:46:59.205806+00:00",
+  "checked_at": "2026-11-26T20:48:49.094749+00:00",
+  "cna_product": null,
+  "cna_vendor": null,
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": null
+ },
+ "CVE-2026-129245": {
+  "checked_at": "2026-11-26T20:48:49.094749+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -51028,6 +51100,14 @@
   "cvss_score": 9.3,
   "cvss_version": "4.0",
   "date_published": "2026-11-22T19:10:45.282Z"
+ },
+ "CVE-2026-134643": {
+  "checked_at": "2026-11-26T20:48:49.094749+00:00",
+  "cna_product": "webmin",
+  "cna_vendor": "webmin",
+  "cvss_score": 8.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-11-25T03:20:52.628Z"
  },
  "CVE-2026-1357": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -52234,6 +52314,14 @@
   "date_published": "2026-01-14T08:44:25.503Z",
   "product": "Modular DS",
   "vendor": "Modular DS"
+ },
+ "CVE-2026-23734": {
+  "checked_at": "2026-11-26T20:48:49.094749+00:00",
+  "cna_product": "xwiki-commons",
+  "cna_vendor": "xwiki",
+  "cvss_score": 9.3,
+  "cvss_version": "4.0",
+  "date_published": "2026-05-20T18:39:32.313Z"
  },
  "CVE-2026-23744": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -53466,7 +53554,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-26T11:46:59.205806+00:00",
+  "checked_at": "2026-11-26T20:48:49.094749+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53628,7 +53716,7 @@
   "date_published": "2026-06-24T22:41:04.777Z"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-26T11:46:59.205806+00:00",
+  "checked_at": "2026-11-26T20:48:49.094749+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53726,7 +53814,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-26T11:46:59.205806+00:00",
+  "checked_at": "2026-11-26T20:48:49.094749+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -55084,6 +55172,14 @@
   "date_published": "2026-07-10T15:28:27.620Z",
   "product": "9router",
   "vendor": "decolua"
+ },
+ "CVE-2026-55552": {
+  "checked_at": "2026-11-26T20:48:49.094749+00:00",
+  "cna_product": "yamcs",
+  "cna_vendor": "yamcs",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-28T17:18:45.617Z"
  },
  "CVE-2026-55559": {
   "checked_at": "2026-11-15T00:37:47.847831+00:00",
@@ -56449,6 +56545,14 @@
   "product": "SPIP",
   "vendor": "SPIP"
  },
+ "CVE-2026-77770": {
+  "checked_at": "2026-11-26T20:48:49.094749+00:00",
+  "cna_product": "miniOrange 2FA",
+  "cna_vendor": "Unknown",
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-09-10T06:00:06.054Z"
+ },
  "CVE-2026-77806": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "SPIP",
@@ -57560,6 +57664,14 @@
   "date_published": "2026-10-02T09:25:55.662Z",
   "product": "WPMobile.App \u2013 Android and iOS App Builder",
   "vendor": "amauric"
+ },
+ "CVE-2026-94589": {
+  "checked_at": "2026-11-26T20:48:49.094749+00:00",
+  "cna_product": "Extensions For CF7 (Contact form 7 Database, Conditional Fields and Redirection)",
+  "cna_vendor": "htplugins",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-10T03:26:46.082Z"
  },
  "CVE-2026-95610": {
   "checked_at": "2026-10-27T17:14:09.478457+00:00",
