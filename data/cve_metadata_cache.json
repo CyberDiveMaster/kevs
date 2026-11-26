@@ -51127,6 +51127,14 @@
   "cvss_version": "3.1",
   "date_published": "2026-09-18T08:21:27.534Z"
  },
+ "CVE-2026-136535": {
+  "checked_at": "2026-11-26T23:12:43.644497+00:00",
+  "cna_product": "LiteLLM",
+  "cna_vendor": "LiteLLM",
+  "cvss_score": 7.2,
+  "cvss_version": "3.0",
+  "date_published": "2026-11-24T20:53:29.143Z"
+ },
  "CVE-2026-136536": {
   "checked_at": "2026-11-25T23:13:00.014392+00:00",
   "cna_product": "LiteLLM",
@@ -53542,6 +53550,14 @@
   "date_published": "2026-03-12T02:22:36.468Z",
   "product": "My Sticky Bar \u2013 Floating Notification Bar & Sticky Header (formerly myStickymenu)",
   "vendor": "premio"
+ },
+ "CVE-2026-37004": {
+  "checked_at": "2026-11-26T23:12:43.644497+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-08-27T00:00:00.000Z"
  },
  "CVE-2026-3830": {
   "checked_at": "2026-10-14T00:04:37.640264+00:00",
