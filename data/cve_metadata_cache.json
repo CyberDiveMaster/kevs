@@ -44539,6 +44539,14 @@
   "product": "Windows 10 Version 1507; Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 22H2; Windows 11 version 22H3; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows Server 2008 R2 Service Pack 1; Windows Server 2008 R2 Service Pack 1 (Server Core installation); Windows Server 2008 Service Pack 2; Windows Server 2008 Service Pack 2 (Server Core installation); Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
   "vendor": "Microsoft"
  },
+ "CVE-2025-26733": {
+  "checked_at": "2026-11-27T22:52:15.410111+00:00",
+  "cna_product": "Traveler",
+  "cna_vendor": "Shinetheme",
+  "cvss_score": 8.2,
+  "cvss_version": "3.1",
+  "date_published": "2025-03-27T22:01:31.581Z"
+ },
  "CVE-2025-26793": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Enterphone MESH",
@@ -44548,6 +44556,14 @@
   "date_published": "2025-02-15T00:00:00.000Z",
   "product": "Enterphone MESH",
   "vendor": "Hirsch"
+ },
+ "CVE-2025-26898": {
+  "checked_at": "2026-11-27T22:52:15.410111+00:00",
+  "cna_product": "Traveler",
+  "cna_vendor": "Shinetheme",
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-03-27T21:51:53.543Z"
  },
  "CVE-2025-26936": {
   "checked_at": "2026-10-14T00:04:37.640264+00:00",
@@ -47271,6 +47287,14 @@
   "product": "SmarterMail",
   "vendor": "SmarterTools"
  },
+ "CVE-2025-52834": {
+  "checked_at": "2026-11-27T22:52:15.410111+00:00",
+  "cna_product": "Homey",
+  "cna_vendor": "favethemes",
+  "cvss_score": 9.3,
+  "cvss_version": "3.1",
+  "date_published": "2025-06-27T11:52:13.285Z"
+ },
  "CVE-2025-5287": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Likes and Dislikes Plugin",
@@ -47907,6 +47931,14 @@
   "product": "fogproject",
   "vendor": "FOGProject"
  },
+ "CVE-2025-59011": {
+  "checked_at": "2026-11-27T22:52:15.410111+00:00",
+  "cna_product": "Traveler",
+  "cna_vendor": "Shinetheme",
+  "cvss_score": 7.5,
+  "cvss_version": "3.1",
+  "date_published": "2025-09-26T08:31:07.930Z"
+ },
  "CVE-2025-59230": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Windows 10 Version 1507; Windows 10 Version 1607; Windows 10 Version 1809; Windows 10 Version 21H2; Windows 10 Version 22H2; Windows 11 version 22H2; Windows 11 version 22H3; Windows 11 Version 23H2; Windows 11 Version 24H2; Windows 11 Version 25H2; Windows Server 2008 R2 Service Pack 1; Windows Server 2008 R2 Service Pack 1 (Server Core installation); Windows Server 2008 Service Pack 2; Windows Server 2008 Service Pack 2 (Server Core installation); Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation); Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows Server 2022, 23H2 Edition (Server Core installation); Windows Server 2025; Windows Server 2025 (Server Core installation)",
@@ -48016,6 +48048,14 @@
   "date_published": "2026-01-16T08:39:23.318Z",
   "product": "Apache bRPC",
   "vendor": "Apache Software Foundation"
+ },
+ "CVE-2025-60174": {
+  "checked_at": "2026-11-27T22:52:15.410111+00:00",
+  "cna_product": "WP Gravity Forms Constant Contact Plugin",
+  "cna_vendor": "CRM Perks",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-18T07:22:08.874Z"
  },
  "CVE-2025-60180": {
   "checked_at": "2026-11-27T15:57:29.832306+00:00",
@@ -48580,6 +48620,14 @@
   "date_published": "2026-01-08T09:17:44.577Z",
   "product": "Newsletters",
   "vendor": "Tribulant Software"
+ },
+ "CVE-2025-67917": {
+  "checked_at": "2026-11-27T22:52:15.410111+00:00",
+  "cna_product": "Traveler",
+  "cna_vendor": "Shinetheme",
+  "cvss_score": 6.5,
+  "cvss_version": "3.1",
+  "date_published": "2026-01-08T09:17:45.741Z"
  },
  "CVE-2025-67945": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
@@ -49523,6 +49571,14 @@
   "product": "Checkout Files Upload for WooCommerce",
   "vendor": "Unknown"
  },
+ "CVE-2026-103849": {
+  "checked_at": "2026-11-27T22:52:15.410111+00:00",
+  "cna_product": "Adobe Commerce; Adobe Commerce B2B; Magento Open Source",
+  "cna_vendor": "Adobe",
+  "cvss_score": 10,
+  "cvss_version": "3.1",
+  "date_published": "2026-10-13T18:15:53.468Z"
+ },
  "CVE-2026-103895": {
   "checked_at": "2026-10-16T23:12:41.267646+00:00",
   "cna_product": "miniOrange OTP Login, Verification and SMS Notifications",
@@ -50460,7 +50516,7 @@
   "vendor": "djangoproject"
  },
  "CVE-2026-120705": {
-  "checked_at": "2026-11-27T15:57:29.832306+00:00",
+  "checked_at": "2026-11-27T22:52:15.410111+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -50896,7 +50952,7 @@
   "date_published": "2026-11-20T13:00:09.812Z"
  },
  "CVE-2026-129243": {
-  "checked_at": "2026-11-27T15:57:29.832306+00:00",
+  "checked_at": "2026-11-27T22:52:15.410111+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -50904,7 +50960,7 @@
   "date_published": null
  },
  "CVE-2026-129244": {
-  "checked_at": "2026-11-27T15:57:29.832306+00:00",
+  "checked_at": "2026-11-27T22:52:15.410111+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -50912,7 +50968,7 @@
   "date_published": null
  },
  "CVE-2026-129245": {
-  "checked_at": "2026-11-27T15:57:29.832306+00:00",
+  "checked_at": "2026-11-27T22:52:15.410111+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53618,7 +53674,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-27T15:57:29.832306+00:00",
+  "checked_at": "2026-11-27T22:52:15.410111+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53780,7 +53836,7 @@
   "date_published": "2026-06-24T22:41:04.777Z"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-27T15:57:29.832306+00:00",
+  "checked_at": "2026-11-27T22:52:15.410111+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53878,7 +53934,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-27T15:57:29.832306+00:00",
+  "checked_at": "2026-11-27T22:52:15.410111+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
