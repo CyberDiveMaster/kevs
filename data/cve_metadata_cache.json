@@ -50444,7 +50444,7 @@
   "vendor": "djangoproject"
  },
  "CVE-2026-120705": {
-  "checked_at": "2026-11-26T20:48:49.094749+00:00",
+  "checked_at": "2026-11-27T03:25:24.834379+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -50872,7 +50872,7 @@
   "date_published": "2026-11-20T13:00:09.812Z"
  },
  "CVE-2026-129243": {
-  "checked_at": "2026-11-26T20:48:49.094749+00:00",
+  "checked_at": "2026-11-27T03:25:24.834379+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -50880,7 +50880,7 @@
   "date_published": null
  },
  "CVE-2026-129245": {
-  "checked_at": "2026-11-26T20:48:49.094749+00:00",
+  "checked_at": "2026-11-27T03:25:24.834379+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53570,7 +53570,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-26T20:48:49.094749+00:00",
+  "checked_at": "2026-11-27T03:25:24.834379+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53732,7 +53732,7 @@
   "date_published": "2026-06-24T22:41:04.777Z"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-26T20:48:49.094749+00:00",
+  "checked_at": "2026-11-27T03:25:24.834379+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53830,7 +53830,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-26T20:48:49.094749+00:00",
+  "checked_at": "2026-11-27T03:25:24.834379+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
