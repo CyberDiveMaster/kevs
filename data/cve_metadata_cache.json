@@ -14972,7 +14972,7 @@
   "vendor": "Facebook"
  },
  "CVE-2019-3912": {
-  "checked_at": "2026-11-20T10:49:38.250974+00:00",
+  "checked_at": "2026-11-27T15:57:29.832306+00:00",
   "cna_product": "LabKey Server Community Edition",
   "cna_vendor": "Tenable",
   "cvss_score": null,
@@ -31599,6 +31599,14 @@
   "product": "tagDiv Composer",
   "vendor": "Unknown"
  },
+ "CVE-2023-31719": {
+  "checked_at": "2026-11-27T15:57:29.832306+00:00",
+  "cna_product": "n/a",
+  "cna_vendor": "n/a",
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": "2023-09-21T00:00:00.000Z"
+ },
  "CVE-2023-32046": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Windows 10 Version 1809; Windows Server 2019; Windows Server 2019 (Server Core installation); Windows Server 2022; Windows 11 version 21H2; Windows 10 Version 21H2; Windows 11 version 22H2; Windows 10 Version 22H2; Windows 10 Version 1507; Windows 10 Version 1607; Windows Server 2016; Windows Server 2016 (Server Core installation); Windows Server 2008 Service Pack 2; Windows Server 2008 Service Pack 2 (Server Core installation); Windows Server 2008  Service Pack 2; Windows Server 2008 R2 Service Pack 1; Windows Server 2008 R2 Service Pack 1 (Server Core installation); Windows Server 2012; Windows Server 2012 (Server Core installation); Windows Server 2012 R2; Windows Server 2012 R2 (Server Core installation)",
@@ -48009,6 +48017,14 @@
   "product": "Apache bRPC",
   "vendor": "Apache Software Foundation"
  },
+ "CVE-2025-60180": {
+  "checked_at": "2026-11-27T15:57:29.832306+00:00",
+  "cna_product": "WP Gravity Forms Salesforce",
+  "cna_vendor": "CRM Perks",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2025-12-18T07:22:09.230Z"
+ },
  "CVE-2025-6019": {
   "checked_at": "2026-08-27T13:36:25.949663+00:00",
   "cna_product": "Red Hat Enterprise Linux 10; Red Hat Enterprise Linux 7 Extended Lifecycle Support; Red Hat Enterprise Linux 8; Red Hat Enterprise Linux 8.2 Advanced Update Support; Red Hat Enterprise Linux 8.4 Advanced Mission Critical Update Support; Red Hat Enterprise Linux 8.6 Advanced Mission Critical Update Support; Red Hat Enterprise Linux 8.6 Telecommunications Update Service; Red Hat Enterprise Linux 8.6 Update Services for SAP Solutions; Red Hat Enterprise Linux 8.8 Update Services for SAP Solutions; Red Hat Enterprise Linux 9; Red Hat Enterprise Linux 9.0 Update Services for SAP Solutions; Red Hat Enterprise Linux 9.2 Update Services for SAP Solutions; Red Hat Enterprise Linux 9.4 Extended Update Support",
@@ -50444,7 +50460,7 @@
   "vendor": "djangoproject"
  },
  "CVE-2026-120705": {
-  "checked_at": "2026-11-27T03:25:24.834379+00:00",
+  "checked_at": "2026-11-27T15:57:29.832306+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -50723,6 +50739,14 @@
   "cvss_version": "3.1",
   "date_published": "2026-11-15T15:09:10.294Z"
  },
+ "CVE-2026-125812": {
+  "checked_at": "2026-11-27T15:57:29.832306+00:00",
+  "cna_product": "WP Rocket",
+  "cna_vendor": "WP Media",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-11-25T12:09:18.662Z"
+ },
  "CVE-2026-125882": {
   "checked_at": "2026-11-17T18:02:44.019596+00:00",
   "cna_product": "N-central",
@@ -50872,7 +50896,15 @@
   "date_published": "2026-11-20T13:00:09.812Z"
  },
  "CVE-2026-129243": {
-  "checked_at": "2026-11-27T03:25:24.834379+00:00",
+  "checked_at": "2026-11-27T15:57:29.832306+00:00",
+  "cna_product": null,
+  "cna_vendor": null,
+  "cvss_score": null,
+  "cvss_version": null,
+  "date_published": null
+ },
+ "CVE-2026-129244": {
+  "checked_at": "2026-11-27T15:57:29.832306+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -50880,7 +50912,7 @@
   "date_published": null
  },
  "CVE-2026-129245": {
-  "checked_at": "2026-11-27T03:25:24.834379+00:00",
+  "checked_at": "2026-11-27T15:57:29.832306+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -50942,6 +50974,22 @@
   "cvss_score": 8.8,
   "cvss_version": "4.0",
   "date_published": "2026-11-17T19:47:59.407Z"
+ },
+ "CVE-2026-131609": {
+  "checked_at": "2026-11-27T15:57:29.832306+00:00",
+  "cna_product": "Germanized for WooCommerce",
+  "cna_vendor": "vendidero",
+  "cvss_score": 7.2,
+  "cvss_version": "3.1",
+  "date_published": "2026-11-21T09:31:07.724Z"
+ },
+ "CVE-2026-131767": {
+  "checked_at": "2026-11-27T15:57:29.832306+00:00",
+  "cna_product": "FunnelKit Automations",
+  "cna_vendor": "Aman",
+  "cvss_score": 9.8,
+  "cvss_version": "3.1",
+  "date_published": "2026-11-26T13:00:18.090Z"
  },
  "CVE-2026-131782": {
   "checked_at": "2026-11-25T06:53:14.909720+00:00",
@@ -53570,7 +53618,7 @@
   "vendor": "Unknown"
  },
  "CVE-2026-3836": {
-  "checked_at": "2026-11-27T03:25:24.834379+00:00",
+  "checked_at": "2026-11-27T15:57:29.832306+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53732,7 +53780,7 @@
   "date_published": "2026-06-24T22:41:04.777Z"
  },
  "CVE-2026-39949": {
-  "checked_at": "2026-11-27T03:25:24.834379+00:00",
+  "checked_at": "2026-11-27T15:57:29.832306+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
@@ -53830,7 +53878,7 @@
   "vendor": "Apache Software Foundation"
  },
  "CVE-2026-4047": {
-  "checked_at": "2026-11-27T03:25:24.834379+00:00",
+  "checked_at": "2026-11-27T15:57:29.832306+00:00",
   "cna_product": null,
   "cna_vendor": null,
   "cvss_score": null,
